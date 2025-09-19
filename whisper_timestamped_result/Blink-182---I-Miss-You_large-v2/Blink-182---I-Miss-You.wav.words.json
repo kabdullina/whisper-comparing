@@ -1,0 +1,2236 @@
+{
+  "text": " Hello there, the angel from the nightmare, the shadow in the background of the morgue, the unsuspected victim of darkness in the valley. We can live like Jack and Sally if we want, where you can always find me. And we'll have Halloween on Christmas, and in the night we'll wish this never ends. We'll wish this never ends. I miss you, I miss you. Where are you? And I'm so sorry. I cannot sleep, I cannot dream tonight. I need somebody and always. This sick, strange darkness comes creeping on so hot in every time, and as I said I can't The webs from all the spiders, catching things and eating their insides like indecision to call you. And hear your voice of treason, will you come home and stop this pain tonight? Stop this pain tonight. Don't waste your time on me, you're already the voice inside my head. Don't waste your time on me, you're already the voice inside my head. And don't waste your time on me, you're already the voice inside my head. And don't waste your time on me, you're already the voice inside my head. Don't waste your time on me, you're already the voice inside my head. Don't waste your time on me, you're already the voice inside my head. I miss you, I miss you, I miss you, I miss you.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 13.62,
+      "end": 22.34,
+      "text": " Hello there, the angel from the nightmare, the shadow in the background of the morgue,",
+      "tokens": [
+        50364,
+        2425,
+        456,
+        11,
+        264,
+        14250,
+        490,
+        264,
+        18724,
+        11,
+        264,
+        8576,
+        294,
+        264,
+        3678,
+        295,
+        264,
+        1896,
+        11929,
+        11,
+        50820
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.20731970551726106,
+      "compression_ratio": 1.5233160621761659,
+      "no_speech_prob": 0.07869067043066025,
+      "confidence": 0.819,
+      "words": [
+        {
+          "text": "Hello",
+          "start": 13.62,
+          "end": 14.04,
+          "confidence": 0.605
+        },
+        {
+          "text": "there,",
+          "start": 14.04,
+          "end": 14.56,
+          "confidence": 0.795
+        },
+        {
+          "text": "the",
+          "start": 16.52,
+          "end": 16.66,
+          "confidence": 0.704
+        },
+        {
+          "text": "angel",
+          "start": 16.66,
+          "end": 17.14,
+          "confidence": 0.866
+        },
+        {
+          "text": "from",
+          "start": 17.14,
+          "end": 17.54,
+          "confidence": 0.992
+        },
+        {
+          "text": "the",
+          "start": 17.54,
+          "end": 17.84,
+          "confidence": 0.469
+        },
+        {
+          "text": "nightmare,",
+          "start": 17.84,
+          "end": 18.26,
+          "confidence": 0.84
+        },
+        {
+          "text": "the",
+          "start": 19.02,
+          "end": 19.38,
+          "confidence": 0.571
+        },
+        {
+          "text": "shadow",
+          "start": 19.38,
+          "end": 19.74,
+          "confidence": 0.989
+        },
+        {
+          "text": "in",
+          "start": 19.74,
+          "end": 20.5,
+          "confidence": 0.955
+        },
+        {
+          "text": "the",
+          "start": 20.5,
+          "end": 20.68,
+          "confidence": 0.997
+        },
+        {
+          "text": "background",
+          "start": 20.68,
+          "end": 21.22,
+          "confidence": 0.984
+        },
+        {
+          "text": "of",
+          "start": 21.22,
+          "end": 21.66,
+          "confidence": 0.975
+        },
+        {
+          "text": "the",
+          "start": 21.66,
+          "end": 21.8,
+          "confidence": 0.989
+        },
+        {
+          "text": "morgue,",
+          "start": 21.8,
+          "end": 22.34,
+          "confidence": 0.834
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 23.1,
+      "end": 29.05,
+      "text": " the unsuspected victim of darkness in the valley.",
+      "tokens": [
+        50820,
+        264,
+        2693,
+        301,
+        10729,
+        6760,
+        295,
+        11262,
+        294,
+        264,
+        17636,
+        13,
+        51111
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.20731970551726106,
+      "compression_ratio": 1.5233160621761659,
+      "no_speech_prob": 0.07869067043066025,
+      "confidence": 0.919,
+      "words": [
+        {
+          "text": "the",
+          "start": 23.1,
+          "end": 23.28,
+          "confidence": 0.953
+        },
+        {
+          "text": "unsuspected",
+          "start": 23.28,
+          "end": 24.38,
+          "confidence": 0.982
+        },
+        {
+          "text": "victim",
+          "start": 24.38,
+          "end": 25.12,
+          "confidence": 0.986
+        },
+        {
+          "text": "of",
+          "start": 25.12,
+          "end": 25.87,
+          "confidence": 0.512
+        },
+        {
+          "text": "darkness",
+          "start": 27.19,
+          "end": 27.77,
+          "confidence": 0.989
+        },
+        {
+          "text": "in",
+          "start": 27.77,
+          "end": 28.27,
+          "confidence": 0.991
+        },
+        {
+          "text": "the",
+          "start": 28.27,
+          "end": 28.51,
+          "confidence": 0.996
+        },
+        {
+          "text": "valley.",
+          "start": 28.51,
+          "end": 29.05,
+          "confidence": 0.966
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 29.55,
+      "end": 36.07,
+      "text": " We can live like Jack and Sally if we want, where you can always find me.",
+      "tokens": [
+        51111,
+        492,
+        393,
+        1621,
+        411,
+        4718,
+        293,
+        26385,
+        498,
+        321,
+        528,
+        11,
+        689,
+        291,
+        393,
+        1009,
+        915,
+        385,
+        13,
+        51494
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.20731970551726106,
+      "compression_ratio": 1.5233160621761659,
+      "no_speech_prob": 0.07869067043066025,
+      "confidence": 0.974,
+      "words": [
+        {
+          "text": "We",
+          "start": 29.55,
+          "end": 29.71,
+          "confidence": 0.991
+        },
+        {
+          "text": "can",
+          "start": 29.71,
+          "end": 29.89,
+          "confidence": 0.996
+        },
+        {
+          "text": "live",
+          "start": 29.89,
+          "end": 30.23,
+          "confidence": 0.993
+        },
+        {
+          "text": "like",
+          "start": 30.23,
+          "end": 30.59,
+          "confidence": 0.992
+        },
+        {
+          "text": "Jack",
+          "start": 30.59,
+          "end": 30.93,
+          "confidence": 0.921
+        },
+        {
+          "text": "and",
+          "start": 30.93,
+          "end": 31.17,
+          "confidence": 0.924
+        },
+        {
+          "text": "Sally",
+          "start": 31.17,
+          "end": 31.71,
+          "confidence": 0.974
+        },
+        {
+          "text": "if",
+          "start": 31.71,
+          "end": 32.09,
+          "confidence": 0.88
+        },
+        {
+          "text": "we",
+          "start": 32.09,
+          "end": 32.31,
+          "confidence": 0.996
+        },
+        {
+          "text": "want,",
+          "start": 32.31,
+          "end": 32.69,
+          "confidence": 0.994
+        },
+        {
+          "text": "where",
+          "start": 33.71,
+          "end": 33.97,
+          "confidence": 0.968
+        },
+        {
+          "text": "you",
+          "start": 33.97,
+          "end": 34.27,
+          "confidence": 0.995
+        },
+        {
+          "text": "can",
+          "start": 34.27,
+          "end": 34.55,
+          "confidence": 0.995
+        },
+        {
+          "text": "always",
+          "start": 34.55,
+          "end": 35.15,
+          "confidence": 0.987
+        },
+        {
+          "text": "find",
+          "start": 35.15,
+          "end": 35.65,
+          "confidence": 0.998
+        },
+        {
+          "text": "me.",
+          "start": 35.65,
+          "end": 36.07,
+          "confidence": 0.998
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 37.23,
+      "end": 43.61,
+      "text": " And we'll have Halloween on Christmas, and in the night we'll wish this never ends.",
+      "tokens": [
+        51494,
+        400,
+        321,
+        603,
+        362,
+        13860,
+        322,
+        5272,
+        11,
+        293,
+        294,
+        264,
+        1818,
+        321,
+        603,
+        3172,
+        341,
+        1128,
+        5314,
+        13,
+        51862
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.20731970551726106,
+      "compression_ratio": 1.5233160621761659,
+      "no_speech_prob": 0.07869067043066025,
+      "confidence": 0.949,
+      "words": [
+        {
+          "text": "And",
+          "start": 37.23,
+          "end": 37.41,
+          "confidence": 0.783
+        },
+        {
+          "text": "we'll",
+          "start": 37.41,
+          "end": 37.81,
+          "confidence": 0.988
+        },
+        {
+          "text": "have",
+          "start": 37.81,
+          "end": 38.05,
+          "confidence": 0.995
+        },
+        {
+          "text": "Halloween",
+          "start": 38.05,
+          "end": 38.73,
+          "confidence": 0.919
+        },
+        {
+          "text": "on",
+          "start": 38.73,
+          "end": 39.23,
+          "confidence": 0.995
+        },
+        {
+          "text": "Christmas,",
+          "start": 39.23,
+          "end": 39.75,
+          "confidence": 0.996
+        },
+        {
+          "text": "and",
+          "start": 40.49,
+          "end": 40.61,
+          "confidence": 0.991
+        },
+        {
+          "text": "in",
+          "start": 40.61,
+          "end": 40.73,
+          "confidence": 0.986
+        },
+        {
+          "text": "the",
+          "start": 40.73,
+          "end": 40.87,
+          "confidence": 0.997
+        },
+        {
+          "text": "night",
+          "start": 40.87,
+          "end": 41.25,
+          "confidence": 0.996
+        },
+        {
+          "text": "we'll",
+          "start": 41.25,
+          "end": 42.19,
+          "confidence": 0.788
+        },
+        {
+          "text": "wish",
+          "start": 42.19,
+          "end": 42.45,
+          "confidence": 0.997
+        },
+        {
+          "text": "this",
+          "start": 42.45,
+          "end": 42.75,
+          "confidence": 0.993
+        },
+        {
+          "text": "never",
+          "start": 42.75,
+          "end": 43.09,
+          "confidence": 0.997
+        },
+        {
+          "text": "ends.",
+          "start": 43.09,
+          "end": 43.61,
+          "confidence": 0.99
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 2996,
+      "start": 44.75,
+      "end": 46.37,
+      "text": " We'll wish this never ends.",
+      "tokens": [
+        50364,
+        492,
+        603,
+        3172,
+        341,
+        1128,
+        5314,
+        13,
+        50482
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4399606283608969,
+      "compression_ratio": 1.4578313253012047,
+      "no_speech_prob": 0.007911386899650097,
+      "confidence": 0.854,
+      "words": [
+        {
+          "text": "We'll",
+          "start": 44.75,
+          "end": 44.93,
+          "confidence": 0.715
+        },
+        {
+          "text": "wish",
+          "start": 44.93,
+          "end": 45.11,
+          "confidence": 0.785
+        },
+        {
+          "text": "this",
+          "start": 45.11,
+          "end": 45.43,
+          "confidence": 0.992
+        },
+        {
+          "text": "never",
+          "start": 45.43,
+          "end": 45.83,
+          "confidence": 0.997
+        },
+        {
+          "text": "ends.",
+          "start": 45.83,
+          "end": 46.37,
+          "confidence": 0.977
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 2996,
+      "start": 54.9,
+      "end": 57.12,
+      "text": " I miss you, I miss you.",
+      "tokens": [
+        50482,
+        286,
+        1713,
+        291,
+        11,
+        286,
+        1713,
+        291,
+        13,
+        50652
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4399606283608969,
+      "compression_ratio": 1.4578313253012047,
+      "no_speech_prob": 0.007911386899650097,
+      "confidence": 0.766,
+      "words": [
+        {
+          "text": "I",
+          "start": 54.9,
+          "end": 54.96,
+          "confidence": 0.431
+        },
+        {
+          "text": "miss",
+          "start": 54.96,
+          "end": 55.46,
+          "confidence": 0.713
+        },
+        {
+          "text": "you,",
+          "start": 55.46,
+          "end": 55.76,
+          "confidence": 0.997
+        },
+        {
+          "text": "I",
+          "start": 56.16,
+          "end": 56.2,
+          "confidence": 0.662
+        },
+        {
+          "text": "miss",
+          "start": 56.2,
+          "end": 56.64,
+          "confidence": 0.994
+        },
+        {
+          "text": "you.",
+          "start": 56.64,
+          "end": 57.12,
+          "confidence": 0.999
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 2996,
+      "start": 66.21,
+      "end": 67.25,
+      "text": " Where are you?",
+      "tokens": [
+        50652,
+        2305,
+        366,
+        291,
+        30,
+        50702
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4399606283608969,
+      "compression_ratio": 1.4578313253012047,
+      "no_speech_prob": 0.007911386899650097,
+      "confidence": 0.998,
+      "words": [
+        {
+          "text": "Where",
+          "start": 66.21,
+          "end": 66.51,
+          "confidence": 0.997
+        },
+        {
+          "text": "are",
+          "start": 66.51,
+          "end": 66.83,
+          "confidence": 0.997
+        },
+        {
+          "text": "you?",
+          "start": 66.83,
+          "end": 67.25,
+          "confidence": 0.999
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 2996,
+      "start": 67.31,
+      "end": 69.71,
+      "text": " And I'm so sorry.",
+      "tokens": [
+        50702,
+        400,
+        286,
+        478,
+        370,
+        2597,
+        13,
+        50884
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4399606283608969,
+      "compression_ratio": 1.4578313253012047,
+      "no_speech_prob": 0.007911386899650097,
+      "confidence": 0.976,
+      "words": [
+        {
+          "text": "And",
+          "start": 67.31,
+          "end": 68.57,
+          "confidence": 0.96
+        },
+        {
+          "text": "I'm",
+          "start": 68.57,
+          "end": 68.81,
+          "confidence": 0.964
+        },
+        {
+          "text": "so",
+          "start": 68.81,
+          "end": 69.09,
+          "confidence": 0.996
+        },
+        {
+          "text": "sorry.",
+          "start": 69.09,
+          "end": 69.71,
+          "confidence": 0.998
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seek": 2996,
+      "start": 71.54,
+      "end": 74.8,
+      "text": " I cannot sleep, I cannot dream tonight.",
+      "tokens": [
+        50884,
+        286,
+        2644,
+        2817,
+        11,
+        286,
+        2644,
+        3055,
+        4440,
+        13,
+        51068
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4399606283608969,
+      "compression_ratio": 1.4578313253012047,
+      "no_speech_prob": 0.007911386899650097,
+      "confidence": 0.966,
+      "words": [
+        {
+          "text": "I",
+          "start": 71.54,
+          "end": 71.82,
+          "confidence": 0.998
+        },
+        {
+          "text": "cannot",
+          "start": 71.82,
+          "end": 72.26,
+          "confidence": 0.943
+        },
+        {
+          "text": "sleep,",
+          "start": 72.26,
+          "end": 72.8,
+          "confidence": 0.999
+        },
+        {
+          "text": "I",
+          "start": 73.0,
+          "end": 73.16,
+          "confidence": 0.995
+        },
+        {
+          "text": "cannot",
+          "start": 73.16,
+          "end": 73.58,
+          "confidence": 0.991
+        },
+        {
+          "text": "dream",
+          "start": 73.58,
+          "end": 74.18,
+          "confidence": 0.998
+        },
+        {
+          "text": "tonight.",
+          "start": 74.18,
+          "end": 74.8,
+          "confidence": 0.847
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "seek": 2996,
+      "start": 75.6,
+      "end": 77.82,
+      "text": " I need somebody and always.",
+      "tokens": [
+        51068,
+        286,
+        643,
+        2618,
+        293,
+        1009,
+        13,
+        51266
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4399606283608969,
+      "compression_ratio": 1.4578313253012047,
+      "no_speech_prob": 0.007911386899650097,
+      "confidence": 0.857,
+      "words": [
+        {
+          "text": "I",
+          "start": 75.6,
+          "end": 75.8,
+          "confidence": 0.996
+        },
+        {
+          "text": "need",
+          "start": 75.8,
+          "end": 76.14,
+          "confidence": 0.993
+        },
+        {
+          "text": "somebody",
+          "start": 76.14,
+          "end": 76.84,
+          "confidence": 0.889
+        },
+        {
+          "text": "and",
+          "start": 76.84,
+          "end": 77.28,
+          "confidence": 0.535
+        },
+        {
+          "text": "always.",
+          "start": 77.28,
+          "end": 77.82,
+          "confidence": 0.983
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "seek": 2996,
+      "start": 79.21,
+      "end": 88.53,
+      "text": " This sick, strange darkness comes creeping on so hot in every time, and as I said I can't",
+      "tokens": [
+        51266,
+        639,
+        4998,
+        11,
+        5861,
+        11262,
+        1487,
+        47753,
+        322,
+        370,
+        2368,
+        294,
+        633,
+        565,
+        11,
+        293,
+        382,
+        286,
+        848,
+        286,
+        393,
+        380,
+        51746
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4399606283608969,
+      "compression_ratio": 1.4578313253012047,
+      "no_speech_prob": 0.007911386899650097,
+      "confidence": 0.814,
+      "words": [
+        {
+          "text": "This",
+          "start": 79.21,
+          "end": 79.55,
+          "confidence": 0.897
+        },
+        {
+          "text": "sick,",
+          "start": 79.55,
+          "end": 79.89,
+          "confidence": 0.938
+        },
+        {
+          "text": "strange",
+          "start": 79.99,
+          "end": 80.65,
+          "confidence": 0.999
+        },
+        {
+          "text": "darkness",
+          "start": 80.65,
+          "end": 81.61,
+          "confidence": 0.983
+        },
+        {
+          "text": "comes",
+          "start": 81.61,
+          "end": 82.41,
+          "confidence": 0.773
+        },
+        {
+          "text": "creeping",
+          "start": 82.41,
+          "end": 82.97,
+          "confidence": 0.693
+        },
+        {
+          "text": "on",
+          "start": 82.97,
+          "end": 83.41,
+          "confidence": 0.908
+        },
+        {
+          "text": "so",
+          "start": 83.41,
+          "end": 83.87,
+          "confidence": 0.821
+        },
+        {
+          "text": "hot",
+          "start": 83.87,
+          "end": 84.51,
+          "confidence": 0.955
+        },
+        {
+          "text": "in",
+          "start": 84.51,
+          "end": 84.81,
+          "confidence": 0.63
+        },
+        {
+          "text": "every",
+          "start": 84.81,
+          "end": 85.07,
+          "confidence": 0.992
+        },
+        {
+          "text": "time,",
+          "start": 85.07,
+          "end": 85.65,
+          "confidence": 0.988
+        },
+        {
+          "text": "and",
+          "start": 86.43,
+          "end": 86.65,
+          "confidence": 0.818
+        },
+        {
+          "text": "as",
+          "start": 86.65,
+          "end": 86.97,
+          "confidence": 0.961
+        },
+        {
+          "text": "I",
+          "start": 86.97,
+          "end": 87.25,
+          "confidence": 0.992
+        },
+        {
+          "text": "said",
+          "start": 87.25,
+          "end": 87.67,
+          "confidence": 0.595
+        },
+        {
+          "text": "I",
+          "start": 87.67,
+          "end": 87.97,
+          "confidence": 0.684
+        },
+        {
+          "text": "can't",
+          "start": 87.97,
+          "end": 88.53,
+          "confidence": 0.567
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "seek": 5760,
+      "start": 90.4,
+      "end": 99.28,
+      "text": " The webs from all the spiders, catching things and eating their insides like indecision to call you.",
+      "tokens": [
+        50402,
+        440,
+        2859,
+        490,
+        439,
+        264,
+        32171,
+        11,
+        16124,
+        721,
+        293,
+        3936,
+        641,
+        1028,
+        1875,
+        411,
+        1016,
+        3045,
+        1991,
+        281,
+        818,
+        291,
+        13,
+        50852
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.30923917558458114,
+      "compression_ratio": 1.5689655172413792,
+      "no_speech_prob": 0.10030581802129745,
+      "confidence": 0.834,
+      "words": [
+        {
+          "text": "The",
+          "start": 90.4,
+          "end": 90.6,
+          "confidence": 0.507
+        },
+        {
+          "text": "webs",
+          "start": 90.6,
+          "end": 90.96,
+          "confidence": 0.788
+        },
+        {
+          "text": "from",
+          "start": 90.96,
+          "end": 91.28,
+          "confidence": 0.988
+        },
+        {
+          "text": "all",
+          "start": 91.28,
+          "end": 91.54,
+          "confidence": 0.992
+        },
+        {
+          "text": "the",
+          "start": 91.54,
+          "end": 91.72,
+          "confidence": 0.992
+        },
+        {
+          "text": "spiders,",
+          "start": 91.72,
+          "end": 92.36,
+          "confidence": 0.992
+        },
+        {
+          "text": "catching",
+          "start": 92.86,
+          "end": 93.82,
+          "confidence": 0.906
+        },
+        {
+          "text": "things",
+          "start": 93.82,
+          "end": 94.32,
+          "confidence": 0.991
+        },
+        {
+          "text": "and",
+          "start": 94.32,
+          "end": 94.64,
+          "confidence": 0.944
+        },
+        {
+          "text": "eating",
+          "start": 94.64,
+          "end": 95.08,
+          "confidence": 0.832
+        },
+        {
+          "text": "their",
+          "start": 95.08,
+          "end": 95.62,
+          "confidence": 0.777
+        },
+        {
+          "text": "insides",
+          "start": 95.62,
+          "end": 96.48,
+          "confidence": 0.751
+        },
+        {
+          "text": "like",
+          "start": 96.48,
+          "end": 97.28,
+          "confidence": 0.459
+        },
+        {
+          "text": "indecision",
+          "start": 97.28,
+          "end": 98.3,
+          "confidence": 0.96
+        },
+        {
+          "text": "to",
+          "start": 98.3,
+          "end": 98.56,
+          "confidence": 0.673
+        },
+        {
+          "text": "call",
+          "start": 98.56,
+          "end": 98.94,
+          "confidence": 0.843
+        },
+        {
+          "text": "you.",
+          "start": 98.94,
+          "end": 99.28,
+          "confidence": 0.963
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "seek": 5760,
+      "start": 101.03,
+      "end": 106.59,
+      "text": " And hear your voice of treason, will you come home and stop this pain tonight?",
+      "tokens": [
+        50852,
+        400,
+        1568,
+        428,
+        3177,
+        295,
+        2192,
+        1258,
+        11,
+        486,
+        291,
+        808,
+        1280,
+        293,
+        1590,
+        341,
+        1822,
+        4440,
+        30,
+        51164
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.30923917558458114,
+      "compression_ratio": 1.5689655172413792,
+      "no_speech_prob": 0.10030581802129745,
+      "confidence": 0.962,
+      "words": [
+        {
+          "text": "And",
+          "start": 101.03,
+          "end": 101.23,
+          "confidence": 0.946
+        },
+        {
+          "text": "hear",
+          "start": 101.23,
+          "end": 101.55,
+          "confidence": 0.857
+        },
+        {
+          "text": "your",
+          "start": 101.55,
+          "end": 101.89,
+          "confidence": 0.99
+        },
+        {
+          "text": "voice",
+          "start": 101.89,
+          "end": 102.19,
+          "confidence": 0.997
+        },
+        {
+          "text": "of",
+          "start": 102.19,
+          "end": 102.47,
+          "confidence": 0.912
+        },
+        {
+          "text": "treason,",
+          "start": 102.47,
+          "end": 103.05,
+          "confidence": 0.983
+        },
+        {
+          "text": "will",
+          "start": 103.31,
+          "end": 103.69,
+          "confidence": 0.861
+        },
+        {
+          "text": "you",
+          "start": 103.69,
+          "end": 103.85,
+          "confidence": 0.994
+        },
+        {
+          "text": "come",
+          "start": 103.85,
+          "end": 104.11,
+          "confidence": 0.993
+        },
+        {
+          "text": "home",
+          "start": 104.11,
+          "end": 104.59,
+          "confidence": 0.996
+        },
+        {
+          "text": "and",
+          "start": 104.59,
+          "end": 105.13,
+          "confidence": 0.915
+        },
+        {
+          "text": "stop",
+          "start": 105.13,
+          "end": 105.45,
+          "confidence": 0.997
+        },
+        {
+          "text": "this",
+          "start": 105.45,
+          "end": 105.77,
+          "confidence": 0.995
+        },
+        {
+          "text": "pain",
+          "start": 105.77,
+          "end": 106.13,
+          "confidence": 0.997
+        },
+        {
+          "text": "tonight?",
+          "start": 106.13,
+          "end": 106.59,
+          "confidence": 0.988
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "seek": 5760,
+      "start": 107.71,
+      "end": 109.93,
+      "text": " Stop this pain tonight.",
+      "tokens": [
+        51164,
+        5535,
+        341,
+        1822,
+        4440,
+        13,
+        51344
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.30923917558458114,
+      "compression_ratio": 1.5689655172413792,
+      "no_speech_prob": 0.10030581802129745,
+      "confidence": 0.956,
+      "words": [
+        {
+          "text": "Stop",
+          "start": 107.71,
+          "end": 108.05,
+          "confidence": 0.93
+        },
+        {
+          "text": "this",
+          "start": 108.05,
+          "end": 108.41,
+          "confidence": 0.994
+        },
+        {
+          "text": "pain",
+          "start": 108.41,
+          "end": 108.93,
+          "confidence": 0.998
+        },
+        {
+          "text": "tonight.",
+          "start": 108.93,
+          "end": 109.93,
+          "confidence": 0.907
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "seek": 5760,
+      "start": 119.53,
+      "end": 127.97,
+      "text": " Don't waste your time on me, you're already the voice inside my head.",
+      "tokens": [
+        51344,
+        1468,
+        380,
+        5964,
+        428,
+        565,
+        322,
+        385,
+        11,
+        291,
+        434,
+        1217,
+        264,
+        3177,
+        1854,
+        452,
+        1378,
+        13,
+        51794
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.30923917558458114,
+      "compression_ratio": 1.5689655172413792,
+      "no_speech_prob": 0.10030581802129745,
+      "confidence": 0.982,
+      "words": [
+        {
+          "text": "Don't",
+          "start": 119.53,
+          "end": 119.99,
+          "confidence": 0.953
+        },
+        {
+          "text": "waste",
+          "start": 119.99,
+          "end": 120.37,
+          "confidence": 0.998
+        },
+        {
+          "text": "your",
+          "start": 120.37,
+          "end": 120.79,
+          "confidence": 0.994
+        },
+        {
+          "text": "time",
+          "start": 120.79,
+          "end": 121.21,
+          "confidence": 0.998
+        },
+        {
+          "text": "on",
+          "start": 121.21,
+          "end": 121.61,
+          "confidence": 0.997
+        },
+        {
+          "text": "me,",
+          "start": 121.61,
+          "end": 122.17,
+          "confidence": 0.999
+        },
+        {
+          "text": "you're",
+          "start": 122.77,
+          "end": 123.31,
+          "confidence": 0.961
+        },
+        {
+          "text": "already",
+          "start": 123.31,
+          "end": 124.01,
+          "confidence": 0.992
+        },
+        {
+          "text": "the",
+          "start": 124.01,
+          "end": 124.47,
+          "confidence": 0.994
+        },
+        {
+          "text": "voice",
+          "start": 124.47,
+          "end": 125.01,
+          "confidence": 0.998
+        },
+        {
+          "text": "inside",
+          "start": 125.01,
+          "end": 126.39,
+          "confidence": 0.948
+        },
+        {
+          "text": "my",
+          "start": 126.39,
+          "end": 127.17,
+          "confidence": 0.992
+        },
+        {
+          "text": "head.",
+          "start": 127.17,
+          "end": 127.97,
+          "confidence": 0.997
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "seek": 8620,
+      "start": 130.13,
+      "end": 138.41,
+      "text": " Don't waste your time on me, you're already the voice inside my head.",
+      "tokens": [
+        50364,
+        1468,
+        380,
+        5964,
+        428,
+        565,
+        322,
+        385,
+        11,
+        291,
+        434,
+        1217,
+        264,
+        3177,
+        1854,
+        452,
+        1378,
+        13,
+        50814
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.07565659382304207,
+      "compression_ratio": 2.7125,
+      "no_speech_prob": 0.11784950643777847,
+      "confidence": 0.99,
+      "words": [
+        {
+          "text": "Don't",
+          "start": 130.13,
+          "end": 130.55,
+          "confidence": 0.949
+        },
+        {
+          "text": "waste",
+          "start": 130.55,
+          "end": 130.83,
+          "confidence": 0.998
+        },
+        {
+          "text": "your",
+          "start": 130.83,
+          "end": 131.29,
+          "confidence": 0.997
+        },
+        {
+          "text": "time",
+          "start": 131.29,
+          "end": 131.73,
+          "confidence": 0.999
+        },
+        {
+          "text": "on",
+          "start": 131.73,
+          "end": 132.11,
+          "confidence": 0.999
+        },
+        {
+          "text": "me,",
+          "start": 132.11,
+          "end": 132.63,
+          "confidence": 0.999
+        },
+        {
+          "text": "you're",
+          "start": 133.13,
+          "end": 133.71,
+          "confidence": 0.994
+        },
+        {
+          "text": "already",
+          "start": 133.71,
+          "end": 134.37,
+          "confidence": 1.0
+        },
+        {
+          "text": "the",
+          "start": 134.37,
+          "end": 134.79,
+          "confidence": 0.998
+        },
+        {
+          "text": "voice",
+          "start": 134.79,
+          "end": 135.45,
+          "confidence": 0.998
+        },
+        {
+          "text": "inside",
+          "start": 135.45,
+          "end": 136.77,
+          "confidence": 0.985
+        },
+        {
+          "text": "my",
+          "start": 136.77,
+          "end": 137.79,
+          "confidence": 0.996
+        },
+        {
+          "text": "head.",
+          "start": 137.79,
+          "end": 138.41,
+          "confidence": 0.997
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "seek": 8620,
+      "start": 164.73,
+      "end": 172.85,
+      "text": " And don't waste your time on me, you're already the voice inside my head.",
+      "tokens": [
+        50814,
+        400,
+        500,
+        380,
+        5964,
+        428,
+        565,
+        322,
+        385,
+        11,
+        291,
+        434,
+        1217,
+        264,
+        3177,
+        1854,
+        452,
+        1378,
+        13,
+        51264
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.07565659382304207,
+      "compression_ratio": 2.7125,
+      "no_speech_prob": 0.11784950643777847,
+      "confidence": 0.994,
+      "words": [
+        {
+          "text": "And",
+          "start": 164.73,
+          "end": 164.91,
+          "confidence": 0.938
+        },
+        {
+          "text": "don't",
+          "start": 164.91,
+          "end": 165.35,
+          "confidence": 0.998
+        },
+        {
+          "text": "waste",
+          "start": 165.35,
+          "end": 165.67,
+          "confidence": 0.998
+        },
+        {
+          "text": "your",
+          "start": 165.67,
+          "end": 166.09,
+          "confidence": 0.997
+        },
+        {
+          "text": "time",
+          "start": 166.09,
+          "end": 166.51,
+          "confidence": 0.999
+        },
+        {
+          "text": "on",
+          "start": 166.51,
+          "end": 166.87,
+          "confidence": 0.999
+        },
+        {
+          "text": "me,",
+          "start": 166.87,
+          "end": 167.23,
+          "confidence": 1.0
+        },
+        {
+          "text": "you're",
+          "start": 167.99,
+          "end": 168.53,
+          "confidence": 0.995
+        },
+        {
+          "text": "already",
+          "start": 168.53,
+          "end": 169.17,
+          "confidence": 1.0
+        },
+        {
+          "text": "the",
+          "start": 169.17,
+          "end": 169.57,
+          "confidence": 0.998
+        },
+        {
+          "text": "voice",
+          "start": 169.57,
+          "end": 170.15,
+          "confidence": 0.999
+        },
+        {
+          "text": "inside",
+          "start": 170.15,
+          "end": 171.39,
+          "confidence": 0.994
+        },
+        {
+          "text": "my",
+          "start": 171.39,
+          "end": 172.13,
+          "confidence": 0.998
+        },
+        {
+          "text": "head.",
+          "start": 172.13,
+          "end": 172.85,
+          "confidence": 0.999
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "seek": 8620,
+      "start": 174.69,
+      "end": 182.95,
+      "text": " And don't waste your time on me, you're already the voice inside my head.",
+      "tokens": [
+        51264,
+        400,
+        500,
+        380,
+        5964,
+        428,
+        565,
+        322,
+        385,
+        11,
+        291,
+        434,
+        1217,
+        264,
+        3177,
+        1854,
+        452,
+        1378,
+        13,
+        51714
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.07565659382304207,
+      "compression_ratio": 2.7125,
+      "no_speech_prob": 0.11784950643777847,
+      "confidence": 0.98,
+      "words": [
+        {
+          "text": "And",
+          "start": 174.69,
+          "end": 174.87,
+          "confidence": 0.735
+        },
+        {
+          "text": "don't",
+          "start": 174.87,
+          "end": 175.29,
+          "confidence": 0.999
+        },
+        {
+          "text": "waste",
+          "start": 175.29,
+          "end": 175.65,
+          "confidence": 0.998
+        },
+        {
+          "text": "your",
+          "start": 175.65,
+          "end": 176.05,
+          "confidence": 0.998
+        },
+        {
+          "text": "time",
+          "start": 176.05,
+          "end": 176.51,
+          "confidence": 1.0
+        },
+        {
+          "text": "on",
+          "start": 176.51,
+          "end": 176.91,
+          "confidence": 0.999
+        },
+        {
+          "text": "me,",
+          "start": 176.91,
+          "end": 177.45,
+          "confidence": 1.0
+        },
+        {
+          "text": "you're",
+          "start": 177.91,
+          "end": 178.39,
+          "confidence": 0.998
+        },
+        {
+          "text": "already",
+          "start": 178.39,
+          "end": 179.03,
+          "confidence": 1.0
+        },
+        {
+          "text": "the",
+          "start": 179.03,
+          "end": 179.51,
+          "confidence": 0.999
+        },
+        {
+          "text": "voice",
+          "start": 179.51,
+          "end": 180.19,
+          "confidence": 1.0
+        },
+        {
+          "text": "inside",
+          "start": 180.19,
+          "end": 181.45,
+          "confidence": 0.997
+        },
+        {
+          "text": "my",
+          "start": 181.45,
+          "end": 182.21,
+          "confidence": 0.999
+        },
+        {
+          "text": "head.",
+          "start": 182.21,
+          "end": 182.95,
+          "confidence": 0.998
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "seek": 11320,
+      "start": 184.85,
+      "end": 192.87,
+      "text": " Don't waste your time on me, you're already the voice inside my head.",
+      "tokens": [
+        50364,
+        1468,
+        380,
+        5964,
+        428,
+        565,
+        322,
+        385,
+        11,
+        291,
+        434,
+        1217,
+        264,
+        3177,
+        1854,
+        452,
+        1378,
+        13,
+        50764
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.08689201923838832,
+      "compression_ratio": 2.125,
+      "no_speech_prob": 0.07559549063444138,
+      "confidence": 0.985,
+      "words": [
+        {
+          "text": "Don't",
+          "start": 184.85,
+          "end": 185.57,
+          "confidence": 0.903
+        },
+        {
+          "text": "waste",
+          "start": 185.57,
+          "end": 185.87,
+          "confidence": 0.998
+        },
+        {
+          "text": "your",
+          "start": 185.87,
+          "end": 186.25,
+          "confidence": 0.996
+        },
+        {
+          "text": "time",
+          "start": 186.25,
+          "end": 186.67,
+          "confidence": 0.999
+        },
+        {
+          "text": "on",
+          "start": 186.67,
+          "end": 187.05,
+          "confidence": 0.999
+        },
+        {
+          "text": "me,",
+          "start": 187.05,
+          "end": 187.61,
+          "confidence": 1.0
+        },
+        {
+          "text": "you're",
+          "start": 188.23,
+          "end": 188.53,
+          "confidence": 0.997
+        },
+        {
+          "text": "already",
+          "start": 188.53,
+          "end": 189.17,
+          "confidence": 0.999
+        },
+        {
+          "text": "the",
+          "start": 189.17,
+          "end": 189.55,
+          "confidence": 0.998
+        },
+        {
+          "text": "voice",
+          "start": 189.55,
+          "end": 190.21,
+          "confidence": 0.999
+        },
+        {
+          "text": "inside",
+          "start": 190.21,
+          "end": 191.41,
+          "confidence": 0.994
+        },
+        {
+          "text": "my",
+          "start": 191.41,
+          "end": 192.15,
+          "confidence": 0.997
+        },
+        {
+          "text": "head.",
+          "start": 192.15,
+          "end": 192.87,
+          "confidence": 0.996
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "seek": 11320,
+      "start": 195.0,
+      "end": 203.08,
+      "text": " Don't waste your time on me, you're already the voice inside my head.",
+      "tokens": [
+        50764,
+        1468,
+        380,
+        5964,
+        428,
+        565,
+        322,
+        385,
+        11,
+        291,
+        434,
+        1217,
+        264,
+        3177,
+        1854,
+        452,
+        1378,
+        13,
+        51214
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.08689201923838832,
+      "compression_ratio": 2.125,
+      "no_speech_prob": 0.07559549063444138,
+      "confidence": 0.998,
+      "words": [
+        {
+          "text": "Don't",
+          "start": 195.0,
+          "end": 195.38,
+          "confidence": 0.996
+        },
+        {
+          "text": "waste",
+          "start": 195.38,
+          "end": 195.76,
+          "confidence": 0.998
+        },
+        {
+          "text": "your",
+          "start": 195.76,
+          "end": 196.12,
+          "confidence": 0.998
+        },
+        {
+          "text": "time",
+          "start": 196.12,
+          "end": 196.64,
+          "confidence": 0.999
+        },
+        {
+          "text": "on",
+          "start": 196.64,
+          "end": 197.44,
+          "confidence": 0.998
+        },
+        {
+          "text": "me,",
+          "start": 197.44,
+          "end": 197.86,
+          "confidence": 1.0
+        },
+        {
+          "text": "you're",
+          "start": 197.98,
+          "end": 198.52,
+          "confidence": 0.998
+        },
+        {
+          "text": "already",
+          "start": 198.52,
+          "end": 199.28,
+          "confidence": 1.0
+        },
+        {
+          "text": "the",
+          "start": 199.28,
+          "end": 199.98,
+          "confidence": 0.998
+        },
+        {
+          "text": "voice",
+          "start": 199.98,
+          "end": 200.56,
+          "confidence": 0.999
+        },
+        {
+          "text": "inside",
+          "start": 200.56,
+          "end": 201.58,
+          "confidence": 0.996
+        },
+        {
+          "text": "my",
+          "start": 201.58,
+          "end": 202.58,
+          "confidence": 0.998
+        },
+        {
+          "text": "head.",
+          "start": 202.58,
+          "end": 203.08,
+          "confidence": 0.998
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "seek": 11320,
+      "start": 215.44,
+      "end": 237.37,
+      "text": " I miss you, I miss you, I miss you, I miss you.",
+      "tokens": [
+        51214,
+        286,
+        1713,
+        291,
+        11,
+        286,
+        1713,
+        291,
+        11,
+        286,
+        1713,
+        291,
+        11,
+        286,
+        1713,
+        291,
+        13,
+        51564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.08689201923838832,
+      "compression_ratio": 2.125,
+      "no_speech_prob": 0.07559549063444138,
+      "confidence": 0.954,
+      "words": [
+        {
+          "text": "I",
+          "start": 215.44,
+          "end": 215.59,
+          "confidence": 0.955
+        },
+        {
+          "text": "miss",
+          "start": 215.59,
+          "end": 216.09,
+          "confidence": 0.965
+        },
+        {
+          "text": "you,",
+          "start": 216.09,
+          "end": 216.47,
+          "confidence": 0.998
+        },
+        {
+          "text": "I",
+          "start": 216.69,
+          "end": 217.21,
+          "confidence": 0.727
+        },
+        {
+          "text": "miss",
+          "start": 217.21,
+          "end": 217.23,
+          "confidence": 0.996
+        },
+        {
+          "text": "you,",
+          "start": 217.23,
+          "end": 217.83,
+          "confidence": 0.999
+        },
+        {
+          "text": "I",
+          "start": 225.29,
+          "end": 225.37,
+          "confidence": 0.98
+        },
+        {
+          "text": "miss",
+          "start": 225.37,
+          "end": 225.73,
+          "confidence": 0.994
+        },
+        {
+          "text": "you,",
+          "start": 225.73,
+          "end": 227.41,
+          "confidence": 0.998
+        },
+        {
+          "text": "I",
+          "start": 236.17,
+          "end": 236.37,
+          "confidence": 0.885
+        },
+        {
+          "text": "miss",
+          "start": 236.37,
+          "end": 236.85,
+          "confidence": 0.991
+        },
+        {
+          "text": "you.",
+          "start": 236.85,
+          "end": 237.37,
+          "confidence": 0.998
+        }
+      ]
+    }
+  ],
+  "language": "en",
+  "language_probs": {
+    "en": 0.9776654243469238,
+    "zh": 3.483892578515224e-05,
+    "de": 0.0007507313275709748,
+    "es": 0.0001701487199170515,
+    "ru": 8.422972314292565e-05,
+    "ko": 2.214496817032341e-05,
+    "fr": 8.100293052848428e-05,
+    "ja": 2.5290348276030272e-05,
+    "pt": 0.00014105821901466697,
+    "tr": 0.000136718328576535,
+    "pl": 0.00010815310088219121,
+    "ca": 9.069189559340884e-07,
+    "nl": 0.00012644378875847906,
+    "ar": 0.00022896011068951339,
+    "sv": 2.4321490855072625e-05,
+    "it": 4.799264934263192e-05,
+    "id": 1.5793057173141278e-06,
+    "hi": 1.6456742741866037e-05,
+    "fi": 3.116382231382886e-06,
+    "vi": 3.62267492164392e-05,
+    "he": 8.604607501183636e-06,
+    "uk": 1.9050063428949215e-06,
+    "el": 5.3539664804702625e-05,
+    "ms": 2.8434702471713535e-05,
+    "cs": 3.3173719202750362e-06,
+    "ro": 2.227177901659161e-06,
+    "da": 2.032136580965016e-05,
+    "hu": 4.429272394190775e-06,
+    "ta": 1.1375311714800773e-06,
+    "no": 3.068067371714278e-06,
+    "th": 5.301144483382814e-06,
+    "ur": 0.00010320040746591985,
+    "hr": 6.481457148765912e-07,
+    "bg": 4.63208863266118e-07,
+    "lt": 1.0498348501641885e-07,
+    "la": 0.002172313164919615,
+    "mi": 0.00017554980877321213,
+    "ml": 3.449520590947941e-06,
+    "cy": 0.016821661964058876,
+    "sk": 3.085636421928939e-07,
+    "te": 6.532292218253133e-07,
+    "fa": 7.534446012869012e-06,
+    "lv": 6.63516061649716e-07,
+    "bn": 4.560274646792095e-07,
+    "sr": 9.785537002926503e-08,
+    "az": 1.237007865029227e-07,
+    "sl": 8.537645044270903e-06,
+    "kn": 4.910143402980793e-09,
+    "et": 9.337425410649303e-08,
+    "mk": 7.740997176597375e-08,
+    "br": 1.1853347132273484e-05,
+    "eu": 6.171661226517244e-08,
+    "is": 6.80680477671558e-06,
+    "hy": 1.0096163549633275e-07,
+    "ne": 2.007861894526286e-07,
+    "mn": 7.460112101398408e-07,
+    "bs": 2.644839241838781e-06,
+    "kk": 1.263683024887996e-08,
+    "sq": 5.764727575297002e-07,
+    "sw": 1.0708607078413479e-05,
+    "gl": 9.231396688846871e-06,
+    "mr": 2.2005735900165746e-08,
+    "pa": 1.71741532994929e-07,
+    "si": 2.4460766780975973e-06,
+    "km": 4.2023770220112056e-05,
+    "sn": 4.105028710910119e-05,
+    "yo": 4.064528184244409e-06,
+    "so": 4.558913690999589e-09,
+    "af": 0.00012644378875847906,
+    "oc": 6.136520482868946e-07,
+    "ka": 1.2735942078734297e-08,
+    "be": 2.40309589116805e-07,
+    "tg": 1.7714029132420706e-09,
+    "sd": 4.779126925313903e-07,
+    "gu": 1.6318928430791857e-09,
+    "am": 3.013257865447372e-09,
+    "yi": 3.403188384254463e-05,
+    "lo": 4.769090011791377e-08,
+    "uz": 2.3529102277652925e-11,
+    "fo": 6.701274742226815e-06,
+    "ht": 3.4765755572152557e-06,
+    "ps": 1.4462085573541117e-07,
+    "tk": 2.943016663703446e-10,
+    "nn": 0.00042112209484912455,
+    "mt": 1.29910131363431e-06,
+    "sa": 4.160915977990953e-06,
+    "lb": 4.68529126607109e-09,
+    "my": 3.362535778705933e-07,
+    "bo": 8.998613338917494e-07,
+    "tl": 2.0966434021829627e-05,
+    "mg": 1.2781972702491373e-10,
+    "as": 7.66462537882262e-09,
+    "tt": 1.7035414190402776e-09,
+    "haw": 9.32338007260114e-05,
+    "ln": 8.385126371024398e-09,
+    "ha": 7.500591814313395e-10,
+    "ba": 3.5430289258009395e-10,
+    "jw": 1.8941595044452697e-05,
+    "su": 1.203282362638447e-09
+  },
+  "speech_activity": [
+    {
+      "start": 13.262,
+      "end": 15.218
+    },
+    {
+      "start": 16.014,
+      "end": 25.874
+    },
+    {
+      "start": 26.542,
+      "end": 36.69
+    },
+    {
+      "start": 36.75,
+      "end": 46.994
+    },
+    {
+      "start": 54.766,
+      "end": 57.714
+    },
+    {
+      "start": 65.902,
+      "end": 70.546
+    },
+    {
+      "start": 71.118,
+      "end": 78.578
+    },
+    {
+      "start": 78.734,
+      "end": 89.298
+    },
+    {
+      "start": 89.966,
+      "end": 99.346
+    },
+    {
+      "start": 100.558,
+      "end": 110.642
+    },
+    {
+      "start": 119.534,
+      "end": 128.562
+    },
+    {
+      "start": 130.03,
+      "end": 139.122
+    },
+    {
+      "start": 164.622,
+      "end": 173.49
+    },
+    {
+      "start": 174.51,
+      "end": 183.506
+    },
+    {
+      "start": 184.846,
+      "end": 192.978
+    },
+    {
+      "start": 194.926,
+      "end": 203.634
+    },
+    {
+      "start": 215.438,
+      "end": 218.226
+    },
+    {
+      "start": 225.166,
+      "end": 228.082
+    },
+    {
+      "start": 236.142,
+      "end": 237.842
+    }
+  ]
+}

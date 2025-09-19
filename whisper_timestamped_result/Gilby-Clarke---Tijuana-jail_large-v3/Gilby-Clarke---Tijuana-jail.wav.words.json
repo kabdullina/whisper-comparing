@@ -1,0 +1,799 @@
+{
+  "text": " Pregunta una adamita que si cuando fue la fecha una adamita del auditorio cuando ocurrió el último eclipse solana yo le dije que el 9 de perre me creo que tienes que irme a ver yo soy conocido como el sexo y quiero irme a casa este es mi casa no es el sexo 635 40 30 2 no le dan trabajo porque está muy joven o muy viejo",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 1.51,
+      "end": 10.69,
+      "text": " Pregunta una adamita que si cuando fue la fecha una adamita del auditorio cuando ocurrió el último eclipse solana",
+      "tokens": [
+        50364,
+        430,
+        3375,
+        46380,
+        2002,
+        16368,
+        2786,
+        631,
+        1511,
+        7767,
+        9248,
+        635,
+        579,
+        4413,
+        2002,
+        16368,
+        2786,
+        1103,
+        33970,
+        1004,
+        7767,
+        26430,
+        44802,
+        806,
+        21013,
+        35722,
+        1404,
+        2095,
+        50840
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5655072840248666,
+      "compression_ratio": 1.2972972972972974,
+      "no_speech_prob": 0.5078331232070923,
+      "confidence": 0.711,
+      "words": [
+        {
+          "text": "Pregunta",
+          "start": 1.51,
+          "end": 1.89,
+          "confidence": 0.582
+        },
+        {
+          "text": "una",
+          "start": 1.89,
+          "end": 2.07,
+          "confidence": 0.82
+        },
+        {
+          "text": "adamita",
+          "start": 2.07,
+          "end": 2.45,
+          "confidence": 0.605
+        },
+        {
+          "text": "que",
+          "start": 2.45,
+          "end": 2.79,
+          "confidence": 0.659
+        },
+        {
+          "text": "si",
+          "start": 2.79,
+          "end": 2.97,
+          "confidence": 0.833
+        },
+        {
+          "text": "cuando",
+          "start": 2.97,
+          "end": 3.35,
+          "confidence": 0.576
+        },
+        {
+          "text": "fue",
+          "start": 3.35,
+          "end": 3.73,
+          "confidence": 0.935
+        },
+        {
+          "text": "la",
+          "start": 3.73,
+          "end": 4.49,
+          "confidence": 0.878
+        },
+        {
+          "text": "fecha",
+          "start": 4.49,
+          "end": 4.91,
+          "confidence": 0.996
+        },
+        {
+          "text": "una",
+          "start": 4.91,
+          "end": 5.11,
+          "confidence": 0.756
+        },
+        {
+          "text": "adamita",
+          "start": 5.11,
+          "end": 5.45,
+          "confidence": 0.869
+        },
+        {
+          "text": "del",
+          "start": 5.45,
+          "end": 5.59,
+          "confidence": 0.891
+        },
+        {
+          "text": "auditorio",
+          "start": 5.59,
+          "end": 6.31,
+          "confidence": 0.92
+        },
+        {
+          "text": "cuando",
+          "start": 6.31,
+          "end": 6.65,
+          "confidence": 0.59
+        },
+        {
+          "text": "ocurrió",
+          "start": 6.65,
+          "end": 7.21,
+          "confidence": 0.926
+        },
+        {
+          "text": "el",
+          "start": 7.21,
+          "end": 7.75,
+          "confidence": 0.883
+        },
+        {
+          "text": "último",
+          "start": 7.75,
+          "end": 8.23,
+          "confidence": 0.877
+        },
+        {
+          "text": "eclipse",
+          "start": 8.23,
+          "end": 9.53,
+          "confidence": 0.378
+        },
+        {
+          "text": "solana",
+          "start": 9.53,
+          "end": 10.69,
+          "confidence": 0.321
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 11.05,
+      "end": 12.63,
+      "text": " yo le dije que el 9 de perre",
+      "tokens": [
+        50840,
+        5290,
+        476,
+        39414,
+        631,
+        806,
+        1722,
+        368,
+        680,
+        265,
+        50940
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5655072840248666,
+      "compression_ratio": 1.2972972972972974,
+      "no_speech_prob": 0.5078331232070923,
+      "confidence": 0.54,
+      "words": [
+        {
+          "text": "yo",
+          "start": 11.05,
+          "end": 11.27,
+          "confidence": 0.448
+        },
+        {
+          "text": "le",
+          "start": 11.27,
+          "end": 11.39,
+          "confidence": 0.731
+        },
+        {
+          "text": "dije",
+          "start": 11.39,
+          "end": 11.53,
+          "confidence": 0.996
+        },
+        {
+          "text": "que",
+          "start": 11.53,
+          "end": 11.71,
+          "confidence": 0.348
+        },
+        {
+          "text": "el",
+          "start": 11.71,
+          "end": 11.83,
+          "confidence": 0.759
+        },
+        {
+          "text": "9",
+          "start": 11.83,
+          "end": 12.05,
+          "confidence": 0.722
+        },
+        {
+          "text": "de",
+          "start": 12.05,
+          "end": 12.29,
+          "confidence": 0.624
+        },
+        {
+          "text": "perre",
+          "start": 12.29,
+          "end": 12.63,
+          "confidence": 0.316
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 15000,
+      "start": 237.64,
+      "end": 239.3,
+      "text": " me creo que tienes que irme a ver",
+      "tokens": [
+        50364,
+        385,
+        14336,
+        631,
+        20716,
+        631,
+        3418,
+        1398,
+        257,
+        1306,
+        50464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3924424913194444,
+      "compression_ratio": 7.4526315789473685,
+      "no_speech_prob": 0.4586804211139679,
+      "confidence": 0.122,
+      "words": [
+        {
+          "text": "me",
+          "start": 237.64,
+          "end": 237.8,
+          "confidence": 0.058
+        },
+        {
+          "text": "creo",
+          "start": 237.8,
+          "end": 238.08,
+          "confidence": 0.038
+        },
+        {
+          "text": "que",
+          "start": 238.08,
+          "end": 238.26,
+          "confidence": 0.812
+        },
+        {
+          "text": "tienes",
+          "start": 238.26,
+          "end": 238.42,
+          "confidence": 0.116
+        },
+        {
+          "text": "que",
+          "start": 238.42,
+          "end": 238.54,
+          "confidence": 0.207
+        },
+        {
+          "text": "irme",
+          "start": 238.54,
+          "end": 239.16,
+          "confidence": 0.121
+        },
+        {
+          "text": "a",
+          "start": 239.16,
+          "end": 239.28,
+          "confidence": 0.143
+        },
+        {
+          "text": "ver",
+          "start": 239.28,
+          "end": 239.3,
+          "confidence": 0.068
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 15000,
+      "start": 239.3,
+      "end": 243.88,
+      "text": " yo soy conocido como el sexo y quiero irme a casa",
+      "tokens": [
+        50464,
+        5290,
+        8812,
+        15871,
+        2925,
+        2617,
+        806,
+        3260,
+        78,
+        288,
+        16811,
+        3418,
+        1398,
+        257,
+        9022,
+        50700
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3924424913194444,
+      "compression_ratio": 7.4526315789473685,
+      "no_speech_prob": 0.4586804211139679,
+      "confidence": 0.288,
+      "words": [
+        {
+          "text": "yo",
+          "start": 239.3,
+          "end": 239.96,
+          "confidence": 0.19
+        },
+        {
+          "text": "soy",
+          "start": 239.96,
+          "end": 240.04,
+          "confidence": 0.245
+        },
+        {
+          "text": "conocido",
+          "start": 240.04,
+          "end": 240.62,
+          "confidence": 0.52
+        },
+        {
+          "text": "como",
+          "start": 240.62,
+          "end": 240.88,
+          "confidence": 0.235
+        },
+        {
+          "text": "el",
+          "start": 240.88,
+          "end": 240.9,
+          "confidence": 0.22
+        },
+        {
+          "text": "sexo",
+          "start": 240.9,
+          "end": 241.92,
+          "confidence": 0.157
+        },
+        {
+          "text": "y",
+          "start": 241.92,
+          "end": 242.2,
+          "confidence": 0.156
+        },
+        {
+          "text": "quiero",
+          "start": 242.2,
+          "end": 242.62,
+          "confidence": 0.338
+        },
+        {
+          "text": "irme",
+          "start": 242.62,
+          "end": 243.62,
+          "confidence": 0.294
+        },
+        {
+          "text": "a",
+          "start": 243.62,
+          "end": 243.64,
+          "confidence": 0.545
+        },
+        {
+          "text": "casa",
+          "start": 243.64,
+          "end": 243.88,
+          "confidence": 0.688
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 15000,
+      "start": 244.56,
+      "end": 245.32,
+      "text": " este es mi casa",
+      "tokens": [
+        50700,
+        4065,
+        785,
+        2752,
+        9022,
+        50800
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3924424913194444,
+      "compression_ratio": 7.4526315789473685,
+      "no_speech_prob": 0.4586804211139679,
+      "confidence": 0.068,
+      "words": [
+        {
+          "text": "este",
+          "start": 244.56,
+          "end": 244.78,
+          "confidence": 0.071
+        },
+        {
+          "text": "es",
+          "start": 244.78,
+          "end": 244.98,
+          "confidence": 0.034
+        },
+        {
+          "text": "mi",
+          "start": 244.98,
+          "end": 245.14,
+          "confidence": 0.383
+        },
+        {
+          "text": "casa",
+          "start": 245.14,
+          "end": 245.32,
+          "confidence": 0.023
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 15000,
+      "start": 245.94,
+      "end": 247.76,
+      "text": " no es el sexo",
+      "tokens": [
+        50800,
+        572,
+        785,
+        806,
+        3260,
+        78,
+        50900
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3924424913194444,
+      "compression_ratio": 7.4526315789473685,
+      "no_speech_prob": 0.4586804211139679,
+      "confidence": 0.337,
+      "words": [
+        {
+          "text": "no",
+          "start": 245.94,
+          "end": 246.74,
+          "confidence": 0.419
+        },
+        {
+          "text": "es",
+          "start": 246.74,
+          "end": 247.1,
+          "confidence": 0.112
+        },
+        {
+          "text": "el",
+          "start": 247.1,
+          "end": 247.12,
+          "confidence": 0.098
+        },
+        {
+          "text": "sexo",
+          "start": 247.12,
+          "end": 247.76,
+          "confidence": 0.979
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 16072,
+      "start": 292.09,
+      "end": 296.19,
+      "text": " 635 40 30 2 no le dan trabajo porque está muy joven o muy viejo",
+      "tokens": [
+        50364,
+        1386,
+        8794,
+        3356,
+        2217,
+        568,
+        572,
+        476,
+        3277,
+        18099,
+        4021,
+        3192,
+        5323,
+        1488,
+        553,
+        277,
+        5323,
+        4941,
+        5134,
+        51004
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.601276851835705,
+      "compression_ratio": 0.927536231884058,
+      "no_speech_prob": 0.6130897998809814,
+      "confidence": 0.661,
+      "words": [
+        {
+          "text": "635",
+          "start": 292.09,
+          "end": 292.49,
+          "confidence": 0.162
+        },
+        {
+          "text": "40",
+          "start": 292.49,
+          "end": 293.01,
+          "confidence": 0.395
+        },
+        {
+          "text": "30",
+          "start": 293.01,
+          "end": 293.41,
+          "confidence": 0.37
+        },
+        {
+          "text": "2",
+          "start": 293.41,
+          "end": 293.71,
+          "confidence": 0.479
+        },
+        {
+          "text": "no",
+          "start": 293.71,
+          "end": 294.21,
+          "confidence": 0.604
+        },
+        {
+          "text": "le",
+          "start": 294.21,
+          "end": 294.35,
+          "confidence": 0.966
+        },
+        {
+          "text": "dan",
+          "start": 294.35,
+          "end": 294.45,
+          "confidence": 0.989
+        },
+        {
+          "text": "trabajo",
+          "start": 294.45,
+          "end": 294.73,
+          "confidence": 0.975
+        },
+        {
+          "text": "porque",
+          "start": 294.73,
+          "end": 295.01,
+          "confidence": 0.894
+        },
+        {
+          "text": "está",
+          "start": 295.01,
+          "end": 295.17,
+          "confidence": 0.875
+        },
+        {
+          "text": "muy",
+          "start": 295.17,
+          "end": 295.33,
+          "confidence": 0.999
+        },
+        {
+          "text": "joven",
+          "start": 295.33,
+          "end": 295.63,
+          "confidence": 0.987
+        },
+        {
+          "text": "o",
+          "start": 295.63,
+          "end": 295.73,
+          "confidence": 0.762
+        },
+        {
+          "text": "muy",
+          "start": 295.73,
+          "end": 295.83,
+          "confidence": 0.987
+        },
+        {
+          "text": "viejo",
+          "start": 295.83,
+          "end": 296.19,
+          "confidence": 0.991
+        }
+      ]
+    }
+  ],
+  "language": "es",
+  "language_probs": {
+    "en": 0.29635676741600037,
+    "zh": 0.0009808129398152232,
+    "de": 0.00422730203717947,
+    "es": 0.5623862743377686,
+    "ru": 0.0032666060142219067,
+    "ko": 0.0023163703735917807,
+    "fr": 0.007959581911563873,
+    "ja": 0.0016815046546980739,
+    "pt": 0.014300779439508915,
+    "tr": 0.0013724040472880006,
+    "pl": 0.005513441748917103,
+    "ca": 0.0021930953953415155,
+    "nl": 0.005644188728183508,
+    "ar": 0.003423373680561781,
+    "sv": 0.0018039910355582833,
+    "it": 0.05070066079497337,
+    "id": 0.0006332604098133743,
+    "hi": 0.0001208598623634316,
+    "fi": 0.0006482777534984052,
+    "vi": 0.00042184238554909825,
+    "he": 0.00020720202883239836,
+    "uk": 8.177787822205573e-05,
+    "el": 0.0017899523954838514,
+    "ms": 0.00043184609967283905,
+    "cs": 0.00019926423556171358,
+    "ro": 0.0007345949416048825,
+    "da": 0.0001515922340331599,
+    "hu": 0.000728878250811249,
+    "ta": 5.1576662372099236e-05,
+    "no": 0.00010019634646596387,
+    "th": 6.077215221012011e-05,
+    "ur": 7.445960363838822e-05,
+    "hr": 9.194533777190372e-05,
+    "bg": 4.411585541674867e-05,
+    "lt": 3.3622166029090295e-06,
+    "la": 0.006150688044726849,
+    "mi": 0.00043864670442417264,
+    "ml": 7.160710083553568e-05,
+    "cy": 0.004002328962087631,
+    "sk": 2.9850281862309203e-05,
+    "te": 3.5448087146505713e-05,
+    "fa": 3.40900915034581e-05,
+    "lv": 8.962680112745147e-06,
+    "bn": 1.635660373722203e-05,
+    "sr": 9.175222658086568e-06,
+    "az": 2.162347300327383e-06,
+    "sl": 9.051985398400575e-05,
+    "kn": 5.299059466778999e-07,
+    "et": 1.1154234925925266e-05,
+    "mk": 4.1355974644829985e-06,
+    "br": 0.0004056818434037268,
+    "eu": 0.0002366321423323825,
+    "is": 4.3772542994702235e-05,
+    "hy": 2.680593070181203e-06,
+    "ne": 2.3563923150504706e-06,
+    "mn": 4.436848030309193e-06,
+    "bs": 5.798920028610155e-05,
+    "kk": 9.48356785102078e-07,
+    "sq": 8.619324944447726e-06,
+    "sw": 2.1167017621337436e-05,
+    "gl": 0.006915404926985502,
+    "mr": 1.3584584621639806e-06,
+    "pa": 3.3947048905247357e-07,
+    "si": 2.0040530216647312e-05,
+    "km": 0.0005765901878476143,
+    "sn": 0.0002538692206144333,
+    "yo": 9.194533777190372e-05,
+    "so": 2.9150095315344515e-07,
+    "af": 8.2246169768041e-06,
+    "oc": 0.0004780101007781923,
+    "ka": 7.299763069568144e-07,
+    "be": 1.7008176655508578e-05,
+    "tg": 1.63173794476279e-08,
+    "sd": 6.608665898966137e-06,
+    "gu": 8.094689718518566e-08,
+    "am": 1.273473344554077e-07,
+    "yi": 3.83285187126603e-05,
+    "lo": 2.63903416453104e-06,
+    "uz": 2.6894778071273606e-10,
+    "fo": 2.28870030696271e-05,
+    "ht": 5.798920028610155e-05,
+    "ps": 1.563576006446965e-06,
+    "tk": 3.408638260538055e-09,
+    "nn": 0.005020045209676027,
+    "mt": 3.593069095586543e-06,
+    "sa": 5.405187766882591e-05,
+    "lb": 1.494445278638068e-08,
+    "my": 2.7392157790018246e-05,
+    "bo": 2.412272579022101e-06,
+    "tl": 0.000537441170308739,
+    "mg": 1.8370275300938488e-09,
+    "as": 8.534287303518795e-07,
+    "tt": 7.6403372517575e-09,
+    "haw": 0.001483922591432929,
+    "ln": 2.071401922876248e-06,
+    "ha": 2.3564876716619665e-09,
+    "ba": 4.894583405246067e-09,
+    "jw": 0.0019812965765595436,
+    "su": 3.550148619524407e-08
+  },
+  "speech_activity": [
+    {
+      "start": 1.23,
+      "end": 12.658
+    },
+    {
+      "start": 33.774,
+      "end": 42.258
+    },
+    {
+      "start": 42.478,
+      "end": 51.474
+    },
+    {
+      "start": 51.886,
+      "end": 60.626
+    },
+    {
+      "start": 61.358,
+      "end": 70.194
+    },
+    {
+      "start": 70.574,
+      "end": 85.394
+    },
+    {
+      "start": 87.662,
+      "end": 94.642
+    },
+    {
+      "start": 94.926,
+      "end": 96.178
+    },
+    {
+      "start": 102.286,
+      "end": 111.41
+    },
+    {
+      "start": 111.886,
+      "end": 136.818
+    },
+    {
+      "start": 138.414,
+      "end": 145.394
+    },
+    {
+      "start": 197.518,
+      "end": 205.938
+    },
+    {
+      "start": 206.19,
+      "end": 225.074
+    },
+    {
+      "start": 225.518,
+      "end": 249.778
+    },
+    {
+      "start": 255.694,
+      "end": 263.09
+    },
+    {
+      "start": 292.046,
+      "end": 297.81
+    }
+  ]
+}

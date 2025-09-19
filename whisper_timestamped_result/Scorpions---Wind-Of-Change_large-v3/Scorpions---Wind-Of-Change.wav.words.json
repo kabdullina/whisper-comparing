@@ -1,0 +1,1688 @@
+{
+  "text": " I follow the Moscow down to Gonkipok listening to the wind of change An august summer night soldiers passing by listening to the wind of change The world is closing in, did you ever think that we could be so close like brothers The futures in the air can feel it everywhere, blowing with the wind of change To the magic of the moment, an aglory night where the children of tomorrow be my wings in the wind of change Walking down the street, distant memories are buried in the past forever I follow the Moscow down to Gonkipok listening to the wind of change To the magic of the moment, an aglory night where the children of tomorrow be my wings in the wind of change The wind of change blows straight into the face of time like a storm wind that will ring the freedom bell for peace of mind Lady of Alalaka sing what my guitar wants to sing To the magic of the moment, an aglory night where the children of tomorrow be my wings in the wind of change",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 22.0,
+      "end": 32.34,
+      "text": " I follow the Moscow down to Gonkipok listening to the wind of change",
+      "tokens": [
+        50364,
+        286,
+        1524,
+        264,
+        18298,
+        760,
+        281,
+        47403,
+        74,
+        647,
+        453,
+        4764,
+        281,
+        264,
+        2468,
+        295,
+        1319,
+        51014
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.39577926529778373,
+      "compression_ratio": 1.43,
+      "no_speech_prob": 0.36129745841026306,
+      "confidence": 0.631,
+      "words": [
+        {
+          "text": "I",
+          "start": 22.0,
+          "end": 22.16,
+          "confidence": 0.837
+        },
+        {
+          "text": "follow",
+          "start": 22.16,
+          "end": 22.54,
+          "confidence": 0.857
+        },
+        {
+          "text": "the",
+          "start": 22.54,
+          "end": 23.2,
+          "confidence": 0.955
+        },
+        {
+          "text": "Moscow",
+          "start": 23.2,
+          "end": 23.68,
+          "confidence": 0.247
+        },
+        {
+          "text": "down",
+          "start": 23.68,
+          "end": 25.52,
+          "confidence": 0.556
+        },
+        {
+          "text": "to",
+          "start": 25.52,
+          "end": 26.04,
+          "confidence": 0.991
+        },
+        {
+          "text": "Gonkipok",
+          "start": 26.04,
+          "end": 27.52,
+          "confidence": 0.396
+        },
+        {
+          "text": "listening",
+          "start": 27.52,
+          "end": 28.8,
+          "confidence": 0.308
+        },
+        {
+          "text": "to",
+          "start": 28.8,
+          "end": 29.54,
+          "confidence": 0.987
+        },
+        {
+          "text": "the",
+          "start": 29.54,
+          "end": 29.92,
+          "confidence": 0.993
+        },
+        {
+          "text": "wind",
+          "start": 29.92,
+          "end": 30.48,
+          "confidence": 0.95
+        },
+        {
+          "text": "of",
+          "start": 30.48,
+          "end": 31.54,
+          "confidence": 0.977
+        },
+        {
+          "text": "change",
+          "start": 31.54,
+          "end": 32.34,
+          "confidence": 0.988
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 36.31,
+      "end": 46.85,
+      "text": " An august summer night soldiers passing by listening to the wind of change",
+      "tokens": [
+        51064,
+        1107,
+        14501,
+        381,
+        4266,
+        1818,
+        8892,
+        8437,
+        538,
+        4764,
+        281,
+        264,
+        2468,
+        295,
+        1319,
+        51714
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.39577926529778373,
+      "compression_ratio": 1.43,
+      "no_speech_prob": 0.36129745841026306,
+      "confidence": 0.839,
+      "words": [
+        {
+          "text": "An",
+          "start": 36.31,
+          "end": 36.45,
+          "confidence": 0.449
+        },
+        {
+          "text": "august",
+          "start": 36.45,
+          "end": 37.17,
+          "confidence": 0.786
+        },
+        {
+          "text": "summer",
+          "start": 37.17,
+          "end": 37.63,
+          "confidence": 0.561
+        },
+        {
+          "text": "night",
+          "start": 37.63,
+          "end": 38.25,
+          "confidence": 0.996
+        },
+        {
+          "text": "soldiers",
+          "start": 38.25,
+          "end": 39.12,
+          "confidence": 0.614
+        },
+        {
+          "text": "passing",
+          "start": 39.93,
+          "end": 40.89,
+          "confidence": 0.966
+        },
+        {
+          "text": "by",
+          "start": 40.89,
+          "end": 41.47,
+          "confidence": 0.998
+        },
+        {
+          "text": "listening",
+          "start": 41.47,
+          "end": 43.09,
+          "confidence": 0.955
+        },
+        {
+          "text": "to",
+          "start": 43.09,
+          "end": 43.81,
+          "confidence": 0.997
+        },
+        {
+          "text": "the",
+          "start": 43.81,
+          "end": 44.19,
+          "confidence": 0.998
+        },
+        {
+          "text": "wind",
+          "start": 44.19,
+          "end": 44.73,
+          "confidence": 0.985
+        },
+        {
+          "text": "of",
+          "start": 44.73,
+          "end": 45.81,
+          "confidence": 0.998
+        },
+        {
+          "text": "change",
+          "start": 45.81,
+          "end": 46.85,
+          "confidence": 0.993
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 2700,
+      "start": 71.07,
+      "end": 81.81,
+      "text": " The world is closing in, did you ever think that we could be so close like brothers",
+      "tokens": [
+        50364,
+        440,
+        1002,
+        307,
+        10377,
+        294,
+        11,
+        630,
+        291,
+        1562,
+        519,
+        300,
+        321,
+        727,
+        312,
+        370,
+        1998,
+        411,
+        8452,
+        51014
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.12998611927032472,
+      "compression_ratio": 1.361344537815126,
+      "no_speech_prob": 0.369499534368515,
+      "confidence": 0.961,
+      "words": [
+        {
+          "text": "The",
+          "start": 71.07,
+          "end": 71.29,
+          "confidence": 0.908
+        },
+        {
+          "text": "world",
+          "start": 71.29,
+          "end": 71.55,
+          "confidence": 0.989
+        },
+        {
+          "text": "is",
+          "start": 71.55,
+          "end": 71.97,
+          "confidence": 0.996
+        },
+        {
+          "text": "closing",
+          "start": 71.97,
+          "end": 72.61,
+          "confidence": 0.995
+        },
+        {
+          "text": "in,",
+          "start": 72.61,
+          "end": 73.27,
+          "confidence": 0.994
+        },
+        {
+          "text": "did",
+          "start": 74.33,
+          "end": 74.71,
+          "confidence": 0.901
+        },
+        {
+          "text": "you",
+          "start": 74.71,
+          "end": 75.07,
+          "confidence": 0.996
+        },
+        {
+          "text": "ever",
+          "start": 75.07,
+          "end": 75.67,
+          "confidence": 0.993
+        },
+        {
+          "text": "think",
+          "start": 75.67,
+          "end": 76.61,
+          "confidence": 0.996
+        },
+        {
+          "text": "that",
+          "start": 76.61,
+          "end": 77.65,
+          "confidence": 0.82
+        },
+        {
+          "text": "we",
+          "start": 77.65,
+          "end": 77.85,
+          "confidence": 0.996
+        },
+        {
+          "text": "could",
+          "start": 77.85,
+          "end": 78.23,
+          "confidence": 0.995
+        },
+        {
+          "text": "be",
+          "start": 78.23,
+          "end": 78.67,
+          "confidence": 0.997
+        },
+        {
+          "text": "so",
+          "start": 78.67,
+          "end": 79.05,
+          "confidence": 0.995
+        },
+        {
+          "text": "close",
+          "start": 79.05,
+          "end": 79.61,
+          "confidence": 0.998
+        },
+        {
+          "text": "like",
+          "start": 79.61,
+          "end": 80.67,
+          "confidence": 0.81
+        },
+        {
+          "text": "brothers",
+          "start": 80.67,
+          "end": 81.81,
+          "confidence": 0.988
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 2700,
+      "start": 85.39,
+      "end": 96.05,
+      "text": " The futures in the air can feel it everywhere, blowing with the wind of change",
+      "tokens": [
+        51064,
+        440,
+        26071,
+        294,
+        264,
+        1988,
+        393,
+        841,
+        309,
+        5315,
+        11,
+        15068,
+        365,
+        264,
+        2468,
+        295,
+        1319,
+        51714
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.12998611927032472,
+      "compression_ratio": 1.361344537815126,
+      "no_speech_prob": 0.369499534368515,
+      "confidence": 0.914,
+      "words": [
+        {
+          "text": "The",
+          "start": 85.39,
+          "end": 85.57,
+          "confidence": 0.942
+        },
+        {
+          "text": "futures",
+          "start": 85.57,
+          "end": 86.13,
+          "confidence": 0.767
+        },
+        {
+          "text": "in",
+          "start": 86.13,
+          "end": 86.79,
+          "confidence": 0.99
+        },
+        {
+          "text": "the",
+          "start": 86.79,
+          "end": 87.07,
+          "confidence": 0.998
+        },
+        {
+          "text": "air",
+          "start": 87.07,
+          "end": 87.53,
+          "confidence": 0.993
+        },
+        {
+          "text": "can",
+          "start": 87.53,
+          "end": 88.73,
+          "confidence": 0.8
+        },
+        {
+          "text": "feel",
+          "start": 88.73,
+          "end": 89.01,
+          "confidence": 0.977
+        },
+        {
+          "text": "it",
+          "start": 89.01,
+          "end": 89.51,
+          "confidence": 0.985
+        },
+        {
+          "text": "everywhere,",
+          "start": 89.51,
+          "end": 90.37,
+          "confidence": 0.99
+        },
+        {
+          "text": "blowing",
+          "start": 91.15,
+          "end": 92.21,
+          "confidence": 0.511
+        },
+        {
+          "text": "with",
+          "start": 92.21,
+          "end": 93.03,
+          "confidence": 0.993
+        },
+        {
+          "text": "the",
+          "start": 93.03,
+          "end": 93.35,
+          "confidence": 0.978
+        },
+        {
+          "text": "wind",
+          "start": 93.35,
+          "end": 93.89,
+          "confidence": 0.992
+        },
+        {
+          "text": "of",
+          "start": 93.89,
+          "end": 94.97,
+          "confidence": 0.993
+        },
+        {
+          "text": "change",
+          "start": 94.97,
+          "end": 96.05,
+          "confidence": 0.988
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 5400,
+      "start": 102.03,
+      "end": 116.44,
+      "text": " To the magic of the moment, an aglory night where the children of tomorrow be my wings in the wind of change",
+      "tokens": [
+        50364,
+        1407,
+        264,
+        5585,
+        295,
+        264,
+        1623,
+        11,
+        364,
+        623,
+        75,
+        827,
+        1818,
+        689,
+        264,
+        2227,
+        295,
+        4153,
+        312,
+        452,
+        11405,
+        294,
+        264,
+        2468,
+        295,
+        1319,
+        51114
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3565215177314226,
+      "compression_ratio": 1.4251968503937007,
+      "no_speech_prob": 0.22730974853038788,
+      "confidence": 0.626,
+      "words": [
+        {
+          "text": "To",
+          "start": 102.03,
+          "end": 102.83,
+          "confidence": 0.825
+        },
+        {
+          "text": "the",
+          "start": 102.83,
+          "end": 103.03,
+          "confidence": 0.997
+        },
+        {
+          "text": "magic",
+          "start": 103.03,
+          "end": 103.51,
+          "confidence": 0.986
+        },
+        {
+          "text": "of",
+          "start": 103.51,
+          "end": 104.21,
+          "confidence": 0.997
+        },
+        {
+          "text": "the",
+          "start": 104.21,
+          "end": 104.45,
+          "confidence": 0.992
+        },
+        {
+          "text": "moment,",
+          "start": 104.45,
+          "end": 105.03,
+          "confidence": 0.981
+        },
+        {
+          "text": "an",
+          "start": 105.77,
+          "end": 105.87,
+          "confidence": 0.257
+        },
+        {
+          "text": "aglory",
+          "start": 105.87,
+          "end": 107.53,
+          "confidence": 0.283
+        },
+        {
+          "text": "night",
+          "start": 107.53,
+          "end": 108.01,
+          "confidence": 0.998
+        },
+        {
+          "text": "where",
+          "start": 108.01,
+          "end": 109.21,
+          "confidence": 0.283
+        },
+        {
+          "text": "the",
+          "start": 109.21,
+          "end": 109.39,
+          "confidence": 0.988
+        },
+        {
+          "text": "children",
+          "start": 109.39,
+          "end": 109.69,
+          "confidence": 0.77
+        },
+        {
+          "text": "of",
+          "start": 109.69,
+          "end": 110.51,
+          "confidence": 0.979
+        },
+        {
+          "text": "tomorrow",
+          "start": 110.51,
+          "end": 111.27,
+          "confidence": 0.988
+        },
+        {
+          "text": "be",
+          "start": 111.27,
+          "end": 111.63,
+          "confidence": 0.156
+        },
+        {
+          "text": "my",
+          "start": 112.14,
+          "end": 112.38,
+          "confidence": 0.196
+        },
+        {
+          "text": "wings",
+          "start": 112.38,
+          "end": 113.28,
+          "confidence": 0.703
+        },
+        {
+          "text": "in",
+          "start": 114.32,
+          "end": 114.8,
+          "confidence": 0.676
+        },
+        {
+          "text": "the",
+          "start": 114.8,
+          "end": 114.96,
+          "confidence": 0.972
+        },
+        {
+          "text": "wind",
+          "start": 114.96,
+          "end": 115.2,
+          "confidence": 0.991
+        },
+        {
+          "text": "of",
+          "start": 115.2,
+          "end": 115.5,
+          "confidence": 0.999
+        },
+        {
+          "text": "change",
+          "start": 115.5,
+          "end": 116.44,
+          "confidence": 0.994
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 5400,
+      "start": 126.65,
+      "end": 136.51,
+      "text": " Walking down the street, distant memories are buried in the past forever",
+      "tokens": [
+        51164,
+        26964,
+        760,
+        264,
+        4838,
+        11,
+        17275,
+        8495,
+        366,
+        14101,
+        294,
+        264,
+        1791,
+        5680,
+        51814
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3565215177314226,
+      "compression_ratio": 1.4251968503937007,
+      "no_speech_prob": 0.22730974853038788,
+      "confidence": 0.928,
+      "words": [
+        {
+          "text": "Walking",
+          "start": 126.65,
+          "end": 127.17,
+          "confidence": 0.882
+        },
+        {
+          "text": "down",
+          "start": 127.17,
+          "end": 127.95,
+          "confidence": 0.983
+        },
+        {
+          "text": "the",
+          "start": 127.95,
+          "end": 128.21,
+          "confidence": 0.998
+        },
+        {
+          "text": "street,",
+          "start": 128.21,
+          "end": 128.69,
+          "confidence": 0.893
+        },
+        {
+          "text": "distant",
+          "start": 129.79,
+          "end": 130.39,
+          "confidence": 0.938
+        },
+        {
+          "text": "memories",
+          "start": 130.39,
+          "end": 131.65,
+          "confidence": 0.989
+        },
+        {
+          "text": "are",
+          "start": 131.65,
+          "end": 133.17,
+          "confidence": 0.772
+        },
+        {
+          "text": "buried",
+          "start": 133.17,
+          "end": 133.73,
+          "confidence": 0.998
+        },
+        {
+          "text": "in",
+          "start": 133.73,
+          "end": 134.35,
+          "confidence": 0.996
+        },
+        {
+          "text": "the",
+          "start": 134.35,
+          "end": 134.57,
+          "confidence": 0.988
+        },
+        {
+          "text": "past",
+          "start": 134.57,
+          "end": 135.39,
+          "confidence": 0.831
+        },
+        {
+          "text": "forever",
+          "start": 135.39,
+          "end": 136.51,
+          "confidence": 0.901
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 8400,
+      "start": 141.39,
+      "end": 151.79,
+      "text": " I follow the Moscow down to Gonkipok listening to the wind of change",
+      "tokens": [
+        50364,
+        286,
+        1524,
+        264,
+        18298,
+        760,
+        281,
+        47403,
+        74,
+        647,
+        453,
+        4764,
+        281,
+        264,
+        2468,
+        295,
+        1319,
+        50964
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.05785554013353713,
+      "compression_ratio": 1.4508196721311475,
+      "no_speech_prob": 0.12976661324501038,
+      "confidence": 0.951,
+      "words": [
+        {
+          "text": "I",
+          "start": 141.39,
+          "end": 141.41,
+          "confidence": 0.528
+        },
+        {
+          "text": "follow",
+          "start": 141.41,
+          "end": 141.63,
+          "confidence": 0.959
+        },
+        {
+          "text": "the",
+          "start": 141.63,
+          "end": 142.07,
+          "confidence": 0.986
+        },
+        {
+          "text": "Moscow",
+          "start": 142.07,
+          "end": 142.57,
+          "confidence": 0.995
+        },
+        {
+          "text": "down",
+          "start": 142.57,
+          "end": 144.45,
+          "confidence": 0.972
+        },
+        {
+          "text": "to",
+          "start": 144.45,
+          "end": 144.97,
+          "confidence": 0.998
+        },
+        {
+          "text": "Gonkipok",
+          "start": 144.97,
+          "end": 146.67,
+          "confidence": 0.996
+        },
+        {
+          "text": "listening",
+          "start": 146.67,
+          "end": 147.67,
+          "confidence": 0.969
+        },
+        {
+          "text": "to",
+          "start": 147.67,
+          "end": 148.45,
+          "confidence": 0.998
+        },
+        {
+          "text": "the",
+          "start": 148.45,
+          "end": 148.81,
+          "confidence": 0.999
+        },
+        {
+          "text": "wind",
+          "start": 148.81,
+          "end": 149.47,
+          "confidence": 0.994
+        },
+        {
+          "text": "of",
+          "start": 149.47,
+          "end": 150.47,
+          "confidence": 0.999
+        },
+        {
+          "text": "change",
+          "start": 150.47,
+          "end": 151.79,
+          "confidence": 0.992
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 8400,
+      "start": 157.98,
+      "end": 171.79,
+      "text": " To the magic of the moment, an aglory night where the children of tomorrow be my wings in the wind of change",
+      "tokens": [
+        51014,
+        1407,
+        264,
+        5585,
+        295,
+        264,
+        1623,
+        11,
+        364,
+        623,
+        75,
+        827,
+        1818,
+        689,
+        264,
+        2227,
+        295,
+        4153,
+        312,
+        452,
+        11405,
+        294,
+        264,
+        2468,
+        295,
+        1319,
+        51514
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.05785554013353713,
+      "compression_ratio": 1.4508196721311475,
+      "no_speech_prob": 0.12976661324501038,
+      "confidence": 0.972,
+      "words": [
+        {
+          "text": "To",
+          "start": 157.98,
+          "end": 158.3,
+          "confidence": 0.884
+        },
+        {
+          "text": "the",
+          "start": 158.3,
+          "end": 158.56,
+          "confidence": 0.999
+        },
+        {
+          "text": "magic",
+          "start": 158.56,
+          "end": 159.12,
+          "confidence": 0.994
+        },
+        {
+          "text": "of",
+          "start": 159.12,
+          "end": 159.7,
+          "confidence": 0.998
+        },
+        {
+          "text": "the",
+          "start": 159.7,
+          "end": 159.94,
+          "confidence": 0.998
+        },
+        {
+          "text": "moment,",
+          "start": 159.94,
+          "end": 160.5,
+          "confidence": 0.998
+        },
+        {
+          "text": "an",
+          "start": 161.13,
+          "end": 161.37,
+          "confidence": 0.944
+        },
+        {
+          "text": "aglory",
+          "start": 161.37,
+          "end": 162.59,
+          "confidence": 0.987
+        },
+        {
+          "text": "night",
+          "start": 164.01,
+          "end": 164.29,
+          "confidence": 0.961
+        },
+        {
+          "text": "where",
+          "start": 164.29,
+          "end": 164.67,
+          "confidence": 0.965
+        },
+        {
+          "text": "the",
+          "start": 164.67,
+          "end": 164.89,
+          "confidence": 0.996
+        },
+        {
+          "text": "children",
+          "start": 164.89,
+          "end": 165.25,
+          "confidence": 0.998
+        },
+        {
+          "text": "of",
+          "start": 165.25,
+          "end": 166.01,
+          "confidence": 0.995
+        },
+        {
+          "text": "tomorrow",
+          "start": 166.01,
+          "end": 166.81,
+          "confidence": 0.996
+        },
+        {
+          "text": "be",
+          "start": 166.81,
+          "end": 167.12,
+          "confidence": 0.908
+        },
+        {
+          "text": "my",
+          "start": 170.31,
+          "end": 170.43,
+          "confidence": 0.798
+        },
+        {
+          "text": "wings",
+          "start": 170.43,
+          "end": 170.45,
+          "confidence": 0.987
+        },
+        {
+          "text": "in",
+          "start": 170.45,
+          "end": 170.47,
+          "confidence": 0.988
+        },
+        {
+          "text": "the",
+          "start": 170.47,
+          "end": 170.49,
+          "confidence": 0.998
+        },
+        {
+          "text": "wind",
+          "start": 170.49,
+          "end": 170.67,
+          "confidence": 0.997
+        },
+        {
+          "text": "of",
+          "start": 170.67,
+          "end": 170.99,
+          "confidence": 0.999
+        },
+        {
+          "text": "change",
+          "start": 170.99,
+          "end": 171.79,
+          "confidence": 0.991
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seek": 10700,
+      "start": 175.78,
+      "end": 187.32,
+      "text": " The wind of change blows straight into the face of time like a storm wind that will ring the freedom bell for peace of mind",
+      "tokens": [
+        50364,
+        440,
+        2468,
+        295,
+        1319,
+        18458,
+        2997,
+        666,
+        264,
+        1851,
+        295,
+        565,
+        411,
+        257,
+        7679,
+        2468,
+        300,
+        486,
+        4875,
+        264,
+        5645,
+        4549,
+        337,
+        4336,
+        295,
+        1575,
+        50964
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.23162675458331441,
+      "compression_ratio": 1.3951612903225807,
+      "no_speech_prob": 0.22238689661026,
+      "confidence": 0.894,
+      "words": [
+        {
+          "text": "The",
+          "start": 175.78,
+          "end": 175.98,
+          "confidence": 0.985
+        },
+        {
+          "text": "wind",
+          "start": 175.98,
+          "end": 176.26,
+          "confidence": 0.979
+        },
+        {
+          "text": "of",
+          "start": 176.26,
+          "end": 176.48,
+          "confidence": 0.999
+        },
+        {
+          "text": "change",
+          "start": 176.48,
+          "end": 176.88,
+          "confidence": 0.986
+        },
+        {
+          "text": "blows",
+          "start": 176.88,
+          "end": 177.28,
+          "confidence": 0.891
+        },
+        {
+          "text": "straight",
+          "start": 177.28,
+          "end": 177.92,
+          "confidence": 0.988
+        },
+        {
+          "text": "into",
+          "start": 177.92,
+          "end": 179.2,
+          "confidence": 0.943
+        },
+        {
+          "text": "the",
+          "start": 179.2,
+          "end": 179.56,
+          "confidence": 0.985
+        },
+        {
+          "text": "face",
+          "start": 179.56,
+          "end": 180.08,
+          "confidence": 0.751
+        },
+        {
+          "text": "of",
+          "start": 180.08,
+          "end": 180.48,
+          "confidence": 0.998
+        },
+        {
+          "text": "time",
+          "start": 180.48,
+          "end": 181.06,
+          "confidence": 0.995
+        },
+        {
+          "text": "like",
+          "start": 181.06,
+          "end": 181.76,
+          "confidence": 0.765
+        },
+        {
+          "text": "a",
+          "start": 181.76,
+          "end": 182.04,
+          "confidence": 0.973
+        },
+        {
+          "text": "storm",
+          "start": 182.04,
+          "end": 182.34,
+          "confidence": 0.93
+        },
+        {
+          "text": "wind",
+          "start": 182.34,
+          "end": 182.74,
+          "confidence": 0.543
+        },
+        {
+          "text": "that",
+          "start": 182.74,
+          "end": 183.3,
+          "confidence": 0.473
+        },
+        {
+          "text": "will",
+          "start": 183.3,
+          "end": 183.62,
+          "confidence": 0.887
+        },
+        {
+          "text": "ring",
+          "start": 183.62,
+          "end": 184.12,
+          "confidence": 0.948
+        },
+        {
+          "text": "the",
+          "start": 184.12,
+          "end": 184.68,
+          "confidence": 0.969
+        },
+        {
+          "text": "freedom",
+          "start": 184.68,
+          "end": 185.08,
+          "confidence": 0.947
+        },
+        {
+          "text": "bell",
+          "start": 185.08,
+          "end": 185.66,
+          "confidence": 0.992
+        },
+        {
+          "text": "for",
+          "start": 185.66,
+          "end": 186.3,
+          "confidence": 0.81
+        },
+        {
+          "text": "peace",
+          "start": 186.3,
+          "end": 186.54,
+          "confidence": 0.968
+        },
+        {
+          "text": "of",
+          "start": 186.54,
+          "end": 186.88,
+          "confidence": 0.994
+        },
+        {
+          "text": "mind",
+          "start": 186.88,
+          "end": 187.32,
+          "confidence": 0.997
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "seek": 10700,
+      "start": 188.4,
+      "end": 193.92,
+      "text": " Lady of Alalaka sing what my guitar wants to sing",
+      "tokens": [
+        51014,
+        11256,
+        295,
+        967,
+        304,
+        7849,
+        1522,
+        437,
+        452,
+        7531,
+        2738,
+        281,
+        1522,
+        51364
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.23162675458331441,
+      "compression_ratio": 1.3951612903225807,
+      "no_speech_prob": 0.22238689661026,
+      "confidence": 0.607,
+      "words": [
+        {
+          "text": "Lady",
+          "start": 188.4,
+          "end": 188.82,
+          "confidence": 0.419
+        },
+        {
+          "text": "of",
+          "start": 188.82,
+          "end": 189.14,
+          "confidence": 0.411
+        },
+        {
+          "text": "Alalaka",
+          "start": 189.14,
+          "end": 189.82,
+          "confidence": 0.346
+        },
+        {
+          "text": "sing",
+          "start": 189.82,
+          "end": 190.44,
+          "confidence": 0.587
+        },
+        {
+          "text": "what",
+          "start": 190.44,
+          "end": 191.06,
+          "confidence": 0.877
+        },
+        {
+          "text": "my",
+          "start": 191.06,
+          "end": 191.3,
+          "confidence": 0.982
+        },
+        {
+          "text": "guitar",
+          "start": 191.3,
+          "end": 191.74,
+          "confidence": 0.988
+        },
+        {
+          "text": "wants",
+          "start": 191.74,
+          "end": 192.9,
+          "confidence": 0.983
+        },
+        {
+          "text": "to",
+          "start": 192.9,
+          "end": 193.22,
+          "confidence": 0.998
+        },
+        {
+          "text": "sing",
+          "start": 193.22,
+          "end": 193.92,
+          "confidence": 0.724
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "seek": 12700,
+      "start": 227.71,
+      "end": 241.6,
+      "text": " To the magic of the moment, an aglory night where the children of tomorrow be my wings in the wind of change",
+      "tokens": [
+        50364,
+        1407,
+        264,
+        5585,
+        295,
+        264,
+        1623,
+        11,
+        364,
+        623,
+        75,
+        827,
+        1818,
+        689,
+        264,
+        2227,
+        295,
+        4153,
+        312,
+        452,
+        11405,
+        294,
+        264,
+        2468,
+        295,
+        1319,
+        51114
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.05942523053714207,
+      "compression_ratio": 1.255813953488372,
+      "no_speech_prob": 0.7614830732345581,
+      "confidence": 0.96,
+      "words": [
+        {
+          "text": "To",
+          "start": 227.71,
+          "end": 227.97,
+          "confidence": 0.886
+        },
+        {
+          "text": "the",
+          "start": 227.97,
+          "end": 228.25,
+          "confidence": 0.997
+        },
+        {
+          "text": "magic",
+          "start": 228.25,
+          "end": 228.67,
+          "confidence": 0.993
+        },
+        {
+          "text": "of",
+          "start": 228.67,
+          "end": 229.43,
+          "confidence": 0.998
+        },
+        {
+          "text": "the",
+          "start": 229.43,
+          "end": 229.69,
+          "confidence": 0.998
+        },
+        {
+          "text": "moment,",
+          "start": 229.69,
+          "end": 230.27,
+          "confidence": 0.999
+        },
+        {
+          "text": "an",
+          "start": 231.03,
+          "end": 231.15,
+          "confidence": 0.872
+        },
+        {
+          "text": "aglory",
+          "start": 231.15,
+          "end": 232.79,
+          "confidence": 0.998
+        },
+        {
+          "text": "night",
+          "start": 232.79,
+          "end": 233.27,
+          "confidence": 0.998
+        },
+        {
+          "text": "where",
+          "start": 233.27,
+          "end": 234.43,
+          "confidence": 0.976
+        },
+        {
+          "text": "the",
+          "start": 234.43,
+          "end": 234.61,
+          "confidence": 0.997
+        },
+        {
+          "text": "children",
+          "start": 234.61,
+          "end": 234.99,
+          "confidence": 0.998
+        },
+        {
+          "text": "of",
+          "start": 234.99,
+          "end": 235.77,
+          "confidence": 0.989
+        },
+        {
+          "text": "tomorrow",
+          "start": 235.77,
+          "end": 236.53,
+          "confidence": 0.997
+        },
+        {
+          "text": "be",
+          "start": 236.53,
+          "end": 237.17,
+          "confidence": 0.548
+        },
+        {
+          "text": "my",
+          "start": 237.17,
+          "end": 237.55,
+          "confidence": 0.98
+        },
+        {
+          "text": "wings",
+          "start": 237.55,
+          "end": 238.25,
+          "confidence": 0.994
+        },
+        {
+          "text": "in",
+          "start": 239.34,
+          "end": 239.98,
+          "confidence": 0.994
+        },
+        {
+          "text": "the",
+          "start": 239.98,
+          "end": 240.16,
+          "confidence": 0.998
+        },
+        {
+          "text": "wind",
+          "start": 240.16,
+          "end": 240.42,
+          "confidence": 0.995
+        },
+        {
+          "text": "of",
+          "start": 240.42,
+          "end": 240.7,
+          "confidence": 0.999
+        },
+        {
+          "text": "change",
+          "start": 240.7,
+          "end": 241.6,
+          "confidence": 0.991
+        }
+      ]
+    }
+  ],
+  "language": "en",
+  "language_probs": {
+    "en": 0.72101891040802,
+    "zh": 0.0020894804038107395,
+    "de": 0.016180234029889107,
+    "es": 0.012118435464799404,
+    "ru": 0.009890778921544552,
+    "ko": 0.0011271900730207562,
+    "fr": 0.014732270501554012,
+    "ja": 0.005335674621164799,
+    "pt": 0.011473503895103931,
+    "tr": 0.004973395727574825,
+    "pl": 0.00674492446705699,
+    "ca": 8.898079977370799e-05,
+    "nl": 0.0016921126516535878,
+    "ar": 0.011837711557745934,
+    "sv": 0.0046720728278160095,
+    "it": 0.0006422535516321659,
+    "id": 0.00017286019283346832,
+    "hi": 6.260581722017378e-05,
+    "fi": 0.00010987662972183898,
+    "vi": 0.0011720922775566578,
+    "he": 0.0009344732970930636,
+    "uk": 0.0018876881804317236,
+    "el": 0.0018729979638010263,
+    "ms": 0.0015772224869579077,
+    "cs": 0.00027839632821269333,
+    "ro": 0.0004962950479239225,
+    "da": 0.001652914914302528,
+    "hu": 6.929831579327583e-05,
+    "ta": 9.32510884013027e-05,
+    "no": 0.0012872914085164666,
+    "th": 6.115555152064189e-05,
+    "ur": 0.00044487600098364055,
+    "hr": 0.00019587627321016043,
+    "bg": 0.00014108436880633235,
+    "lt": 9.926526399794966e-05,
+    "la": 0.023542100563645363,
+    "mi": 0.016563938930630684,
+    "ml": 1.2089374649804085e-05,
+    "cy": 0.011207721196115017,
+    "sk": 2.888783456000965e-05,
+    "te": 3.827016553259455e-05,
+    "fa": 0.00028499827021732926,
+    "lv": 0.0004662260471377522,
+    "bn": 1.779727972461842e-05,
+    "sr": 3.651764927781187e-05,
+    "az": 1.2521951248345431e-05,
+    "sl": 0.0007334765396080911,
+    "kn": 2.2275908122537658e-06,
+    "et": 5.199574843572918e-06,
+    "mk": 3.351048144395463e-05,
+    "br": 0.010862895287573338,
+    "eu": 0.00017018025391735137,
+    "is": 0.0008246698416769505,
+    "hy": 3.6233464925317094e-05,
+    "ne": 1.0668834875104949e-05,
+    "mn": 0.00011160692520206794,
+    "bs": 0.000213453866308555,
+    "kk": 3.917771755368449e-05,
+    "sq": 0.0002476107911206782,
+    "sw": 0.0004662260471377522,
+    "gl": 0.0007930772262625396,
+    "mr": 8.323899010065361e-07,
+    "pa": 6.198815754032694e-06,
+    "si": 0.0002005213318625465,
+    "km": 0.003965137060731649,
+    "sn": 0.007702945731580257,
+    "yo": 0.0023309835232794285,
+    "so": 5.600162694463506e-06,
+    "af": 0.00039260167977772653,
+    "oc": 0.001002543605864048,
+    "ka": 3.4233105452585733e-06,
+    "be": 0.0001688558841124177,
+    "tg": 2.380538944635191e-06,
+    "sd": 0.00025747448671609163,
+    "gu": 7.57786438043695e-08,
+    "am": 1.3095331041768077e-06,
+    "yi": 0.022817784920334816,
+    "lo": 2.7457503165351227e-05,
+    "uz": 1.5152982868471554e-08,
+    "fo": 0.0015649484703317285,
+    "ht": 0.0005536571843549609,
+    "ps": 2.7781161406892352e-05,
+    "tk": 1.1221252549376004e-07,
+    "nn": 0.008935574442148209,
+    "mt": 4.913986413157545e-05,
+    "sa": 0.0006998882163316011,
+    "lb": 3.1784363727638265e-06,
+    "my": 0.00032547826413065195,
+    "bo": 0.00013253651559352875,
+    "tl": 0.0002236977161373943,
+    "mg": 1.2765111989665456e-07,
+    "as": 1.5611955177519121e-06,
+    "tt": 1.8612217900226824e-06,
+    "haw": 0.04067710414528847,
+    "ln": 2.3212031010189094e-05,
+    "ha": 4.1045637999559403e-07,
+    "ba": 2.2890002071562776e-07,
+    "jw": 0.003903663018718362,
+    "su": 9.580747928339406e-07
+  },
+  "speech_activity": [
+    {
+      "start": 21.742,
+      "end": 35.41
+    },
+    {
+      "start": 35.854,
+      "end": 39.122
+    },
+    {
+      "start": 39.15,
+      "end": 49.682
+    },
+    {
+      "start": 70.862,
+      "end": 84.274
+    },
+    {
+      "start": 84.974,
+      "end": 98.77
+    },
+    {
+      "start": 102.03,
+      "end": 111.634
+    },
+    {
+      "start": 111.918,
+      "end": 113.458
+    },
+    {
+      "start": 114.318,
+      "end": 118.354
+    },
+    {
+      "start": 126.222,
+      "end": 139.442
+    },
+    {
+      "start": 140.462,
+      "end": 154.354
+    },
+    {
+      "start": 157.71,
+      "end": 160.69
+    },
+    {
+      "start": 161.102,
+      "end": 162.642
+    },
+    {
+      "start": 164.014,
+      "end": 167.122
+    },
+    {
+      "start": 170.222,
+      "end": 172.722
+    },
+    {
+      "start": 175.374,
+      "end": 195.186
+    },
+    {
+      "start": 227.278,
+      "end": 238.45
+    },
+    {
+      "start": 239.342,
+      "end": 243.474
+    },
+    {
+      "start": 264.878,
+      "end": 272.082
+    }
+  ]
+}

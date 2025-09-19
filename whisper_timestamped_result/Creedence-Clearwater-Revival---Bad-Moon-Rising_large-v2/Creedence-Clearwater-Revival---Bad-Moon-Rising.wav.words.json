@@ -1,0 +1,1576 @@
+{
+  "text": " I see bad moon rising, trouble on the way. There are wakes and lightning. I see bad times today. Don't go around tonight, but let's finally take your life. There's a bad moon on the right. I hear hurricanes blowing. I know the end is coming soon. I hear rivers overflowing. I hear the voice of rain is growing. Don't go around tonight, but let's finally take your life. There's a bad moon on the right. Oh, right. Hope you got your things together. Hope you got quite the bad day. Looks like we're in for NASA weather. One eye is taken before an eye. Well, don't go around tonight, but it's time to take your life. There's a bad moon on the right. Well, don't go around tonight, but it's time to take your life. There's a bad moon on the right.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 5.78,
+      "end": 14.03,
+      "text": " I see bad moon rising, trouble on the way.",
+      "tokens": [
+        50364,
+        286,
+        536,
+        1578,
+        7135,
+        11636,
+        11,
+        5253,
+        322,
+        264,
+        636,
+        13,
+        50714
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3342526069054237,
+      "compression_ratio": 1.4726027397260273,
+      "no_speech_prob": 0.16893477737903595,
+      "confidence": 0.772,
+      "words": [
+        {
+          "text": "I",
+          "start": 5.78,
+          "end": 6.0,
+          "confidence": 0.782
+        },
+        {
+          "text": "see",
+          "start": 6.0,
+          "end": 6.52,
+          "confidence": 0.956
+        },
+        {
+          "text": "bad",
+          "start": 6.52,
+          "end": 7.48,
+          "confidence": 0.624
+        },
+        {
+          "text": "moon",
+          "start": 7.48,
+          "end": 8.02,
+          "confidence": 0.56
+        },
+        {
+          "text": "rising,",
+          "start": 8.02,
+          "end": 8.78,
+          "confidence": 0.938
+        },
+        {
+          "text": "trouble",
+          "start": 12.01,
+          "end": 12.75,
+          "confidence": 0.431
+        },
+        {
+          "text": "on",
+          "start": 12.75,
+          "end": 13.41,
+          "confidence": 0.956
+        },
+        {
+          "text": "the",
+          "start": 13.41,
+          "end": 13.69,
+          "confidence": 0.973
+        },
+        {
+          "text": "way.",
+          "start": 13.69,
+          "end": 14.03,
+          "confidence": 0.994
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 17.78,
+      "end": 19.44,
+      "text": " There are wakes and lightning.",
+      "tokens": [
+        50714,
+        821,
+        366,
+        29610,
+        293,
+        16589,
+        13,
+        50864
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3342526069054237,
+      "compression_ratio": 1.4726027397260273,
+      "no_speech_prob": 0.16893477737903595,
+      "confidence": 0.381,
+      "words": [
+        {
+          "text": "There",
+          "start": 17.78,
+          "end": 18.08,
+          "confidence": 0.071
+        },
+        {
+          "text": "are",
+          "start": 18.08,
+          "end": 18.26,
+          "confidence": 0.5
+        },
+        {
+          "text": "wakes",
+          "start": 18.26,
+          "end": 18.66,
+          "confidence": 0.413
+        },
+        {
+          "text": "and",
+          "start": 18.66,
+          "end": 18.94,
+          "confidence": 0.838
+        },
+        {
+          "text": "lightning.",
+          "start": 18.94,
+          "end": 19.44,
+          "confidence": 0.654
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 21.79,
+      "end": 24.67,
+      "text": " I see bad times today.",
+      "tokens": [
+        50864,
+        286,
+        536,
+        1578,
+        1413,
+        965,
+        13,
+        51064
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3342526069054237,
+      "compression_ratio": 1.4726027397260273,
+      "no_speech_prob": 0.16893477737903595,
+      "confidence": 0.896,
+      "words": [
+        {
+          "text": "I",
+          "start": 21.79,
+          "end": 22.01,
+          "confidence": 0.999
+        },
+        {
+          "text": "see",
+          "start": 22.01,
+          "end": 22.51,
+          "confidence": 0.991
+        },
+        {
+          "text": "bad",
+          "start": 22.51,
+          "end": 23.43,
+          "confidence": 0.989
+        },
+        {
+          "text": "times",
+          "start": 23.43,
+          "end": 24.07,
+          "confidence": 0.738
+        },
+        {
+          "text": "today.",
+          "start": 24.07,
+          "end": 24.67,
+          "confidence": 0.801
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 26.9,
+      "end": 31.34,
+      "text": " Don't go around tonight, but let's finally take your life.",
+      "tokens": [
+        51064,
+        1468,
+        380,
+        352,
+        926,
+        4440,
+        11,
+        457,
+        718,
+        311,
+        2721,
+        747,
+        428,
+        993,
+        13,
+        51314
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3342526069054237,
+      "compression_ratio": 1.4726027397260273,
+      "no_speech_prob": 0.16893477737903595,
+      "confidence": 0.736,
+      "words": [
+        {
+          "text": "Don't",
+          "start": 26.9,
+          "end": 27.34,
+          "confidence": 0.984
+        },
+        {
+          "text": "go",
+          "start": 27.34,
+          "end": 27.6,
+          "confidence": 0.983
+        },
+        {
+          "text": "around",
+          "start": 27.6,
+          "end": 27.98,
+          "confidence": 0.761
+        },
+        {
+          "text": "tonight,",
+          "start": 27.98,
+          "end": 28.54,
+          "confidence": 0.984
+        },
+        {
+          "text": "but",
+          "start": 29.28,
+          "end": 29.46,
+          "confidence": 0.715
+        },
+        {
+          "text": "let's",
+          "start": 29.46,
+          "end": 29.66,
+          "confidence": 0.798
+        },
+        {
+          "text": "finally",
+          "start": 29.66,
+          "end": 30.14,
+          "confidence": 0.788
+        },
+        {
+          "text": "take",
+          "start": 30.14,
+          "end": 30.54,
+          "confidence": 0.986
+        },
+        {
+          "text": "your",
+          "start": 30.54,
+          "end": 30.84,
+          "confidence": 0.896
+        },
+        {
+          "text": "life.",
+          "start": 30.84,
+          "end": 31.34,
+          "confidence": 0.112
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 32.42,
+      "end": 35.4,
+      "text": " There's a bad moon on the right.",
+      "tokens": [
+        51314,
+        821,
+        311,
+        257,
+        1578,
+        7135,
+        322,
+        264,
+        558,
+        13,
+        51514
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3342526069054237,
+      "compression_ratio": 1.4726027397260273,
+      "no_speech_prob": 0.16893477737903595,
+      "confidence": 0.868,
+      "words": [
+        {
+          "text": "There's",
+          "start": 32.42,
+          "end": 33.48,
+          "confidence": 0.646
+        },
+        {
+          "text": "a",
+          "start": 33.48,
+          "end": 33.6,
+          "confidence": 0.907
+        },
+        {
+          "text": "bad",
+          "start": 33.6,
+          "end": 33.86,
+          "confidence": 0.989
+        },
+        {
+          "text": "moon",
+          "start": 33.86,
+          "end": 34.3,
+          "confidence": 0.916
+        },
+        {
+          "text": "on",
+          "start": 34.3,
+          "end": 34.74,
+          "confidence": 0.986
+        },
+        {
+          "text": "the",
+          "start": 34.74,
+          "end": 35.08,
+          "confidence": 0.974
+        },
+        {
+          "text": "right.",
+          "start": 35.08,
+          "end": 35.4,
+          "confidence": 0.979
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 37.71,
+      "end": 40.71,
+      "text": " I hear hurricanes blowing.",
+      "tokens": [
+        51514,
+        286,
+        1568,
+        48026,
+        15068,
+        13,
+        51714
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3342526069054237,
+      "compression_ratio": 1.4726027397260273,
+      "no_speech_prob": 0.16893477737903595,
+      "confidence": 0.781,
+      "words": [
+        {
+          "text": "I",
+          "start": 37.71,
+          "end": 37.99,
+          "confidence": 0.917
+        },
+        {
+          "text": "hear",
+          "start": 37.99,
+          "end": 38.49,
+          "confidence": 0.993
+        },
+        {
+          "text": "hurricanes",
+          "start": 38.49,
+          "end": 39.69,
+          "confidence": 0.864
+        },
+        {
+          "text": "blowing.",
+          "start": 39.69,
+          "end": 40.71,
+          "confidence": 0.473
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 2700,
+      "start": 43.05,
+      "end": 45.95,
+      "text": " I know the end is coming soon.",
+      "tokens": [
+        50364,
+        286,
+        458,
+        264,
+        917,
+        307,
+        1348,
+        2321,
+        13,
+        50564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.16738303720134579,
+      "compression_ratio": 1.4409937888198758,
+      "no_speech_prob": 0.01291325967758894,
+      "confidence": 0.951,
+      "words": [
+        {
+          "text": "I",
+          "start": 43.05,
+          "end": 43.31,
+          "confidence": 0.997
+        },
+        {
+          "text": "know",
+          "start": 43.31,
+          "end": 43.73,
+          "confidence": 0.992
+        },
+        {
+          "text": "the",
+          "start": 43.73,
+          "end": 44.33,
+          "confidence": 0.992
+        },
+        {
+          "text": "end",
+          "start": 44.33,
+          "end": 44.67,
+          "confidence": 0.746
+        },
+        {
+          "text": "is",
+          "start": 44.67,
+          "end": 44.99,
+          "confidence": 0.994
+        },
+        {
+          "text": "coming",
+          "start": 44.99,
+          "end": 45.39,
+          "confidence": 0.971
+        },
+        {
+          "text": "soon.",
+          "start": 45.39,
+          "end": 45.95,
+          "confidence": 0.996
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 2700,
+      "start": 48.42,
+      "end": 51.46,
+      "text": " I hear rivers overflowing.",
+      "tokens": [
+        50564,
+        286,
+        1568,
+        18361,
+        670,
+        43955,
+        13,
+        50764
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.16738303720134579,
+      "compression_ratio": 1.4409937888198758,
+      "no_speech_prob": 0.01291325967758894,
+      "confidence": 0.917,
+      "words": [
+        {
+          "text": "I",
+          "start": 48.42,
+          "end": 48.7,
+          "confidence": 0.998
+        },
+        {
+          "text": "hear",
+          "start": 48.7,
+          "end": 49.16,
+          "confidence": 0.957
+        },
+        {
+          "text": "rivers",
+          "start": 49.16,
+          "end": 50.1,
+          "confidence": 0.702
+        },
+        {
+          "text": "overflowing.",
+          "start": 50.1,
+          "end": 51.46,
+          "confidence": 0.982
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seek": 2700,
+      "start": 53.73,
+      "end": 56.67,
+      "text": " I hear the voice of rain is growing.",
+      "tokens": [
+        50764,
+        286,
+        1568,
+        264,
+        3177,
+        295,
+        4830,
+        307,
+        4194,
+        13,
+        50964
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.16738303720134579,
+      "compression_ratio": 1.4409937888198758,
+      "no_speech_prob": 0.01291325967758894,
+      "confidence": 0.533,
+      "words": [
+        {
+          "text": "I",
+          "start": 53.73,
+          "end": 54.03,
+          "confidence": 0.999
+        },
+        {
+          "text": "hear",
+          "start": 54.03,
+          "end": 54.59,
+          "confidence": 0.994
+        },
+        {
+          "text": "the",
+          "start": 54.59,
+          "end": 54.93,
+          "confidence": 0.683
+        },
+        {
+          "text": "voice",
+          "start": 54.93,
+          "end": 55.29,
+          "confidence": 0.339
+        },
+        {
+          "text": "of",
+          "start": 55.29,
+          "end": 55.63,
+          "confidence": 0.56
+        },
+        {
+          "text": "rain",
+          "start": 55.63,
+          "end": 55.97,
+          "confidence": 0.271
+        },
+        {
+          "text": "is",
+          "start": 55.97,
+          "end": 56.21,
+          "confidence": 0.761
+        },
+        {
+          "text": "growing.",
+          "start": 56.21,
+          "end": 56.67,
+          "confidence": 0.244
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "seek": 2700,
+      "start": 59.06,
+      "end": 63.48,
+      "text": " Don't go around tonight, but let's finally take your life.",
+      "tokens": [
+        50964,
+        1468,
+        380,
+        352,
+        926,
+        4440,
+        11,
+        457,
+        718,
+        311,
+        2721,
+        747,
+        428,
+        993,
+        13,
+        51264
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.16738303720134579,
+      "compression_ratio": 1.4409937888198758,
+      "no_speech_prob": 0.01291325967758894,
+      "confidence": 0.992,
+      "words": [
+        {
+          "text": "Don't",
+          "start": 59.06,
+          "end": 59.44,
+          "confidence": 0.996
+        },
+        {
+          "text": "go",
+          "start": 59.44,
+          "end": 59.76,
+          "confidence": 0.995
+        },
+        {
+          "text": "around",
+          "start": 59.76,
+          "end": 60.06,
+          "confidence": 0.971
+        },
+        {
+          "text": "tonight,",
+          "start": 60.06,
+          "end": 60.66,
+          "confidence": 0.998
+        },
+        {
+          "text": "but",
+          "start": 61.38,
+          "end": 61.5,
+          "confidence": 0.967
+        },
+        {
+          "text": "let's",
+          "start": 61.5,
+          "end": 61.8,
+          "confidence": 0.997
+        },
+        {
+          "text": "finally",
+          "start": 61.8,
+          "end": 62.2,
+          "confidence": 0.997
+        },
+        {
+          "text": "take",
+          "start": 62.2,
+          "end": 62.58,
+          "confidence": 0.999
+        },
+        {
+          "text": "your",
+          "start": 62.58,
+          "end": 62.92,
+          "confidence": 0.997
+        },
+        {
+          "text": "life.",
+          "start": 62.92,
+          "end": 63.48,
+          "confidence": 0.998
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "seek": 2700,
+      "start": 64.46,
+      "end": 67.46,
+      "text": " There's a bad moon on the right.",
+      "tokens": [
+        51264,
+        821,
+        311,
+        257,
+        1578,
+        7135,
+        322,
+        264,
+        558,
+        13,
+        51464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.16738303720134579,
+      "compression_ratio": 1.4409937888198758,
+      "no_speech_prob": 0.01291325967758894,
+      "confidence": 0.976,
+      "words": [
+        {
+          "text": "There's",
+          "start": 64.46,
+          "end": 65.54,
+          "confidence": 0.935
+        },
+        {
+          "text": "a",
+          "start": 65.54,
+          "end": 65.68,
+          "confidence": 0.981
+        },
+        {
+          "text": "bad",
+          "start": 65.68,
+          "end": 65.92,
+          "confidence": 0.999
+        },
+        {
+          "text": "moon",
+          "start": 65.92,
+          "end": 66.34,
+          "confidence": 0.972
+        },
+        {
+          "text": "on",
+          "start": 66.34,
+          "end": 66.78,
+          "confidence": 0.994
+        },
+        {
+          "text": "the",
+          "start": 66.78,
+          "end": 67.08,
+          "confidence": 0.999
+        },
+        {
+          "text": "right.",
+          "start": 67.08,
+          "end": 67.46,
+          "confidence": 0.998
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "seek": 2700,
+      "start": 68.72,
+      "end": 69.58,
+      "text": " Oh, right.",
+      "tokens": [
+        51464,
+        876,
+        11,
+        558,
+        13,
+        51564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.16738303720134579,
+      "compression_ratio": 1.4409937888198758,
+      "no_speech_prob": 0.01291325967758894,
+      "confidence": 0.396,
+      "words": [
+        {
+          "text": "Oh,",
+          "start": 68.72,
+          "end": 69.18,
+          "confidence": 0.287
+        },
+        {
+          "text": "right.",
+          "start": 69.46,
+          "end": 69.58,
+          "confidence": 0.545
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "seek": 2700,
+      "start": 91.06,
+      "end": 94.02,
+      "text": " Hope you got your things together.",
+      "tokens": [
+        51564,
+        6483,
+        291,
+        658,
+        428,
+        721,
+        1214,
+        13,
+        51764
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.16738303720134579,
+      "compression_ratio": 1.4409937888198758,
+      "no_speech_prob": 0.01291325967758894,
+      "confidence": 0.902,
+      "words": [
+        {
+          "text": "Hope",
+          "start": 91.06,
+          "end": 91.38,
+          "confidence": 0.763
+        },
+        {
+          "text": "you",
+          "start": 91.38,
+          "end": 91.8,
+          "confidence": 0.996
+        },
+        {
+          "text": "got",
+          "start": 91.8,
+          "end": 92.62,
+          "confidence": 0.795
+        },
+        {
+          "text": "your",
+          "start": 92.62,
+          "end": 92.92,
+          "confidence": 0.986
+        },
+        {
+          "text": "things",
+          "start": 92.92,
+          "end": 93.42,
+          "confidence": 0.919
+        },
+        {
+          "text": "together.",
+          "start": 93.42,
+          "end": 94.02,
+          "confidence": 0.984
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "seek": 5500,
+      "start": 96.5,
+      "end": 99.34,
+      "text": " Hope you got quite the bad day.",
+      "tokens": [
+        50364,
+        6483,
+        291,
+        658,
+        1596,
+        264,
+        1578,
+        786,
+        13,
+        50564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.18371057510375977,
+      "compression_ratio": 1.7124183006535947,
+      "no_speech_prob": 0.014029625803232193,
+      "confidence": 0.637,
+      "words": [
+        {
+          "text": "Hope",
+          "start": 96.5,
+          "end": 96.76,
+          "confidence": 0.945
+        },
+        {
+          "text": "you",
+          "start": 96.76,
+          "end": 97.2,
+          "confidence": 0.99
+        },
+        {
+          "text": "got",
+          "start": 97.2,
+          "end": 97.68,
+          "confidence": 0.596
+        },
+        {
+          "text": "quite",
+          "start": 97.68,
+          "end": 98.04,
+          "confidence": 0.874
+        },
+        {
+          "text": "the",
+          "start": 98.04,
+          "end": 98.26,
+          "confidence": 0.554
+        },
+        {
+          "text": "bad",
+          "start": 98.26,
+          "end": 98.72,
+          "confidence": 0.358
+        },
+        {
+          "text": "day.",
+          "start": 98.72,
+          "end": 99.34,
+          "confidence": 0.438
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "seek": 5500,
+      "start": 101.69,
+      "end": 104.79,
+      "text": " Looks like we're in for NASA weather.",
+      "tokens": [
+        50564,
+        10027,
+        411,
+        321,
+        434,
+        294,
+        337,
+        12077,
+        5503,
+        13,
+        50764
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.18371057510375977,
+      "compression_ratio": 1.7124183006535947,
+      "no_speech_prob": 0.014029625803232193,
+      "confidence": 0.703,
+      "words": [
+        {
+          "text": "Looks",
+          "start": 101.69,
+          "end": 102.05,
+          "confidence": 0.928
+        },
+        {
+          "text": "like",
+          "start": 102.05,
+          "end": 102.59,
+          "confidence": 0.999
+        },
+        {
+          "text": "we're",
+          "start": 102.59,
+          "end": 103.17,
+          "confidence": 0.99
+        },
+        {
+          "text": "in",
+          "start": 103.17,
+          "end": 103.41,
+          "confidence": 0.963
+        },
+        {
+          "text": "for",
+          "start": 103.41,
+          "end": 103.67,
+          "confidence": 0.606
+        },
+        {
+          "text": "NASA",
+          "start": 103.67,
+          "end": 104.15,
+          "confidence": 0.122
+        },
+        {
+          "text": "weather.",
+          "start": 104.15,
+          "end": 104.79,
+          "confidence": 0.924
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "seek": 5500,
+      "start": 107.06,
+      "end": 110.08,
+      "text": " One eye is taken before an eye.",
+      "tokens": [
+        50764,
+        1485,
+        3313,
+        307,
+        2726,
+        949,
+        364,
+        3313,
+        13,
+        50964
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.18371057510375977,
+      "compression_ratio": 1.7124183006535947,
+      "no_speech_prob": 0.014029625803232193,
+      "confidence": 0.758,
+      "words": [
+        {
+          "text": "One",
+          "start": 107.06,
+          "end": 107.42,
+          "confidence": 0.976
+        },
+        {
+          "text": "eye",
+          "start": 107.42,
+          "end": 107.84,
+          "confidence": 0.541
+        },
+        {
+          "text": "is",
+          "start": 107.84,
+          "end": 108.46,
+          "confidence": 0.978
+        },
+        {
+          "text": "taken",
+          "start": 108.46,
+          "end": 108.84,
+          "confidence": 0.584
+        },
+        {
+          "text": "before",
+          "start": 108.84,
+          "end": 109.48,
+          "confidence": 0.542
+        },
+        {
+          "text": "an",
+          "start": 109.48,
+          "end": 109.86,
+          "confidence": 0.884
+        },
+        {
+          "text": "eye.",
+          "start": 109.86,
+          "end": 110.08,
+          "confidence": 0.993
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "seek": 5500,
+      "start": 111.67,
+      "end": 116.81,
+      "text": " Well, don't go around tonight, but it's time to take your life.",
+      "tokens": [
+        50964,
+        1042,
+        11,
+        500,
+        380,
+        352,
+        926,
+        4440,
+        11,
+        457,
+        309,
+        311,
+        565,
+        281,
+        747,
+        428,
+        993,
+        13,
+        51314
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.18371057510375977,
+      "compression_ratio": 1.7124183006535947,
+      "no_speech_prob": 0.014029625803232193,
+      "confidence": 0.87,
+      "words": [
+        {
+          "text": "Well,",
+          "start": 111.67,
+          "end": 112.29,
+          "confidence": 0.66
+        },
+        {
+          "text": "don't",
+          "start": 112.45,
+          "end": 112.87,
+          "confidence": 0.99
+        },
+        {
+          "text": "go",
+          "start": 112.87,
+          "end": 113.11,
+          "confidence": 0.998
+        },
+        {
+          "text": "around",
+          "start": 113.11,
+          "end": 113.49,
+          "confidence": 0.972
+        },
+        {
+          "text": "tonight,",
+          "start": 113.49,
+          "end": 114.05,
+          "confidence": 0.997
+        },
+        {
+          "text": "but",
+          "start": 114.81,
+          "end": 114.91,
+          "confidence": 0.921
+        },
+        {
+          "text": "it's",
+          "start": 114.91,
+          "end": 115.13,
+          "confidence": 0.79
+        },
+        {
+          "text": "time",
+          "start": 115.13,
+          "end": 115.51,
+          "confidence": 0.408
+        },
+        {
+          "text": "to",
+          "start": 115.51,
+          "end": 115.77,
+          "confidence": 0.99
+        },
+        {
+          "text": "take",
+          "start": 115.77,
+          "end": 116.03,
+          "confidence": 0.999
+        },
+        {
+          "text": "your",
+          "start": 116.03,
+          "end": 116.35,
+          "confidence": 0.993
+        },
+        {
+          "text": "life.",
+          "start": 116.35,
+          "end": 116.81,
+          "confidence": 0.981
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "seek": 5500,
+      "start": 117.85,
+      "end": 120.89,
+      "text": " There's a bad moon on the right.",
+      "tokens": [
+        51314,
+        821,
+        311,
+        257,
+        1578,
+        7135,
+        322,
+        264,
+        558,
+        13,
+        51514
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.18371057510375977,
+      "compression_ratio": 1.7124183006535947,
+      "no_speech_prob": 0.014029625803232193,
+      "confidence": 0.995,
+      "words": [
+        {
+          "text": "There's",
+          "start": 117.85,
+          "end": 118.93,
+          "confidence": 0.99
+        },
+        {
+          "text": "a",
+          "start": 118.93,
+          "end": 119.07,
+          "confidence": 0.997
+        },
+        {
+          "text": "bad",
+          "start": 119.07,
+          "end": 119.35,
+          "confidence": 0.999
+        },
+        {
+          "text": "moon",
+          "start": 119.35,
+          "end": 119.71,
+          "confidence": 0.994
+        },
+        {
+          "text": "on",
+          "start": 119.71,
+          "end": 120.19,
+          "confidence": 0.997
+        },
+        {
+          "text": "the",
+          "start": 120.19,
+          "end": 120.57,
+          "confidence": 0.993
+        },
+        {
+          "text": "right.",
+          "start": 120.57,
+          "end": 120.89,
+          "confidence": 0.999
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "seek": 5500,
+      "start": 123.79,
+      "end": 127.54,
+      "text": " Well, don't go around tonight, but it's time to take your life.",
+      "tokens": [
+        51514,
+        1042,
+        11,
+        500,
+        380,
+        352,
+        926,
+        4440,
+        11,
+        457,
+        309,
+        311,
+        565,
+        281,
+        747,
+        428,
+        993,
+        13,
+        51714
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.18371057510375977,
+      "compression_ratio": 1.7124183006535947,
+      "no_speech_prob": 0.014029625803232193,
+      "confidence": 0.879,
+      "words": [
+        {
+          "text": "Well,",
+          "start": 123.79,
+          "end": 123.98,
+          "confidence": 0.241
+        },
+        {
+          "text": "don't",
+          "start": 124.12,
+          "end": 124.28,
+          "confidence": 0.847
+        },
+        {
+          "text": "go",
+          "start": 124.28,
+          "end": 124.3,
+          "confidence": 0.992
+        },
+        {
+          "text": "around",
+          "start": 124.3,
+          "end": 124.32,
+          "confidence": 0.985
+        },
+        {
+          "text": "tonight,",
+          "start": 124.32,
+          "end": 124.72,
+          "confidence": 0.995
+        },
+        {
+          "text": "but",
+          "start": 125.52,
+          "end": 125.62,
+          "confidence": 0.996
+        },
+        {
+          "text": "it's",
+          "start": 125.62,
+          "end": 125.88,
+          "confidence": 0.997
+        },
+        {
+          "text": "time",
+          "start": 125.88,
+          "end": 126.18,
+          "confidence": 0.999
+        },
+        {
+          "text": "to",
+          "start": 126.18,
+          "end": 126.48,
+          "confidence": 0.995
+        },
+        {
+          "text": "take",
+          "start": 126.48,
+          "end": 126.74,
+          "confidence": 0.999
+        },
+        {
+          "text": "your",
+          "start": 126.74,
+          "end": 127.04,
+          "confidence": 0.996
+        },
+        {
+          "text": "life.",
+          "start": 127.04,
+          "end": 127.54,
+          "confidence": 0.996
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "seek": 8200,
+      "start": 128.56,
+      "end": 131.62,
+      "text": " There's a bad moon on the right.",
+      "tokens": [
+        50364,
+        821,
+        311,
+        257,
+        1578,
+        7135,
+        322,
+        264,
+        558,
+        13,
+        50564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.06294322510560353,
+      "compression_ratio": 0.8421052631578947,
+      "no_speech_prob": 0.2053370326757431,
+      "confidence": 0.995,
+      "words": [
+        {
+          "text": "There's",
+          "start": 128.56,
+          "end": 129.66,
+          "confidence": 0.989
+        },
+        {
+          "text": "a",
+          "start": 129.66,
+          "end": 129.82,
+          "confidence": 0.999
+        },
+        {
+          "text": "bad",
+          "start": 129.82,
+          "end": 130.08,
+          "confidence": 0.999
+        },
+        {
+          "text": "moon",
+          "start": 130.08,
+          "end": 130.48,
+          "confidence": 0.995
+        },
+        {
+          "text": "on",
+          "start": 130.48,
+          "end": 130.94,
+          "confidence": 0.997
+        },
+        {
+          "text": "the",
+          "start": 130.94,
+          "end": 131.22,
+          "confidence": 0.998
+        },
+        {
+          "text": "right.",
+          "start": 131.22,
+          "end": 131.62,
+          "confidence": 0.999
+        }
+      ]
+    }
+  ],
+  "language": "en",
+  "language_probs": {
+    "en": 0.9558670520782471,
+    "zh": 0.0002364381361985579,
+    "de": 0.0013820340391248465,
+    "es": 0.0004021948261652142,
+    "ru": 0.0003107920929323882,
+    "ko": 0.0001161345062428154,
+    "fr": 0.0007455514860339463,
+    "ja": 0.0002364381361985579,
+    "pt": 0.0010596421780064702,
+    "tr": 0.00026376580353826284,
+    "pl": 0.0005897796945646405,
+    "ca": 5.1829483709298074e-06,
+    "nl": 0.0004776181885972619,
+    "ar": 0.0002658345620147884,
+    "sv": 0.00015146796067710966,
+    "it": 0.00011523074499564245,
+    "id": 0.00010740687139332294,
+    "hi": 1.186388726637233e-05,
+    "fi": 4.0135011659003794e-05,
+    "vi": 0.00013159764057490975,
+    "he": 0.0002516870736144483,
+    "uk": 0.00017847288108896464,
+    "el": 9.186995885102078e-05,
+    "ms": 6.216232577571645e-05,
+    "cs": 4.692258880822919e-05,
+    "ro": 5.978092667646706e-05,
+    "da": 0.00014118367107585073,
+    "hu": 2.5913113859132864e-05,
+    "ta": 4.984393399354303e-06,
+    "no": 8.29975979286246e-05,
+    "th": 3.35340628225822e-05,
+    "ur": 1.6216012227232568e-05,
+    "hr": 1.186388726637233e-05,
+    "bg": 8.74788202054333e-06,
+    "lt": 2.1270780052873306e-06,
+    "la": 0.004357915371656418,
+    "mi": 0.0033153274562209845,
+    "ml": 3.45258786182967e-06,
+    "cy": 0.0013928733533248305,
+    "sk": 5.919112936680904e-06,
+    "te": 5.781997060694266e-06,
+    "fa": 1.2240487194503658e-05,
+    "lv": 1.3443545867630746e-05,
+    "bn": 3.168272769471514e-06,
+    "sr": 9.73847136265249e-07,
+    "az": 6.141977451079583e-07,
+    "sl": 2.8459986424422823e-05,
+    "kn": 9.718019100546371e-08,
+    "et": 1.458847407320718e-07,
+    "mk": 5.012935275772179e-07,
+    "br": 0.0006037659477442503,
+    "eu": 5.1829483709298074e-06,
+    "is": 2.492039857315831e-05,
+    "hy": 2.6061502467200626e-06,
+    "ne": 4.746152342249843e-07,
+    "mn": 5.737000719818752e-06,
+    "bs": 7.659900802536868e-06,
+    "kk": 6.851870466562104e-07,
+    "sq": 6.812857463955879e-06,
+    "sw": 2.3410548237734474e-05,
+    "gl": 1.1589060704864096e-05,
+    "mr": 9.093642461266427e-08,
+    "pa": 4.075488106991543e-07,
+    "si": 1.4764845218451228e-05,
+    "km": 0.0003181622887495905,
+    "sn": 0.0005204787594266236,
+    "yo": 0.00029196214745752513,
+    "so": 1.2284726835787296e-07,
+    "af": 1.634319414733909e-05,
+    "oc": 7.84155145083787e-06,
+    "ka": 6.745642622263404e-07,
+    "be": 4.1000498640642036e-06,
+    "tg": 3.255128788737238e-08,
+    "sd": 5.692355443898123e-06,
+    "gu": 1.4643386947454928e-08,
+    "am": 1.1860345949799012e-07,
+    "yi": 0.001051396015100181,
+    "lo": 1.544092924632423e-06,
+    "uz": 3.011073335112968e-10,
+    "fo": 6.167857645777985e-05,
+    "ht": 5.794165554107167e-05,
+    "ps": 5.274073373584542e-07,
+    "tk": 3.0694207175940846e-09,
+    "nn": 0.0008923082496039569,
+    "mt": 2.731222139118472e-06,
+    "sa": 2.199217487941496e-05,
+    "lb": 3.398045933522553e-08,
+    "my": 3.432929588598199e-05,
+    "bo": 7.482460205210373e-06,
+    "tl": 5.073541251476854e-05,
+    "mg": 4.170889855714677e-09,
+    "as": 2.2419236245241336e-07,
+    "tt": 1.114010039771074e-08,
+    "haw": 0.022479839622974396,
+    "ln": 5.399144242801412e-07,
+    "ha": 2.1264428440304073e-08,
+    "ba": 4.2781471698560836e-09,
+    "jw": 0.0007874593138694763,
+    "su": 6.999626833703587e-08
+  },
+  "speech_activity": [
+    {
+      "start": 5.678,
+      "end": 9.746
+    },
+    {
+      "start": 12.014,
+      "end": 14.834
+    },
+    {
+      "start": 17.326,
+      "end": 20.338
+    },
+    {
+      "start": 21.71,
+      "end": 25.522
+    },
+    {
+      "start": 26.734,
+      "end": 36.114
+    },
+    {
+      "start": 37.582,
+      "end": 41.81
+    },
+    {
+      "start": 42.83,
+      "end": 46.77
+    },
+    {
+      "start": 48.398,
+      "end": 52.37
+    },
+    {
+      "start": 53.646,
+      "end": 57.618
+    },
+    {
+      "start": 58.702,
+      "end": 70.194
+    },
+    {
+      "start": 91.054,
+      "end": 95.058
+    },
+    {
+      "start": 96.142,
+      "end": 100.242
+    },
+    {
+      "start": 101.23,
+      "end": 105.746
+    },
+    {
+      "start": 106.638,
+      "end": 110.738
+    },
+    {
+      "start": 111.246,
+      "end": 121.618
+    },
+    {
+      "start": 123.79,
+      "end": 132.434
+    }
+  ]
+}

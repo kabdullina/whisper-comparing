@@ -1,0 +1,1617 @@
+{
+  "text": " When you were a fool, couldn't look you in the eye You're just like an angel, your skin makes me cry You float like a feather in a beautiful world I wish I was special, you're so fucking special But I'm a creep, I'm a little What the hell am I to hear? I don't belong here I don't care if it hurts I wanna have control, I want a perfect body I want a perfect soul, I want you to notice What I'm not around, so fucking special I wish I was special But I'm a creep, I'm a little What the hell am I to hear? I don't belong here I don't belong here I don't belong here I don't belong here I don't belong here I don't belong here I don't belong here I don't belong here",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 18.78,
+      "end": 25.4,
+      "text": " When you were a fool, couldn't look you in the eye",
+      "tokens": [
+        50364,
+        1133,
+        291,
+        645,
+        257,
+        7979,
+        11,
+        2809,
+        380,
+        574,
+        291,
+        294,
+        264,
+        3313,
+        50639
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2934127460826527,
+      "compression_ratio": 1.416058394160584,
+      "no_speech_prob": 0.5684952735900879,
+      "confidence": 0.754,
+      "words": [
+        {
+          "text": "When",
+          "start": 18.78,
+          "end": 19.04,
+          "confidence": 0.789
+        },
+        {
+          "text": "you",
+          "start": 19.04,
+          "end": 19.26,
+          "confidence": 0.984
+        },
+        {
+          "text": "were",
+          "start": 19.26,
+          "end": 19.52,
+          "confidence": 0.839
+        },
+        {
+          "text": "a",
+          "start": 19.52,
+          "end": 19.92,
+          "confidence": 0.379
+        },
+        {
+          "text": "fool,",
+          "start": 19.92,
+          "end": 20.24,
+          "confidence": 0.228
+        },
+        {
+          "text": "couldn't",
+          "start": 23.25,
+          "end": 23.98,
+          "confidence": 0.823
+        },
+        {
+          "text": "look",
+          "start": 23.98,
+          "end": 24.26,
+          "confidence": 0.976
+        },
+        {
+          "text": "you",
+          "start": 24.26,
+          "end": 24.54,
+          "confidence": 0.974
+        },
+        {
+          "text": "in",
+          "start": 24.54,
+          "end": 24.72,
+          "confidence": 0.987
+        },
+        {
+          "text": "the",
+          "start": 24.72,
+          "end": 25.0,
+          "confidence": 0.988
+        },
+        {
+          "text": "eye",
+          "start": 25.0,
+          "end": 25.4,
+          "confidence": 0.964
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 28.92,
+      "end": 35.65,
+      "text": " You're just like an angel, your skin makes me cry",
+      "tokens": [
+        50639,
+        509,
+        434,
+        445,
+        411,
+        364,
+        14250,
+        11,
+        428,
+        3178,
+        1669,
+        385,
+        3305,
+        50964
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2934127460826527,
+      "compression_ratio": 1.416058394160584,
+      "no_speech_prob": 0.5684952735900879,
+      "confidence": 0.9,
+      "words": [
+        {
+          "text": "You're",
+          "start": 28.92,
+          "end": 29.1,
+          "confidence": 0.778
+        },
+        {
+          "text": "just",
+          "start": 29.1,
+          "end": 29.36,
+          "confidence": 0.998
+        },
+        {
+          "text": "like",
+          "start": 29.36,
+          "end": 29.74,
+          "confidence": 0.998
+        },
+        {
+          "text": "an",
+          "start": 29.74,
+          "end": 30.1,
+          "confidence": 0.992
+        },
+        {
+          "text": "angel,",
+          "start": 30.1,
+          "end": 31.08,
+          "confidence": 0.979
+        },
+        {
+          "text": "your",
+          "start": 33.95,
+          "end": 34.15,
+          "confidence": 0.563
+        },
+        {
+          "text": "skin",
+          "start": 34.15,
+          "end": 34.41,
+          "confidence": 0.999
+        },
+        {
+          "text": "makes",
+          "start": 34.41,
+          "end": 34.83,
+          "confidence": 0.983
+        },
+        {
+          "text": "me",
+          "start": 34.83,
+          "end": 35.11,
+          "confidence": 0.978
+        },
+        {
+          "text": "cry",
+          "start": 35.11,
+          "end": 35.65,
+          "confidence": 0.997
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 39.05,
+      "end": 46.22,
+      "text": " You float like a feather in a beautiful world",
+      "tokens": [
+        50964,
+        509,
+        15706,
+        411,
+        257,
+        25852,
+        294,
+        257,
+        2238,
+        1002,
+        51339
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2934127460826527,
+      "compression_ratio": 1.416058394160584,
+      "no_speech_prob": 0.5684952735900879,
+      "confidence": 0.888,
+      "words": [
+        {
+          "text": "You",
+          "start": 39.05,
+          "end": 39.23,
+          "confidence": 0.947
+        },
+        {
+          "text": "float",
+          "start": 39.23,
+          "end": 39.57,
+          "confidence": 0.986
+        },
+        {
+          "text": "like",
+          "start": 39.57,
+          "end": 39.97,
+          "confidence": 0.996
+        },
+        {
+          "text": "a",
+          "start": 39.97,
+          "end": 40.23,
+          "confidence": 0.926
+        },
+        {
+          "text": "feather",
+          "start": 40.23,
+          "end": 41.15,
+          "confidence": 0.986
+        },
+        {
+          "text": "in",
+          "start": 41.15,
+          "end": 42.74,
+          "confidence": 0.445
+        },
+        {
+          "text": "a",
+          "start": 44.38,
+          "end": 44.52,
+          "confidence": 0.979
+        },
+        {
+          "text": "beautiful",
+          "start": 44.52,
+          "end": 44.96,
+          "confidence": 0.998
+        },
+        {
+          "text": "world",
+          "start": 44.96,
+          "end": 46.22,
+          "confidence": 0.932
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 49.62,
+      "end": 56.69,
+      "text": " I wish I was special, you're so fucking special",
+      "tokens": [
+        51339,
+        286,
+        3172,
+        286,
+        390,
+        2121,
+        11,
+        291,
+        434,
+        370,
+        5546,
+        2121,
+        51714
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2934127460826527,
+      "compression_ratio": 1.416058394160584,
+      "no_speech_prob": 0.5684952735900879,
+      "confidence": 0.919,
+      "words": [
+        {
+          "text": "I",
+          "start": 49.62,
+          "end": 49.8,
+          "confidence": 0.941
+        },
+        {
+          "text": "wish",
+          "start": 49.8,
+          "end": 50.08,
+          "confidence": 0.987
+        },
+        {
+          "text": "I",
+          "start": 50.08,
+          "end": 50.4,
+          "confidence": 0.879
+        },
+        {
+          "text": "was",
+          "start": 50.4,
+          "end": 50.56,
+          "confidence": 0.931
+        },
+        {
+          "text": "special,",
+          "start": 50.56,
+          "end": 51.52,
+          "confidence": 0.997
+        },
+        {
+          "text": "you're",
+          "start": 54.61,
+          "end": 54.85,
+          "confidence": 0.943
+        },
+        {
+          "text": "so",
+          "start": 54.85,
+          "end": 55.17,
+          "confidence": 0.991
+        },
+        {
+          "text": "fucking",
+          "start": 55.17,
+          "end": 55.69,
+          "confidence": 0.646
+        },
+        {
+          "text": "special",
+          "start": 55.69,
+          "end": 56.69,
+          "confidence": 0.996
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 2700,
+      "start": 59.99,
+      "end": 67.17,
+      "text": " But I'm a creep, I'm a little",
+      "tokens": [
+        50389,
+        583,
+        286,
+        478,
+        257,
+        9626,
+        11,
+        286,
+        478,
+        257,
+        707,
+        50664
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.14780362129211425,
+      "compression_ratio": 1.280701754385965,
+      "no_speech_prob": 0.16943684220314026,
+      "confidence": 0.894,
+      "words": [
+        {
+          "text": "But",
+          "start": 59.99,
+          "end": 60.23,
+          "confidence": 0.912
+        },
+        {
+          "text": "I'm",
+          "start": 60.23,
+          "end": 60.61,
+          "confidence": 0.988
+        },
+        {
+          "text": "a",
+          "start": 60.61,
+          "end": 60.87,
+          "confidence": 0.959
+        },
+        {
+          "text": "creep,",
+          "start": 60.87,
+          "end": 61.47,
+          "confidence": 0.972
+        },
+        {
+          "text": "I'm",
+          "start": 65.35,
+          "end": 65.85,
+          "confidence": 0.995
+        },
+        {
+          "text": "a",
+          "start": 65.85,
+          "end": 66.09,
+          "confidence": 0.973
+        },
+        {
+          "text": "little",
+          "start": 66.09,
+          "end": 67.17,
+          "confidence": 0.458
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 2700,
+      "start": 70.04,
+      "end": 78.03,
+      "text": " What the hell am I to hear? I don't belong here",
+      "tokens": [
+        50664,
+        708,
+        264,
+        4921,
+        669,
+        286,
+        281,
+        1568,
+        30,
+        286,
+        500,
+        380,
+        5784,
+        510,
+        51014
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.14780362129211425,
+      "compression_ratio": 1.280701754385965,
+      "no_speech_prob": 0.16943684220314026,
+      "confidence": 0.865,
+      "words": [
+        {
+          "text": "What",
+          "start": 70.04,
+          "end": 70.28,
+          "confidence": 0.964
+        },
+        {
+          "text": "the",
+          "start": 70.28,
+          "end": 70.5,
+          "confidence": 0.998
+        },
+        {
+          "text": "hell",
+          "start": 70.5,
+          "end": 70.82,
+          "confidence": 0.995
+        },
+        {
+          "text": "am",
+          "start": 70.82,
+          "end": 71.04,
+          "confidence": 0.931
+        },
+        {
+          "text": "I",
+          "start": 71.04,
+          "end": 71.2,
+          "confidence": 0.991
+        },
+        {
+          "text": "to",
+          "start": 71.2,
+          "end": 71.52,
+          "confidence": 0.915
+        },
+        {
+          "text": "hear?",
+          "start": 71.52,
+          "end": 72.52,
+          "confidence": 0.426
+        },
+        {
+          "text": "I",
+          "start": 75.73,
+          "end": 76.11,
+          "confidence": 0.511
+        },
+        {
+          "text": "don't",
+          "start": 76.11,
+          "end": 76.51,
+          "confidence": 0.999
+        },
+        {
+          "text": "belong",
+          "start": 76.51,
+          "end": 76.99,
+          "confidence": 0.998
+        },
+        {
+          "text": "here",
+          "start": 76.99,
+          "end": 78.03,
+          "confidence": 0.996
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 2700,
+      "start": 80.94,
+      "end": 82.6,
+      "text": " I don't care if it hurts",
+      "tokens": [
+        51014,
+        286,
+        500,
+        380,
+        1127,
+        498,
+        309,
+        11051,
+        51214
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.14780362129211425,
+      "compression_ratio": 1.280701754385965,
+      "no_speech_prob": 0.16943684220314026,
+      "confidence": 0.963,
+      "words": [
+        {
+          "text": "I",
+          "start": 80.94,
+          "end": 81.1,
+          "confidence": 0.828
+        },
+        {
+          "text": "don't",
+          "start": 81.1,
+          "end": 81.46,
+          "confidence": 0.992
+        },
+        {
+          "text": "care",
+          "start": 81.46,
+          "end": 81.7,
+          "confidence": 0.998
+        },
+        {
+          "text": "if",
+          "start": 81.7,
+          "end": 81.96,
+          "confidence": 0.995
+        },
+        {
+          "text": "it",
+          "start": 81.96,
+          "end": 82.12,
+          "confidence": 0.983
+        },
+        {
+          "text": "hurts",
+          "start": 82.12,
+          "end": 82.6,
+          "confidence": 0.964
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 2700,
+      "start": 86.15,
+      "end": 93.28,
+      "text": " I wanna have control, I want a perfect body",
+      "tokens": [
+        51214,
+        286,
+        1948,
+        362,
+        1969,
+        11,
+        286,
+        528,
+        257,
+        2176,
+        1772,
+        51564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.14780362129211425,
+      "compression_ratio": 1.280701754385965,
+      "no_speech_prob": 0.16943684220314026,
+      "confidence": 0.929,
+      "words": [
+        {
+          "text": "I",
+          "start": 86.15,
+          "end": 86.31,
+          "confidence": 0.995
+        },
+        {
+          "text": "wanna",
+          "start": 86.31,
+          "end": 86.53,
+          "confidence": 0.785
+        },
+        {
+          "text": "have",
+          "start": 86.53,
+          "end": 86.87,
+          "confidence": 0.993
+        },
+        {
+          "text": "control,",
+          "start": 86.87,
+          "end": 87.67,
+          "confidence": 0.991
+        },
+        {
+          "text": "I",
+          "start": 91.46,
+          "end": 91.58,
+          "confidence": 0.991
+        },
+        {
+          "text": "want",
+          "start": 91.58,
+          "end": 91.76,
+          "confidence": 0.684
+        },
+        {
+          "text": "a",
+          "start": 91.76,
+          "end": 91.88,
+          "confidence": 0.989
+        },
+        {
+          "text": "perfect",
+          "start": 91.88,
+          "end": 92.34,
+          "confidence": 0.999
+        },
+        {
+          "text": "body",
+          "start": 92.34,
+          "end": 93.28,
+          "confidence": 0.999
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seek": 5100,
+      "start": 96.65,
+      "end": 103.92,
+      "text": " I want a perfect soul, I want you to notice",
+      "tokens": [
+        50364,
+        286,
+        528,
+        257,
+        2176,
+        5133,
+        11,
+        286,
+        528,
+        291,
+        281,
+        3449,
+        50714
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.08334622140658104,
+      "compression_ratio": 1.3893129770992367,
+      "no_speech_prob": 0.05705775320529938,
+      "confidence": 0.979,
+      "words": [
+        {
+          "text": "I",
+          "start": 96.65,
+          "end": 96.81,
+          "confidence": 0.993
+        },
+        {
+          "text": "want",
+          "start": 96.81,
+          "end": 96.99,
+          "confidence": 0.86
+        },
+        {
+          "text": "a",
+          "start": 96.99,
+          "end": 97.11,
+          "confidence": 0.995
+        },
+        {
+          "text": "perfect",
+          "start": 97.11,
+          "end": 97.55,
+          "confidence": 0.999
+        },
+        {
+          "text": "soul,",
+          "start": 97.55,
+          "end": 98.41,
+          "confidence": 0.996
+        },
+        {
+          "text": "I",
+          "start": 101.88,
+          "end": 102.0,
+          "confidence": 0.994
+        },
+        {
+          "text": "want",
+          "start": 102.0,
+          "end": 102.24,
+          "confidence": 0.999
+        },
+        {
+          "text": "you",
+          "start": 102.24,
+          "end": 102.62,
+          "confidence": 0.997
+        },
+        {
+          "text": "to",
+          "start": 102.62,
+          "end": 102.88,
+          "confidence": 0.998
+        },
+        {
+          "text": "notice",
+          "start": 102.88,
+          "end": 103.92,
+          "confidence": 0.973
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "seek": 5100,
+      "start": 107.11,
+      "end": 114.45,
+      "text": " What I'm not around, so fucking special",
+      "tokens": [
+        50714,
+        708,
+        286,
+        478,
+        406,
+        926,
+        11,
+        370,
+        5546,
+        2121,
+        51014
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.08334622140658104,
+      "compression_ratio": 1.3893129770992367,
+      "no_speech_prob": 0.05705775320529938,
+      "confidence": 0.896,
+      "words": [
+        {
+          "text": "What",
+          "start": 107.11,
+          "end": 107.33,
+          "confidence": 0.532
+        },
+        {
+          "text": "I'm",
+          "start": 107.33,
+          "end": 107.69,
+          "confidence": 0.988
+        },
+        {
+          "text": "not",
+          "start": 107.69,
+          "end": 107.97,
+          "confidence": 0.993
+        },
+        {
+          "text": "around,",
+          "start": 107.97,
+          "end": 108.63,
+          "confidence": 0.998
+        },
+        {
+          "text": "so",
+          "start": 112.29,
+          "end": 112.73,
+          "confidence": 0.866
+        },
+        {
+          "text": "fucking",
+          "start": 112.73,
+          "end": 113.29,
+          "confidence": 0.939
+        },
+        {
+          "text": "special",
+          "start": 113.29,
+          "end": 114.45,
+          "confidence": 0.996
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "seek": 5100,
+      "start": 117.41,
+      "end": 119.69,
+      "text": " I wish I was special",
+      "tokens": [
+        51014,
+        286,
+        3172,
+        286,
+        390,
+        2121,
+        51214
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.08334622140658104,
+      "compression_ratio": 1.3893129770992367,
+      "no_speech_prob": 0.05705775320529938,
+      "confidence": 0.997,
+      "words": [
+        {
+          "text": "I",
+          "start": 117.41,
+          "end": 117.69,
+          "confidence": 0.998
+        },
+        {
+          "text": "wish",
+          "start": 117.69,
+          "end": 118.09,
+          "confidence": 0.998
+        },
+        {
+          "text": "I",
+          "start": 118.09,
+          "end": 118.49,
+          "confidence": 0.996
+        },
+        {
+          "text": "was",
+          "start": 118.49,
+          "end": 118.69,
+          "confidence": 0.995
+        },
+        {
+          "text": "special",
+          "start": 118.69,
+          "end": 119.69,
+          "confidence": 0.999
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "seek": 5100,
+      "start": 122.82,
+      "end": 129.98,
+      "text": " But I'm a creep, I'm a little",
+      "tokens": [
+        51214,
+        583,
+        286,
+        478,
+        257,
+        9626,
+        11,
+        286,
+        478,
+        257,
+        707,
+        51514
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.08334622140658104,
+      "compression_ratio": 1.3893129770992367,
+      "no_speech_prob": 0.05705775320529938,
+      "confidence": 0.991,
+      "words": [
+        {
+          "text": "But",
+          "start": 122.82,
+          "end": 123.02,
+          "confidence": 0.965
+        },
+        {
+          "text": "I'm",
+          "start": 123.02,
+          "end": 123.42,
+          "confidence": 0.998
+        },
+        {
+          "text": "a",
+          "start": 123.42,
+          "end": 123.7,
+          "confidence": 0.992
+        },
+        {
+          "text": "creep,",
+          "start": 123.7,
+          "end": 124.26,
+          "confidence": 0.998
+        },
+        {
+          "text": "I'm",
+          "start": 128.26,
+          "end": 128.74,
+          "confidence": 0.998
+        },
+        {
+          "text": "a",
+          "start": 128.74,
+          "end": 129.1,
+          "confidence": 0.993
+        },
+        {
+          "text": "little",
+          "start": 129.1,
+          "end": 129.98,
+          "confidence": 0.974
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "seek": 5100,
+      "start": 132.96,
+      "end": 141.07,
+      "text": " What the hell am I to hear? I don't belong here",
+      "tokens": [
+        51514,
+        708,
+        264,
+        4921,
+        669,
+        286,
+        281,
+        1568,
+        30,
+        286,
+        500,
+        380,
+        5784,
+        510,
+        51814
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.08334622140658104,
+      "compression_ratio": 1.3893129770992367,
+      "no_speech_prob": 0.05705775320529938,
+      "confidence": 0.931,
+      "words": [
+        {
+          "text": "What",
+          "start": 132.96,
+          "end": 133.28,
+          "confidence": 0.557
+        },
+        {
+          "text": "the",
+          "start": 133.28,
+          "end": 133.54,
+          "confidence": 0.999
+        },
+        {
+          "text": "hell",
+          "start": 133.54,
+          "end": 133.84,
+          "confidence": 0.999
+        },
+        {
+          "text": "am",
+          "start": 133.84,
+          "end": 134.02,
+          "confidence": 0.999
+        },
+        {
+          "text": "I",
+          "start": 134.02,
+          "end": 134.24,
+          "confidence": 0.998
+        },
+        {
+          "text": "to",
+          "start": 134.24,
+          "end": 134.52,
+          "confidence": 0.984
+        },
+        {
+          "text": "hear?",
+          "start": 134.52,
+          "end": 135.36,
+          "confidence": 0.998
+        },
+        {
+          "text": "I",
+          "start": 138.73,
+          "end": 139.09,
+          "confidence": 0.78
+        },
+        {
+          "text": "don't",
+          "start": 139.09,
+          "end": 139.57,
+          "confidence": 0.999
+        },
+        {
+          "text": "belong",
+          "start": 139.57,
+          "end": 140.03,
+          "confidence": 0.999
+        },
+        {
+          "text": "here",
+          "start": 140.03,
+          "end": 141.07,
+          "confidence": 0.998
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "seek": 8100,
+      "start": 149.85,
+      "end": 161.04,
+      "text": " I don't belong here",
+      "tokens": [
+        50364,
+        286,
+        500,
+        380,
+        5784,
+        510,
+        50564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3012934814799916,
+      "compression_ratio": 3.838709677419355,
+      "no_speech_prob": 0.05238296091556549,
+      "confidence": 0.805,
+      "words": [
+        {
+          "text": "I",
+          "start": 149.85,
+          "end": 150.35,
+          "confidence": 0.538
+        },
+        {
+          "text": "don't",
+          "start": 150.35,
+          "end": 150.65,
+          "confidence": 0.934
+        },
+        {
+          "text": "belong",
+          "start": 150.65,
+          "end": 150.87,
+          "confidence": 0.74
+        },
+        {
+          "text": "here",
+          "start": 160.33,
+          "end": 161.04,
+          "confidence": 0.975
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "seek": 8100,
+      "start": 185.27,
+      "end": 191.81,
+      "text": " I don't belong here",
+      "tokens": [
+        50564,
+        286,
+        500,
+        380,
+        5784,
+        510,
+        50764
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3012934814799916,
+      "compression_ratio": 3.838709677419355,
+      "no_speech_prob": 0.05238296091556549,
+      "confidence": 0.821,
+      "words": [
+        {
+          "text": "I",
+          "start": 185.27,
+          "end": 185.39,
+          "confidence": 0.476
+        },
+        {
+          "text": "don't",
+          "start": 185.39,
+          "end": 185.91,
+          "confidence": 0.908
+        },
+        {
+          "text": "belong",
+          "start": 185.91,
+          "end": 186.67,
+          "confidence": 0.976
+        },
+        {
+          "text": "here",
+          "start": 190.03,
+          "end": 191.81,
+          "confidence": 0.974
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "seek": 8100,
+      "start": 194.93,
+      "end": 197.41,
+      "text": " I don't belong here",
+      "tokens": [
+        50764,
+        286,
+        500,
+        380,
+        5784,
+        510,
+        51014
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3012934814799916,
+      "compression_ratio": 3.838709677419355,
+      "no_speech_prob": 0.05238296091556549,
+      "confidence": 0.712,
+      "words": [
+        {
+          "text": "I",
+          "start": 194.93,
+          "end": 195.77,
+          "confidence": 0.475
+        },
+        {
+          "text": "don't",
+          "start": 195.77,
+          "end": 195.79,
+          "confidence": 0.717
+        },
+        {
+          "text": "belong",
+          "start": 195.79,
+          "end": 196.21,
+          "confidence": 0.799
+        },
+        {
+          "text": "here",
+          "start": 196.21,
+          "end": 197.41,
+          "confidence": 0.939
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "seek": 8100,
+      "start": 200.79,
+      "end": 207.4,
+      "text": " I don't belong here",
+      "tokens": [
+        51014,
+        286,
+        500,
+        380,
+        5784,
+        510,
+        51264
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3012934814799916,
+      "compression_ratio": 3.838709677419355,
+      "no_speech_prob": 0.05238296091556549,
+      "confidence": 0.879,
+      "words": [
+        {
+          "text": "I",
+          "start": 200.79,
+          "end": 203.35,
+          "confidence": 0.717
+        },
+        {
+          "text": "don't",
+          "start": 206.0,
+          "end": 206.46,
+          "confidence": 0.897
+        },
+        {
+          "text": "belong",
+          "start": 206.46,
+          "end": 206.6,
+          "confidence": 0.955
+        },
+        {
+          "text": "here",
+          "start": 206.6,
+          "end": 207.4,
+          "confidence": 0.955
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "seek": 8100,
+      "start": 215.94,
+      "end": 223.21,
+      "text": " I don't belong here",
+      "tokens": [
+        51264,
+        286,
+        500,
+        380,
+        5784,
+        510,
+        51514
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3012934814799916,
+      "compression_ratio": 3.838709677419355,
+      "no_speech_prob": 0.05238296091556549,
+      "confidence": 0.912,
+      "words": [
+        {
+          "text": "I",
+          "start": 215.94,
+          "end": 218.48,
+          "confidence": 0.772
+        },
+        {
+          "text": "don't",
+          "start": 221.81,
+          "end": 222.33,
+          "confidence": 0.93
+        },
+        {
+          "text": "belong",
+          "start": 222.33,
+          "end": 222.81,
+          "confidence": 0.983
+        },
+        {
+          "text": "here",
+          "start": 222.81,
+          "end": 223.21,
+          "confidence": 0.963
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "seek": 8100,
+      "start": 226.83,
+      "end": 229.09,
+      "text": " I don't belong here",
+      "tokens": [
+        51514,
+        286,
+        500,
+        380,
+        5784,
+        510,
+        51714
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3012934814799916,
+      "compression_ratio": 3.838709677419355,
+      "no_speech_prob": 0.05238296091556549,
+      "confidence": 0.911,
+      "words": [
+        {
+          "text": "I",
+          "start": 226.83,
+          "end": 227.01,
+          "confidence": 0.713
+        },
+        {
+          "text": "don't",
+          "start": 227.01,
+          "end": 227.59,
+          "confidence": 0.959
+        },
+        {
+          "text": "belong",
+          "start": 227.59,
+          "end": 227.99,
+          "confidence": 0.989
+        },
+        {
+          "text": "here",
+          "start": 227.99,
+          "end": 229.09,
+          "confidence": 0.965
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "seek": 10800,
+      "start": 229.09,
+      "end": 229.37,
+      "text": " I don't belong here",
+      "tokens": [
+        50364,
+        286,
+        500,
+        380,
+        5784,
+        510,
+        50514
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.33248239755630493,
+      "compression_ratio": 0.7037037037037037,
+      "no_speech_prob": 0.9107378721237183,
+      "confidence": 0.838,
+      "words": [
+        {
+          "text": "I",
+          "start": 229.09,
+          "end": 229.11,
+          "confidence": 0.471
+        },
+        {
+          "text": "don't",
+          "start": 229.11,
+          "end": 229.33,
+          "confidence": 0.954
+        },
+        {
+          "text": "belong",
+          "start": 229.33,
+          "end": 229.35,
+          "confidence": 0.996
+        },
+        {
+          "text": "here",
+          "start": 229.35,
+          "end": 229.37,
+          "confidence": 0.97
+        }
+      ]
+    }
+  ],
+  "language": "en",
+  "language_probs": {
+    "en": 0.7687626481056213,
+    "zh": 0.0118568679317832,
+    "de": 0.013124356977641582,
+    "es": 0.007024961523711681,
+    "ru": 0.011949862353503704,
+    "ko": 0.023951532319188118,
+    "fr": 0.011949862353503704,
+    "ja": 0.001269384752959013,
+    "pt": 0.013022221624851227,
+    "tr": 0.0028383410535752773,
+    "pl": 0.0062971352599561214,
+    "ca": 0.000418598618125543,
+    "nl": 0.004942677915096283,
+    "ar": 0.0032414873130619526,
+    "sv": 0.006446467712521553,
+    "it": 0.0032925333362072706,
+    "id": 0.0004561629320960492,
+    "hi": 0.0004421282501425594,
+    "fi": 0.0004285253817215562,
+    "vi": 0.0013303037267178297,
+    "he": 0.0002480114926584065,
+    "uk": 0.0005545530584640801,
+    "el": 0.0018760288367047906,
+    "ms": 0.0025244727730751038,
+    "cs": 0.0007520855870097876,
+    "ro": 0.0005333085427992046,
+    "da": 0.0026663749013096094,
+    "hu": 0.00017313992429990321,
+    "ta": 0.00015641888603568077,
+    "no": 0.0024088688660413027,
+    "th": 0.00010099162318510935,
+    "ur": 0.0005677039152942598,
+    "hr": 0.00018575202557258308,
+    "bg": 0.00027026759926229715,
+    "lt": 5.665116259478964e-05,
+    "la": 0.032994624227285385,
+    "mi": 0.0025244727730751038,
+    "ml": 6.173494330141693e-05,
+    "cy": 0.02215154469013214,
+    "sk": 7.446655217790976e-05,
+    "te": 4.34359535574913e-05,
+    "fa": 6.520508759422228e-05,
+    "lv": 0.00020884661353193223,
+    "bn": 3.715274215210229e-05,
+    "sr": 1.927458833961282e-05,
+    "az": 9.504413355898578e-06,
+    "sl": 0.0004706431063823402,
+    "kn": 1.7241342220586375e-06,
+    "et": 2.1502357412828133e-05,
+    "mk": 9.28424469748279e-06,
+    "br": 0.0012595062144100666,
+    "eu": 3.177842154400423e-05,
+    "is": 0.0013303037267178297,
+    "hy": 7.43101600164664e-06,
+    "ne": 2.870941170840524e-05,
+    "mn": 4.01716933993157e-05,
+    "bs": 0.00010338656284147874,
+    "kk": 2.352364936086815e-05,
+    "sq": 9.052830137079582e-05,
+    "sw": 0.00010419743921374902,
+    "gl": 0.0006585480878129601,
+    "mr": 2.104217855958268e-06,
+    "pa": 4.0877976061892696e-06,
+    "si": 0.00017449786537326872,
+    "km": 0.0014496828662231565,
+    "sn": 0.0007346635684370995,
+    "yo": 0.0002599137951619923,
+    "so": 8.240234592449269e-07,
+    "af": 0.0004669805057346821,
+    "oc": 0.00017313992429990321,
+    "ka": 3.0856313060212415e-06,
+    "be": 3.153112265863456e-05,
+    "tg": 8.873757906258106e-08,
+    "sd": 2.718152609304525e-05,
+    "gu": 2.9496459319489077e-07,
+    "am": 4.96875600219937e-07,
+    "yi": 0.0008522245334461331,
+    "lo": 6.356084668368567e-06,
+    "uz": 1.9719892385694493e-09,
+    "fo": 0.0004251906066201627,
+    "ht": 0.00023665418848395348,
+    "ps": 4.911601081403205e-06,
+    "tk": 1.3715080626752751e-08,
+    "nn": 0.009906784631311893,
+    "mt": 2.0678613509517163e-05,
+    "sa": 9.712269093142822e-05,
+    "lb": 1.4097379619215644e-07,
+    "my": 8.774304296821356e-05,
+    "bo": 9.195391612593085e-05,
+    "tl": 0.0011831966694444418,
+    "mg": 7.448571981427676e-09,
+    "as": 2.071594735753024e-06,
+    "tt": 1.622598517769802e-07,
+    "haw": 0.011673043482005596,
+    "ln": 2.787635594359017e-06,
+    "ha": 1.7035388211184e-08,
+    "ba": 1.9116029648102995e-08,
+    "jw": 0.0035879991482943296,
+    "su": 1.0313863185729133e-07
+  },
+  "speech_activity": [
+    {
+      "start": 18.382,
+      "end": 21.01
+    },
+    {
+      "start": 23.246,
+      "end": 26.098
+    },
+    {
+      "start": 28.462,
+      "end": 32.178
+    },
+    {
+      "start": 33.806,
+      "end": 36.754
+    },
+    {
+      "start": 38.638,
+      "end": 42.738
+    },
+    {
+      "start": 43.726,
+      "end": 46.93
+    },
+    {
+      "start": 49.23,
+      "end": 52.69
+    },
+    {
+      "start": 54.158,
+      "end": 58.322
+    },
+    {
+      "start": 59.598,
+      "end": 62.162
+    },
+    {
+      "start": 64.942,
+      "end": 68.082
+    },
+    {
+      "start": 69.614,
+      "end": 73.49
+    },
+    {
+      "start": 75.726,
+      "end": 79.09
+    },
+    {
+      "start": 80.494,
+      "end": 84.114
+    },
+    {
+      "start": 85.71,
+      "end": 88.626
+    },
+    {
+      "start": 90.99,
+      "end": 95.346
+    },
+    {
+      "start": 96.238,
+      "end": 99.666
+    },
+    {
+      "start": 101.518,
+      "end": 105.394
+    },
+    {
+      "start": 106.766,
+      "end": 108.85
+    },
+    {
+      "start": 112.11,
+      "end": 115.698
+    },
+    {
+      "start": 117.038,
+      "end": 121.234
+    },
+    {
+      "start": 122.382,
+      "end": 125.074
+    },
+    {
+      "start": 127.854,
+      "end": 131.218
+    },
+    {
+      "start": 132.654,
+      "end": 136.018
+    },
+    {
+      "start": 138.446,
+      "end": 141.906
+    },
+    {
+      "start": 149.806,
+      "end": 151.442
+    },
+    {
+      "start": 160.334,
+      "end": 161.778
+    },
+    {
+      "start": 184.814,
+      "end": 187.986
+    },
+    {
+      "start": 190.03,
+      "end": 192.498
+    },
+    {
+      "start": 194.926,
+      "end": 198.29
+    },
+    {
+      "start": 200.334,
+      "end": 203.346
+    },
+    {
+      "start": 205.358,
+      "end": 207.89
+    },
+    {
+      "start": 210.99,
+      "end": 212.306
+    },
+    {
+      "start": 215.662,
+      "end": 218.482
+    },
+    {
+      "start": 221.454,
+      "end": 224.466
+    },
+    {
+      "start": 226.702,
+      "end": 229.906
+    }
+  ]
+}

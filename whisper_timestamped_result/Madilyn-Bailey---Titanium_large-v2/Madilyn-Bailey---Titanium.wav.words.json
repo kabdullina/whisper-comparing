@@ -1,0 +1,1331 @@
+{
+  "text": " You shout aloud, I can't hear a word you say I'm talking loud, not saying much I'm criticized, but all your bullets ricochet You shoot me down, but I get up Nothing to lose, far away, far away Ricochet, take your aim, far away, far away Shoot me down, I am tight Cut me down, but it's you who have further to fall Goestown, haunted love Raise your voice, but sticks and stones may break my bones I'm talking loud, not saying much Nothing to lose, far away, far away Ricochet, take your aim, far away, far away Shoot me down, but I won't fall I am tight Cut me down, but it's you who have further to fall",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 10.16,
+      "end": 17.23,
+      "text": " You shout aloud, I can't hear a word you say",
+      "tokens": [
+        50364,
+        509,
+        8043,
+        43888,
+        11,
+        286,
+        393,
+        380,
+        1568,
+        257,
+        1349,
+        291,
+        584,
+        50724
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3268213466722138,
+      "compression_ratio": 1.3565217391304347,
+      "no_speech_prob": 0.6340785622596741,
+      "confidence": 0.764,
+      "words": [
+        {
+          "text": "You",
+          "start": 10.16,
+          "end": 10.78,
+          "confidence": 0.713
+        },
+        {
+          "text": "shout",
+          "start": 10.78,
+          "end": 11.14,
+          "confidence": 0.458
+        },
+        {
+          "text": "aloud,",
+          "start": 11.14,
+          "end": 11.78,
+          "confidence": 0.224
+        },
+        {
+          "text": "I",
+          "start": 13.49,
+          "end": 13.91,
+          "confidence": 0.812
+        },
+        {
+          "text": "can't",
+          "start": 13.91,
+          "end": 14.57,
+          "confidence": 0.978
+        },
+        {
+          "text": "hear",
+          "start": 14.57,
+          "end": 14.99,
+          "confidence": 0.996
+        },
+        {
+          "text": "a",
+          "start": 14.99,
+          "end": 15.45,
+          "confidence": 0.948
+        },
+        {
+          "text": "word",
+          "start": 15.45,
+          "end": 15.99,
+          "confidence": 0.997
+        },
+        {
+          "text": "you",
+          "start": 15.99,
+          "end": 16.35,
+          "confidence": 0.986
+        },
+        {
+          "text": "say",
+          "start": 16.35,
+          "end": 17.23,
+          "confidence": 0.986
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 18.49,
+      "end": 22.67,
+      "text": " I'm talking loud, not saying much",
+      "tokens": [
+        50724,
+        286,
+        478,
+        1417,
+        6588,
+        11,
+        406,
+        1566,
+        709,
+        51014
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3268213466722138,
+      "compression_ratio": 1.3565217391304347,
+      "no_speech_prob": 0.6340785622596741,
+      "confidence": 0.976,
+      "words": [
+        {
+          "text": "I'm",
+          "start": 18.49,
+          "end": 18.69,
+          "confidence": 0.995
+        },
+        {
+          "text": "talking",
+          "start": 18.69,
+          "end": 19.13,
+          "confidence": 0.919
+        },
+        {
+          "text": "loud,",
+          "start": 19.13,
+          "end": 19.91,
+          "confidence": 0.988
+        },
+        {
+          "text": "not",
+          "start": 20.27,
+          "end": 20.59,
+          "confidence": 0.991
+        },
+        {
+          "text": "saying",
+          "start": 20.59,
+          "end": 21.13,
+          "confidence": 0.95
+        },
+        {
+          "text": "much",
+          "start": 21.13,
+          "end": 22.67,
+          "confidence": 0.995
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 26.39,
+      "end": 32.73,
+      "text": " I'm criticized, but all your bullets ricochet",
+      "tokens": [
+        51014,
+        286,
+        478,
+        28011,
+        11,
+        457,
+        439,
+        428,
+        20132,
+        41529,
+        36433,
+        51414
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3268213466722138,
+      "compression_ratio": 1.3565217391304347,
+      "no_speech_prob": 0.6340785622596741,
+      "confidence": 0.894,
+      "words": [
+        {
+          "text": "I'm",
+          "start": 26.39,
+          "end": 26.59,
+          "confidence": 0.994
+        },
+        {
+          "text": "criticized,",
+          "start": 26.59,
+          "end": 28.15,
+          "confidence": 0.932
+        },
+        {
+          "text": "but",
+          "start": 29.03,
+          "end": 29.19,
+          "confidence": 0.536
+        },
+        {
+          "text": "all",
+          "start": 29.19,
+          "end": 29.69,
+          "confidence": 0.986
+        },
+        {
+          "text": "your",
+          "start": 29.69,
+          "end": 30.11,
+          "confidence": 0.968
+        },
+        {
+          "text": "bullets",
+          "start": 30.11,
+          "end": 31.01,
+          "confidence": 0.994
+        },
+        {
+          "text": "ricochet",
+          "start": 31.01,
+          "end": 32.73,
+          "confidence": 0.882
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 34.25,
+      "end": 38.33,
+      "text": " You shoot me down, but I get up",
+      "tokens": [
+        51414,
+        509,
+        3076,
+        385,
+        760,
+        11,
+        457,
+        286,
+        483,
+        493,
+        51664
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3268213466722138,
+      "compression_ratio": 1.3565217391304347,
+      "no_speech_prob": 0.6340785622596741,
+      "confidence": 0.911,
+      "words": [
+        {
+          "text": "You",
+          "start": 34.25,
+          "end": 34.39,
+          "confidence": 0.689
+        },
+        {
+          "text": "shoot",
+          "start": 34.39,
+          "end": 34.67,
+          "confidence": 0.977
+        },
+        {
+          "text": "me",
+          "start": 34.67,
+          "end": 34.91,
+          "confidence": 0.998
+        },
+        {
+          "text": "down,",
+          "start": 34.91,
+          "end": 35.57,
+          "confidence": 0.999
+        },
+        {
+          "text": "but",
+          "start": 36.25,
+          "end": 36.47,
+          "confidence": 0.992
+        },
+        {
+          "text": "I",
+          "start": 36.47,
+          "end": 36.69,
+          "confidence": 0.995
+        },
+        {
+          "text": "get",
+          "start": 36.69,
+          "end": 37.23,
+          "confidence": 0.991
+        },
+        {
+          "text": "up",
+          "start": 37.23,
+          "end": 38.33,
+          "confidence": 0.725
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 2600,
+      "start": 44.06,
+      "end": 49.32,
+      "text": " Nothing to lose, far away, far away",
+      "tokens": [
+        50364,
+        6693,
+        281,
+        3624,
+        11,
+        1400,
+        1314,
+        11,
+        1400,
+        1314,
+        50664
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1390537187164905,
+      "compression_ratio": 1.3928571428571428,
+      "no_speech_prob": 0.06885837763547897,
+      "confidence": 0.868,
+      "words": [
+        {
+          "text": "Nothing",
+          "start": 44.06,
+          "end": 44.42,
+          "confidence": 0.881
+        },
+        {
+          "text": "to",
+          "start": 44.42,
+          "end": 44.94,
+          "confidence": 0.885
+        },
+        {
+          "text": "lose,",
+          "start": 44.94,
+          "end": 45.82,
+          "confidence": 0.979
+        },
+        {
+          "text": "far",
+          "start": 46.52,
+          "end": 46.68,
+          "confidence": 0.532
+        },
+        {
+          "text": "away,",
+          "start": 46.68,
+          "end": 47.36,
+          "confidence": 0.954
+        },
+        {
+          "text": "far",
+          "start": 47.98,
+          "end": 48.5,
+          "confidence": 0.993
+        },
+        {
+          "text": "away",
+          "start": 48.5,
+          "end": 49.32,
+          "confidence": 0.963
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 2600,
+      "start": 50.06,
+      "end": 57.18,
+      "text": " Ricochet, take your aim, far away, far away",
+      "tokens": [
+        50664,
+        22643,
+        36433,
+        11,
+        747,
+        428,
+        5939,
+        11,
+        1400,
+        1314,
+        11,
+        1400,
+        1314,
+        51014
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1390537187164905,
+      "compression_ratio": 1.3928571428571428,
+      "no_speech_prob": 0.06885837763547897,
+      "confidence": 0.969,
+      "words": [
+        {
+          "text": "Ricochet,",
+          "start": 50.06,
+          "end": 51.26,
+          "confidence": 0.929
+        },
+        {
+          "text": "take",
+          "start": 52.1,
+          "end": 52.46,
+          "confidence": 0.982
+        },
+        {
+          "text": "your",
+          "start": 52.46,
+          "end": 52.84,
+          "confidence": 0.994
+        },
+        {
+          "text": "aim,",
+          "start": 52.84,
+          "end": 53.5,
+          "confidence": 0.995
+        },
+        {
+          "text": "far",
+          "start": 54.04,
+          "end": 54.5,
+          "confidence": 0.996
+        },
+        {
+          "text": "away,",
+          "start": 54.5,
+          "end": 54.93,
+          "confidence": 0.916
+        },
+        {
+          "text": "far",
+          "start": 55.9,
+          "end": 56.38,
+          "confidence": 0.997
+        },
+        {
+          "text": "away",
+          "start": 56.38,
+          "end": 57.18,
+          "confidence": 0.985
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 2600,
+      "start": 57.94,
+      "end": 62.75,
+      "text": " Shoot me down, I am tight",
+      "tokens": [
+        51014,
+        19760,
+        385,
+        760,
+        11,
+        286,
+        669,
+        4524,
+        51164
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1390537187164905,
+      "compression_ratio": 1.3928571428571428,
+      "no_speech_prob": 0.06885837763547897,
+      "confidence": 0.807,
+      "words": [
+        {
+          "text": "Shoot",
+          "start": 57.94,
+          "end": 58.28,
+          "confidence": 0.952
+        },
+        {
+          "text": "me",
+          "start": 58.28,
+          "end": 58.54,
+          "confidence": 0.994
+        },
+        {
+          "text": "down,",
+          "start": 58.54,
+          "end": 59.02,
+          "confidence": 0.932
+        },
+        {
+          "text": "I",
+          "start": 62.15,
+          "end": 62.27,
+          "confidence": 0.975
+        },
+        {
+          "text": "am",
+          "start": 62.27,
+          "end": 62.43,
+          "confidence": 0.88
+        },
+        {
+          "text": "tight",
+          "start": 62.43,
+          "end": 62.75,
+          "confidence": 0.364
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 2600,
+      "start": 62.79,
+      "end": 84.04,
+      "text": " Cut me down, but it's you who have further to fall",
+      "tokens": [
+        51164,
+        9431,
+        385,
+        760,
+        11,
+        457,
+        309,
+        311,
+        291,
+        567,
+        362,
+        3052,
+        281,
+        2100,
+        51564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1390537187164905,
+      "compression_ratio": 1.3928571428571428,
+      "no_speech_prob": 0.06885837763547897,
+      "confidence": 0.926,
+      "words": [
+        {
+          "text": "Cut",
+          "start": 62.79,
+          "end": 63.6,
+          "confidence": 0.535
+        },
+        {
+          "text": "me",
+          "start": 77.98,
+          "end": 78.22,
+          "confidence": 0.999
+        },
+        {
+          "text": "down,",
+          "start": 78.22,
+          "end": 78.9,
+          "confidence": 0.999
+        },
+        {
+          "text": "but",
+          "start": 79.9,
+          "end": 80.26,
+          "confidence": 0.95
+        },
+        {
+          "text": "it's",
+          "start": 80.26,
+          "end": 80.46,
+          "confidence": 0.977
+        },
+        {
+          "text": "you",
+          "start": 80.46,
+          "end": 80.84,
+          "confidence": 0.998
+        },
+        {
+          "text": "who",
+          "start": 80.84,
+          "end": 81.28,
+          "confidence": 0.955
+        },
+        {
+          "text": "have",
+          "start": 81.28,
+          "end": 81.82,
+          "confidence": 0.927
+        },
+        {
+          "text": "further",
+          "start": 81.82,
+          "end": 82.62,
+          "confidence": 0.972
+        },
+        {
+          "text": "to",
+          "start": 82.62,
+          "end": 83.28,
+          "confidence": 0.997
+        },
+        {
+          "text": "fall",
+          "start": 83.28,
+          "end": 84.04,
+          "confidence": 0.962
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seek": 5000,
+      "start": 85.36,
+      "end": 89.84,
+      "text": " Goestown, haunted love",
+      "tokens": [
+        50364,
+        1037,
+        377,
+        648,
+        11,
+        24878,
+        959,
+        50614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.14344733556111652,
+      "compression_ratio": 1.26890756302521,
+      "no_speech_prob": 0.09523455798625946,
+      "confidence": 0.488,
+      "words": [
+        {
+          "text": "Goestown,",
+          "start": 85.36,
+          "end": 86.76,
+          "confidence": 0.402
+        },
+        {
+          "text": "haunted",
+          "start": 87.56,
+          "end": 88.18,
+          "confidence": 0.556
+        },
+        {
+          "text": "love",
+          "start": 88.18,
+          "end": 89.84,
+          "confidence": 0.769
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "seek": 5000,
+      "start": 93.29,
+      "end": 99.81,
+      "text": " Raise your voice, but sticks and stones may break my bones",
+      "tokens": [
+        50614,
+        30062,
+        428,
+        3177,
+        11,
+        457,
+        12518,
+        293,
+        14083,
+        815,
+        1821,
+        452,
+        10491,
+        51014
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.14344733556111652,
+      "compression_ratio": 1.26890756302521,
+      "no_speech_prob": 0.09523455798625946,
+      "confidence": 0.952,
+      "words": [
+        {
+          "text": "Raise",
+          "start": 93.29,
+          "end": 93.69,
+          "confidence": 0.986
+        },
+        {
+          "text": "your",
+          "start": 93.69,
+          "end": 93.97,
+          "confidence": 0.989
+        },
+        {
+          "text": "voice,",
+          "start": 93.97,
+          "end": 94.97,
+          "confidence": 0.992
+        },
+        {
+          "text": "but",
+          "start": 95.85,
+          "end": 96.05,
+          "confidence": 0.674
+        },
+        {
+          "text": "sticks",
+          "start": 96.05,
+          "end": 96.55,
+          "confidence": 0.982
+        },
+        {
+          "text": "and",
+          "start": 96.55,
+          "end": 97.03,
+          "confidence": 0.99
+        },
+        {
+          "text": "stones",
+          "start": 97.03,
+          "end": 97.49,
+          "confidence": 0.994
+        },
+        {
+          "text": "may",
+          "start": 97.49,
+          "end": 98.01,
+          "confidence": 0.93
+        },
+        {
+          "text": "break",
+          "start": 98.01,
+          "end": 98.51,
+          "confidence": 0.995
+        },
+        {
+          "text": "my",
+          "start": 98.51,
+          "end": 99.01,
+          "confidence": 0.995
+        },
+        {
+          "text": "bones",
+          "start": 99.01,
+          "end": 99.81,
+          "confidence": 0.998
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "seek": 5000,
+      "start": 101.07,
+      "end": 105.17,
+      "text": " I'm talking loud, not saying much",
+      "tokens": [
+        51014,
+        286,
+        478,
+        1417,
+        6588,
+        11,
+        406,
+        1566,
+        709,
+        51264
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.14344733556111652,
+      "compression_ratio": 1.26890756302521,
+      "no_speech_prob": 0.09523455798625946,
+      "confidence": 0.996,
+      "words": [
+        {
+          "text": "I'm",
+          "start": 101.07,
+          "end": 101.27,
+          "confidence": 0.997
+        },
+        {
+          "text": "talking",
+          "start": 101.27,
+          "end": 101.69,
+          "confidence": 0.989
+        },
+        {
+          "text": "loud,",
+          "start": 101.69,
+          "end": 102.51,
+          "confidence": 0.998
+        },
+        {
+          "text": "not",
+          "start": 103.01,
+          "end": 103.21,
+          "confidence": 0.997
+        },
+        {
+          "text": "saying",
+          "start": 103.21,
+          "end": 103.75,
+          "confidence": 0.995
+        },
+        {
+          "text": "much",
+          "start": 103.75,
+          "end": 105.17,
+          "confidence": 0.999
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "seek": 5000,
+      "start": 110.48,
+      "end": 116.19,
+      "text": " Nothing to lose, far away, far away",
+      "tokens": [
+        51264,
+        6693,
+        281,
+        3624,
+        11,
+        1400,
+        1314,
+        11,
+        1400,
+        1314,
+        51564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.14344733556111652,
+      "compression_ratio": 1.26890756302521,
+      "no_speech_prob": 0.09523455798625946,
+      "confidence": 0.978,
+      "words": [
+        {
+          "text": "Nothing",
+          "start": 110.48,
+          "end": 111.12,
+          "confidence": 0.886
+        },
+        {
+          "text": "to",
+          "start": 111.12,
+          "end": 111.7,
+          "confidence": 0.998
+        },
+        {
+          "text": "lose,",
+          "start": 111.7,
+          "end": 112.44,
+          "confidence": 0.988
+        },
+        {
+          "text": "far",
+          "start": 113.0,
+          "end": 113.58,
+          "confidence": 0.996
+        },
+        {
+          "text": "away,",
+          "start": 113.58,
+          "end": 114.16,
+          "confidence": 0.989
+        },
+        {
+          "text": "far",
+          "start": 114.87,
+          "end": 115.39,
+          "confidence": 0.999
+        },
+        {
+          "text": "away",
+          "start": 115.39,
+          "end": 116.19,
+          "confidence": 0.993
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "seek": 7400,
+      "start": 116.95,
+      "end": 124.08,
+      "text": " Ricochet, take your aim, far away, far away",
+      "tokens": [
+        50364,
+        22643,
+        36433,
+        11,
+        747,
+        428,
+        5939,
+        11,
+        1400,
+        1314,
+        11,
+        1400,
+        1314,
+        50764
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1181655966717264,
+      "compression_ratio": 1.3047619047619048,
+      "no_speech_prob": 0.5467165112495422,
+      "confidence": 0.995,
+      "words": [
+        {
+          "text": "Ricochet,",
+          "start": 116.95,
+          "end": 118.09,
+          "confidence": 0.997
+        },
+        {
+          "text": "take",
+          "start": 119.07,
+          "end": 119.23,
+          "confidence": 0.998
+        },
+        {
+          "text": "your",
+          "start": 119.23,
+          "end": 119.63,
+          "confidence": 0.997
+        },
+        {
+          "text": "aim,",
+          "start": 119.63,
+          "end": 120.25,
+          "confidence": 0.999
+        },
+        {
+          "text": "far",
+          "start": 120.94,
+          "end": 121.38,
+          "confidence": 0.998
+        },
+        {
+          "text": "away,",
+          "start": 121.38,
+          "end": 122.14,
+          "confidence": 0.974
+        },
+        {
+          "text": "far",
+          "start": 122.62,
+          "end": 123.14,
+          "confidence": 1.0
+        },
+        {
+          "text": "away",
+          "start": 123.14,
+          "end": 124.08,
+          "confidence": 0.994
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "seek": 7400,
+      "start": 124.76,
+      "end": 127.94,
+      "text": " Shoot me down, but I won't fall",
+      "tokens": [
+        50764,
+        19760,
+        385,
+        760,
+        11,
+        457,
+        286,
+        1582,
+        380,
+        2100,
+        50964
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1181655966717264,
+      "compression_ratio": 1.3047619047619048,
+      "no_speech_prob": 0.5467165112495422,
+      "confidence": 0.893,
+      "words": [
+        {
+          "text": "Shoot",
+          "start": 124.76,
+          "end": 125.16,
+          "confidence": 0.709
+        },
+        {
+          "text": "me",
+          "start": 125.16,
+          "end": 125.42,
+          "confidence": 0.999
+        },
+        {
+          "text": "down,",
+          "start": 125.42,
+          "end": 126.22,
+          "confidence": 0.999
+        },
+        {
+          "text": "but",
+          "start": 126.84,
+          "end": 126.96,
+          "confidence": 0.963
+        },
+        {
+          "text": "I",
+          "start": 126.96,
+          "end": 127.22,
+          "confidence": 0.996
+        },
+        {
+          "text": "won't",
+          "start": 127.22,
+          "end": 127.5,
+          "confidence": 0.777
+        },
+        {
+          "text": "fall",
+          "start": 127.5,
+          "end": 127.94,
+          "confidence": 0.986
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "seek": 7400,
+      "start": 128.88,
+      "end": 129.67,
+      "text": " I am tight",
+      "tokens": [
+        50964,
+        286,
+        669,
+        4524,
+        51014
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1181655966717264,
+      "compression_ratio": 1.3047619047619048,
+      "no_speech_prob": 0.5467165112495422,
+      "confidence": 0.907,
+      "words": [
+        {
+          "text": "I",
+          "start": 128.88,
+          "end": 129.21,
+          "confidence": 0.972
+        },
+        {
+          "text": "am",
+          "start": 129.21,
+          "end": 129.35,
+          "confidence": 0.782
+        },
+        {
+          "text": "tight",
+          "start": 129.35,
+          "end": 129.67,
+          "confidence": 0.982
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "seek": 7400,
+      "start": 129.75,
+      "end": 162.83,
+      "text": " Cut me down, but it's you who have further to fall",
+      "tokens": [
+        51014,
+        9431,
+        385,
+        760,
+        11,
+        457,
+        309,
+        311,
+        291,
+        567,
+        362,
+        3052,
+        281,
+        2100,
+        51264
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1181655966717264,
+      "compression_ratio": 1.3047619047619048,
+      "no_speech_prob": 0.5467165112495422,
+      "confidence": 0.898,
+      "words": [
+        {
+          "text": "Cut",
+          "start": 129.75,
+          "end": 130.61,
+          "confidence": 0.621
+        },
+        {
+          "text": "me",
+          "start": 157.85,
+          "end": 157.95,
+          "confidence": 0.951
+        },
+        {
+          "text": "down,",
+          "start": 157.95,
+          "end": 158.11,
+          "confidence": 0.997
+        },
+        {
+          "text": "but",
+          "start": 158.23,
+          "end": 158.29,
+          "confidence": 0.72
+        },
+        {
+          "text": "it's",
+          "start": 158.29,
+          "end": 158.69,
+          "confidence": 0.824
+        },
+        {
+          "text": "you",
+          "start": 158.69,
+          "end": 158.71,
+          "confidence": 0.991
+        },
+        {
+          "text": "who",
+          "start": 158.71,
+          "end": 159.28,
+          "confidence": 0.991
+        },
+        {
+          "text": "have",
+          "start": 161.33,
+          "end": 161.35,
+          "confidence": 0.993
+        },
+        {
+          "text": "further",
+          "start": 161.35,
+          "end": 161.93,
+          "confidence": 0.977
+        },
+        {
+          "text": "to",
+          "start": 161.93,
+          "end": 161.95,
+          "confidence": 0.997
+        },
+        {
+          "text": "fall",
+          "start": 161.95,
+          "end": 162.83,
+          "confidence": 0.999
+        }
+      ]
+    }
+  ],
+  "language": "en",
+  "language_probs": {
+    "en": 0.8213112950325012,
+    "zh": 0.028546296060085297,
+    "de": 0.01017849612981081,
+    "es": 0.011443990282714367,
+    "ru": 0.025991695001721382,
+    "ko": 0.032347191125154495,
+    "fr": 0.009267625398933887,
+    "ja": 0.002916187746450305,
+    "pt": 0.006727574393153191,
+    "tr": 0.0022534553427249193,
+    "pl": 0.003278758144006133,
+    "ca": 0.001466351212002337,
+    "nl": 0.002361600985750556,
+    "ar": 0.0015128982486203313,
+    "sv": 0.002916187746450305,
+    "it": 0.0071057346649467945,
+    "id": 0.0017687572399154305,
+    "hi": 0.0005878488882444799,
+    "fi": 0.0007035629823803902,
+    "vi": 0.004516679793596268,
+    "he": 5.912151755183004e-05,
+    "uk": 0.00026085638091899455,
+    "el": 0.00046502676559612155,
+    "ms": 0.001206187647767365,
+    "cs": 0.0006609362899325788,
+    "ro": 0.0003122042107861489,
+    "da": 0.0005742314388044178,
+    "hu": 0.0010561732342466712,
+    "ta": 0.00025283065042458475,
+    "no": 0.0017277839360758662,
+    "th": 0.0004334526020102203,
+    "ur": 0.00015576445730403066,
+    "hr": 0.00010622213449096307,
+    "bg": 4.159718446317129e-05,
+    "lt": 3.115485014859587e-05,
+    "la": 0.0022534553427249193,
+    "mi": 0.0003428892232477665,
+    "ml": 0.00021457458205986768,
+    "cy": 0.002916187746450305,
+    "sk": 5.510730989044532e-05,
+    "te": 5.467846858664416e-05,
+    "fa": 3.877283961628564e-05,
+    "lv": 8.806124242255464e-05,
+    "bn": 6.966217188164592e-05,
+    "sr": 1.220041394844884e-05,
+    "az": 8.127228284138255e-06,
+    "sl": 0.0001232198264915496,
+    "kn": 2.4593755370005965e-06,
+    "et": 2.2092097424319945e-05,
+    "mk": 4.523483767115977e-06,
+    "br": 0.00032718715374358,
+    "eu": 7.131417078198865e-05,
+    "is": 0.00019234341743867844,
+    "hy": 4.7964508667064365e-06,
+    "ne": 3.0196315492503345e-05,
+    "mn": 1.371729467791738e-05,
+    "bs": 2.445372228976339e-05,
+    "kk": 1.5065500519995112e-05,
+    "sq": 2.426342325634323e-05,
+    "sw": 3.164546797052026e-05,
+    "gl": 0.0004402784979902208,
+    "mr": 2.3651582523598336e-06,
+    "pa": 2.0388938537507784e-06,
+    "si": 0.00012130948016420007,
+    "km": 0.0021004509180784225,
+    "sn": 0.00015334955241996795,
+    "yo": 4.1923434764612466e-05,
+    "so": 3.816032574377459e-07,
+    "af": 1.220041394844884e-05,
+    "oc": 5.510730989044532e-05,
+    "ka": 5.115013550494041e-07,
+    "be": 4.3593474401859567e-05,
+    "tg": 1.3913478369431687e-08,
+    "sd": 8.651390089653432e-06,
+    "gu": 4.426675275226444e-07,
+    "am": 2.2345837180637318e-07,
+    "yi": 5.7751971326069906e-05,
+    "lo": 8.926014743337873e-06,
+    "uz": 5.469105168742772e-10,
+    "fo": 1.934448846441228e-05,
+    "ht": 4.676897151512094e-05,
+    "ps": 2.265682951474446e-06,
+    "tk": 4.1562202568457e-09,
+    "nn": 0.0015855038072913885,
+    "mt": 2.3467525807063794e-06,
+    "sa": 0.00012226091348566115,
+    "lb": 2.0582879400876664e-08,
+    "my": 0.00015945830091368407,
+    "bo": 3.342427226016298e-05,
+    "tl": 0.0007202475098893046,
+    "mg": 1.0434432207162558e-09,
+    "as": 5.47771878700587e-06,
+    "tt": 2.2125375309656192e-08,
+    "haw": 0.0009691990562714636,
+    "ln": 8.015672960937081e-07,
+    "ha": 1.7976339306002842e-09,
+    "ba": 5.788683754559543e-09,
+    "jw": 0.0017966111190617085,
+    "su": 2.1236250091760667e-08
+  },
+  "speech_activity": [
+    {
+      "start": 10.158,
+      "end": 12.85
+    },
+    {
+      "start": 13.486,
+      "end": 24.018
+    },
+    {
+      "start": 26.19,
+      "end": 38.93
+    },
+    {
+      "start": 43.726,
+      "end": 54.93
+    },
+    {
+      "start": 55.47,
+      "end": 59.058
+    },
+    {
+      "start": 61.966,
+      "end": 63.602
+    },
+    {
+      "start": 77.39,
+      "end": 90.514
+    },
+    {
+      "start": 92.91,
+      "end": 106.13
+    },
+    {
+      "start": 110.478,
+      "end": 114.162
+    },
+    {
+      "start": 114.446,
+      "end": 118.546
+    },
+    {
+      "start": 118.574,
+      "end": 120.466
+    },
+    {
+      "start": 120.59,
+      "end": 128.05
+    },
+    {
+      "start": 128.878,
+      "end": 130.61
+    },
+    {
+      "start": 157.71,
+      "end": 159.282
+    },
+    {
+      "start": 161.326,
+      "end": 162.834
+    },
+    {
+      "start": 163.854,
+      "end": 165.17
+    },
+    {
+      "start": 175.566,
+      "end": 177.106
+    }
+  ]
+}

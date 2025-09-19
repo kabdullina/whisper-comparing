@@ -1,0 +1,2116 @@
+{
+  "text": " Un sueño soñaba noche, soñito del alma mía que en mis casos los tenía y entrar señora muy blanca, muy más que la nieve fría, por donde has entrado amor, como has rentado mi vida. Las puertas están cerradas, ventanas y celosías, no soy el amor amante, soy la muerte, Dios me envía cosa, déjame vivir un día, un día no puede ser, una hora tienes de vida, muy deprisa se casaba, más deprisa se vestía, y se va para la calle, en donde su amor vivía. Ábreme la puerta blanca, ábreme la puerta niña, como te podé yo abrir, si locacio no es venida, mi padre no fue al palacio, mi madre no está dormida, si no me abres esta noche, ya no me abrirás querida. Tu vida sería, vete bajo mí, donde la brava y cocia, te echaré cordón de seda, para que subas arriba, y si el hilo no alcanzare, mis trenzas añadiría. Se rompió el cordón de seda, la muerte que allí venía, vamos a ser enamorado, que la obra ya es cumplida.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 28.14,
+      "end": 33.93,
+      "text": " Un sueño soñaba noche, soñito del alma mía",
+      "tokens": [
+        50364,
+        1156,
+        20416,
+        7716,
+        370,
+        2791,
+        5509,
+        29735,
+        11,
+        370,
+        2791,
+        3528,
+        1103,
+        32634,
+        275,
+        2686,
+        50664
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.25491098455480626,
+      "compression_ratio": 1.3782051282051282,
+      "no_speech_prob": 0.17747007310390472,
+      "confidence": 0.875,
+      "words": [
+        {
+          "text": "Un",
+          "start": 28.14,
+          "end": 28.32,
+          "confidence": 0.691
+        },
+        {
+          "text": "sueño",
+          "start": 28.32,
+          "end": 28.7,
+          "confidence": 0.873
+        },
+        {
+          "text": "soñaba",
+          "start": 28.7,
+          "end": 29.7,
+          "confidence": 0.982
+        },
+        {
+          "text": "noche,",
+          "start": 29.7,
+          "end": 30.34,
+          "confidence": 0.601
+        },
+        {
+          "text": "soñito",
+          "start": 31.5,
+          "end": 32.09,
+          "confidence": 0.901
+        },
+        {
+          "text": "del",
+          "start": 32.09,
+          "end": 32.45,
+          "confidence": 0.747
+        },
+        {
+          "text": "alma",
+          "start": 32.45,
+          "end": 33.07,
+          "confidence": 0.995
+        },
+        {
+          "text": "mía",
+          "start": 33.07,
+          "end": 33.93,
+          "confidence": 0.975
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 37.74,
+      "end": 40.57,
+      "text": " que en mis casos los tenía",
+      "tokens": [
+        50664,
+        631,
+        465,
+        3346,
+        25135,
+        1750,
+        23718,
+        50864
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.25491098455480626,
+      "compression_ratio": 1.3782051282051282,
+      "no_speech_prob": 0.17747007310390472,
+      "confidence": 0.61,
+      "words": [
+        {
+          "text": "que",
+          "start": 37.74,
+          "end": 37.95,
+          "confidence": 0.152
+        },
+        {
+          "text": "en",
+          "start": 37.95,
+          "end": 38.15,
+          "confidence": 0.95
+        },
+        {
+          "text": "mis",
+          "start": 38.15,
+          "end": 38.31,
+          "confidence": 0.997
+        },
+        {
+          "text": "casos",
+          "start": 38.31,
+          "end": 39.01,
+          "confidence": 0.743
+        },
+        {
+          "text": "los",
+          "start": 39.01,
+          "end": 39.53,
+          "confidence": 0.903
+        },
+        {
+          "text": "tenía",
+          "start": 39.53,
+          "end": 40.57,
+          "confidence": 0.532
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 41.67,
+      "end": 44.07,
+      "text": " y entrar señora muy blanca,",
+      "tokens": [
+        50864,
+        288,
+        20913,
+        41094,
+        5323,
+        888,
+        40835,
+        11,
+        51014
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.25491098455480626,
+      "compression_ratio": 1.3782051282051282,
+      "no_speech_prob": 0.17747007310390472,
+      "confidence": 0.668,
+      "words": [
+        {
+          "text": "y",
+          "start": 41.67,
+          "end": 41.87,
+          "confidence": 0.495
+        },
+        {
+          "text": "entrar",
+          "start": 41.87,
+          "end": 42.07,
+          "confidence": 0.472
+        },
+        {
+          "text": "señora",
+          "start": 42.07,
+          "end": 42.57,
+          "confidence": 0.417
+        },
+        {
+          "text": "muy",
+          "start": 42.57,
+          "end": 43.37,
+          "confidence": 0.947
+        },
+        {
+          "text": "blanca,",
+          "start": 43.37,
+          "end": 44.07,
+          "confidence": 0.982
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 45.11,
+      "end": 47.55,
+      "text": " muy más que la nieve fría,",
+      "tokens": [
+        51014,
+        5323,
+        3573,
+        631,
+        635,
+        2838,
+        303,
+        431,
+        2686,
+        11,
+        51164
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.25491098455480626,
+      "compression_ratio": 1.3782051282051282,
+      "no_speech_prob": 0.17747007310390472,
+      "confidence": 0.964,
+      "words": [
+        {
+          "text": "muy",
+          "start": 45.11,
+          "end": 45.31,
+          "confidence": 0.933
+        },
+        {
+          "text": "más",
+          "start": 45.31,
+          "end": 45.55,
+          "confidence": 0.853
+        },
+        {
+          "text": "que",
+          "start": 45.55,
+          "end": 45.77,
+          "confidence": 0.995
+        },
+        {
+          "text": "la",
+          "start": 45.77,
+          "end": 45.97,
+          "confidence": 0.989
+        },
+        {
+          "text": "nieve",
+          "start": 45.97,
+          "end": 46.71,
+          "confidence": 0.991
+        },
+        {
+          "text": "fría,",
+          "start": 46.71,
+          "end": 47.55,
+          "confidence": 0.985
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 48.13,
+      "end": 50.79,
+      "text": " por donde has entrado amor,",
+      "tokens": [
+        51164,
+        1515,
+        10488,
+        575,
+        8041,
+        1573,
+        15543,
+        11,
+        51364
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.25491098455480626,
+      "compression_ratio": 1.3782051282051282,
+      "no_speech_prob": 0.17747007310390472,
+      "confidence": 0.945,
+      "words": [
+        {
+          "text": "por",
+          "start": 48.13,
+          "end": 48.31,
+          "confidence": 0.985
+        },
+        {
+          "text": "donde",
+          "start": 48.31,
+          "end": 48.63,
+          "confidence": 0.956
+        },
+        {
+          "text": "has",
+          "start": 48.63,
+          "end": 49.15,
+          "confidence": 0.952
+        },
+        {
+          "text": "entrado",
+          "start": 49.15,
+          "end": 50.07,
+          "confidence": 0.985
+        },
+        {
+          "text": "amor,",
+          "start": 50.07,
+          "end": 50.79,
+          "confidence": 0.82
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 51.57,
+      "end": 54.31,
+      "text": " como has rentado mi vida.",
+      "tokens": [
+        51364,
+        2617,
+        575,
+        6214,
+        1573,
+        2752,
+        7644,
+        13,
+        51514
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.25491098455480626,
+      "compression_ratio": 1.3782051282051282,
+      "no_speech_prob": 0.17747007310390472,
+      "confidence": 0.908,
+      "words": [
+        {
+          "text": "como",
+          "start": 51.57,
+          "end": 51.81,
+          "confidence": 0.936
+        },
+        {
+          "text": "has",
+          "start": 51.81,
+          "end": 52.07,
+          "confidence": 0.954
+        },
+        {
+          "text": "rentado",
+          "start": 52.07,
+          "end": 53.05,
+          "confidence": 0.794
+        },
+        {
+          "text": "mi",
+          "start": 53.05,
+          "end": 53.65,
+          "confidence": 0.998
+        },
+        {
+          "text": "vida.",
+          "start": 53.65,
+          "end": 54.31,
+          "confidence": 0.999
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 0,
+      "start": 55.21,
+      "end": 57.71,
+      "text": " Las puertas están cerradas,",
+      "tokens": [
+        51514,
+        10663,
+        2362,
+        49215,
+        10368,
+        10146,
+        48906,
+        11,
+        51714
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.25491098455480626,
+      "compression_ratio": 1.3782051282051282,
+      "no_speech_prob": 0.17747007310390472,
+      "confidence": 0.951,
+      "words": [
+        {
+          "text": "Las",
+          "start": 55.21,
+          "end": 55.53,
+          "confidence": 0.911
+        },
+        {
+          "text": "puertas",
+          "start": 55.53,
+          "end": 55.97,
+          "confidence": 0.92
+        },
+        {
+          "text": "están",
+          "start": 55.97,
+          "end": 56.57,
+          "confidence": 0.984
+        },
+        {
+          "text": "cerradas,",
+          "start": 56.57,
+          "end": 57.71,
+          "confidence": 0.987
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 2700,
+      "start": 58.77,
+      "end": 61.19,
+      "text": " ventanas y celosías,",
+      "tokens": [
+        50364,
+        6931,
+        14292,
+        288,
+        9277,
+        329,
+        10025,
+        11,
+        50514
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1322359729122806,
+      "compression_ratio": 1.4244604316546763,
+      "no_speech_prob": 0.008183552883565426,
+      "confidence": 0.825,
+      "words": [
+        {
+          "text": "ventanas",
+          "start": 58.77,
+          "end": 59.35,
+          "confidence": 0.99
+        },
+        {
+          "text": "y",
+          "start": 59.35,
+          "end": 59.67,
+          "confidence": 0.991
+        },
+        {
+          "text": "celosías,",
+          "start": 59.67,
+          "end": 61.19,
+          "confidence": 0.687
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seek": 2700,
+      "start": 61.73,
+      "end": 64.51,
+      "text": " no soy el amor amante,",
+      "tokens": [
+        50514,
+        572,
+        8812,
+        806,
+        15543,
+        669,
+        2879,
+        11,
+        50664
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1322359729122806,
+      "compression_ratio": 1.4244604316546763,
+      "no_speech_prob": 0.008183552883565426,
+      "confidence": 0.977,
+      "words": [
+        {
+          "text": "no",
+          "start": 61.73,
+          "end": 61.95,
+          "confidence": 0.911
+        },
+        {
+          "text": "soy",
+          "start": 61.95,
+          "end": 62.27,
+          "confidence": 0.991
+        },
+        {
+          "text": "el",
+          "start": 62.27,
+          "end": 62.93,
+          "confidence": 0.996
+        },
+        {
+          "text": "amor",
+          "start": 62.93,
+          "end": 63.45,
+          "confidence": 0.986
+        },
+        {
+          "text": "amante,",
+          "start": 63.45,
+          "end": 64.51,
+          "confidence": 0.99
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "seek": 2700,
+      "start": 65.13,
+      "end": 67.99,
+      "text": " soy la muerte, Dios me envía",
+      "tokens": [
+        50664,
+        8812,
+        635,
+        38497,
+        11,
+        21838,
+        385,
+        2267,
+        2686,
+        50864
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1322359729122806,
+      "compression_ratio": 1.4244604316546763,
+      "no_speech_prob": 0.008183552883565426,
+      "confidence": 0.975,
+      "words": [
+        {
+          "text": "soy",
+          "start": 65.13,
+          "end": 65.35,
+          "confidence": 0.979
+        },
+        {
+          "text": "la",
+          "start": 65.35,
+          "end": 65.59,
+          "confidence": 0.998
+        },
+        {
+          "text": "muerte,",
+          "start": 65.59,
+          "end": 66.27,
+          "confidence": 0.998
+        },
+        {
+          "text": "Dios",
+          "start": 66.55,
+          "end": 66.77,
+          "confidence": 0.891
+        },
+        {
+          "text": "me",
+          "start": 66.77,
+          "end": 67.29,
+          "confidence": 0.985
+        },
+        {
+          "text": "envía",
+          "start": 67.29,
+          "end": 67.99,
+          "confidence": 0.989
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "seek": 2700,
+      "start": 98.09,
+      "end": 102.06,
+      "text": " cosa, déjame vivir un día,",
+      "tokens": [
+        50864,
+        10163,
+        11,
+        2795,
+        73,
+        529,
+        39656,
+        517,
+        12271,
+        11,
+        51114
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1322359729122806,
+      "compression_ratio": 1.4244604316546763,
+      "no_speech_prob": 0.008183552883565426,
+      "confidence": 0.691,
+      "words": [
+        {
+          "text": "cosa,",
+          "start": 98.09,
+          "end": 98.58,
+          "confidence": 0.095
+        },
+        {
+          "text": "déjame",
+          "start": 99.36,
+          "end": 100.32,
+          "confidence": 0.954
+        },
+        {
+          "text": "vivir",
+          "start": 100.32,
+          "end": 100.74,
+          "confidence": 0.992
+        },
+        {
+          "text": "un",
+          "start": 100.74,
+          "end": 101.48,
+          "confidence": 0.936
+        },
+        {
+          "text": "día,",
+          "start": 101.48,
+          "end": 102.06,
+          "confidence": 0.986
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "seek": 2700,
+      "start": 102.8,
+      "end": 105.32,
+      "text": " un día no puede ser,",
+      "tokens": [
+        51114,
+        517,
+        12271,
+        572,
+        8919,
+        816,
+        11,
+        51264
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1322359729122806,
+      "compression_ratio": 1.4244604316546763,
+      "no_speech_prob": 0.008183552883565426,
+      "confidence": 0.994,
+      "words": [
+        {
+          "text": "un",
+          "start": 102.8,
+          "end": 102.96,
+          "confidence": 0.989
+        },
+        {
+          "text": "día",
+          "start": 102.96,
+          "end": 103.3,
+          "confidence": 0.998
+        },
+        {
+          "text": "no",
+          "start": 103.3,
+          "end": 103.98,
+          "confidence": 0.993
+        },
+        {
+          "text": "puede",
+          "start": 103.98,
+          "end": 104.54,
+          "confidence": 0.99
+        },
+        {
+          "text": "ser,",
+          "start": 104.54,
+          "end": 105.32,
+          "confidence": 0.999
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "seek": 2700,
+      "start": 106.22,
+      "end": 108.94,
+      "text": " una hora tienes de vida,",
+      "tokens": [
+        51264,
+        2002,
+        15098,
+        20716,
+        368,
+        7644,
+        11,
+        51464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1322359729122806,
+      "compression_ratio": 1.4244604316546763,
+      "no_speech_prob": 0.008183552883565426,
+      "confidence": 0.967,
+      "words": [
+        {
+          "text": "una",
+          "start": 106.22,
+          "end": 106.46,
+          "confidence": 0.909
+        },
+        {
+          "text": "hora",
+          "start": 106.46,
+          "end": 106.74,
+          "confidence": 0.996
+        },
+        {
+          "text": "tienes",
+          "start": 106.74,
+          "end": 107.48,
+          "confidence": 0.993
+        },
+        {
+          "text": "de",
+          "start": 107.48,
+          "end": 108.28,
+          "confidence": 0.941
+        },
+        {
+          "text": "vida,",
+          "start": 108.28,
+          "end": 108.94,
+          "confidence": 0.999
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "seek": 2700,
+      "start": 109.94,
+      "end": 112.32,
+      "text": " muy deprisa se casaba,",
+      "tokens": [
+        51464,
+        5323,
+        1367,
+        81,
+        3837,
+        369,
+        3058,
+        5509,
+        11,
+        51614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1322359729122806,
+      "compression_ratio": 1.4244604316546763,
+      "no_speech_prob": 0.008183552883565426,
+      "confidence": 0.903,
+      "words": [
+        {
+          "text": "muy",
+          "start": 109.94,
+          "end": 110.22,
+          "confidence": 0.973
+        },
+        {
+          "text": "deprisa",
+          "start": 110.22,
+          "end": 110.76,
+          "confidence": 0.888
+        },
+        {
+          "text": "se",
+          "start": 110.76,
+          "end": 111.16,
+          "confidence": 0.95
+        },
+        {
+          "text": "casaba,",
+          "start": 111.16,
+          "end": 112.32,
+          "confidence": 0.868
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "seek": 2700,
+      "start": 113.34,
+      "end": 115.78,
+      "text": " más deprisa se vestía,",
+      "tokens": [
+        51614,
+        3573,
+        1367,
+        81,
+        3837,
+        369,
+        15814,
+        2686,
+        11,
+        51764
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1322359729122806,
+      "compression_ratio": 1.4244604316546763,
+      "no_speech_prob": 0.008183552883565426,
+      "confidence": 0.98,
+      "words": [
+        {
+          "text": "más",
+          "start": 113.34,
+          "end": 113.56,
+          "confidence": 0.903
+        },
+        {
+          "text": "deprisa",
+          "start": 113.56,
+          "end": 114.18,
+          "confidence": 0.997
+        },
+        {
+          "text": "se",
+          "start": 114.18,
+          "end": 114.54,
+          "confidence": 0.996
+        },
+        {
+          "text": "vestía,",
+          "start": 114.54,
+          "end": 115.78,
+          "confidence": 0.988
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "seek": 5500,
+      "start": 116.38,
+      "end": 119.1,
+      "text": " y se va para la calle,",
+      "tokens": [
+        50364,
+        288,
+        369,
+        2773,
+        1690,
+        635,
+        45092,
+        11,
+        50514
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17766326513045874,
+      "compression_ratio": 1.4027777777777777,
+      "no_speech_prob": 0.021596603095531464,
+      "confidence": 0.81,
+      "words": [
+        {
+          "text": "y",
+          "start": 116.38,
+          "end": 116.54,
+          "confidence": 0.597
+        },
+        {
+          "text": "se",
+          "start": 116.54,
+          "end": 116.72,
+          "confidence": 0.506
+        },
+        {
+          "text": "va",
+          "start": 116.72,
+          "end": 117.14,
+          "confidence": 0.963
+        },
+        {
+          "text": "para",
+          "start": 117.14,
+          "end": 117.84,
+          "confidence": 0.978
+        },
+        {
+          "text": "la",
+          "start": 117.84,
+          "end": 118.46,
+          "confidence": 0.995
+        },
+        {
+          "text": "calle,",
+          "start": 118.46,
+          "end": 119.1,
+          "confidence": 0.997
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "seek": 5500,
+      "start": 119.82,
+      "end": 122.64,
+      "text": " en donde su amor vivía.",
+      "tokens": [
+        50514,
+        465,
+        10488,
+        459,
+        15543,
+        11005,
+        2686,
+        13,
+        50714
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17766326513045874,
+      "compression_ratio": 1.4027777777777777,
+      "no_speech_prob": 0.021596603095531464,
+      "confidence": 0.983,
+      "words": [
+        {
+          "text": "en",
+          "start": 119.82,
+          "end": 120.04,
+          "confidence": 0.943
+        },
+        {
+          "text": "donde",
+          "start": 120.04,
+          "end": 120.34,
+          "confidence": 0.983
+        },
+        {
+          "text": "su",
+          "start": 120.34,
+          "end": 120.98,
+          "confidence": 0.985
+        },
+        {
+          "text": "amor",
+          "start": 120.98,
+          "end": 121.48,
+          "confidence": 0.999
+        },
+        {
+          "text": "vivía.",
+          "start": 121.48,
+          "end": 122.64,
+          "confidence": 0.994
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "seek": 5500,
+      "start": 123.66,
+      "end": 126.04,
+      "text": " Ábreme la puerta blanca,",
+      "tokens": [
+        50714,
+        24205,
+        65,
+        5301,
+        635,
+        48597,
+        888,
+        40835,
+        11,
+        50914
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17766326513045874,
+      "compression_ratio": 1.4027777777777777,
+      "no_speech_prob": 0.021596603095531464,
+      "confidence": 0.789,
+      "words": [
+        {
+          "text": "Ábreme",
+          "start": 123.66,
+          "end": 124.14,
+          "confidence": 0.584
+        },
+        {
+          "text": "la",
+          "start": 124.14,
+          "end": 124.48,
+          "confidence": 0.989
+        },
+        {
+          "text": "puerta",
+          "start": 124.48,
+          "end": 124.88,
+          "confidence": 0.995
+        },
+        {
+          "text": "blanca,",
+          "start": 124.88,
+          "end": 126.04,
+          "confidence": 0.987
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "seek": 5500,
+      "start": 127.1,
+      "end": 129.5,
+      "text": " ábreme la puerta niña,",
+      "tokens": [
+        50914,
+        7352,
+        65,
+        5301,
+        635,
+        48597,
+        3867,
+        12150,
+        11,
+        51064
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17766326513045874,
+      "compression_ratio": 1.4027777777777777,
+      "no_speech_prob": 0.021596603095531464,
+      "confidence": 0.926,
+      "words": [
+        {
+          "text": "ábreme",
+          "start": 127.1,
+          "end": 127.56,
+          "confidence": 0.843
+        },
+        {
+          "text": "la",
+          "start": 127.56,
+          "end": 127.88,
+          "confidence": 0.996
+        },
+        {
+          "text": "puerta",
+          "start": 127.88,
+          "end": 128.58,
+          "confidence": 0.998
+        },
+        {
+          "text": "niña,",
+          "start": 128.58,
+          "end": 129.5,
+          "confidence": 0.989
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "seek": 5500,
+      "start": 130.04,
+      "end": 132.5,
+      "text": " como te podé yo abrir,",
+      "tokens": [
+        51064,
+        2617,
+        535,
+        2497,
+        526,
+        5290,
+        27446,
+        11,
+        51214
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17766326513045874,
+      "compression_ratio": 1.4027777777777777,
+      "no_speech_prob": 0.021596603095531464,
+      "confidence": 0.532,
+      "words": [
+        {
+          "text": "como",
+          "start": 130.04,
+          "end": 130.36,
+          "confidence": 0.604
+        },
+        {
+          "text": "te",
+          "start": 130.36,
+          "end": 130.78,
+          "confidence": 0.989
+        },
+        {
+          "text": "podé",
+          "start": 130.78,
+          "end": 131.86,
+          "confidence": 0.212
+        },
+        {
+          "text": "yo",
+          "start": 131.86,
+          "end": 132.06,
+          "confidence": 0.854
+        },
+        {
+          "text": "abrir,",
+          "start": 132.06,
+          "end": 132.5,
+          "confidence": 0.994
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "seek": 5500,
+      "start": 133.42,
+      "end": 136.26,
+      "text": " si locacio no es venida,",
+      "tokens": [
+        51214,
+        1511,
+        1628,
+        24571,
+        572,
+        785,
+        6138,
+        2887,
+        11,
+        51414
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17766326513045874,
+      "compression_ratio": 1.4027777777777777,
+      "no_speech_prob": 0.021596603095531464,
+      "confidence": 0.785,
+      "words": [
+        {
+          "text": "si",
+          "start": 133.42,
+          "end": 133.6,
+          "confidence": 0.985
+        },
+        {
+          "text": "locacio",
+          "start": 133.6,
+          "end": 134.62,
+          "confidence": 0.447
+        },
+        {
+          "text": "no",
+          "start": 134.62,
+          "end": 134.94,
+          "confidence": 0.986
+        },
+        {
+          "text": "es",
+          "start": 134.94,
+          "end": 135.36,
+          "confidence": 0.976
+        },
+        {
+          "text": "venida,",
+          "start": 135.36,
+          "end": 136.26,
+          "confidence": 0.985
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "seek": 5500,
+      "start": 137.27,
+      "end": 139.71,
+      "text": " mi padre no fue al palacio,",
+      "tokens": [
+        51414,
+        2752,
+        34781,
+        572,
+        9248,
+        419,
+        3984,
+        24571,
+        11,
+        51564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17766326513045874,
+      "compression_ratio": 1.4027777777777777,
+      "no_speech_prob": 0.021596603095531464,
+      "confidence": 0.915,
+      "words": [
+        {
+          "text": "mi",
+          "start": 137.27,
+          "end": 137.49,
+          "confidence": 0.988
+        },
+        {
+          "text": "padre",
+          "start": 137.49,
+          "end": 137.81,
+          "confidence": 0.993
+        },
+        {
+          "text": "no",
+          "start": 137.81,
+          "end": 138.11,
+          "confidence": 0.998
+        },
+        {
+          "text": "fue",
+          "start": 138.11,
+          "end": 138.39,
+          "confidence": 0.998
+        },
+        {
+          "text": "al",
+          "start": 138.39,
+          "end": 138.77,
+          "confidence": 0.569
+        },
+        {
+          "text": "palacio,",
+          "start": 138.77,
+          "end": 139.71,
+          "confidence": 0.983
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "seek": 5500,
+      "start": 140.7,
+      "end": 143.1,
+      "text": " mi madre no está dormida,",
+      "tokens": [
+        51564,
+        2752,
+        32966,
+        572,
+        3192,
+        12521,
+        2887,
+        11,
+        51714
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17766326513045874,
+      "compression_ratio": 1.4027777777777777,
+      "no_speech_prob": 0.021596603095531464,
+      "confidence": 0.973,
+      "words": [
+        {
+          "text": "mi",
+          "start": 140.7,
+          "end": 140.92,
+          "confidence": 0.987
+        },
+        {
+          "text": "madre",
+          "start": 140.92,
+          "end": 141.24,
+          "confidence": 0.997
+        },
+        {
+          "text": "no",
+          "start": 141.24,
+          "end": 141.52,
+          "confidence": 0.996
+        },
+        {
+          "text": "está",
+          "start": 141.52,
+          "end": 141.82,
+          "confidence": 0.873
+        },
+        {
+          "text": "dormida,",
+          "start": 141.82,
+          "end": 143.1,
+          "confidence": 0.996
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "seek": 8200,
+      "start": 143.64,
+      "end": 146.08,
+      "text": " si no me abres esta noche,",
+      "tokens": [
+        50364,
+        1511,
+        572,
+        385,
+        410,
+        495,
+        5283,
+        29735,
+        11,
+        50514
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.21204417584890342,
+      "compression_ratio": 1.3548387096774193,
+      "no_speech_prob": 0.10072815418243408,
+      "confidence": 0.925,
+      "words": [
+        {
+          "text": "si",
+          "start": 143.64,
+          "end": 143.86,
+          "confidence": 0.947
+        },
+        {
+          "text": "no",
+          "start": 143.86,
+          "end": 144.08,
+          "confidence": 0.998
+        },
+        {
+          "text": "me",
+          "start": 144.08,
+          "end": 144.26,
+          "confidence": 0.989
+        },
+        {
+          "text": "abres",
+          "start": 144.26,
+          "end": 144.96,
+          "confidence": 0.803
+        },
+        {
+          "text": "esta",
+          "start": 144.96,
+          "end": 145.74,
+          "confidence": 0.966
+        },
+        {
+          "text": "noche,",
+          "start": 145.74,
+          "end": 146.08,
+          "confidence": 0.996
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "seek": 8200,
+      "start": 147.16,
+      "end": 149.86,
+      "text": " ya no me abrirás querida.",
+      "tokens": [
+        50514,
+        2478,
+        572,
+        385,
+        27446,
+        2490,
+        7083,
+        2887,
+        13,
+        50714
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.21204417584890342,
+      "compression_ratio": 1.3548387096774193,
+      "no_speech_prob": 0.10072815418243408,
+      "confidence": 0.955,
+      "words": [
+        {
+          "text": "ya",
+          "start": 147.16,
+          "end": 147.32,
+          "confidence": 0.985
+        },
+        {
+          "text": "no",
+          "start": 147.32,
+          "end": 147.52,
+          "confidence": 0.999
+        },
+        {
+          "text": "me",
+          "start": 147.52,
+          "end": 147.72,
+          "confidence": 0.979
+        },
+        {
+          "text": "abrirás",
+          "start": 147.72,
+          "end": 148.86,
+          "confidence": 0.98
+        },
+        {
+          "text": "querida.",
+          "start": 148.86,
+          "end": 149.86,
+          "confidence": 0.885
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "seek": 8200,
+      "start": 168.46,
+      "end": 172.25,
+      "text": " Tu vida sería, vete bajo mí,",
+      "tokens": [
+        50714,
+        7836,
+        7644,
+        23679,
+        11,
+        371,
+        3498,
+        30139,
+        14692,
+        11,
+        50914
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.21204417584890342,
+      "compression_ratio": 1.3548387096774193,
+      "no_speech_prob": 0.10072815418243408,
+      "confidence": 0.593,
+      "words": [
+        {
+          "text": "Tu",
+          "start": 168.46,
+          "end": 168.63,
+          "confidence": 0.135
+        },
+        {
+          "text": "vida",
+          "start": 168.63,
+          "end": 168.97,
+          "confidence": 0.993
+        },
+        {
+          "text": "sería,",
+          "start": 168.97,
+          "end": 170.27,
+          "confidence": 0.981
+        },
+        {
+          "text": "vete",
+          "start": 171.07,
+          "end": 171.37,
+          "confidence": 0.639
+        },
+        {
+          "text": "bajo",
+          "start": 171.37,
+          "end": 171.87,
+          "confidence": 0.978
+        },
+        {
+          "text": "mí,",
+          "start": 171.87,
+          "end": 172.25,
+          "confidence": 0.492
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "seek": 8200,
+      "start": 174.37,
+      "end": 177.05,
+      "text": " donde la brava y cocia,",
+      "tokens": [
+        50914,
+        10488,
+        635,
+        1548,
+        2757,
+        288,
+        598,
+        2755,
+        11,
+        51114
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.21204417584890342,
+      "compression_ratio": 1.3548387096774193,
+      "no_speech_prob": 0.10072815418243408,
+      "confidence": 0.566,
+      "words": [
+        {
+          "text": "donde",
+          "start": 174.37,
+          "end": 174.67,
+          "confidence": 0.917
+        },
+        {
+          "text": "la",
+          "start": 174.67,
+          "end": 175.07,
+          "confidence": 0.567
+        },
+        {
+          "text": "brava",
+          "start": 175.07,
+          "end": 175.76,
+          "confidence": 0.613
+        },
+        {
+          "text": "y",
+          "start": 176.09,
+          "end": 176.29,
+          "confidence": 0.498
+        },
+        {
+          "text": "cocia,",
+          "start": 176.29,
+          "end": 177.05,
+          "confidence": 0.438
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "seek": 8200,
+      "start": 178.24,
+      "end": 180.56,
+      "text": " te echaré cordón de seda,",
+      "tokens": [
+        51114,
+        535,
+        308,
+        7374,
+        526,
+        12250,
+        1801,
+        368,
+        262,
+        8801,
+        11,
+        51264
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.21204417584890342,
+      "compression_ratio": 1.3548387096774193,
+      "no_speech_prob": 0.10072815418243408,
+      "confidence": 0.841,
+      "words": [
+        {
+          "text": "te",
+          "start": 178.24,
+          "end": 178.42,
+          "confidence": 0.976
+        },
+        {
+          "text": "echaré",
+          "start": 178.42,
+          "end": 178.9,
+          "confidence": 0.96
+        },
+        {
+          "text": "cordón",
+          "start": 178.9,
+          "end": 179.54,
+          "confidence": 0.884
+        },
+        {
+          "text": "de",
+          "start": 179.54,
+          "end": 179.92,
+          "confidence": 0.954
+        },
+        {
+          "text": "seda,",
+          "start": 179.92,
+          "end": 180.56,
+          "confidence": 0.571
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "seek": 8200,
+      "start": 181.64,
+      "end": 183.58,
+      "text": " para que subas arriba,",
+      "tokens": [
+        51264,
+        1690,
+        631,
+        1422,
+        296,
+        28469,
+        11,
+        51414
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.21204417584890342,
+      "compression_ratio": 1.3548387096774193,
+      "no_speech_prob": 0.10072815418243408,
+      "confidence": 0.986,
+      "words": [
+        {
+          "text": "para",
+          "start": 181.64,
+          "end": 182.0,
+          "confidence": 0.991
+        },
+        {
+          "text": "que",
+          "start": 182.0,
+          "end": 182.24,
+          "confidence": 0.988
+        },
+        {
+          "text": "subas",
+          "start": 182.24,
+          "end": 183.0,
+          "confidence": 0.978
+        },
+        {
+          "text": "arriba,",
+          "start": 183.0,
+          "end": 183.58,
+          "confidence": 0.995
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "seek": 8200,
+      "start": 184.68,
+      "end": 187.42,
+      "text": " y si el hilo no alcanzare,",
+      "tokens": [
+        51414,
+        288,
+        1511,
+        806,
+        276,
+        10720,
+        572,
+        50200,
+        543,
+        11,
+        51614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.21204417584890342,
+      "compression_ratio": 1.3548387096774193,
+      "no_speech_prob": 0.10072815418243408,
+      "confidence": 0.915,
+      "words": [
+        {
+          "text": "y",
+          "start": 184.68,
+          "end": 184.82,
+          "confidence": 0.974
+        },
+        {
+          "text": "si",
+          "start": 184.82,
+          "end": 184.98,
+          "confidence": 0.993
+        },
+        {
+          "text": "el",
+          "start": 184.98,
+          "end": 185.2,
+          "confidence": 0.846
+        },
+        {
+          "text": "hilo",
+          "start": 185.2,
+          "end": 185.84,
+          "confidence": 0.975
+        },
+        {
+          "text": "no",
+          "start": 185.84,
+          "end": 186.1,
+          "confidence": 0.995
+        },
+        {
+          "text": "alcanzare,",
+          "start": 186.1,
+          "end": 187.42,
+          "confidence": 0.798
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "seek": 8200,
+      "start": 188.02,
+      "end": 190.82,
+      "text": " mis trenzas añadiría.",
+      "tokens": [
+        51614,
+        3346,
+        23136,
+        24561,
+        44980,
+        347,
+        2686,
+        13,
+        51764
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.21204417584890342,
+      "compression_ratio": 1.3548387096774193,
+      "no_speech_prob": 0.10072815418243408,
+      "confidence": 0.844,
+      "words": [
+        {
+          "text": "mis",
+          "start": 188.02,
+          "end": 188.2,
+          "confidence": 0.594
+        },
+        {
+          "text": "trenzas",
+          "start": 188.2,
+          "end": 188.88,
+          "confidence": 0.878
+        },
+        {
+          "text": "añadiría.",
+          "start": 188.88,
+          "end": 190.82,
+          "confidence": 0.926
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "seek": 11000,
+      "start": 191.64,
+      "end": 194.32,
+      "text": " Se rompió el cordón de seda,",
+      "tokens": [
+        50414,
+        1100,
+        7438,
+        79,
+        7138,
+        806,
+        12250,
+        1801,
+        368,
+        262,
+        8801,
+        11,
+        50564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.13397133918035597,
+      "compression_ratio": 1.1122448979591837,
+      "no_speech_prob": 0.1306021809577942,
+      "confidence": 0.978,
+      "words": [
+        {
+          "text": "Se",
+          "start": 191.64,
+          "end": 192.06,
+          "confidence": 0.885
+        },
+        {
+          "text": "rompió",
+          "start": 192.06,
+          "end": 192.52,
+          "confidence": 0.981
+        },
+        {
+          "text": "el",
+          "start": 192.52,
+          "end": 192.6,
+          "confidence": 0.994
+        },
+        {
+          "text": "cordón",
+          "start": 192.6,
+          "end": 193.2,
+          "confidence": 0.995
+        },
+        {
+          "text": "de",
+          "start": 193.2,
+          "end": 193.58,
+          "confidence": 0.993
+        },
+        {
+          "text": "seda,",
+          "start": 193.58,
+          "end": 194.32,
+          "confidence": 0.99
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "seek": 11000,
+      "start": 195.28,
+      "end": 197.64,
+      "text": " la muerte que allí venía,",
+      "tokens": [
+        50564,
+        635,
+        38497,
+        631,
+        34294,
+        6138,
+        2686,
+        11,
+        50714
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.13397133918035597,
+      "compression_ratio": 1.1122448979591837,
+      "no_speech_prob": 0.1306021809577942,
+      "confidence": 0.987,
+      "words": [
+        {
+          "text": "la",
+          "start": 195.28,
+          "end": 195.46,
+          "confidence": 0.987
+        },
+        {
+          "text": "muerte",
+          "start": 195.46,
+          "end": 195.76,
+          "confidence": 0.998
+        },
+        {
+          "text": "que",
+          "start": 195.76,
+          "end": 196.12,
+          "confidence": 0.99
+        },
+        {
+          "text": "allí",
+          "start": 196.12,
+          "end": 196.42,
+          "confidence": 0.965
+        },
+        {
+          "text": "venía,",
+          "start": 196.42,
+          "end": 197.64,
+          "confidence": 0.991
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "seek": 11000,
+      "start": 198.3,
+      "end": 201.14,
+      "text": " vamos a ser enamorado,",
+      "tokens": [
+        50714,
+        5295,
+        257,
+        816,
+        44549,
+        284,
+        1573,
+        11,
+        50914
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.13397133918035597,
+      "compression_ratio": 1.1122448979591837,
+      "no_speech_prob": 0.1306021809577942,
+      "confidence": 0.749,
+      "words": [
+        {
+          "text": "vamos",
+          "start": 198.3,
+          "end": 198.66,
+          "confidence": 0.915
+        },
+        {
+          "text": "a",
+          "start": 198.66,
+          "end": 199.14,
+          "confidence": 0.498
+        },
+        {
+          "text": "ser",
+          "start": 199.14,
+          "end": 199.38,
+          "confidence": 0.578
+        },
+        {
+          "text": "enamorado,",
+          "start": 199.38,
+          "end": 201.14,
+          "confidence": 0.874
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "seek": 11000,
+      "start": 201.72,
+      "end": 204.52,
+      "text": " que la obra ya es cumplida.",
+      "tokens": [
+        50914,
+        631,
+        635,
+        22798,
+        2478,
+        785,
+        37483,
+        2887,
+        13,
+        51114
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.13397133918035597,
+      "compression_ratio": 1.1122448979591837,
+      "no_speech_prob": 0.1306021809577942,
+      "confidence": 0.927,
+      "words": [
+        {
+          "text": "que",
+          "start": 201.72,
+          "end": 201.9,
+          "confidence": 0.988
+        },
+        {
+          "text": "la",
+          "start": 201.9,
+          "end": 202.12,
+          "confidence": 0.985
+        },
+        {
+          "text": "obra",
+          "start": 202.12,
+          "end": 202.82,
+          "confidence": 0.683
+        },
+        {
+          "text": "ya",
+          "start": 202.82,
+          "end": 203.18,
+          "confidence": 0.898
+        },
+        {
+          "text": "es",
+          "start": 203.18,
+          "end": 203.54,
+          "confidence": 0.992
+        },
+        {
+          "text": "cumplida.",
+          "start": 203.54,
+          "end": 204.52,
+          "confidence": 0.997
+        }
+      ]
+    }
+  ],
+  "language": "es",
+  "language_probs": {
+    "en": 0.014471542090177536,
+    "zh": 0.0003917267022188753,
+    "de": 0.0008758999756537378,
+    "es": 0.9237431883811951,
+    "ru": 0.002068599220365286,
+    "ko": 0.0016883413773030043,
+    "fr": 0.0023440299555659294,
+    "ja": 0.0009545016218908131,
+    "pt": 0.0026149542536586523,
+    "tr": 0.0008690837421454489,
+    "pl": 0.0015372522175312042,
+    "ca": 0.0018688235431909561,
+    "nl": 0.0003886782506015152,
+    "ar": 0.0012449049390852451,
+    "sv": 0.00018503860337659717,
+    "it": 0.0019738709088414907,
+    "id": 2.6244053515256383e-05,
+    "hi": 8.740604243939742e-05,
+    "fi": 0.00012326227442827076,
+    "vi": 0.0001658675173530355,
+    "he": 2.523865805414971e-05,
+    "uk": 3.0443632567767054e-05,
+    "el": 0.0016363965114578605,
+    "ms": 5.469730240292847e-05,
+    "cs": 4.53456596005708e-05,
+    "ro": 0.0001062587252818048,
+    "da": 2.3709528250037692e-05,
+    "hu": 0.00027346931165084243,
+    "ta": 4.752184031531215e-05,
+    "no": 8.06675961939618e-06,
+    "th": 7.71355553297326e-05,
+    "ur": 9.304324339609593e-05,
+    "hr": 2.0122013665968552e-05,
+    "bg": 5.9480557865754236e-06,
+    "lt": 1.946196334756678e-06,
+    "la": 0.009946136735379696,
+    "mi": 0.00021973875118419528,
+    "ml": 1.694443380984012e-05,
+    "cy": 0.0009397034882567823,
+    "sk": 4.632350282918196e-06,
+    "te": 7.189824827946723e-05,
+    "fa": 1.210964001074899e-05,
+    "lv": 5.16776026415755e-06,
+    "bn": 6.899865184095688e-06,
+    "sr": 5.331802185537526e-06,
+    "az": 2.4220805698860204e-06,
+    "sl": 1.4837040907877963e-05,
+    "kn": 4.6226216454670066e-07,
+    "et": 5.208291895542061e-06,
+    "mk": 1.6517154790562927e-06,
+    "br": 0.0003826523607131094,
+    "eu": 0.0011423890246078372,
+    "is": 1.9810049707302824e-05,
+    "hy": 6.123977982497308e-07,
+    "ne": 2.4220805698860204e-06,
+    "mn": 4.70529948870535e-06,
+    "bs": 1.8464996173861437e-05,
+    "kk": 1.327190602751216e-06,
+    "sq": 1.871638914963114e-06,
+    "sw": 2.498965386621421e-06,
+    "gl": 0.022066466510295868,
+    "mr": 9.229161719304102e-07,
+    "pa": 2.2705553703872283e-07,
+    "si": 4.1524117477820255e-06,
+    "km": 0.00010461133206263185,
+    "sn": 9.674966713646427e-05,
+    "yo": 1.6423109627794474e-05,
+    "so": 1.1240065589390724e-07,
+    "af": 8.081323699116183e-07,
+    "oc": 0.0014328766847029328,
+    "ka": 2.1081393697386375e-07,
+    "be": 2.5837176508503035e-05,
+    "tg": 8.238253634829107e-09,
+    "sd": 8.999120836961083e-06,
+    "gu": 3.084889499405108e-08,
+    "am": 2.6906883832111816e-08,
+    "yi": 2.7936646802118048e-05,
+    "lo": 2.558226924520568e-06,
+    "uz": 9.924567417884944e-11,
+    "fo": 1.210964001074899e-05,
+    "ht": 8.722247002879158e-06,
+    "ps": 4.159909110512672e-07,
+    "tk": 1.544901651051589e-09,
+    "nn": 0.001032062340527773,
+    "mt": 2.3063114440446952e-07,
+    "sa": 0.00020007439889013767,
+    "lb": 1.2559961959368593e-09,
+    "my": 1.554908521939069e-05,
+    "bo": 3.7513918869080953e-06,
+    "tl": 6.246628618100658e-05,
+    "mg": 4.1141212658857285e-10,
+    "as": 8.469155545753893e-07,
+    "tt": 4.2572874114910064e-09,
+    "haw": 0.0005271258414722979,
+    "ln": 1.0215751444775378e-06,
+    "ha": 3.179534691089003e-10,
+    "ba": 2.2021904300117967e-09,
+    "jw": 0.0014441149542108178,
+    "su": 4.576331757988328e-09
+  },
+  "speech_activity": [
+    {
+      "start": 28.142,
+      "end": 31.25
+    },
+    {
+      "start": 31.502,
+      "end": 34.642
+    },
+    {
+      "start": 37.742,
+      "end": 68.85
+    },
+    {
+      "start": 98.094,
+      "end": 137.074
+    },
+    {
+      "start": 137.102,
+      "end": 140.498
+    },
+    {
+      "start": 140.654,
+      "end": 150.61
+    },
+    {
+      "start": 168.462,
+      "end": 172.594
+    },
+    {
+      "start": 173.966,
+      "end": 175.762
+    },
+    {
+      "start": 175.982,
+      "end": 177.97
+    },
+    {
+      "start": 178.062,
+      "end": 205.234
+    }
+  ]
+}

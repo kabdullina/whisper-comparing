@@ -1,0 +1,1333 @@
+{
+  "text": " Yn ymwneud, yw'r llwyddiadau. Yn ymwneud, yw'r llwyddiadau. Yn ymwneud, yw'r llwyddiadau. Yn ymwneud, yw'r llwyddiadau. Yn ymwneud, yw'r llwyddiadau. Yn ymwneud, yw'r llwyddiadau. Yn ymwneud, yw'r llwyddiadau. Yn ymwneud, yw'r llwyddiadau. Yn ymwneud, yw'r llwyddiadau. Yn ymwneud, yw'r llwyddiadau. Yn ymwneud, yw'r llwyddiadau. Yn ymwneud, yw'r llwyddiadau. Yn ymwneud, yw'r llwyddiadau. Yn ymwneud, yw'r llwyddiadau. Yn ymwneud, yw'r llwyddiadau. Yn ymwneud, yw'r llwyddiadau. Yn ymwneud, yw'r llwyddiadau. Yn ymwneud, yw'r llwyddiadau. Yn ymwneud, yw'r llwyddiadau. Yn ymwneud, yw'r llwyddiadau.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.28,
+      "end": 2.48,
+      "text": " Yn ymwneud, yw'r llwyddiadau.",
+      "tokens": [
+        50364,
+        398,
+        77,
+        288,
+        76,
+        86,
+        716,
+        532,
+        11,
+        288,
+        86,
+        6,
+        81,
+        4849,
+        86,
+        6655,
+        4504,
+        345,
+        1459,
+        13,
+        50464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.20225435045030382,
+      "compression_ratio": 7.4186046511627906,
+      "no_speech_prob": 0.9513862133026123,
+      "confidence": 0.206,
+      "words": [
+        {
+          "text": "Yn",
+          "start": 0.28,
+          "end": 1.18,
+          "confidence": 0.109
+        },
+        {
+          "text": "ymwneud,",
+          "start": 1.18,
+          "end": 1.28,
+          "confidence": 0.271
+        },
+        {
+          "text": "yw'r",
+          "start": 1.28,
+          "end": 1.98,
+          "confidence": 0.249
+        },
+        {
+          "text": "llwyddiadau.",
+          "start": 1.98,
+          "end": 2.48,
+          "confidence": 0.179
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 2.48,
+      "end": 3.52,
+      "text": " Yn ymwneud, yw'r llwyddiadau.",
+      "tokens": [
+        50464,
+        398,
+        77,
+        288,
+        76,
+        86,
+        716,
+        532,
+        11,
+        288,
+        86,
+        6,
+        81,
+        4849,
+        86,
+        6655,
+        4504,
+        345,
+        1459,
+        13,
+        50564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.20225435045030382,
+      "compression_ratio": 7.4186046511627906,
+      "no_speech_prob": 0.9513862133026123,
+      "confidence": 0.843,
+      "words": [
+        {
+          "text": "Yn",
+          "start": 2.48,
+          "end": 2.58,
+          "confidence": 0.438
+        },
+        {
+          "text": "ymwneud,",
+          "start": 2.58,
+          "end": 3.48,
+          "confidence": 0.905
+        },
+        {
+          "text": "yw'r",
+          "start": 3.48,
+          "end": 3.5,
+          "confidence": 0.859
+        },
+        {
+          "text": "llwyddiadau.",
+          "start": 3.5,
+          "end": 3.52,
+          "confidence": 0.976
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 3.52,
+      "end": 5.3,
+      "text": " Yn ymwneud, yw'r llwyddiadau.",
+      "tokens": [
+        50564,
+        398,
+        77,
+        288,
+        76,
+        86,
+        716,
+        532,
+        11,
+        288,
+        86,
+        6,
+        81,
+        4849,
+        86,
+        6655,
+        4504,
+        345,
+        1459,
+        13,
+        50664
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.20225435045030382,
+      "compression_ratio": 7.4186046511627906,
+      "no_speech_prob": 0.9513862133026123,
+      "confidence": 0.948,
+      "words": [
+        {
+          "text": "Yn",
+          "start": 3.52,
+          "end": 5.02,
+          "confidence": 0.74
+        },
+        {
+          "text": "ymwneud,",
+          "start": 5.02,
+          "end": 5.04,
+          "confidence": 0.979
+        },
+        {
+          "text": "yw'r",
+          "start": 5.26,
+          "end": 5.28,
+          "confidence": 0.963
+        },
+        {
+          "text": "llwyddiadau.",
+          "start": 5.28,
+          "end": 5.3,
+          "confidence": 0.993
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 5.6,
+      "end": 7.44,
+      "text": " Yn ymwneud, yw'r llwyddiadau.",
+      "tokens": [
+        50664,
+        398,
+        77,
+        288,
+        76,
+        86,
+        716,
+        532,
+        11,
+        288,
+        86,
+        6,
+        81,
+        4849,
+        86,
+        6655,
+        4504,
+        345,
+        1459,
+        13,
+        50764
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.20225435045030382,
+      "compression_ratio": 7.4186046511627906,
+      "no_speech_prob": 0.9513862133026123,
+      "confidence": 0.971,
+      "words": [
+        {
+          "text": "Yn",
+          "start": 5.6,
+          "end": 6.48,
+          "confidence": 0.868
+        },
+        {
+          "text": "ymwneud,",
+          "start": 6.48,
+          "end": 7.08,
+          "confidence": 0.987
+        },
+        {
+          "text": "yw'r",
+          "start": 7.36,
+          "end": 7.38,
+          "confidence": 0.973
+        },
+        {
+          "text": "llwyddiadau.",
+          "start": 7.38,
+          "end": 7.44,
+          "confidence": 0.995
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 7.5,
+      "end": 9.72,
+      "text": " Yn ymwneud, yw'r llwyddiadau.",
+      "tokens": [
+        50764,
+        398,
+        77,
+        288,
+        76,
+        86,
+        716,
+        532,
+        11,
+        288,
+        86,
+        6,
+        81,
+        4849,
+        86,
+        6655,
+        4504,
+        345,
+        1459,
+        13,
+        50864
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.20225435045030382,
+      "compression_ratio": 7.4186046511627906,
+      "no_speech_prob": 0.9513862133026123,
+      "confidence": 0.977,
+      "words": [
+        {
+          "text": "Yn",
+          "start": 7.5,
+          "end": 8.9,
+          "confidence": 0.906
+        },
+        {
+          "text": "ymwneud,",
+          "start": 8.9,
+          "end": 8.94,
+          "confidence": 0.987
+        },
+        {
+          "text": "yw'r",
+          "start": 9.38,
+          "end": 9.7,
+          "confidence": 0.975
+        },
+        {
+          "text": "llwyddiadau.",
+          "start": 9.7,
+          "end": 9.72,
+          "confidence": 0.995
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 9.72,
+      "end": 11.62,
+      "text": " Yn ymwneud, yw'r llwyddiadau.",
+      "tokens": [
+        50864,
+        398,
+        77,
+        288,
+        76,
+        86,
+        716,
+        532,
+        11,
+        288,
+        86,
+        6,
+        81,
+        4849,
+        86,
+        6655,
+        4504,
+        345,
+        1459,
+        13,
+        50964
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.20225435045030382,
+      "compression_ratio": 7.4186046511627906,
+      "no_speech_prob": 0.9513862133026123,
+      "confidence": 0.983,
+      "words": [
+        {
+          "text": "Yn",
+          "start": 9.72,
+          "end": 10.78,
+          "confidence": 0.932
+        },
+        {
+          "text": "ymwneud,",
+          "start": 10.78,
+          "end": 11.0,
+          "confidence": 0.99
+        },
+        {
+          "text": "yw'r",
+          "start": 11.58,
+          "end": 11.6,
+          "confidence": 0.98
+        },
+        {
+          "text": "llwyddiadau.",
+          "start": 11.6,
+          "end": 11.62,
+          "confidence": 0.996
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 0,
+      "start": 11.98,
+      "end": 13.95,
+      "text": " Yn ymwneud, yw'r llwyddiadau.",
+      "tokens": [
+        50964,
+        398,
+        77,
+        288,
+        76,
+        86,
+        716,
+        532,
+        11,
+        288,
+        86,
+        6,
+        81,
+        4849,
+        86,
+        6655,
+        4504,
+        345,
+        1459,
+        13,
+        51064
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.20225435045030382,
+      "compression_ratio": 7.4186046511627906,
+      "no_speech_prob": 0.9513862133026123,
+      "confidence": 0.987,
+      "words": [
+        {
+          "text": "Yn",
+          "start": 11.98,
+          "end": 13.28,
+          "confidence": 0.959
+        },
+        {
+          "text": "ymwneud,",
+          "start": 13.28,
+          "end": 13.36,
+          "confidence": 0.99
+        },
+        {
+          "text": "yw'r",
+          "start": 13.36,
+          "end": 13.82,
+          "confidence": 0.984
+        },
+        {
+          "text": "llwyddiadau.",
+          "start": 13.82,
+          "end": 13.95,
+          "confidence": 0.996
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 0,
+      "start": 13.95,
+      "end": 15.48,
+      "text": " Yn ymwneud, yw'r llwyddiadau.",
+      "tokens": [
+        51064,
+        398,
+        77,
+        288,
+        76,
+        86,
+        716,
+        532,
+        11,
+        288,
+        86,
+        6,
+        81,
+        4849,
+        86,
+        6655,
+        4504,
+        345,
+        1459,
+        13,
+        51164
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.20225435045030382,
+      "compression_ratio": 7.4186046511627906,
+      "no_speech_prob": 0.9513862133026123,
+      "confidence": 0.989,
+      "words": [
+        {
+          "text": "Yn",
+          "start": 13.95,
+          "end": 14.76,
+          "confidence": 0.969
+        },
+        {
+          "text": "ymwneud,",
+          "start": 14.76,
+          "end": 15.12,
+          "confidence": 0.992
+        },
+        {
+          "text": "yw'r",
+          "start": 15.44,
+          "end": 15.46,
+          "confidence": 0.986
+        },
+        {
+          "text": "llwyddiadau.",
+          "start": 15.46,
+          "end": 15.48,
+          "confidence": 0.996
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seek": 0,
+      "start": 15.62,
+      "end": 17.74,
+      "text": " Yn ymwneud, yw'r llwyddiadau.",
+      "tokens": [
+        51164,
+        398,
+        77,
+        288,
+        76,
+        86,
+        716,
+        532,
+        11,
+        288,
+        86,
+        6,
+        81,
+        4849,
+        86,
+        6655,
+        4504,
+        345,
+        1459,
+        13,
+        51264
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.20225435045030382,
+      "compression_ratio": 7.4186046511627906,
+      "no_speech_prob": 0.9513862133026123,
+      "confidence": 0.989,
+      "words": [
+        {
+          "text": "Yn",
+          "start": 15.62,
+          "end": 17.22,
+          "confidence": 0.97
+        },
+        {
+          "text": "ymwneud,",
+          "start": 17.22,
+          "end": 17.38,
+          "confidence": 0.99
+        },
+        {
+          "text": "yw'r",
+          "start": 17.38,
+          "end": 17.68,
+          "confidence": 0.986
+        },
+        {
+          "text": "llwyddiadau.",
+          "start": 17.68,
+          "end": 17.74,
+          "confidence": 0.997
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "seek": 0,
+      "start": 17.74,
+      "end": 20.5,
+      "text": " Yn ymwneud, yw'r llwyddiadau.",
+      "tokens": [
+        51264,
+        398,
+        77,
+        288,
+        76,
+        86,
+        716,
+        532,
+        11,
+        288,
+        86,
+        6,
+        81,
+        4849,
+        86,
+        6655,
+        4504,
+        345,
+        1459,
+        13,
+        51364
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.20225435045030382,
+      "compression_ratio": 7.4186046511627906,
+      "no_speech_prob": 0.9513862133026123,
+      "confidence": 0.989,
+      "words": [
+        {
+          "text": "Yn",
+          "start": 17.74,
+          "end": 19.2,
+          "confidence": 0.968
+        },
+        {
+          "text": "ymwneud,",
+          "start": 19.2,
+          "end": 19.28,
+          "confidence": 0.99
+        },
+        {
+          "text": "yw'r",
+          "start": 19.76,
+          "end": 20.48,
+          "confidence": 0.986
+        },
+        {
+          "text": "llwyddiadau.",
+          "start": 20.48,
+          "end": 20.5,
+          "confidence": 0.997
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "seek": 2000,
+      "start": 20.54,
+      "end": 22.46,
+      "text": " Yn ymwneud, yw'r llwyddiadau.",
+      "tokens": [
+        50364,
+        398,
+        77,
+        288,
+        76,
+        86,
+        716,
+        532,
+        11,
+        288,
+        86,
+        6,
+        81,
+        4849,
+        86,
+        6655,
+        4504,
+        345,
+        1459,
+        13,
+        50464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17186169190840286,
+      "compression_ratio": 0.7837837837837838,
+      "no_speech_prob": 0.9754198789596558,
+      "confidence": 0.883,
+      "words": [
+        {
+          "text": "Yn",
+          "start": 20.54,
+          "end": 21.18,
+          "confidence": 0.812
+        },
+        {
+          "text": "ymwneud,",
+          "start": 21.18,
+          "end": 21.26,
+          "confidence": 0.764
+        },
+        {
+          "text": "yw'r",
+          "start": 21.26,
+          "end": 22.06,
+          "confidence": 0.94
+        },
+        {
+          "text": "llwyddiadau.",
+          "start": 22.06,
+          "end": 22.46,
+          "confidence": 0.982
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "seek": 5000,
+      "start": 50.28,
+      "end": 52.48,
+      "text": " Yn ymwneud, yw'r llwyddiadau.",
+      "tokens": [
+        50364,
+        398,
+        77,
+        288,
+        76,
+        86,
+        716,
+        532,
+        11,
+        288,
+        86,
+        6,
+        81,
+        4849,
+        86,
+        6655,
+        4504,
+        345,
+        1459,
+        13,
+        50464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.21242508021267978,
+      "compression_ratio": 0.7837837837837838,
+      "no_speech_prob": 0.9784825444221497,
+      "confidence": 0.84,
+      "words": [
+        {
+          "text": "Yn",
+          "start": 50.28,
+          "end": 51.24,
+          "confidence": 0.708
+        },
+        {
+          "text": "ymwneud,",
+          "start": 51.24,
+          "end": 51.26,
+          "confidence": 0.691
+        },
+        {
+          "text": "yw'r",
+          "start": 51.26,
+          "end": 52.2,
+          "confidence": 0.923
+        },
+        {
+          "text": "llwyddiadau.",
+          "start": 52.2,
+          "end": 52.48,
+          "confidence": 0.982
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "seek": 8000,
+      "start": 80.3,
+      "end": 82.48,
+      "text": " Yn ymwneud, yw'r llwyddiadau.",
+      "tokens": [
+        50364,
+        398,
+        77,
+        288,
+        76,
+        86,
+        716,
+        532,
+        11,
+        288,
+        86,
+        6,
+        81,
+        4849,
+        86,
+        6655,
+        4504,
+        345,
+        1459,
+        13,
+        50464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.19457088817249646,
+      "compression_ratio": 0.7837837837837838,
+      "no_speech_prob": 0.9805473685264587,
+      "confidence": 0.858,
+      "words": [
+        {
+          "text": "Yn",
+          "start": 80.3,
+          "end": 81.1,
+          "confidence": 0.818
+        },
+        {
+          "text": "ymwneud,",
+          "start": 81.1,
+          "end": 81.3,
+          "confidence": 0.699
+        },
+        {
+          "text": "yw'r",
+          "start": 81.3,
+          "end": 82.04,
+          "confidence": 0.928
+        },
+        {
+          "text": "llwyddiadau.",
+          "start": 82.04,
+          "end": 82.48,
+          "confidence": 0.981
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "seek": 11000,
+      "start": 110.28,
+      "end": 112.34,
+      "text": " Yn ymwneud, yw'r llwyddiadau.",
+      "tokens": [
+        50364,
+        398,
+        77,
+        288,
+        76,
+        86,
+        716,
+        532,
+        11,
+        288,
+        86,
+        6,
+        81,
+        4849,
+        86,
+        6655,
+        4504,
+        345,
+        1459,
+        13,
+        50464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.19142326441678134,
+      "compression_ratio": 0.7837837837837838,
+      "no_speech_prob": 0.9582850933074951,
+      "confidence": 0.852,
+      "words": [
+        {
+          "text": "Yn",
+          "start": 110.28,
+          "end": 111.22,
+          "confidence": 0.778
+        },
+        {
+          "text": "ymwneud,",
+          "start": 111.22,
+          "end": 111.38,
+          "confidence": 0.707
+        },
+        {
+          "text": "yw'r",
+          "start": 111.38,
+          "end": 111.7,
+          "confidence": 0.921
+        },
+        {
+          "text": "llwyddiadau.",
+          "start": 111.7,
+          "end": 112.34,
+          "confidence": 0.974
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "seek": 14000,
+      "start": 140.42,
+      "end": 142.48,
+      "text": " Yn ymwneud, yw'r llwyddiadau.",
+      "tokens": [
+        50364,
+        398,
+        77,
+        288,
+        76,
+        86,
+        716,
+        532,
+        11,
+        288,
+        86,
+        6,
+        81,
+        4849,
+        86,
+        6655,
+        4504,
+        345,
+        1459,
+        13,
+        50464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.19672877138311212,
+      "compression_ratio": 0.7837837837837838,
+      "no_speech_prob": 0.9618615508079529,
+      "confidence": 0.851,
+      "words": [
+        {
+          "text": "Yn",
+          "start": 140.42,
+          "end": 141.1,
+          "confidence": 0.748
+        },
+        {
+          "text": "ymwneud,",
+          "start": 141.1,
+          "end": 141.38,
+          "confidence": 0.709
+        },
+        {
+          "text": "yw'r",
+          "start": 141.38,
+          "end": 142.26,
+          "confidence": 0.926
+        },
+        {
+          "text": "llwyddiadau.",
+          "start": 142.26,
+          "end": 142.48,
+          "confidence": 0.978
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "seek": 17000,
+      "start": 170.34,
+      "end": 172.48,
+      "text": " Yn ymwneud, yw'r llwyddiadau.",
+      "tokens": [
+        50364,
+        398,
+        77,
+        288,
+        76,
+        86,
+        716,
+        532,
+        11,
+        288,
+        86,
+        6,
+        81,
+        4849,
+        86,
+        6655,
+        4504,
+        345,
+        1459,
+        13,
+        50464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.18851793896068225,
+      "compression_ratio": 0.7837837837837838,
+      "no_speech_prob": 0.9215338230133057,
+      "confidence": 0.863,
+      "words": [
+        {
+          "text": "Yn",
+          "start": 170.34,
+          "end": 171.5,
+          "confidence": 0.729
+        },
+        {
+          "text": "ymwneud,",
+          "start": 171.5,
+          "end": 171.52,
+          "confidence": 0.753
+        },
+        {
+          "text": "yw'r",
+          "start": 171.52,
+          "end": 171.8,
+          "confidence": 0.924
+        },
+        {
+          "text": "llwyddiadau.",
+          "start": 171.8,
+          "end": 172.48,
+          "confidence": 0.977
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "seek": 20000,
+      "start": 200.14,
+      "end": 202.48,
+      "text": " Yn ymwneud, yw'r llwyddiadau.",
+      "tokens": [
+        50364,
+        398,
+        77,
+        288,
+        76,
+        86,
+        716,
+        532,
+        11,
+        288,
+        86,
+        6,
+        81,
+        4849,
+        86,
+        6655,
+        4504,
+        345,
+        1459,
+        13,
+        50464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.15335843779823996,
+      "compression_ratio": 0.7837837837837838,
+      "no_speech_prob": 0.9457083344459534,
+      "confidence": 0.895,
+      "words": [
+        {
+          "text": "Yn",
+          "start": 200.14,
+          "end": 200.46,
+          "confidence": 0.864
+        },
+        {
+          "text": "ymwneud,",
+          "start": 200.46,
+          "end": 200.88,
+          "confidence": 0.784
+        },
+        {
+          "text": "yw'r",
+          "start": 200.98,
+          "end": 202.06,
+          "confidence": 0.934
+        },
+        {
+          "text": "llwyddiadau.",
+          "start": 202.06,
+          "end": 202.48,
+          "confidence": 0.983
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "seek": 23000,
+      "start": 230.22,
+      "end": 232.48,
+      "text": " Yn ymwneud, yw'r llwyddiadau.",
+      "tokens": [
+        50364,
+        398,
+        77,
+        288,
+        76,
+        86,
+        716,
+        532,
+        11,
+        288,
+        86,
+        6,
+        81,
+        4849,
+        86,
+        6655,
+        4504,
+        345,
+        1459,
+        13,
+        50464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.18621462041681464,
+      "compression_ratio": 0.7837837837837838,
+      "no_speech_prob": 0.9273959398269653,
+      "confidence": 0.861,
+      "words": [
+        {
+          "text": "Yn",
+          "start": 230.22,
+          "end": 231.98,
+          "confidence": 0.734
+        },
+        {
+          "text": "ymwneud,",
+          "start": 231.98,
+          "end": 232.36,
+          "confidence": 0.749
+        },
+        {
+          "text": "yw'r",
+          "start": 232.36,
+          "end": 232.38,
+          "confidence": 0.917
+        },
+        {
+          "text": "llwyddiadau.",
+          "start": 232.38,
+          "end": 232.48,
+          "confidence": 0.979
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "seek": 26000,
+      "start": 260.0,
+      "end": 262.46,
+      "text": " Yn ymwneud, yw'r llwyddiadau.",
+      "tokens": [
+        50364,
+        398,
+        77,
+        288,
+        76,
+        86,
+        716,
+        532,
+        11,
+        288,
+        86,
+        6,
+        81,
+        4849,
+        86,
+        6655,
+        4504,
+        345,
+        1459,
+        13,
+        50464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.15119409561157227,
+      "compression_ratio": 0.7837837837837838,
+      "no_speech_prob": 0.9443718791007996,
+      "confidence": 0.901,
+      "words": [
+        {
+          "text": "Yn",
+          "start": 260.0,
+          "end": 260.6,
+          "confidence": 0.843
+        },
+        {
+          "text": "ymwneud,",
+          "start": 260.6,
+          "end": 261.18,
+          "confidence": 0.804
+        },
+        {
+          "text": "yw'r",
+          "start": 261.36,
+          "end": 261.7,
+          "confidence": 0.938
+        },
+        {
+          "text": "llwyddiadau.",
+          "start": 261.7,
+          "end": 262.46,
+          "confidence": 0.985
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "seek": 29000,
+      "start": 290.44,
+      "end": 292.48,
+      "text": " Yn ymwneud, yw'r llwyddiadau.",
+      "tokens": [
+        50364,
+        398,
+        77,
+        288,
+        76,
+        86,
+        716,
+        532,
+        11,
+        288,
+        86,
+        6,
+        81,
+        4849,
+        86,
+        6655,
+        4504,
+        345,
+        1459,
+        13,
+        50464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17872687903317538,
+      "compression_ratio": 0.7837837837837838,
+      "no_speech_prob": 0.9577233791351318,
+      "confidence": 0.869,
+      "words": [
+        {
+          "text": "Yn",
+          "start": 290.44,
+          "end": 291.18,
+          "confidence": 0.777
+        },
+        {
+          "text": "ymwneud,",
+          "start": 291.18,
+          "end": 291.4,
+          "confidence": 0.743
+        },
+        {
+          "text": "yw'r",
+          "start": 291.4,
+          "end": 292.08,
+          "confidence": 0.932
+        },
+        {
+          "text": "llwyddiadau.",
+          "start": 292.08,
+          "end": 292.48,
+          "confidence": 0.982
+        }
+      ]
+    }
+  ],
+  "language": "cy",
+  "language_probs": {
+    "en": 0.3373006284236908,
+    "zh": 0.040284816175699234,
+    "de": 0.0033851969055831432,
+    "es": 0.007510387804359198,
+    "ru": 0.012286175042390823,
+    "ko": 0.009568482637405396,
+    "fr": 0.01414130162447691,
+    "ja": 0.009872219525277615,
+    "pt": 0.003835930721834302,
+    "tr": 0.00949401967227459,
+    "pl": 0.0019288271432742476,
+    "ca": 0.0001242728903889656,
+    "nl": 0.0011338989716023207,
+    "ar": 0.0024960876908153296,
+    "sv": 0.0011883159168064594,
+    "it": 0.001586609985679388,
+    "id": 0.0003980359761044383,
+    "hi": 0.0012453444069251418,
+    "fi": 0.00033517988049425185,
+    "vi": 0.0021019168198108673,
+    "he": 0.00014192408707458526,
+    "uk": 7.776798884151503e-05,
+    "el": 0.0007378421723842621,
+    "ms": 0.0005791389849036932,
+    "cs": 0.0003248675202485174,
+    "ro": 0.00016208240413106978,
+    "da": 0.00013542492524720728,
+    "hu": 0.0003888154751621187,
+    "ta": 0.00045103387674316764,
+    "no": 8.474675269098952e-05,
+    "th": 0.00043715699575841427,
+    "ur": 0.0002735658490564674,
+    "hr": 3.560478216968477e-05,
+    "bg": 6.916828715475276e-05,
+    "lt": 2.681945261429064e-06,
+    "la": 0.006129800342023373,
+    "mi": 0.0007151411264203489,
+    "ml": 0.002237478503957391,
+    "cy": 0.38221168518066406,
+    "sk": 1.23046838780283e-05,
+    "te": 0.00031487239175476134,
+    "fa": 0.000332571507897228,
+    "lv": 2.1050830127933295e-06,
+    "bn": 6.756599759683013e-05,
+    "sr": 2.3575812519993633e-06,
+    "az": 6.383585514413426e-06,
+    "sl": 2.4856144591467455e-05,
+    "kn": 1.0060922477350687e-06,
+    "et": 3.0748656172363553e-06,
+    "mk": 9.414513897354482e-07,
+    "br": 0.00032233938691206276,
+    "eu": 4.294756581657566e-05,
+    "is": 4.856375653616851e-06,
+    "hy": 4.562142294162186e-06,
+    "ne": 1.3098267118039075e-05,
+    "mn": 4.098085264558904e-05,
+    "bs": 3.117659070994705e-05,
+    "kk": 7.476642167603131e-07,
+    "sq": 2.5691463179100538e-06,
+    "sw": 5.4290805564960465e-05,
+    "gl": 0.00014192408707458526,
+    "mr": 2.5392148472747067e-06,
+    "pa": 1.582805111866037e-06,
+    "si": 0.00023767814855091274,
+    "km": 0.0010735540417954326,
+    "sn": 0.0009254614124074578,
+    "yo": 0.0001185820292448625,
+    "so": 4.4725673831180757e-08,
+    "af": 1.3200997273088433e-05,
+    "oc": 1.3408884115051478e-05,
+    "ka": 7.303444817807758e-07,
+    "be": 1.642890856601298e-05,
+    "tg": 1.2323218889775944e-08,
+    "sd": 3.871839908242691e-06,
+    "gu": 1.335261998747228e-07,
+    "am": 2.1006620443131396e-07,
+    "yi": 6.742409823345952e-06,
+    "lo": 2.8106546778872143e-06,
+    "uz": 3.888469268797934e-10,
+    "fo": 1.981704554054886e-05,
+    "ht": 1.776388489815872e-05,
+    "ps": 5.903850706090452e-06,
+    "tk": 1.8370570620263038e-09,
+    "nn": 0.13842789828777313,
+    "mt": 5.754977223659807e-07,
+    "sa": 7.136392378015444e-05,
+    "lb": 8.60299387284158e-09,
+    "my": 4.1302264435216784e-05,
+    "bo": 1.708336094452534e-05,
+    "tl": 0.0002549914352130145,
+    "mg": 6.183489831279587e-10,
+    "as": 9.98262635221181e-07,
+    "tt": 2.3165951379411354e-09,
+    "haw": 0.0008830813458189368,
+    "ln": 3.909252654921147e-07,
+    "ha": 3.3689802059200247e-09,
+    "ba": 1.4233850764711065e-09,
+    "jw": 0.0010006624506786466,
+    "su": 1.908657409899206e-08
+  },
+  "speech_activity": [
+    {
+      "start": 0.0,
+      "end": 306.797
+    }
+  ]
+}

@@ -1,0 +1,3073 @@
+{
+  "text": " Perdona, si me enamoras de traicionas Ay ay ay ay, en mi cama La otra noche te vi con mi pana Así se pone duro, duro duro duro No es todo un matazero, hace mi orgullo Si se pone duro, duro duro duro No sé cómo olvidarte, puto te lo juro Soy problemática en la cama Pero así lo arreglamos No creo que es un drama Soy una princesa, me gusta cuando gritamos Yo tengo tu fotodita pa besarte tu boquita Y cuando te necesita, yo quiero que me trasbien Yo tengo tu fotodita pa besarte tu boquita Y cuando te necesita, yo quiero que me trasbien Perdona, si me enamoras de traicionas Ay ay ay ay, en mi cama La otra noche te vi con mi pana Así se pone duro, duro duro duro No es todo un matazero, hace mi orgullo Si se pone duro, duro duro duro No sé cómo olvidarte, puto te lo juro Pero tengo un tatuaje en mi seno Es la marca en mi piel de la noche anterior No te acuerdas, me quitas el sueño Que sentimiento yo necesito medicación Yo te lo di, te lo adretí Tengo el número del cartel caro que sí Yo te lo di, pero uno... ¡A la tarifa bebé! ¡Es un robo! Yo tengo tu fotodita pa besarte tu boquita Y cuando te necesita, yo quiero que me trasbien Yo tengo tu fotodita pa besarte tu boquita Y cuando te necesita, yo quiero que me trasbien Perdona, si me enamoras de traicionas Ay ay ay ay, en mi cama La otra noche previco mi pana Así se pone duro, duro duro duro Con esto no es un matazero, hace mi orgullo Si se pone duro, duro duro duro duro No sé cómo olvidarte, puto te lo juro",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 6.98,
+      "text": " Perdona, si me enamoras de traicionas Ay ay ay ay, en mi cama",
+      "tokens": [
+        50364,
+        47633,
+        4037,
+        11,
+        1511,
+        385,
+        44549,
+        40928,
+        368,
+        944,
+        18899,
+        296,
+        9081,
+        7494,
+        7494,
+        7494,
+        11,
+        465,
+        2752,
+        50197,
+        50754
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3740958810966706,
+      "compression_ratio": 1.5449735449735449,
+      "no_speech_prob": 0.42874908447265625,
+      "confidence": 0.645,
+      "words": [
+        {
+          "text": "Perdona,",
+          "start": 0.0,
+          "end": 1.6,
+          "confidence": 0.914
+        },
+        {
+          "text": "si",
+          "start": 2.12,
+          "end": 2.26,
+          "confidence": 0.792
+        },
+        {
+          "text": "me",
+          "start": 2.26,
+          "end": 2.44,
+          "confidence": 0.987
+        },
+        {
+          "text": "enamoras",
+          "start": 2.44,
+          "end": 2.92,
+          "confidence": 0.515
+        },
+        {
+          "text": "de",
+          "start": 2.92,
+          "end": 3.14,
+          "confidence": 0.278
+        },
+        {
+          "text": "traicionas",
+          "start": 3.14,
+          "end": 4.6,
+          "confidence": 0.868
+        },
+        {
+          "text": "Ay",
+          "start": 4.6,
+          "end": 5.22,
+          "confidence": 0.294
+        },
+        {
+          "text": "ay",
+          "start": 5.22,
+          "end": 5.64,
+          "confidence": 0.476
+        },
+        {
+          "text": "ay",
+          "start": 5.64,
+          "end": 5.98,
+          "confidence": 0.951
+        },
+        {
+          "text": "ay,",
+          "start": 5.98,
+          "end": 6.0,
+          "confidence": 0.334
+        },
+        {
+          "text": "en",
+          "start": 6.26,
+          "end": 6.56,
+          "confidence": 0.414
+        },
+        {
+          "text": "mi",
+          "start": 6.56,
+          "end": 6.7,
+          "confidence": 0.997
+        },
+        {
+          "text": "cama",
+          "start": 6.7,
+          "end": 6.98,
+          "confidence": 0.991
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 7.84,
+      "end": 9.84,
+      "text": " La otra noche te vi con mi pana",
+      "tokens": [
+        50754,
+        2369,
+        13623,
+        29735,
+        535,
+        1932,
+        416,
+        2752,
+        47296,
+        50904
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3740958810966706,
+      "compression_ratio": 1.5449735449735449,
+      "no_speech_prob": 0.42874908447265625,
+      "confidence": 0.908,
+      "words": [
+        {
+          "text": "La",
+          "start": 7.84,
+          "end": 8.08,
+          "confidence": 0.93
+        },
+        {
+          "text": "otra",
+          "start": 8.08,
+          "end": 8.36,
+          "confidence": 0.974
+        },
+        {
+          "text": "noche",
+          "start": 8.36,
+          "end": 8.68,
+          "confidence": 0.996
+        },
+        {
+          "text": "te",
+          "start": 8.68,
+          "end": 8.98,
+          "confidence": 0.971
+        },
+        {
+          "text": "vi",
+          "start": 8.98,
+          "end": 9.16,
+          "confidence": 0.94
+        },
+        {
+          "text": "con",
+          "start": 9.16,
+          "end": 9.36,
+          "confidence": 0.98
+        },
+        {
+          "text": "mi",
+          "start": 9.36,
+          "end": 9.54,
+          "confidence": 0.983
+        },
+        {
+          "text": "pana",
+          "start": 9.54,
+          "end": 9.84,
+          "confidence": 0.583
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 11.19,
+      "end": 13.93,
+      "text": " Así se pone duro, duro duro duro",
+      "tokens": [
+        50904,
+        17419,
+        369,
+        40192,
+        1581,
+        340,
+        11,
+        1581,
+        340,
+        1581,
+        340,
+        1581,
+        340,
+        51054
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3740958810966706,
+      "compression_ratio": 1.5449735449735449,
+      "no_speech_prob": 0.42874908447265625,
+      "confidence": 0.936,
+      "words": [
+        {
+          "text": "Así",
+          "start": 11.19,
+          "end": 11.39,
+          "confidence": 0.699
+        },
+        {
+          "text": "se",
+          "start": 11.39,
+          "end": 11.61,
+          "confidence": 0.992
+        },
+        {
+          "text": "pone",
+          "start": 11.61,
+          "end": 11.91,
+          "confidence": 0.992
+        },
+        {
+          "text": "duro,",
+          "start": 11.91,
+          "end": 12.53,
+          "confidence": 0.993
+        },
+        {
+          "text": "duro",
+          "start": 12.65,
+          "end": 13.05,
+          "confidence": 0.998
+        },
+        {
+          "text": "duro",
+          "start": 13.05,
+          "end": 13.37,
+          "confidence": 0.865
+        },
+        {
+          "text": "duro",
+          "start": 13.37,
+          "end": 13.93,
+          "confidence": 0.981
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 13.99,
+      "end": 16.79,
+      "text": " No es todo un matazero, hace mi orgullo",
+      "tokens": [
+        51054,
+        883,
+        785,
+        5149,
+        517,
+        3803,
+        921,
+        2032,
+        11,
+        10032,
+        2752,
+        14045,
+        858,
+        78,
+        51204
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3740958810966706,
+      "compression_ratio": 1.5449735449735449,
+      "no_speech_prob": 0.42874908447265625,
+      "confidence": 0.633,
+      "words": [
+        {
+          "text": "No",
+          "start": 13.99,
+          "end": 14.13,
+          "confidence": 0.212
+        },
+        {
+          "text": "es",
+          "start": 14.13,
+          "end": 14.31,
+          "confidence": 0.779
+        },
+        {
+          "text": "todo",
+          "start": 14.31,
+          "end": 14.49,
+          "confidence": 0.636
+        },
+        {
+          "text": "un",
+          "start": 14.49,
+          "end": 14.67,
+          "confidence": 0.522
+        },
+        {
+          "text": "matazero,",
+          "start": 14.67,
+          "end": 15.45,
+          "confidence": 0.471
+        },
+        {
+          "text": "hace",
+          "start": 15.59,
+          "end": 15.79,
+          "confidence": 0.758
+        },
+        {
+          "text": "mi",
+          "start": 15.79,
+          "end": 16.05,
+          "confidence": 0.974
+        },
+        {
+          "text": "orgullo",
+          "start": 16.05,
+          "end": 16.79,
+          "confidence": 0.995
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 16.93,
+      "end": 19.25,
+      "text": " Si se pone duro, duro duro duro",
+      "tokens": [
+        51204,
+        4909,
+        369,
+        40192,
+        1581,
+        340,
+        11,
+        1581,
+        340,
+        1581,
+        340,
+        1581,
+        340,
+        51329
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3740958810966706,
+      "compression_ratio": 1.5449735449735449,
+      "no_speech_prob": 0.42874908447265625,
+      "confidence": 0.963,
+      "words": [
+        {
+          "text": "Si",
+          "start": 16.93,
+          "end": 17.09,
+          "confidence": 0.678
+        },
+        {
+          "text": "se",
+          "start": 17.09,
+          "end": 17.25,
+          "confidence": 0.998
+        },
+        {
+          "text": "pone",
+          "start": 17.25,
+          "end": 17.55,
+          "confidence": 0.993
+        },
+        {
+          "text": "duro,",
+          "start": 17.55,
+          "end": 18.17,
+          "confidence": 0.999
+        },
+        {
+          "text": "duro",
+          "start": 18.43,
+          "end": 18.71,
+          "confidence": 0.998
+        },
+        {
+          "text": "duro",
+          "start": 18.71,
+          "end": 19.03,
+          "confidence": 0.997
+        },
+        {
+          "text": "duro",
+          "start": 19.03,
+          "end": 19.25,
+          "confidence": 0.996
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 19.25,
+      "end": 22.37,
+      "text": " No sé cómo olvidarte, puto te lo juro",
+      "tokens": [
+        51329,
+        883,
+        7910,
+        12826,
+        43194,
+        11026,
+        11,
+        829,
+        78,
+        535,
+        450,
+        3649,
+        340,
+        51504
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3740958810966706,
+      "compression_ratio": 1.5449735449735449,
+      "no_speech_prob": 0.42874908447265625,
+      "confidence": 0.574,
+      "words": [
+        {
+          "text": "No",
+          "start": 19.25,
+          "end": 19.67,
+          "confidence": 0.957
+        },
+        {
+          "text": "sé",
+          "start": 19.67,
+          "end": 19.89,
+          "confidence": 0.783
+        },
+        {
+          "text": "cómo",
+          "start": 19.89,
+          "end": 20.19,
+          "confidence": 0.722
+        },
+        {
+          "text": "olvidarte,",
+          "start": 20.19,
+          "end": 20.93,
+          "confidence": 0.625
+        },
+        {
+          "text": "puto",
+          "start": 21.11,
+          "end": 21.51,
+          "confidence": 0.451
+        },
+        {
+          "text": "te",
+          "start": 21.51,
+          "end": 21.71,
+          "confidence": 0.183
+        },
+        {
+          "text": "lo",
+          "start": 21.71,
+          "end": 21.89,
+          "confidence": 0.775
+        },
+        {
+          "text": "juro",
+          "start": 21.89,
+          "end": 22.37,
+          "confidence": 0.602
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 0,
+      "start": 23.45,
+      "end": 25.21,
+      "text": " Soy problemática en la cama",
+      "tokens": [
+        51504,
+        24758,
+        1154,
+        23432,
+        465,
+        635,
+        50197,
+        51654
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3740958810966706,
+      "compression_ratio": 1.5449735449735449,
+      "no_speech_prob": 0.42874908447265625,
+      "confidence": 0.929,
+      "words": [
+        {
+          "text": "Soy",
+          "start": 23.45,
+          "end": 23.61,
+          "confidence": 0.94
+        },
+        {
+          "text": "problemática",
+          "start": 23.61,
+          "end": 24.37,
+          "confidence": 0.837
+        },
+        {
+          "text": "en",
+          "start": 24.37,
+          "end": 24.59,
+          "confidence": 0.984
+        },
+        {
+          "text": "la",
+          "start": 24.59,
+          "end": 24.71,
+          "confidence": 0.994
+        },
+        {
+          "text": "cama",
+          "start": 24.71,
+          "end": 25.21,
+          "confidence": 0.995
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 0,
+      "start": 26.37,
+      "end": 28.03,
+      "text": " Pero así lo arreglamos",
+      "tokens": [
+        51654,
+        9377,
+        8582,
+        450,
+        594,
+        3375,
+        75,
+        2151,
+        51779
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3740958810966706,
+      "compression_ratio": 1.5449735449735449,
+      "no_speech_prob": 0.42874908447265625,
+      "confidence": 0.937,
+      "words": [
+        {
+          "text": "Pero",
+          "start": 26.37,
+          "end": 26.59,
+          "confidence": 0.848
+        },
+        {
+          "text": "así",
+          "start": 26.59,
+          "end": 26.91,
+          "confidence": 0.935
+        },
+        {
+          "text": "lo",
+          "start": 26.91,
+          "end": 27.21,
+          "confidence": 0.984
+        },
+        {
+          "text": "arreglamos",
+          "start": 27.21,
+          "end": 28.03,
+          "confidence": 0.949
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seek": 2830,
+      "start": 29.01,
+      "end": 30.83,
+      "text": " No creo que es un drama",
+      "tokens": [
+        50364,
+        883,
+        14336,
+        631,
+        785,
+        517,
+        9412,
+        50514
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1832204580307007,
+      "compression_ratio": 2.049586776859504,
+      "no_speech_prob": 0.08989690244197845,
+      "confidence": 0.983,
+      "words": [
+        {
+          "text": "No",
+          "start": 29.01,
+          "end": 29.25,
+          "confidence": 0.925
+        },
+        {
+          "text": "creo",
+          "start": 29.25,
+          "end": 29.51,
+          "confidence": 0.996
+        },
+        {
+          "text": "que",
+          "start": 29.51,
+          "end": 29.83,
+          "confidence": 0.998
+        },
+        {
+          "text": "es",
+          "start": 29.83,
+          "end": 30.07,
+          "confidence": 0.99
+        },
+        {
+          "text": "un",
+          "start": 30.07,
+          "end": 30.31,
+          "confidence": 0.996
+        },
+        {
+          "text": "drama",
+          "start": 30.31,
+          "end": 30.83,
+          "confidence": 0.997
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "seek": 2830,
+      "start": 31.71,
+      "end": 34.49,
+      "text": " Soy una princesa, me gusta cuando gritamos",
+      "tokens": [
+        50514,
+        24758,
+        2002,
+        41536,
+        64,
+        11,
+        385,
+        20576,
+        7767,
+        30133,
+        2151,
+        50664
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1832204580307007,
+      "compression_ratio": 2.049586776859504,
+      "no_speech_prob": 0.08989690244197845,
+      "confidence": 0.982,
+      "words": [
+        {
+          "text": "Soy",
+          "start": 31.71,
+          "end": 31.91,
+          "confidence": 0.985
+        },
+        {
+          "text": "una",
+          "start": 31.91,
+          "end": 32.19,
+          "confidence": 0.995
+        },
+        {
+          "text": "princesa,",
+          "start": 32.19,
+          "end": 32.81,
+          "confidence": 0.996
+        },
+        {
+          "text": "me",
+          "start": 32.91,
+          "end": 32.97,
+          "confidence": 0.981
+        },
+        {
+          "text": "gusta",
+          "start": 32.97,
+          "end": 33.25,
+          "confidence": 0.993
+        },
+        {
+          "text": "cuando",
+          "start": 33.25,
+          "end": 33.61,
+          "confidence": 0.986
+        },
+        {
+          "text": "gritamos",
+          "start": 33.61,
+          "end": 34.49,
+          "confidence": 0.956
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "seek": 2830,
+      "start": 34.69,
+      "end": 40.03,
+      "text": " Yo tengo tu fotodita pa besarte tu boquita",
+      "tokens": [
+        50664,
+        7616,
+        13989,
+        2604,
+        15418,
+        378,
+        2786,
+        2502,
+        4097,
+        11026,
+        2604,
+        748,
+        358,
+        2786,
+        50939
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1832204580307007,
+      "compression_ratio": 2.049586776859504,
+      "no_speech_prob": 0.08989690244197845,
+      "confidence": 0.819,
+      "words": [
+        {
+          "text": "Yo",
+          "start": 34.69,
+          "end": 34.89,
+          "confidence": 0.948
+        },
+        {
+          "text": "tengo",
+          "start": 34.89,
+          "end": 35.33,
+          "confidence": 0.997
+        },
+        {
+          "text": "tu",
+          "start": 35.33,
+          "end": 35.83,
+          "confidence": 0.986
+        },
+        {
+          "text": "fotodita",
+          "start": 35.83,
+          "end": 37.23,
+          "confidence": 0.828
+        },
+        {
+          "text": "pa",
+          "start": 37.23,
+          "end": 37.63,
+          "confidence": 0.544
+        },
+        {
+          "text": "besarte",
+          "start": 37.63,
+          "end": 38.59,
+          "confidence": 0.769
+        },
+        {
+          "text": "tu",
+          "start": 38.59,
+          "end": 39.11,
+          "confidence": 0.768
+        },
+        {
+          "text": "boquita",
+          "start": 39.11,
+          "end": 40.03,
+          "confidence": 0.828
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "seek": 2830,
+      "start": 40.33,
+      "end": 45.91,
+      "text": " Y cuando te necesita, yo quiero que me trasbien",
+      "tokens": [
+        50939,
+        398,
+        7767,
+        535,
+        45485,
+        11,
+        5290,
+        16811,
+        631,
+        385,
+        22507,
+        65,
+        1053,
+        51214
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1832204580307007,
+      "compression_ratio": 2.049586776859504,
+      "no_speech_prob": 0.08989690244197845,
+      "confidence": 0.73,
+      "words": [
+        {
+          "text": "Y",
+          "start": 40.33,
+          "end": 40.51,
+          "confidence": 0.891
+        },
+        {
+          "text": "cuando",
+          "start": 40.51,
+          "end": 40.99,
+          "confidence": 0.958
+        },
+        {
+          "text": "te",
+          "start": 40.99,
+          "end": 41.47,
+          "confidence": 0.995
+        },
+        {
+          "text": "necesita,",
+          "start": 41.47,
+          "end": 42.83,
+          "confidence": 0.796
+        },
+        {
+          "text": "yo",
+          "start": 43.45,
+          "end": 43.59,
+          "confidence": 0.96
+        },
+        {
+          "text": "quiero",
+          "start": 43.59,
+          "end": 44.21,
+          "confidence": 0.994
+        },
+        {
+          "text": "que",
+          "start": 44.21,
+          "end": 44.65,
+          "confidence": 0.983
+        },
+        {
+          "text": "me",
+          "start": 44.65,
+          "end": 44.99,
+          "confidence": 0.991
+        },
+        {
+          "text": "trasbien",
+          "start": 44.99,
+          "end": 45.91,
+          "confidence": 0.368
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "seek": 2830,
+      "start": 45.95,
+      "end": 51.33,
+      "text": " Yo tengo tu fotodita pa besarte tu boquita",
+      "tokens": [
+        51214,
+        7616,
+        13989,
+        2604,
+        15418,
+        378,
+        2786,
+        2502,
+        4097,
+        11026,
+        2604,
+        748,
+        358,
+        2786,
+        51489
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1832204580307007,
+      "compression_ratio": 2.049586776859504,
+      "no_speech_prob": 0.08989690244197845,
+      "confidence": 0.995,
+      "words": [
+        {
+          "text": "Yo",
+          "start": 45.95,
+          "end": 46.09,
+          "confidence": 0.99
+        },
+        {
+          "text": "tengo",
+          "start": 46.09,
+          "end": 46.65,
+          "confidence": 0.999
+        },
+        {
+          "text": "tu",
+          "start": 46.65,
+          "end": 47.13,
+          "confidence": 0.995
+        },
+        {
+          "text": "fotodita",
+          "start": 47.13,
+          "end": 48.49,
+          "confidence": 0.991
+        },
+        {
+          "text": "pa",
+          "start": 48.49,
+          "end": 48.93,
+          "confidence": 0.988
+        },
+        {
+          "text": "besarte",
+          "start": 48.93,
+          "end": 49.87,
+          "confidence": 0.999
+        },
+        {
+          "text": "tu",
+          "start": 49.87,
+          "end": 50.37,
+          "confidence": 0.998
+        },
+        {
+          "text": "boquita",
+          "start": 50.37,
+          "end": 51.33,
+          "confidence": 0.997
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "seek": 2830,
+      "start": 51.61,
+      "end": 57.33,
+      "text": " Y cuando te necesita, yo quiero que me trasbien",
+      "tokens": [
+        51489,
+        398,
+        7767,
+        535,
+        45485,
+        11,
+        5290,
+        16811,
+        631,
+        385,
+        22507,
+        65,
+        1053,
+        51789
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1832204580307007,
+      "compression_ratio": 2.049586776859504,
+      "no_speech_prob": 0.08989690244197845,
+      "confidence": 0.994,
+      "words": [
+        {
+          "text": "Y",
+          "start": 51.61,
+          "end": 51.79,
+          "confidence": 0.986
+        },
+        {
+          "text": "cuando",
+          "start": 51.79,
+          "end": 52.27,
+          "confidence": 0.998
+        },
+        {
+          "text": "te",
+          "start": 52.27,
+          "end": 52.79,
+          "confidence": 0.993
+        },
+        {
+          "text": "necesita,",
+          "start": 52.79,
+          "end": 54.11,
+          "confidence": 0.992
+        },
+        {
+          "text": "yo",
+          "start": 54.75,
+          "end": 54.89,
+          "confidence": 0.991
+        },
+        {
+          "text": "quiero",
+          "start": 54.89,
+          "end": 55.47,
+          "confidence": 0.999
+        },
+        {
+          "text": "que",
+          "start": 55.47,
+          "end": 55.93,
+          "confidence": 0.998
+        },
+        {
+          "text": "me",
+          "start": 55.93,
+          "end": 56.29,
+          "confidence": 0.998
+        },
+        {
+          "text": "trasbien",
+          "start": 56.29,
+          "end": 57.33,
+          "confidence": 0.993
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "seek": 5680,
+      "start": 59.89,
+      "end": 66.27,
+      "text": " Perdona, si me enamoras de traicionas Ay ay ay ay, en mi cama",
+      "tokens": [
+        50364,
+        47633,
+        4037,
+        11,
+        1511,
+        385,
+        44549,
+        40928,
+        368,
+        944,
+        18899,
+        296,
+        9081,
+        7494,
+        7494,
+        7494,
+        11,
+        465,
+        2752,
+        50197,
+        50814
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.10572141759535846,
+      "compression_ratio": 1.5813953488372092,
+      "no_speech_prob": 0.015647148713469505,
+      "confidence": 0.961,
+      "words": [
+        {
+          "text": "Perdona,",
+          "start": 59.89,
+          "end": 60.61,
+          "confidence": 0.915
+        },
+        {
+          "text": "si",
+          "start": 60.61,
+          "end": 61.53,
+          "confidence": 0.99
+        },
+        {
+          "text": "me",
+          "start": 61.53,
+          "end": 61.73,
+          "confidence": 0.997
+        },
+        {
+          "text": "enamoras",
+          "start": 61.73,
+          "end": 62.23,
+          "confidence": 0.979
+        },
+        {
+          "text": "de",
+          "start": 62.23,
+          "end": 62.43,
+          "confidence": 0.985
+        },
+        {
+          "text": "traicionas",
+          "start": 62.43,
+          "end": 63.87,
+          "confidence": 0.996
+        },
+        {
+          "text": "Ay",
+          "start": 63.87,
+          "end": 64.55,
+          "confidence": 0.7
+        },
+        {
+          "text": "ay",
+          "start": 64.55,
+          "end": 64.89,
+          "confidence": 0.992
+        },
+        {
+          "text": "ay",
+          "start": 64.89,
+          "end": 65.21,
+          "confidence": 0.995
+        },
+        {
+          "text": "ay,",
+          "start": 65.21,
+          "end": 65.49,
+          "confidence": 0.975
+        },
+        {
+          "text": "en",
+          "start": 65.51,
+          "end": 65.87,
+          "confidence": 0.986
+        },
+        {
+          "text": "mi",
+          "start": 65.87,
+          "end": 65.99,
+          "confidence": 0.997
+        },
+        {
+          "text": "cama",
+          "start": 65.99,
+          "end": 66.27,
+          "confidence": 0.999
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "seek": 5680,
+      "start": 67.13,
+      "end": 69.13,
+      "text": " La otra noche te vi con mi pana",
+      "tokens": [
+        50814,
+        2369,
+        13623,
+        29735,
+        535,
+        1932,
+        416,
+        2752,
+        47296,
+        50964
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.10572141759535846,
+      "compression_ratio": 1.5813953488372092,
+      "no_speech_prob": 0.015647148713469505,
+      "confidence": 0.989,
+      "words": [
+        {
+          "text": "La",
+          "start": 67.13,
+          "end": 67.35,
+          "confidence": 0.992
+        },
+        {
+          "text": "otra",
+          "start": 67.35,
+          "end": 67.65,
+          "confidence": 0.997
+        },
+        {
+          "text": "noche",
+          "start": 67.65,
+          "end": 67.93,
+          "confidence": 0.999
+        },
+        {
+          "text": "te",
+          "start": 67.93,
+          "end": 68.23,
+          "confidence": 0.988
+        },
+        {
+          "text": "vi",
+          "start": 68.23,
+          "end": 68.47,
+          "confidence": 0.992
+        },
+        {
+          "text": "con",
+          "start": 68.47,
+          "end": 68.65,
+          "confidence": 0.997
+        },
+        {
+          "text": "mi",
+          "start": 68.65,
+          "end": 68.83,
+          "confidence": 0.996
+        },
+        {
+          "text": "pana",
+          "start": 68.83,
+          "end": 69.13,
+          "confidence": 0.955
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "seek": 5680,
+      "start": 70.47,
+      "end": 73.19,
+      "text": " Así se pone duro, duro duro duro",
+      "tokens": [
+        50964,
+        17419,
+        369,
+        40192,
+        1581,
+        340,
+        11,
+        1581,
+        340,
+        1581,
+        340,
+        1581,
+        340,
+        51164
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.10572141759535846,
+      "compression_ratio": 1.5813953488372092,
+      "no_speech_prob": 0.015647148713469505,
+      "confidence": 0.989,
+      "words": [
+        {
+          "text": "Así",
+          "start": 70.47,
+          "end": 70.67,
+          "confidence": 0.901
+        },
+        {
+          "text": "se",
+          "start": 70.67,
+          "end": 70.93,
+          "confidence": 0.999
+        },
+        {
+          "text": "pone",
+          "start": 70.93,
+          "end": 71.21,
+          "confidence": 0.999
+        },
+        {
+          "text": "duro,",
+          "start": 71.21,
+          "end": 71.81,
+          "confidence": 0.999
+        },
+        {
+          "text": "duro",
+          "start": 72.03,
+          "end": 72.35,
+          "confidence": 0.999
+        },
+        {
+          "text": "duro",
+          "start": 72.35,
+          "end": 72.67,
+          "confidence": 0.998
+        },
+        {
+          "text": "duro",
+          "start": 72.67,
+          "end": 73.19,
+          "confidence": 0.995
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "seek": 5680,
+      "start": 73.21,
+      "end": 76.09,
+      "text": " No es todo un matazero, hace mi orgullo",
+      "tokens": [
+        51164,
+        883,
+        785,
+        5149,
+        517,
+        3803,
+        921,
+        2032,
+        11,
+        10032,
+        2752,
+        14045,
+        858,
+        78,
+        51314
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.10572141759535846,
+      "compression_ratio": 1.5813953488372092,
+      "no_speech_prob": 0.015647148713469505,
+      "confidence": 0.994,
+      "words": [
+        {
+          "text": "No",
+          "start": 73.21,
+          "end": 73.37,
+          "confidence": 0.972
+        },
+        {
+          "text": "es",
+          "start": 73.37,
+          "end": 73.55,
+          "confidence": 0.981
+        },
+        {
+          "text": "todo",
+          "start": 73.55,
+          "end": 73.75,
+          "confidence": 0.995
+        },
+        {
+          "text": "un",
+          "start": 73.75,
+          "end": 73.97,
+          "confidence": 0.994
+        },
+        {
+          "text": "matazero,",
+          "start": 73.97,
+          "end": 74.71,
+          "confidence": 0.998
+        },
+        {
+          "text": "hace",
+          "start": 74.91,
+          "end": 75.09,
+          "confidence": 0.998
+        },
+        {
+          "text": "mi",
+          "start": 75.09,
+          "end": 75.33,
+          "confidence": 0.995
+        },
+        {
+          "text": "orgullo",
+          "start": 75.33,
+          "end": 76.09,
+          "confidence": 0.999
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "seek": 5680,
+      "start": 76.15,
+      "end": 78.8,
+      "text": " Si se pone duro, duro duro duro",
+      "tokens": [
+        51314,
+        4909,
+        369,
+        40192,
+        1581,
+        340,
+        11,
+        1581,
+        340,
+        1581,
+        340,
+        1581,
+        340,
+        51464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.10572141759535846,
+      "compression_ratio": 1.5813953488372092,
+      "no_speech_prob": 0.015647148713469505,
+      "confidence": 0.99,
+      "words": [
+        {
+          "text": "Si",
+          "start": 76.15,
+          "end": 76.37,
+          "confidence": 0.909
+        },
+        {
+          "text": "se",
+          "start": 76.37,
+          "end": 76.55,
+          "confidence": 0.998
+        },
+        {
+          "text": "pone",
+          "start": 76.55,
+          "end": 76.85,
+          "confidence": 0.998
+        },
+        {
+          "text": "duro,",
+          "start": 76.85,
+          "end": 77.47,
+          "confidence": 1.0
+        },
+        {
+          "text": "duro",
+          "start": 77.65,
+          "end": 77.99,
+          "confidence": 0.999
+        },
+        {
+          "text": "duro",
+          "start": 77.99,
+          "end": 78.29,
+          "confidence": 0.998
+        },
+        {
+          "text": "duro",
+          "start": 78.29,
+          "end": 78.8,
+          "confidence": 0.997
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "seek": 5680,
+      "start": 78.8,
+      "end": 81.67,
+      "text": " No sé cómo olvidarte, puto te lo juro",
+      "tokens": [
+        51464,
+        883,
+        7910,
+        12826,
+        43194,
+        11026,
+        11,
+        829,
+        78,
+        535,
+        450,
+        3649,
+        340,
+        51614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.10572141759535846,
+      "compression_ratio": 1.5813953488372092,
+      "no_speech_prob": 0.015647148713469505,
+      "confidence": 0.992,
+      "words": [
+        {
+          "text": "No",
+          "start": 78.8,
+          "end": 78.97,
+          "confidence": 0.994
+        },
+        {
+          "text": "sé",
+          "start": 78.97,
+          "end": 79.19,
+          "confidence": 0.979
+        },
+        {
+          "text": "cómo",
+          "start": 79.19,
+          "end": 79.45,
+          "confidence": 0.983
+        },
+        {
+          "text": "olvidarte,",
+          "start": 79.45,
+          "end": 80.21,
+          "confidence": 0.996
+        },
+        {
+          "text": "puto",
+          "start": 80.41,
+          "end": 80.71,
+          "confidence": 0.99
+        },
+        {
+          "text": "te",
+          "start": 80.71,
+          "end": 80.93,
+          "confidence": 0.987
+        },
+        {
+          "text": "lo",
+          "start": 80.93,
+          "end": 81.17,
+          "confidence": 0.997
+        },
+        {
+          "text": "juro",
+          "start": 81.17,
+          "end": 81.67,
+          "confidence": 0.999
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "seek": 5680,
+      "start": 82.15,
+      "end": 85.37,
+      "text": " Pero tengo un tatuaje en mi seno",
+      "tokens": [
+        51614,
+        9377,
+        13989,
+        517,
+        9600,
+        84,
+        11153,
+        465,
+        2752,
+        3151,
+        78,
+        51764
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.10572141759535846,
+      "compression_ratio": 1.5813953488372092,
+      "no_speech_prob": 0.015647148713469505,
+      "confidence": 0.759,
+      "words": [
+        {
+          "text": "Pero",
+          "start": 82.15,
+          "end": 82.53,
+          "confidence": 0.662
+        },
+        {
+          "text": "tengo",
+          "start": 82.53,
+          "end": 83.51,
+          "confidence": 0.848
+        },
+        {
+          "text": "un",
+          "start": 83.51,
+          "end": 83.65,
+          "confidence": 0.98
+        },
+        {
+          "text": "tatuaje",
+          "start": 83.65,
+          "end": 84.27,
+          "confidence": 0.52
+        },
+        {
+          "text": "en",
+          "start": 84.27,
+          "end": 84.53,
+          "confidence": 0.95
+        },
+        {
+          "text": "mi",
+          "start": 84.53,
+          "end": 84.67,
+          "confidence": 0.929
+        },
+        {
+          "text": "seno",
+          "start": 84.67,
+          "end": 85.37,
+          "confidence": 0.964
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "seek": 8480,
+      "start": 85.75,
+      "end": 88.27,
+      "text": " Es la marca en mi piel de la noche anterior",
+      "tokens": [
+        50364,
+        2313,
+        635,
+        30582,
+        465,
+        2752,
+        46065,
+        368,
+        635,
+        29735,
+        22272,
+        50514
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2723821244149838,
+      "compression_ratio": 1.4356435643564356,
+      "no_speech_prob": 0.010486867278814316,
+      "confidence": 0.943,
+      "words": [
+        {
+          "text": "Es",
+          "start": 85.75,
+          "end": 85.93,
+          "confidence": 0.974
+        },
+        {
+          "text": "la",
+          "start": 85.93,
+          "end": 86.09,
+          "confidence": 0.968
+        },
+        {
+          "text": "marca",
+          "start": 86.09,
+          "end": 86.37,
+          "confidence": 0.994
+        },
+        {
+          "text": "en",
+          "start": 86.37,
+          "end": 86.67,
+          "confidence": 0.656
+        },
+        {
+          "text": "mi",
+          "start": 86.67,
+          "end": 86.79,
+          "confidence": 0.99
+        },
+        {
+          "text": "piel",
+          "start": 86.79,
+          "end": 86.99,
+          "confidence": 0.978
+        },
+        {
+          "text": "de",
+          "start": 86.99,
+          "end": 87.15,
+          "confidence": 0.952
+        },
+        {
+          "text": "la",
+          "start": 87.15,
+          "end": 87.21,
+          "confidence": 0.997
+        },
+        {
+          "text": "noche",
+          "start": 87.21,
+          "end": 87.41,
+          "confidence": 0.998
+        },
+        {
+          "text": "anterior",
+          "start": 87.41,
+          "end": 88.27,
+          "confidence": 0.991
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "seek": 8480,
+      "start": 88.59,
+      "end": 90.97,
+      "text": " No te acuerdas, me quitas el sueño",
+      "tokens": [
+        50514,
+        883,
+        535,
+        696,
+        5486,
+        27476,
+        11,
+        385,
+        10366,
+        296,
+        806,
+        20416,
+        7716,
+        50664
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2723821244149838,
+      "compression_ratio": 1.4356435643564356,
+      "no_speech_prob": 0.010486867278814316,
+      "confidence": 0.905,
+      "words": [
+        {
+          "text": "No",
+          "start": 88.59,
+          "end": 88.75,
+          "confidence": 0.879
+        },
+        {
+          "text": "te",
+          "start": 88.75,
+          "end": 88.91,
+          "confidence": 0.993
+        },
+        {
+          "text": "acuerdas,",
+          "start": 88.91,
+          "end": 89.41,
+          "confidence": 0.982
+        },
+        {
+          "text": "me",
+          "start": 89.69,
+          "end": 89.81,
+          "confidence": 0.984
+        },
+        {
+          "text": "quitas",
+          "start": 89.81,
+          "end": 90.21,
+          "confidence": 0.768
+        },
+        {
+          "text": "el",
+          "start": 90.21,
+          "end": 90.39,
+          "confidence": 0.695
+        },
+        {
+          "text": "sueño",
+          "start": 90.39,
+          "end": 90.97,
+          "confidence": 0.999
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "seek": 8480,
+      "start": 91.27,
+      "end": 93.97,
+      "text": " Que sentimiento yo necesito medicación",
+      "tokens": [
+        50664,
+        4493,
+        2279,
+        14007,
+        5290,
+        11909,
+        3528,
+        4355,
+        3482,
+        50814
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2723821244149838,
+      "compression_ratio": 1.4356435643564356,
+      "no_speech_prob": 0.010486867278814316,
+      "confidence": 0.82,
+      "words": [
+        {
+          "text": "Que",
+          "start": 91.27,
+          "end": 91.39,
+          "confidence": 0.495
+        },
+        {
+          "text": "sentimiento",
+          "start": 91.39,
+          "end": 91.99,
+          "confidence": 0.969
+        },
+        {
+          "text": "yo",
+          "start": 91.99,
+          "end": 92.27,
+          "confidence": 0.905
+        },
+        {
+          "text": "necesito",
+          "start": 92.27,
+          "end": 92.95,
+          "confidence": 0.991
+        },
+        {
+          "text": "medicación",
+          "start": 92.95,
+          "end": 93.97,
+          "confidence": 0.704
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "seek": 8480,
+      "start": 94.05,
+      "end": 96.35,
+      "text": " Yo te lo di, te lo adretí",
+      "tokens": [
+        50814,
+        7616,
+        535,
+        450,
+        1026,
+        11,
+        535,
+        450,
+        614,
+        1505,
+        870,
+        50914
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2723821244149838,
+      "compression_ratio": 1.4356435643564356,
+      "no_speech_prob": 0.010486867278814316,
+      "confidence": 0.609,
+      "words": [
+        {
+          "text": "Yo",
+          "start": 94.05,
+          "end": 94.23,
+          "confidence": 0.952
+        },
+        {
+          "text": "te",
+          "start": 94.23,
+          "end": 94.45,
+          "confidence": 0.996
+        },
+        {
+          "text": "lo",
+          "start": 94.45,
+          "end": 94.63,
+          "confidence": 0.971
+        },
+        {
+          "text": "di,",
+          "start": 94.63,
+          "end": 94.89,
+          "confidence": 0.588
+        },
+        {
+          "text": "te",
+          "start": 95.27,
+          "end": 95.63,
+          "confidence": 0.991
+        },
+        {
+          "text": "lo",
+          "start": 95.63,
+          "end": 95.75,
+          "confidence": 0.997
+        },
+        {
+          "text": "adretí",
+          "start": 95.75,
+          "end": 96.35,
+          "confidence": 0.278
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "seek": 8480,
+      "start": 96.67,
+      "end": 99.15,
+      "text": " Tengo el número del cartel caro que sí",
+      "tokens": [
+        50914,
+        314,
+        30362,
+        806,
+        14959,
+        1103,
+        5467,
+        338,
+        1032,
+        78,
+        631,
+        8600,
+        51064
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2723821244149838,
+      "compression_ratio": 1.4356435643564356,
+      "no_speech_prob": 0.010486867278814316,
+      "confidence": 0.756,
+      "words": [
+        {
+          "text": "Tengo",
+          "start": 96.67,
+          "end": 96.95,
+          "confidence": 0.991
+        },
+        {
+          "text": "el",
+          "start": 96.95,
+          "end": 97.11,
+          "confidence": 0.991
+        },
+        {
+          "text": "número",
+          "start": 97.11,
+          "end": 97.43,
+          "confidence": 0.795
+        },
+        {
+          "text": "del",
+          "start": 97.43,
+          "end": 97.85,
+          "confidence": 0.811
+        },
+        {
+          "text": "cartel",
+          "start": 97.85,
+          "end": 98.31,
+          "confidence": 0.624
+        },
+        {
+          "text": "caro",
+          "start": 98.31,
+          "end": 98.65,
+          "confidence": 0.686
+        },
+        {
+          "text": "que",
+          "start": 98.65,
+          "end": 98.85,
+          "confidence": 0.571
+        },
+        {
+          "text": "sí",
+          "start": 98.85,
+          "end": 99.15,
+          "confidence": 0.698
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "seek": 8480,
+      "start": 99.69,
+      "end": 102.25,
+      "text": " Yo te lo di, pero uno...",
+      "tokens": [
+        51064,
+        7616,
+        535,
+        450,
+        1026,
+        11,
+        4768,
+        8526,
+        485,
+        51214
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2723821244149838,
+      "compression_ratio": 1.4356435643564356,
+      "no_speech_prob": 0.010486867278814316,
+      "confidence": 0.786,
+      "words": [
+        {
+          "text": "Yo",
+          "start": 99.69,
+          "end": 99.85,
+          "confidence": 0.99
+        },
+        {
+          "text": "te",
+          "start": 99.85,
+          "end": 100.05,
+          "confidence": 0.996
+        },
+        {
+          "text": "lo",
+          "start": 100.05,
+          "end": 100.23,
+          "confidence": 0.999
+        },
+        {
+          "text": "di,",
+          "start": 100.23,
+          "end": 100.51,
+          "confidence": 0.97
+        },
+        {
+          "text": "pero",
+          "start": 101.09,
+          "end": 101.35,
+          "confidence": 0.95
+        },
+        {
+          "text": "uno...",
+          "start": 101.35,
+          "end": 102.25,
+          "confidence": 0.261
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "seek": 8480,
+      "start": 102.35,
+      "end": 103.35,
+      "text": " ¡A la tarifa bebé!",
+      "tokens": [
+        51214,
+        6514,
+        32,
+        635,
+        3112,
+        29634,
+        312,
+        27166,
+        0,
+        51264
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2723821244149838,
+      "compression_ratio": 1.4356435643564356,
+      "no_speech_prob": 0.010486867278814316,
+      "confidence": 0.292,
+      "words": [
+        {
+          "text": "¡A",
+          "start": 102.35,
+          "end": 102.51,
+          "confidence": 0.214
+        },
+        {
+          "text": "la",
+          "start": 102.51,
+          "end": 102.61,
+          "confidence": 0.146
+        },
+        {
+          "text": "tarifa",
+          "start": 102.61,
+          "end": 102.95,
+          "confidence": 0.223
+        },
+        {
+          "text": "bebé!",
+          "start": 102.95,
+          "end": 103.35,
+          "confidence": 0.743
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "seek": 8480,
+      "start": 104.02,
+      "end": 104.7,
+      "text": " ¡Es un robo!",
+      "tokens": [
+        51264,
+        6514,
+        20442,
+        517,
+        744,
+        1763,
+        0,
+        51314
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2723821244149838,
+      "compression_ratio": 1.4356435643564356,
+      "no_speech_prob": 0.010486867278814316,
+      "confidence": 0.792,
+      "words": [
+        {
+          "text": "¡Es",
+          "start": 104.02,
+          "end": 104.2,
+          "confidence": 0.616
+        },
+        {
+          "text": "un",
+          "start": 104.2,
+          "end": 104.36,
+          "confidence": 0.952
+        },
+        {
+          "text": "robo!",
+          "start": 104.36,
+          "end": 104.7,
+          "confidence": 0.929
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "seek": 8480,
+      "start": 105.18,
+      "end": 110.64,
+      "text": " Yo tengo tu fotodita pa besarte tu boquita",
+      "tokens": [
+        51314,
+        7616,
+        13989,
+        2604,
+        15418,
+        378,
+        2786,
+        2502,
+        4097,
+        11026,
+        2604,
+        748,
+        358,
+        2786,
+        51614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2723821244149838,
+      "compression_ratio": 1.4356435643564356,
+      "no_speech_prob": 0.010486867278814316,
+      "confidence": 0.983,
+      "words": [
+        {
+          "text": "Yo",
+          "start": 105.18,
+          "end": 105.36,
+          "confidence": 0.917
+        },
+        {
+          "text": "tengo",
+          "start": 105.36,
+          "end": 105.96,
+          "confidence": 0.998
+        },
+        {
+          "text": "tu",
+          "start": 105.96,
+          "end": 106.4,
+          "confidence": 0.99
+        },
+        {
+          "text": "fotodita",
+          "start": 106.4,
+          "end": 107.82,
+          "confidence": 0.976
+        },
+        {
+          "text": "pa",
+          "start": 107.82,
+          "end": 108.2,
+          "confidence": 0.975
+        },
+        {
+          "text": "besarte",
+          "start": 108.2,
+          "end": 109.16,
+          "confidence": 0.999
+        },
+        {
+          "text": "tu",
+          "start": 109.16,
+          "end": 109.66,
+          "confidence": 0.984
+        },
+        {
+          "text": "boquita",
+          "start": 109.66,
+          "end": 110.64,
+          "confidence": 0.997
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "seek": 10980,
+      "start": 110.66,
+      "end": 116.48,
+      "text": " Y cuando te necesita, yo quiero que me trasbien",
+      "tokens": [
+        50364,
+        398,
+        7767,
+        535,
+        45485,
+        11,
+        5290,
+        16811,
+        631,
+        385,
+        22507,
+        65,
+        1053,
+        50664
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.04531443119049072,
+      "compression_ratio": 1.694915254237288,
+      "no_speech_prob": 0.09931518882513046,
+      "confidence": 0.984,
+      "words": [
+        {
+          "text": "Y",
+          "start": 110.66,
+          "end": 111.08,
+          "confidence": 0.957
+        },
+        {
+          "text": "cuando",
+          "start": 111.08,
+          "end": 111.56,
+          "confidence": 0.994
+        },
+        {
+          "text": "te",
+          "start": 111.56,
+          "end": 112.04,
+          "confidence": 0.991
+        },
+        {
+          "text": "necesita,",
+          "start": 112.04,
+          "end": 113.46,
+          "confidence": 0.941
+        },
+        {
+          "text": "yo",
+          "start": 114.1,
+          "end": 114.18,
+          "confidence": 0.986
+        },
+        {
+          "text": "quiero",
+          "start": 114.18,
+          "end": 114.76,
+          "confidence": 0.999
+        },
+        {
+          "text": "que",
+          "start": 114.76,
+          "end": 115.24,
+          "confidence": 0.997
+        },
+        {
+          "text": "me",
+          "start": 115.24,
+          "end": 115.58,
+          "confidence": 0.981
+        },
+        {
+          "text": "trasbien",
+          "start": 115.58,
+          "end": 116.48,
+          "confidence": 0.994
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "seek": 10980,
+      "start": 116.48,
+      "end": 121.9,
+      "text": " Yo tengo tu fotodita pa besarte tu boquita",
+      "tokens": [
+        50664,
+        7616,
+        13989,
+        2604,
+        15418,
+        378,
+        2786,
+        2502,
+        4097,
+        11026,
+        2604,
+        748,
+        358,
+        2786,
+        50914
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.04531443119049072,
+      "compression_ratio": 1.694915254237288,
+      "no_speech_prob": 0.09931518882513046,
+      "confidence": 0.983,
+      "words": [
+        {
+          "text": "Yo",
+          "start": 116.48,
+          "end": 116.68,
+          "confidence": 0.843
+        },
+        {
+          "text": "tengo",
+          "start": 116.68,
+          "end": 117.22,
+          "confidence": 0.998
+        },
+        {
+          "text": "tu",
+          "start": 117.22,
+          "end": 117.72,
+          "confidence": 0.989
+        },
+        {
+          "text": "fotodita",
+          "start": 117.72,
+          "end": 119.08,
+          "confidence": 0.996
+        },
+        {
+          "text": "pa",
+          "start": 119.08,
+          "end": 119.52,
+          "confidence": 0.993
+        },
+        {
+          "text": "besarte",
+          "start": 119.52,
+          "end": 120.48,
+          "confidence": 0.999
+        },
+        {
+          "text": "tu",
+          "start": 120.48,
+          "end": 120.96,
+          "confidence": 0.991
+        },
+        {
+          "text": "boquita",
+          "start": 120.96,
+          "end": 121.9,
+          "confidence": 0.999
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "seek": 10980,
+      "start": 122.18,
+      "end": 127.88,
+      "text": " Y cuando te necesita, yo quiero que me trasbien",
+      "tokens": [
+        50914,
+        398,
+        7767,
+        535,
+        45485,
+        11,
+        5290,
+        16811,
+        631,
+        385,
+        22507,
+        65,
+        1053,
+        51214
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.04531443119049072,
+      "compression_ratio": 1.694915254237288,
+      "no_speech_prob": 0.09931518882513046,
+      "confidence": 0.995,
+      "words": [
+        {
+          "text": "Y",
+          "start": 122.18,
+          "end": 122.38,
+          "confidence": 0.983
+        },
+        {
+          "text": "cuando",
+          "start": 122.38,
+          "end": 122.86,
+          "confidence": 0.998
+        },
+        {
+          "text": "te",
+          "start": 122.86,
+          "end": 123.34,
+          "confidence": 0.998
+        },
+        {
+          "text": "necesita,",
+          "start": 123.34,
+          "end": 124.72,
+          "confidence": 0.988
+        },
+        {
+          "text": "yo",
+          "start": 125.34,
+          "end": 125.48,
+          "confidence": 0.99
+        },
+        {
+          "text": "quiero",
+          "start": 125.48,
+          "end": 126.08,
+          "confidence": 0.999
+        },
+        {
+          "text": "que",
+          "start": 126.08,
+          "end": 126.54,
+          "confidence": 0.998
+        },
+        {
+          "text": "me",
+          "start": 126.54,
+          "end": 126.88,
+          "confidence": 0.994
+        },
+        {
+          "text": "trasbien",
+          "start": 126.88,
+          "end": 127.88,
+          "confidence": 0.998
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "seek": 10980,
+      "start": 128.2,
+      "end": 136.92,
+      "text": " Perdona, si me enamoras de traicionas Ay ay ay ay, en mi cama",
+      "tokens": [
+        51214,
+        47633,
+        4037,
+        11,
+        1511,
+        385,
+        44549,
+        40928,
+        368,
+        944,
+        18899,
+        296,
+        9081,
+        7494,
+        7494,
+        7494,
+        11,
+        465,
+        2752,
+        50197,
+        51714
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.04531443119049072,
+      "compression_ratio": 1.694915254237288,
+      "no_speech_prob": 0.09931518882513046,
+      "confidence": 0.978,
+      "words": [
+        {
+          "text": "Perdona,",
+          "start": 128.2,
+          "end": 131.46,
+          "confidence": 0.962
+        },
+        {
+          "text": "si",
+          "start": 131.7,
+          "end": 132.1,
+          "confidence": 0.975
+        },
+        {
+          "text": "me",
+          "start": 132.1,
+          "end": 132.32,
+          "confidence": 0.998
+        },
+        {
+          "text": "enamoras",
+          "start": 132.32,
+          "end": 132.82,
+          "confidence": 0.979
+        },
+        {
+          "text": "de",
+          "start": 132.82,
+          "end": 133.06,
+          "confidence": 0.988
+        },
+        {
+          "text": "traicionas",
+          "start": 133.06,
+          "end": 134.5,
+          "confidence": 0.996
+        },
+        {
+          "text": "Ay",
+          "start": 134.5,
+          "end": 135.14,
+          "confidence": 0.905
+        },
+        {
+          "text": "ay",
+          "start": 135.14,
+          "end": 135.48,
+          "confidence": 0.986
+        },
+        {
+          "text": "ay",
+          "start": 135.48,
+          "end": 135.8,
+          "confidence": 0.993
+        },
+        {
+          "text": "ay,",
+          "start": 135.8,
+          "end": 136.1,
+          "confidence": 0.921
+        },
+        {
+          "text": "en",
+          "start": 136.28,
+          "end": 136.44,
+          "confidence": 0.996
+        },
+        {
+          "text": "mi",
+          "start": 136.44,
+          "end": 136.58,
+          "confidence": 0.998
+        },
+        {
+          "text": "cama",
+          "start": 136.58,
+          "end": 136.92,
+          "confidence": 0.999
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "seek": 13680,
+      "start": 137.64,
+      "end": 139.72,
+      "text": " La otra noche previco mi pana",
+      "tokens": [
+        50364,
+        2369,
+        13623,
+        29735,
+        12642,
+        2789,
+        2752,
+        47296,
+        50514
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.13851705278669085,
+      "compression_ratio": 1.4375,
+      "no_speech_prob": 0.5063793063163757,
+      "confidence": 0.605,
+      "words": [
+        {
+          "text": "La",
+          "start": 137.64,
+          "end": 137.96,
+          "confidence": 0.97
+        },
+        {
+          "text": "otra",
+          "start": 137.96,
+          "end": 138.24,
+          "confidence": 0.988
+        },
+        {
+          "text": "noche",
+          "start": 138.24,
+          "end": 138.52,
+          "confidence": 0.995
+        },
+        {
+          "text": "previco",
+          "start": 138.52,
+          "end": 139.16,
+          "confidence": 0.493
+        },
+        {
+          "text": "mi",
+          "start": 139.16,
+          "end": 139.42,
+          "confidence": 0.945
+        },
+        {
+          "text": "pana",
+          "start": 139.42,
+          "end": 139.72,
+          "confidence": 0.136
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "seek": 13680,
+      "start": 141.06,
+      "end": 143.8,
+      "text": " Así se pone duro, duro duro duro",
+      "tokens": [
+        50514,
+        17419,
+        369,
+        40192,
+        1581,
+        340,
+        11,
+        1581,
+        340,
+        1581,
+        340,
+        1581,
+        340,
+        50664
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.13851705278669085,
+      "compression_ratio": 1.4375,
+      "no_speech_prob": 0.5063793063163757,
+      "confidence": 0.954,
+      "words": [
+        {
+          "text": "Así",
+          "start": 141.06,
+          "end": 141.28,
+          "confidence": 0.63
+        },
+        {
+          "text": "se",
+          "start": 141.28,
+          "end": 141.52,
+          "confidence": 0.99
+        },
+        {
+          "text": "pone",
+          "start": 141.52,
+          "end": 141.8,
+          "confidence": 0.998
+        },
+        {
+          "text": "duro,",
+          "start": 141.8,
+          "end": 142.42,
+          "confidence": 0.998
+        },
+        {
+          "text": "duro",
+          "start": 142.64,
+          "end": 142.94,
+          "confidence": 0.999
+        },
+        {
+          "text": "duro",
+          "start": 142.94,
+          "end": 143.28,
+          "confidence": 0.989
+        },
+        {
+          "text": "duro",
+          "start": 143.28,
+          "end": 143.8,
+          "confidence": 0.99
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "seek": 13680,
+      "start": 143.8,
+      "end": 146.68,
+      "text": " Con esto no es un matazero, hace mi orgullo",
+      "tokens": [
+        50664,
+        2656,
+        7433,
+        572,
+        785,
+        517,
+        3803,
+        921,
+        2032,
+        11,
+        10032,
+        2752,
+        14045,
+        858,
+        78,
+        50814
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.13851705278669085,
+      "compression_ratio": 1.4375,
+      "no_speech_prob": 0.5063793063163757,
+      "confidence": 0.817,
+      "words": [
+        {
+          "text": "Con",
+          "start": 143.8,
+          "end": 144.0,
+          "confidence": 0.378
+        },
+        {
+          "text": "esto",
+          "start": 144.0,
+          "end": 144.24,
+          "confidence": 0.935
+        },
+        {
+          "text": "no",
+          "start": 144.24,
+          "end": 144.48,
+          "confidence": 0.481
+        },
+        {
+          "text": "es",
+          "start": 144.48,
+          "end": 144.56,
+          "confidence": 0.759
+        },
+        {
+          "text": "un",
+          "start": 144.56,
+          "end": 144.62,
+          "confidence": 0.596
+        },
+        {
+          "text": "matazero,",
+          "start": 144.62,
+          "end": 145.34,
+          "confidence": 0.994
+        },
+        {
+          "text": "hace",
+          "start": 145.5,
+          "end": 145.66,
+          "confidence": 0.97
+        },
+        {
+          "text": "mi",
+          "start": 145.66,
+          "end": 145.92,
+          "confidence": 0.996
+        },
+        {
+          "text": "orgullo",
+          "start": 145.92,
+          "end": 146.68,
+          "confidence": 0.999
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "seek": 13680,
+      "start": 146.84,
+      "end": 149.33,
+      "text": " Si se pone duro, duro duro duro duro",
+      "tokens": [
+        50814,
+        4909,
+        369,
+        40192,
+        1581,
+        340,
+        11,
+        1581,
+        340,
+        1581,
+        340,
+        1581,
+        340,
+        1581,
+        340,
+        50964
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.13851705278669085,
+      "compression_ratio": 1.4375,
+      "no_speech_prob": 0.5063793063163757,
+      "confidence": 0.899,
+      "words": [
+        {
+          "text": "Si",
+          "start": 146.84,
+          "end": 146.96,
+          "confidence": 0.454
+        },
+        {
+          "text": "se",
+          "start": 146.96,
+          "end": 147.14,
+          "confidence": 0.999
+        },
+        {
+          "text": "pone",
+          "start": 147.14,
+          "end": 147.44,
+          "confidence": 0.999
+        },
+        {
+          "text": "duro,",
+          "start": 147.44,
+          "end": 148.06,
+          "confidence": 1.0
+        },
+        {
+          "text": "duro",
+          "start": 148.26,
+          "end": 148.58,
+          "confidence": 0.999
+        },
+        {
+          "text": "duro",
+          "start": 148.58,
+          "end": 148.9,
+          "confidence": 0.997
+        },
+        {
+          "text": "duro",
+          "start": 148.9,
+          "end": 149.24,
+          "confidence": 0.997
+        },
+        {
+          "text": "duro",
+          "start": 149.24,
+          "end": 149.33,
+          "confidence": 0.752
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "seek": 13680,
+      "start": 149.33,
+      "end": 152.24,
+      "text": " No sé cómo olvidarte, puto te lo juro",
+      "tokens": [
+        50964,
+        883,
+        7910,
+        12826,
+        43194,
+        11026,
+        11,
+        829,
+        78,
+        535,
+        450,
+        3649,
+        340,
+        51114
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.13851705278669085,
+      "compression_ratio": 1.4375,
+      "no_speech_prob": 0.5063793063163757,
+      "confidence": 0.987,
+      "words": [
+        {
+          "text": "No",
+          "start": 149.33,
+          "end": 149.62,
+          "confidence": 0.986
+        },
+        {
+          "text": "sé",
+          "start": 149.62,
+          "end": 149.8,
+          "confidence": 0.965
+        },
+        {
+          "text": "cómo",
+          "start": 149.8,
+          "end": 150.06,
+          "confidence": 0.974
+        },
+        {
+          "text": "olvidarte,",
+          "start": 150.06,
+          "end": 150.82,
+          "confidence": 0.997
+        },
+        {
+          "text": "puto",
+          "start": 151.08,
+          "end": 151.32,
+          "confidence": 0.988
+        },
+        {
+          "text": "te",
+          "start": 151.32,
+          "end": 151.54,
+          "confidence": 0.972
+        },
+        {
+          "text": "lo",
+          "start": 151.54,
+          "end": 151.76,
+          "confidence": 0.995
+        },
+        {
+          "text": "juro",
+          "start": 151.76,
+          "end": 152.24,
+          "confidence": 1.0
+        }
+      ]
+    }
+  ],
+  "language": "es",
+  "language_probs": {
+    "en": 0.015824908390641212,
+    "zh": 0.001019587041810155,
+    "de": 0.0011827416019514203,
+    "es": 0.9342183470726013,
+    "ru": 0.0007007512613199651,
+    "ko": 0.0022797940764576197,
+    "fr": 0.00186071393545717,
+    "ja": 0.001027583726681769,
+    "pt": 0.0021753946784883738,
+    "tr": 0.0002222305629402399,
+    "pl": 0.0010437658056616783,
+    "ca": 0.006700687110424042,
+    "nl": 0.00027441815473139286,
+    "ar": 0.001137431594543159,
+    "sv": 9.483636677032337e-05,
+    "it": 0.007957263849675655,
+    "id": 0.00011350426939316094,
+    "hi": 3.488834772724658e-05,
+    "fi": 0.00019307727052364498,
+    "vi": 0.00043851896771229804,
+    "he": 2.5926821763277985e-05,
+    "uk": 2.288034011144191e-05,
+    "el": 0.0016549531137570739,
+    "ms": 0.0001703900779830292,
+    "cs": 3.9533679228043184e-05,
+    "ro": 0.00030138937290757895,
+    "da": 3.9533679228043184e-05,
+    "hu": 0.00020876630151178688,
+    "ta": 0.000143482830026187,
+    "no": 7.032838766463101e-06,
+    "th": 6.884381582494825e-05,
+    "ur": 1.3556150406657252e-05,
+    "hr": 1.4096167433308437e-05,
+    "bg": 4.0702948354010005e-06,
+    "lt": 1.5939504010020755e-06,
+    "la": 0.0004778708389494568,
+    "mi": 7.102915697032586e-05,
+    "ml": 1.926717595779337e-05,
+    "cy": 0.00037802691804245114,
+    "sk": 2.7326668714522384e-06,
+    "te": 8.634949335828424e-05,
+    "fa": 1.1064208592870273e-05,
+    "lv": 3.5088137337879743e-06,
+    "bn": 1.548161162645556e-05,
+    "sr": 1.834625663832412e-06,
+    "az": 8.07774767963565e-07,
+    "sl": 1.1150985301355831e-05,
+    "kn": 5.174799184715084e-07,
+    "et": 9.316997420683037e-06,
+    "mk": 9.667797939982847e-07,
+    "br": 0.00014574236411135644,
+    "eu": 0.0007576927891932428,
+    "is": 1.2151655937486794e-05,
+    "hy": 1.3527680948755005e-06,
+    "ne": 5.350301762518939e-06,
+    "mn": 1.7100591094276751e-06,
+    "bs": 4.505405740928836e-06,
+    "kk": 7.768293812659977e-07,
+    "sq": 1.2031769074383192e-06,
+    "sw": 6.453695732488995e-06,
+    "gl": 0.014185355976223946,
+    "mr": 7.890625965956133e-07,
+    "pa": 6.013709707985981e-08,
+    "si": 3.5920229493058287e-06,
+    "km": 0.0003085365751758218,
+    "sn": 0.00011262097541475669,
+    "yo": 1.4657695828645956e-05,
+    "so": 7.90487248991667e-08,
+    "af": 2.8802097062907706e-07,
+    "oc": 0.0004524389805737883,
+    "ka": 7.36815195523377e-08,
+    "be": 1.1963262295466848e-05,
+    "tg": 3.927925096292029e-09,
+    "sd": 3.4815077469829703e-06,
+    "gu": 3.928511560502557e-08,
+    "am": 7.542882229927272e-08,
+    "yi": 5.065563527750783e-06,
+    "lo": 3.1699489682068815e-06,
+    "uz": 9.470520895282775e-11,
+    "fo": 1.440014102627174e-06,
+    "ht": 3.37439269060269e-06,
+    "ps": 8.014885679585859e-07,
+    "tk": 7.280136493648115e-10,
+    "nn": 0.00027016366948373616,
+    "mt": 5.327852292680291e-08,
+    "sa": 5.361562216421589e-05,
+    "lb": 2.313622404770399e-09,
+    "my": 2.80335771094542e-05,
+    "bo": 1.363378032692708e-06,
+    "tl": 9.191856224788353e-05,
+    "mg": 3.030369843948222e-10,
+    "as": 1.33179548811313e-06,
+    "tt": 2.458032888341677e-09,
+    "haw": 3.713845580932684e-05,
+    "ln": 5.154624886927195e-07,
+    "ha": 3.4279956651062093e-10,
+    "ba": 1.1690568513245125e-09,
+    "jw": 0.0011644050246104598,
+    "su": 5.82781778390995e-09
+  },
+  "speech_activity": [
+    {
+      "start": 0.0,
+      "end": 10.642
+    },
+    {
+      "start": 10.83,
+      "end": 22.93
+    },
+    {
+      "start": 23.214,
+      "end": 103.602
+    },
+    {
+      "start": 103.886,
+      "end": 140.498
+    },
+    {
+      "start": 140.558,
+      "end": 152.85
+    }
+  ]
+}
