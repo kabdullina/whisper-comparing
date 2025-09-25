@@ -1,1401 +1,1684 @@
 {
-  "text": " Pretty girls like Samuel and Shelly and he can handle Life is anything fair, life is anything fair Oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh Just as soon as they turn old, oh, come and sweep them off their feet It's only making me feel smaller Oh, won't you lay me, you lay me down Won't you lay me, won't you lay me down Won't you lay me down, lay me down Thanks to Tom, my fool is right Long before I see the light Say hello, but I just can't get enough Won't you lay me, won't you lay me down Won't you lay me, won't you lay me down Won't you lay me, won't you lay me down Won't you lay me, won't you lay me down Won't you lay me down",
+  "text": "Pretty girls like Samuel and Cheryl And he can handle life as anything but fairOh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh Won't you lay me down Won't you lay me down My legs are tired My foot is flat Long before I see the light Say no more But it just keeps getting harder Won't you lay me Won't you lay me down Won't you lay me Won't you lay me down Won't you lay me Won't you lay me down",
   "segments": [
     {
       "id": 0,
       "seek": 0,
       "start": 15.09,
-      "end": 29.9,
-      "text": " Pretty girls like Samuel and Shelly and he can handle",
+      "end": 35.75,
+      "text": "Pretty girls like Samuel and Cheryl And he can handle life as anything but fair",
       "tokens": [
         50364,
-        10693,
+        47,
+        1505,
+        874,
         4519,
         411,
         23036,
         293,
-        1240,
-        13020,
-        293,
+        38331,
+        400,
         415,
         393,
         4813,
-        50780
+        993,
+        382,
+        1340,
+        457,
+        3143,
+        50964
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.4310150426976821,
-      "compression_ratio": 1.6484375,
-      "no_speech_prob": 0.5239349603652954,
-      "confidence": 0.533,
+      "avg_logprob": -0.09951553344726563,
+      "compression_ratio": 5.361702127659575,
+      "no_speech_prob": 0.00028450481477193534,
+      "confidence": 0.669,
       "words": [
         {
           "text": "Pretty",
           "start": 15.09,
-          "end": 15.49,
-          "confidence": 0.8
+          "end": 15.65,
+          "confidence": 0.882
         },
         {
           "text": "girls",
-          "start": 15.49,
-          "end": 16.03,
-          "confidence": 0.965
+          "start": 15.65,
+          "end": 16.29,
+          "confidence": 0.992
         },
         {
           "text": "like",
-          "start": 16.03,
-          "end": 16.53,
-          "confidence": 0.966
+          "start": 16.29,
+          "end": 16.79,
+          "confidence": 0.979
         },
         {
           "text": "Samuel",
-          "start": 16.53,
-          "end": 17.35,
-          "confidence": 0.841
+          "start": 16.79,
+          "end": 17.57,
+          "confidence": 0.871
         },
         {
           "text": "and",
-          "start": 17.35,
+          "start": 17.57,
           "end": 18.35,
-          "confidence": 0.276
+          "confidence": 0.593
         },
         {
-          "text": "Shelly",
-          "start": 22.62,
-          "end": 23.82,
-          "confidence": 0.203
+          "text": "Cheryl",
+          "start": 22.84,
+          "end": 23.72,
+          "confidence": 0.264
         },
         {
-          "text": "and",
-          "start": 28.21,
-          "end": 28.38,
-          "confidence": 0.4
+          "text": "And",
+          "start": 23.72,
+          "end": 23.99,
+          "confidence": 0.252
         },
         {
           "text": "he",
-          "start": 28.38,
-          "end": 28.54,
-          "confidence": 0.406
+          "start": 28.36,
+          "end": 28.74,
+          "confidence": 0.868
         },
         {
           "text": "can",
-          "start": 28.54,
-          "end": 28.98,
-          "confidence": 0.95
+          "start": 28.74,
+          "end": 29.22,
+          "confidence": 0.996
         },
         {
           "text": "handle",
-          "start": 28.98,
-          "end": 29.9,
-          "confidence": 0.897
+          "start": 29.22,
+          "end": 30.88,
+          "confidence": 0.805
+        },
+        {
+          "text": "life",
+          "start": 30.88,
+          "end": 31.76,
+          "confidence": 0.202
+        },
+        {
+          "text": "as",
+          "start": 33.09,
+          "end": 34.19,
+          "confidence": 0.786
+        },
+        {
+          "text": "anything",
+          "start": 34.19,
+          "end": 34.91,
+          "confidence": 0.92
+        },
+        {
+          "text": "but",
+          "start": 34.91,
+          "end": 35.43,
+          "confidence": 0.555
+        },
+        {
+          "text": "fair",
+          "start": 35.43,
+          "end": 35.75,
+          "confidence": 0.828
         }
       ]
     },
     {
       "id": 1,
-      "seek": 0,
-      "start": 32.89,
-      "end": 38.91,
-      "text": " Life is anything fair, life is anything fair",
+      "seek": 1200,
+      "start": 36.07,
+      "end": 86.3,
+      "text": "Oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh",
       "tokens": [
-        50780,
-        7720,
-        307,
-        1340,
-        3143,
+        50364,
+        3756,
         11,
-        993,
-        307,
-        1340,
-        3143,
-        51128
+        1954,
+        11,
+        1954,
+        11,
+        1954,
+        11,
+        1954,
+        11,
+        1954,
+        11,
+        1954,
+        11,
+        1954,
+        11,
+        1954,
+        11,
+        1954,
+        11,
+        1954,
+        11,
+        1954,
+        11,
+        1954,
+        11,
+        1954,
+        11,
+        1954,
+        11,
+        1954,
+        11,
+        1954,
+        11,
+        1954,
+        11,
+        1954,
+        11,
+        1954,
+        11,
+        1954,
+        11,
+        1954,
+        11,
+        1954,
+        11,
+        1954,
+        11,
+        1954,
+        11,
+        1954,
+        11,
+        1954,
+        11,
+        1954,
+        11,
+        1954,
+        11,
+        1954,
+        11,
+        1954,
+        11,
+        1954,
+        11,
+        1954,
+        11,
+        1954,
+        11,
+        1954,
+        11,
+        1954,
+        11,
+        1954,
+        11,
+        1954,
+        11,
+        1954,
+        11,
+        1954,
+        11,
+        1954,
+        11,
+        1954,
+        11,
+        1954,
+        11,
+        1954,
+        11,
+        1954,
+        11,
+        1954,
+        11,
+        1954,
+        11,
+        1954,
+        11,
+        1954,
+        11,
+        1954,
+        11,
+        1954,
+        11,
+        1954,
+        11,
+        1954,
+        11,
+        1954,
+        11,
+        1954,
+        11,
+        1954,
+        11,
+        1954,
+        11,
+        1954,
+        11,
+        1954,
+        11,
+        1954,
+        11,
+        1954,
+        11,
+        1954,
+        11,
+        1954,
+        11,
+        1954,
+        11,
+        1954,
+        11,
+        1954,
+        11,
+        1954,
+        11,
+        1954,
+        11,
+        1954,
+        11,
+        1954,
+        11,
+        1954,
+        11,
+        1954,
+        11,
+        1954,
+        11,
+        1954,
+        11,
+        1954,
+        11,
+        1954,
+        11,
+        1954,
+        11,
+        1954,
+        11,
+        1954,
+        11,
+        1954,
+        11,
+        1954,
+        11,
+        1954,
+        11,
+        1954,
+        11,
+        1954,
+        11,
+        1954,
+        11,
+        1954,
+        11,
+        1954,
+        11,
+        1954,
+        11,
+        1954,
+        11,
+        1954,
+        11,
+        1954,
+        11,
+        1954,
+        11,
+        1954,
+        11,
+        1954,
+        11,
+        1954,
+        11,
+        1954,
+        11,
+        1954,
+        11,
+        1954,
+        11,
+        1954,
+        11,
+        1954,
+        11,
+        1954,
+        11,
+        1954,
+        11,
+        1954,
+        11,
+        1954,
+        11,
+        1954,
+        11,
+        1954,
+        11,
+        1954,
+        11,
+        1954,
+        11,
+        1954,
+        11,
+        1954,
+        11,
+        1954,
+        11,
+        1954
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.4310150426976821,
-      "compression_ratio": 1.6484375,
-      "no_speech_prob": 0.5239349603652954,
-      "confidence": 0.9,
+      "avg_logprob": -0.06689202626546224,
+      "compression_ratio": 26.235294117647058,
+      "no_speech_prob": 0.12299104034900665,
+      "confidence": 0.924,
       "words": [
         {
-          "text": "Life",
-          "start": 32.89,
-          "end": 33.43,
-          "confidence": 0.892
+          "text": "Oh,",
+          "start": 36.07,
+          "end": 40.01,
+          "confidence": 0.292
         },
         {
-          "text": "is",
-          "start": 33.43,
-          "end": 34.13,
-          "confidence": 0.986
+          "text": "oh,",
+          "start": 40.37,
+          "end": 40.79,
+          "confidence": 0.901
         },
         {
-          "text": "anything",
-          "start": 34.13,
-          "end": 34.75,
+          "text": "oh,",
+          "start": 41.15,
+          "end": 41.83,
+          "confidence": 0.963
+        },
+        {
+          "text": "oh,",
+          "start": 45.43,
+          "end": 46.35,
+          "confidence": 0.954
+        },
+        {
+          "text": "oh,",
+          "start": 46.69,
+          "end": 47.09,
+          "confidence": 0.917
+        },
+        {
+          "text": "oh,",
+          "start": 47.39,
+          "end": 47.55,
+          "confidence": 0.931
+        },
+        {
+          "text": "oh,",
+          "start": 47.55,
+          "end": 47.95,
+          "confidence": 0.92
+        },
+        {
+          "text": "oh,",
+          "start": 51.76,
+          "end": 52.08,
+          "confidence": 0.875
+        },
+        {
+          "text": "oh,",
+          "start": 52.24,
+          "end": 52.96,
+          "confidence": 0.848
+        },
+        {
+          "text": "oh,",
+          "start": 52.96,
+          "end": 56.02,
+          "confidence": 0.864
+        },
+        {
+          "text": "oh,",
+          "start": 58.75,
+          "end": 61.14,
+          "confidence": 0.895
+        },
+        {
+          "text": "oh,",
+          "start": 65.87,
+          "end": 65.89,
+          "confidence": 0.915
+        },
+        {
+          "text": "oh,",
+          "start": 65.89,
+          "end": 65.95,
+          "confidence": 0.925
+        },
+        {
+          "text": "oh,",
+          "start": 65.95,
+          "end": 65.97,
+          "confidence": 0.932
+        },
+        {
+          "text": "oh,",
+          "start": 65.97,
+          "end": 65.99,
+          "confidence": 0.936
+        },
+        {
+          "text": "oh,",
+          "start": 66.31,
+          "end": 66.61,
+          "confidence": 0.938
+        },
+        {
+          "text": "oh,",
+          "start": 66.71,
+          "end": 66.73,
+          "confidence": 0.938
+        },
+        {
+          "text": "oh,",
+          "start": 66.73,
+          "end": 66.75,
+          "confidence": 0.937
+        },
+        {
+          "text": "oh,",
+          "start": 66.75,
+          "end": 66.77,
+          "confidence": 0.937
+        },
+        {
+          "text": "oh,",
+          "start": 66.77,
+          "end": 66.79,
+          "confidence": 0.936
+        },
+        {
+          "text": "oh,",
+          "start": 66.79,
+          "end": 66.81,
+          "confidence": 0.934
+        },
+        {
+          "text": "oh,",
+          "start": 66.81,
+          "end": 66.83,
+          "confidence": 0.936
+        },
+        {
+          "text": "oh,",
+          "start": 66.83,
+          "end": 66.85,
+          "confidence": 0.938
+        },
+        {
+          "text": "oh,",
+          "start": 66.85,
+          "end": 66.87,
+          "confidence": 0.94
+        },
+        {
+          "text": "oh,",
+          "start": 66.87,
+          "end": 66.89,
+          "confidence": 0.942
+        },
+        {
+          "text": "oh,",
+          "start": 66.89,
+          "end": 66.91,
+          "confidence": 0.943
+        },
+        {
+          "text": "oh,",
+          "start": 66.91,
+          "end": 66.93,
+          "confidence": 0.947
+        },
+        {
+          "text": "oh,",
+          "start": 66.93,
+          "end": 66.95,
+          "confidence": 0.949
+        },
+        {
+          "text": "oh,",
+          "start": 66.95,
+          "end": 66.97,
+          "confidence": 0.95
+        },
+        {
+          "text": "oh,",
+          "start": 66.97,
+          "end": 66.99,
+          "confidence": 0.95
+        },
+        {
+          "text": "oh,",
+          "start": 66.99,
+          "end": 67.01,
+          "confidence": 0.95
+        },
+        {
+          "text": "oh,",
+          "start": 67.01,
+          "end": 67.03,
+          "confidence": 0.949
+        },
+        {
+          "text": "oh,",
+          "start": 67.03,
+          "end": 67.05,
+          "confidence": 0.95
+        },
+        {
+          "text": "oh,",
+          "start": 67.05,
+          "end": 67.07,
+          "confidence": 0.948
+        },
+        {
+          "text": "oh,",
+          "start": 67.07,
+          "end": 67.09,
+          "confidence": 0.947
+        },
+        {
+          "text": "oh,",
+          "start": 67.09,
+          "end": 67.11,
+          "confidence": 0.945
+        },
+        {
+          "text": "oh,",
+          "start": 67.11,
+          "end": 67.13,
+          "confidence": 0.945
+        },
+        {
+          "text": "oh,",
+          "start": 67.13,
+          "end": 67.15,
+          "confidence": 0.945
+        },
+        {
+          "text": "oh,",
+          "start": 67.15,
+          "end": 67.17,
+          "confidence": 0.947
+        },
+        {
+          "text": "oh,",
+          "start": 67.17,
+          "end": 67.19,
+          "confidence": 0.947
+        },
+        {
+          "text": "oh,",
+          "start": 67.19,
+          "end": 67.21,
+          "confidence": 0.947
+        },
+        {
+          "text": "oh,",
+          "start": 67.21,
+          "end": 67.23,
+          "confidence": 0.949
+        },
+        {
+          "text": "oh,",
+          "start": 67.23,
+          "end": 67.25,
+          "confidence": 0.95
+        },
+        {
+          "text": "oh,",
+          "start": 67.25,
+          "end": 67.27,
+          "confidence": 0.951
+        },
+        {
+          "text": "oh,",
+          "start": 67.27,
+          "end": 67.29,
+          "confidence": 0.952
+        },
+        {
+          "text": "oh,",
+          "start": 67.29,
+          "end": 67.31,
+          "confidence": 0.953
+        },
+        {
+          "text": "oh,",
+          "start": 67.31,
+          "end": 67.33,
+          "confidence": 0.955
+        },
+        {
+          "text": "oh,",
+          "start": 67.33,
+          "end": 67.35,
           "confidence": 0.956
         },
         {
-          "text": "fair,",
-          "start": 34.75,
-          "end": 35.61,
-          "confidence": 0.63
+          "text": "oh,",
+          "start": 67.35,
+          "end": 67.37,
+          "confidence": 0.958
         },
         {
-          "text": "life",
-          "start": 36.23,
-          "end": 36.59,
-          "confidence": 0.822
+          "text": "oh,",
+          "start": 67.37,
+          "end": 67.39,
+          "confidence": 0.959
         },
         {
-          "text": "is",
-          "start": 36.59,
-          "end": 37.03,
-          "confidence": 0.998
+          "text": "oh,",
+          "start": 67.39,
+          "end": 67.41,
+          "confidence": 0.959
         },
         {
-          "text": "anything",
-          "start": 37.03,
-          "end": 37.81,
-          "confidence": 0.99
+          "text": "oh,",
+          "start": 67.41,
+          "end": 67.43,
+          "confidence": 0.961
         },
         {
-          "text": "fair",
-          "start": 37.81,
-          "end": 38.91,
-          "confidence": 0.997
+          "text": "oh,",
+          "start": 67.43,
+          "end": 67.45,
+          "confidence": 0.962
+        },
+        {
+          "text": "oh,",
+          "start": 67.45,
+          "end": 68.25,
+          "confidence": 0.963
+        },
+        {
+          "text": "oh,",
+          "start": 68.25,
+          "end": 68.27,
+          "confidence": 0.962
+        },
+        {
+          "text": "oh,",
+          "start": 68.27,
+          "end": 68.29,
+          "confidence": 0.965
+        },
+        {
+          "text": "oh,",
+          "start": 68.29,
+          "end": 68.31,
+          "confidence": 0.964
+        },
+        {
+          "text": "oh,",
+          "start": 68.31,
+          "end": 68.33,
+          "confidence": 0.965
+        },
+        {
+          "text": "oh,",
+          "start": 68.33,
+          "end": 68.51,
+          "confidence": 0.967
+        },
+        {
+          "text": "oh,",
+          "start": 68.51,
+          "end": 68.53,
+          "confidence": 0.966
+        },
+        {
+          "text": "oh,",
+          "start": 75.21,
+          "end": 77.43,
+          "confidence": 0.968
+        },
+        {
+          "text": "oh,",
+          "start": 81.04,
+          "end": 81.06,
+          "confidence": 0.965
+        },
+        {
+          "text": "oh,",
+          "start": 81.06,
+          "end": 81.08,
+          "confidence": 0.967
+        },
+        {
+          "text": "oh,",
+          "start": 81.08,
+          "end": 81.1,
+          "confidence": 0.967
+        },
+        {
+          "text": "oh,",
+          "start": 81.1,
+          "end": 81.12,
+          "confidence": 0.967
+        },
+        {
+          "text": "oh,",
+          "start": 81.12,
+          "end": 82.48,
+          "confidence": 0.967
+        },
+        {
+          "text": "oh,",
+          "start": 82.64,
+          "end": 83.94,
+          "confidence": 0.967
+        },
+        {
+          "text": "oh,",
+          "start": 83.94,
+          "end": 83.96,
+          "confidence": 0.967
+        },
+        {
+          "text": "oh,",
+          "start": 83.96,
+          "end": 83.98,
+          "confidence": 0.967
+        },
+        {
+          "text": "oh,",
+          "start": 83.98,
+          "end": 84.0,
+          "confidence": 0.965
+        },
+        {
+          "text": "oh,",
+          "start": 84.0,
+          "end": 84.02,
+          "confidence": 0.965
+        },
+        {
+          "text": "oh,",
+          "start": 84.02,
+          "end": 84.04,
+          "confidence": 0.964
+        },
+        {
+          "text": "oh,",
+          "start": 84.04,
+          "end": 84.06,
+          "confidence": 0.965
+        },
+        {
+          "text": "oh,",
+          "start": 84.06,
+          "end": 84.08,
+          "confidence": 0.961
+        },
+        {
+          "text": "oh,",
+          "start": 84.08,
+          "end": 84.1,
+          "confidence": 0.963
+        },
+        {
+          "text": "oh,",
+          "start": 84.1,
+          "end": 84.12,
+          "confidence": 0.961
+        },
+        {
+          "text": "oh,",
+          "start": 84.12,
+          "end": 84.14,
+          "confidence": 0.959
+        },
+        {
+          "text": "oh,",
+          "start": 84.14,
+          "end": 84.16,
+          "confidence": 0.958
+        },
+        {
+          "text": "oh,",
+          "start": 84.16,
+          "end": 84.18,
+          "confidence": 0.954
+        },
+        {
+          "text": "oh,",
+          "start": 84.18,
+          "end": 84.2,
+          "confidence": 0.954
+        },
+        {
+          "text": "oh,",
+          "start": 84.2,
+          "end": 84.22,
+          "confidence": 0.951
+        },
+        {
+          "text": "oh,",
+          "start": 84.22,
+          "end": 84.24,
+          "confidence": 0.949
+        },
+        {
+          "text": "oh,",
+          "start": 84.24,
+          "end": 84.26,
+          "confidence": 0.947
+        },
+        {
+          "text": "oh,",
+          "start": 84.26,
+          "end": 84.28,
+          "confidence": 0.946
+        },
+        {
+          "text": "oh,",
+          "start": 84.28,
+          "end": 84.3,
+          "confidence": 0.942
+        },
+        {
+          "text": "oh,",
+          "start": 84.3,
+          "end": 84.32,
+          "confidence": 0.94
+        },
+        {
+          "text": "oh,",
+          "start": 84.32,
+          "end": 84.34,
+          "confidence": 0.935
+        },
+        {
+          "text": "oh,",
+          "start": 84.34,
+          "end": 84.36,
+          "confidence": 0.931
+        },
+        {
+          "text": "oh,",
+          "start": 84.36,
+          "end": 84.38,
+          "confidence": 0.929
+        },
+        {
+          "text": "oh,",
+          "start": 84.38,
+          "end": 84.4,
+          "confidence": 0.926
+        },
+        {
+          "text": "oh,",
+          "start": 84.4,
+          "end": 84.42,
+          "confidence": 0.923
+        },
+        {
+          "text": "oh,",
+          "start": 84.42,
+          "end": 84.43,
+          "confidence": 0.919
+        },
+        {
+          "text": "oh,",
+          "start": 84.76,
+          "end": 84.78,
+          "confidence": 0.914
+        },
+        {
+          "text": "oh,",
+          "start": 84.78,
+          "end": 84.8,
+          "confidence": 0.911
+        },
+        {
+          "text": "oh,",
+          "start": 84.8,
+          "end": 84.82,
+          "confidence": 0.905
+        },
+        {
+          "text": "oh,",
+          "start": 84.82,
+          "end": 84.84,
+          "confidence": 0.902
+        },
+        {
+          "text": "oh,",
+          "start": 84.84,
+          "end": 84.86,
+          "confidence": 0.901
+        },
+        {
+          "text": "oh,",
+          "start": 84.86,
+          "end": 84.88,
+          "confidence": 0.898
+        },
+        {
+          "text": "oh,",
+          "start": 84.88,
+          "end": 84.9,
+          "confidence": 0.895
+        },
+        {
+          "text": "oh,",
+          "start": 84.9,
+          "end": 84.92,
+          "confidence": 0.888
+        },
+        {
+          "text": "oh,",
+          "start": 84.92,
+          "end": 84.94,
+          "confidence": 0.882
+        },
+        {
+          "text": "oh,",
+          "start": 84.94,
+          "end": 84.96,
+          "confidence": 0.887
+        },
+        {
+          "text": "oh,",
+          "start": 84.96,
+          "end": 84.98,
+          "confidence": 0.869
+        },
+        {
+          "text": "oh,",
+          "start": 84.98,
+          "end": 85.0,
+          "confidence": 0.873
+        },
+        {
+          "text": "oh,",
+          "start": 85.0,
+          "end": 85.02,
+          "confidence": 0.871
+        },
+        {
+          "text": "oh,",
+          "start": 85.02,
+          "end": 85.04,
+          "confidence": 0.868
+        },
+        {
+          "text": "oh,",
+          "start": 85.04,
+          "end": 85.06,
+          "confidence": 0.868
+        },
+        {
+          "text": "oh,",
+          "start": 85.06,
+          "end": 85.08,
+          "confidence": 0.867
+        },
+        {
+          "text": "oh,",
+          "start": 85.08,
+          "end": 85.1,
+          "confidence": 0.863
+        },
+        {
+          "text": "oh,",
+          "start": 85.1,
+          "end": 85.12,
+          "confidence": 0.862
+        },
+        {
+          "text": "oh,",
+          "start": 85.12,
+          "end": 85.14,
+          "confidence": 0.862
+        },
+        {
+          "text": "oh",
+          "start": 85.14,
+          "end": 86.3,
+          "confidence": 0.857
         }
       ]
     },
     {
       "id": 2,
-      "seek": 0,
-      "start": 39.47,
-      "end": 48.01,
-      "text": " Oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh",
+      "seek": 4200,
+      "start": 86.8,
+      "end": 94.64,
+      "text": " Won't you lay me down Won't you lay me down",
       "tokens": [
-        51128,
-        876,
-        11,
-        1954,
-        11,
-        1954,
-        11,
-        1954,
-        11,
-        1954,
-        11,
-        1954,
-        11,
-        1954,
-        11,
-        1954,
-        11,
-        1954,
-        11,
-        1954,
-        11,
-        1954,
-        51408
+        50413,
+        14710,
+        380,
+        291,
+        2360,
+        385,
+        760,
+        14710,
+        380,
+        291,
+        2360,
+        385,
+        760,
+        50663
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.4310150426976821,
-      "compression_ratio": 1.6484375,
-      "no_speech_prob": 0.5239349603652954,
-      "confidence": 0.904,
+      "avg_logprob": -0.36775599585639107,
+      "compression_ratio": 1.884297520661157,
+      "no_speech_prob": 0.04370427504181862,
+      "confidence": 0.816,
       "words": [
         {
-          "text": "Oh,",
-          "start": 39.47,
-          "end": 39.93,
-          "confidence": 0.645
+          "text": "Won't",
+          "start": 86.8,
+          "end": 87.96,
+          "confidence": 0.603
         },
         {
-          "text": "oh,",
-          "start": 40.03,
-          "end": 40.57,
-          "confidence": 0.902
-        },
-        {
-          "text": "oh,",
-          "start": 40.99,
-          "end": 41.45,
+          "text": "you",
+          "start": 87.96,
+          "end": 87.98,
           "confidence": 0.978
         },
         {
-          "text": "oh,",
-          "start": 41.53,
-          "end": 41.87,
-          "confidence": 0.965
+          "text": "lay",
+          "start": 87.98,
+          "end": 88.0,
+          "confidence": 0.833
         },
         {
-          "text": "oh,",
-          "start": 45.75,
-          "end": 46.41,
-          "confidence": 0.947
+          "text": "me",
+          "start": 88.0,
+          "end": 88.02,
+          "confidence": 0.974
         },
         {
-          "text": "oh,",
-          "start": 46.73,
-          "end": 46.95,
-          "confidence": 0.93
+          "text": "down",
+          "start": 88.02,
+          "end": 88.3,
+          "confidence": 0.978
         },
         {
-          "text": "oh,",
-          "start": 47.29,
-          "end": 47.49,
-          "confidence": 0.937
+          "text": "Won't",
+          "start": 88.3,
+          "end": 88.8,
+          "confidence": 0.586
         },
         {
-          "text": "oh,",
-          "start": 47.49,
-          "end": 47.57,
-          "confidence": 0.93
+          "text": "you",
+          "start": 88.8,
+          "end": 88.98,
+          "confidence": 0.986
         },
         {
-          "text": "oh,",
-          "start": 47.57,
-          "end": 47.73,
-          "confidence": 0.924
+          "text": "lay",
+          "start": 88.98,
+          "end": 89.72,
+          "confidence": 0.959
         },
         {
-          "text": "oh,",
-          "start": 47.73,
-          "end": 47.77,
-          "confidence": 0.921
+          "text": "me",
+          "start": 93.29,
+          "end": 93.97,
+          "confidence": 0.971
         },
         {
-          "text": "oh",
-          "start": 47.77,
-          "end": 48.01,
-          "confidence": 0.916
+          "text": "down",
+          "start": 93.97,
+          "end": 94.64,
+          "confidence": 0.972
         }
       ]
     },
     {
       "id": 3,
-      "seek": 0,
-      "start": 52.14,
-      "end": 60.97,
-      "text": " Just as soon as they turn old, oh, come and sweep them off their feet",
+      "seek": 4200,
+      "start": 102.11,
+      "end": 146.38,
+      "text": " My legs are tired My foot is flat Long before I see the light",
       "tokens": [
-        51408,
-        1449,
-        382,
-        2321,
-        382,
-        436,
-        1261,
-        1331,
-        11,
-        1954,
-        11,
-        808,
-        293,
-        22169,
-        552,
-        766,
-        641,
-        3521,
-        51744
+        50663,
+        1222,
+        5668,
+        366,
+        220,
+        83,
+        1824,
+        1222,
+        2671,
+        307,
+        4962,
+        8282,
+        949,
+        286,
+        536,
+        220,
+        3322,
+        1442,
+        50963
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.4310150426976821,
-      "compression_ratio": 1.6484375,
-      "no_speech_prob": 0.5239349603652954,
-      "confidence": 0.823,
+      "avg_logprob": -0.36775599585639107,
+      "compression_ratio": 1.884297520661157,
+      "no_speech_prob": 0.04370427504181862,
+      "confidence": 0.684,
       "words": [
         {
-          "text": "Just",
-          "start": 52.14,
-          "end": 52.46,
-          "confidence": 0.889
+          "text": "My",
+          "start": 102.11,
+          "end": 102.58,
+          "confidence": 0.202
         },
         {
-          "text": "as",
-          "start": 52.46,
-          "end": 52.68,
-          "confidence": 0.987
+          "text": "legs",
+          "start": 140.94,
+          "end": 141.04,
+          "confidence": 0.674
         },
         {
-          "text": "soon",
-          "start": 52.68,
-          "end": 53.16,
-          "confidence": 0.991
+          "text": "are",
+          "start": 141.04,
+          "end": 141.28,
+          "confidence": 0.959
         },
         {
-          "text": "as",
-          "start": 53.16,
-          "end": 53.46,
-          "confidence": 0.999
+          "text": "tired",
+          "start": 141.28,
+          "end": 141.76,
+          "confidence": 0.905
         },
         {
-          "text": "they",
-          "start": 53.46,
-          "end": 53.74,
-          "confidence": 0.994
+          "text": "My",
+          "start": 141.76,
+          "end": 141.98,
+          "confidence": 0.454
         },
         {
-          "text": "turn",
-          "start": 53.74,
-          "end": 54.14,
-          "confidence": 0.987
+          "text": "foot",
+          "start": 141.98,
+          "end": 142.56,
+          "confidence": 0.173
         },
         {
-          "text": "old,",
-          "start": 54.14,
-          "end": 54.82,
-          "confidence": 0.436
+          "text": "is",
+          "start": 142.56,
+          "end": 142.8,
+          "confidence": 0.881
         },
         {
-          "text": "oh,",
-          "start": 55.14,
-          "end": 55.56,
-          "confidence": 0.568
+          "text": "flat",
+          "start": 143.25,
+          "end": 143.54,
+          "confidence": 0.689
         },
         {
-          "text": "come",
-          "start": 55.7,
-          "end": 56.02,
-          "confidence": 0.477
+          "text": "Long",
+          "start": 143.54,
+          "end": 144.02,
+          "confidence": 0.465
         },
         {
-          "text": "and",
-          "start": 58.77,
-          "end": 58.97,
-          "confidence": 0.724
+          "text": "before",
+          "start": 144.02,
+          "end": 144.5,
+          "confidence": 0.977
         },
         {
-          "text": "sweep",
-          "start": 58.97,
-          "end": 59.39,
-          "confidence": 0.967
+          "text": "I",
+          "start": 144.5,
+          "end": 145.24,
+          "confidence": 0.986
         },
         {
-          "text": "them",
-          "start": 59.39,
-          "end": 59.79,
-          "confidence": 0.872
+          "text": "see",
+          "start": 145.24,
+          "end": 145.64,
+          "confidence": 0.806
         },
         {
-          "text": "off",
-          "start": 59.79,
-          "end": 60.07,
-          "confidence": 0.891
+          "text": "the",
+          "start": 145.64,
+          "end": 145.92,
+          "confidence": 0.995
         },
         {
-          "text": "their",
-          "start": 60.07,
-          "end": 60.41,
-          "confidence": 0.981
-        },
-        {
-          "text": "feet",
-          "start": 60.41,
-          "end": 60.97,
-          "confidence": 0.994
+          "text": "light",
+          "start": 145.92,
+          "end": 146.38,
+          "confidence": 0.952
         }
       ]
     },
     {
       "id": 4,
-      "seek": 2760,
-      "start": 64.73,
-      "end": 67.73,
-      "text": " It's only making me feel smaller",
+      "seek": 4200,
+      "start": 160.62,
+      "end": 181.15,
+      "text": " Say no more But it just keeps getting harder",
       "tokens": [
-        50368,
-        467,
-        311,
-        787,
-        1455,
-        385,
-        841,
-        4356,
-        50588
+        50963,
+        6463,
+        572,
+        544,
+        583,
+        309,
+        445,
+        5965,
+        1242,
+        6081,
+        51163
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.3288870272429093,
-      "compression_ratio": 1.6942148760330578,
-      "no_speech_prob": 0.0951739251613617,
-      "confidence": 0.844,
+      "avg_logprob": -0.36775599585639107,
+      "compression_ratio": 1.884297520661157,
+      "no_speech_prob": 0.04370427504181862,
+      "confidence": 0.64,
       "words": [
         {
-          "text": "It's",
-          "start": 64.73,
-          "end": 64.95,
-          "confidence": 0.741
+          "text": "Say",
+          "start": 160.62,
+          "end": 161.33,
+          "confidence": 0.267
         },
         {
-          "text": "only",
-          "start": 64.95,
-          "end": 65.21,
-          "confidence": 0.995
+          "text": "no",
+          "start": 161.33,
+          "end": 161.69,
+          "confidence": 0.2
         },
         {
-          "text": "making",
-          "start": 65.21,
-          "end": 66.01,
-          "confidence": 0.843
+          "text": "more",
+          "start": 161.69,
+          "end": 162.0,
+          "confidence": 0.846
         },
         {
-          "text": "me",
-          "start": 66.01,
-          "end": 66.35,
-          "confidence": 0.991
+          "text": "But",
+          "start": 178.55,
+          "end": 178.95,
+          "confidence": 0.715
         },
         {
-          "text": "feel",
-          "start": 66.35,
-          "end": 66.79,
-          "confidence": 0.997
+          "text": "it",
+          "start": 178.95,
+          "end": 179.27,
+          "confidence": 0.949
         },
         {
-          "text": "smaller",
-          "start": 66.79,
-          "end": 67.73,
-          "confidence": 0.67
+          "text": "just",
+          "start": 179.27,
+          "end": 179.75,
+          "confidence": 0.979
+        },
+        {
+          "text": "keeps",
+          "start": 179.75,
+          "end": 180.15,
+          "confidence": 0.897
+        },
+        {
+          "text": "getting",
+          "start": 180.15,
+          "end": 180.59,
+          "confidence": 0.844
+        },
+        {
+          "text": "harder",
+          "start": 180.59,
+          "end": 181.15,
+          "confidence": 0.793
         }
       ]
     },
     {
       "id": 5,
-      "seek": 2760,
-      "start": 70.83,
-      "end": 81.48,
-      "text": " Oh, won't you lay me, you lay me down",
+      "seek": 4200,
+      "start": 183.21,
+      "end": 188.98,
+      "text": " Won't you lay me Won't you lay me down",
       "tokens": [
-        50588,
-        876,
-        11,
-        1582,
+        51163,
+        14710,
         380,
         291,
         2360,
         385,
-        11,
+        14710,
+        380,
         291,
         2360,
         385,
         760,
-        50880
+        51463
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.3288870272429093,
-      "compression_ratio": 1.6942148760330578,
-      "no_speech_prob": 0.0951739251613617,
-      "confidence": 0.824,
+      "avg_logprob": -0.36775599585639107,
+      "compression_ratio": 1.884297520661157,
+      "no_speech_prob": 0.04370427504181862,
+      "confidence": 0.988,
       "words": [
         {
-          "text": "Oh,",
-          "start": 70.83,
-          "end": 71.37,
-          "confidence": 0.867
-        },
-        {
-          "text": "won't",
-          "start": 75.46,
-          "end": 76.16,
-          "confidence": 0.737
+          "text": "Won't",
+          "start": 183.21,
+          "end": 183.55,
+          "confidence": 0.964
         },
         {
           "text": "you",
-          "start": 76.16,
-          "end": 76.36,
+          "start": 183.55,
+          "end": 183.79,
           "confidence": 0.997
         },
         {
           "text": "lay",
-          "start": 76.36,
-          "end": 76.94,
-          "confidence": 0.83
-        },
-        {
-          "text": "me,",
-          "start": 76.94,
-          "end": 77.32,
-          "confidence": 0.989
-        },
-        {
-          "text": "you",
-          "start": 79.25,
-          "end": 79.52,
-          "confidence": 0.401
-        },
-        {
-          "text": "lay",
-          "start": 79.52,
-          "end": 80.08,
-          "confidence": 0.948
+          "start": 183.79,
+          "end": 184.51,
+          "confidence": 0.988
         },
         {
           "text": "me",
-          "start": 80.08,
-          "end": 80.53,
-          "confidence": 0.991
+          "start": 184.51,
+          "end": 185.05,
+          "confidence": 0.998
+        },
+        {
+          "text": "Won't",
+          "start": 185.93,
+          "end": 186.68,
+          "confidence": 0.987
+        },
+        {
+          "text": "you",
+          "start": 186.68,
+          "end": 187.06,
+          "confidence": 0.999
+        },
+        {
+          "text": "lay",
+          "start": 187.06,
+          "end": 187.8,
+          "confidence": 0.988
+        },
+        {
+          "text": "me",
+          "start": 187.8,
+          "end": 188.3,
+          "confidence": 0.998
         },
         {
           "text": "down",
-          "start": 80.78,
-          "end": 81.48,
-          "confidence": 0.996
+          "start": 188.3,
+          "end": 188.98,
+          "confidence": 0.995
         }
       ]
     },
     {
       "id": 6,
-      "seek": 2760,
-      "start": 82.06,
-      "end": 87.84,
-      "text": " Won't you lay me, won't you lay me down",
+      "seek": 4200,
+      "start": 189.54,
+      "end": 195.72,
+      "text": " Won't you lay me Won't you lay me down",
       "tokens": [
-        50880,
+        51463,
         14710,
         380,
         291,
         2360,
         385,
-        11,
-        1582,
-        380,
-        291,
-        2360,
-        385,
-        760,
-        51180
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.3288870272429093,
-      "compression_ratio": 1.6942148760330578,
-      "no_speech_prob": 0.0951739251613617,
-      "confidence": 0.995,
-      "words": [
-        {
-          "text": "Won't",
-          "start": 82.06,
-          "end": 82.46,
-          "confidence": 0.989
-        },
-        {
-          "text": "you",
-          "start": 82.46,
-          "end": 82.7,
-          "confidence": 0.999
-        },
-        {
-          "text": "lay",
-          "start": 82.7,
-          "end": 83.28,
-          "confidence": 0.999
-        },
-        {
-          "text": "me,",
-          "start": 83.28,
-          "end": 83.78,
-          "confidence": 0.999
-        },
-        {
-          "text": "won't",
-          "start": 84.96,
-          "end": 85.62,
-          "confidence": 0.997
-        },
-        {
-          "text": "you",
-          "start": 85.62,
-          "end": 85.88,
-          "confidence": 0.999
-        },
-        {
-          "text": "lay",
-          "start": 85.88,
-          "end": 86.5,
-          "confidence": 0.984
-        },
-        {
-          "text": "me",
-          "start": 86.5,
-          "end": 87.08,
-          "confidence": 0.999
-        },
-        {
-          "text": "down",
-          "start": 87.08,
-          "end": 87.84,
-          "confidence": 0.998
-        }
-      ]
-    },
-    {
-      "id": 7,
-      "seek": 2760,
-      "start": 88.32,
-      "end": 102.03,
-      "text": " Won't you lay me down, lay me down",
-      "tokens": [
-        51180,
         14710,
         380,
         291,
         2360,
         385,
         760,
-        11,
-        2360,
-        385,
-        760,
-        51392
+        51813
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.3288870272429093,
-      "compression_ratio": 1.6942148760330578,
-      "no_speech_prob": 0.0951739251613617,
-      "confidence": 0.934,
-      "words": [
-        {
-          "text": "Won't",
-          "start": 88.32,
-          "end": 88.84,
-          "confidence": 0.987
-        },
-        {
-          "text": "you",
-          "start": 88.84,
-          "end": 89.04,
-          "confidence": 0.998
-        },
-        {
-          "text": "lay",
-          "start": 89.04,
-          "end": 89.54,
-          "confidence": 0.994
-        },
-        {
-          "text": "me",
-          "start": 89.54,
-          "end": 89.84,
-          "confidence": 0.998
-        },
-        {
-          "text": "down,",
-          "start": 93.45,
-          "end": 94.07,
-          "confidence": 0.984
-        },
-        {
-          "text": "lay",
-          "start": 94.29,
-          "end": 94.64,
-          "confidence": 0.929
-        },
-        {
-          "text": "me",
-          "start": 101.35,
-          "end": 101.69,
-          "confidence": 0.613
-        },
-        {
-          "text": "down",
-          "start": 101.69,
-          "end": 102.03,
-          "confidence": 0.999
-        }
-      ]
-    },
-    {
-      "id": 8,
-      "seek": 2760,
-      "start": 140.69,
-      "end": 142.87,
-      "text": " Thanks to Tom, my fool is right",
-      "tokens": [
-        51392,
-        2561,
-        281,
-        5041,
-        11,
-        452,
-        7979,
-        307,
-        558,
-        51524
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.3288870272429093,
-      "compression_ratio": 1.6942148760330578,
-      "no_speech_prob": 0.0951739251613617,
-      "confidence": 0.379,
-      "words": [
-        {
-          "text": "Thanks",
-          "start": 140.69,
-          "end": 140.94,
-          "confidence": 0.225
-        },
-        {
-          "text": "to",
-          "start": 140.94,
-          "end": 141.16,
-          "confidence": 0.715
-        },
-        {
-          "text": "Tom,",
-          "start": 141.16,
-          "end": 141.62,
-          "confidence": 0.255
-        },
-        {
-          "text": "my",
-          "start": 141.8,
-          "end": 141.96,
-          "confidence": 0.973
-        },
-        {
-          "text": "fool",
-          "start": 141.96,
-          "end": 142.38,
-          "confidence": 0.568
-        },
-        {
-          "text": "is",
-          "start": 142.38,
-          "end": 142.72,
-          "confidence": 0.456
-        },
-        {
-          "text": "right",
-          "start": 142.72,
-          "end": 142.87,
-          "confidence": 0.109
-        }
-      ]
-    },
-    {
-      "id": 9,
-      "seek": 2760,
-      "start": 143.64,
-      "end": 146.4,
-      "text": " Long before I see the light",
-      "tokens": [
-        51524,
-        8282,
-        949,
-        286,
-        536,
-        264,
-        1442,
-        51712
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.3288870272429093,
-      "compression_ratio": 1.6942148760330578,
-      "no_speech_prob": 0.0951739251613617,
-      "confidence": 0.872,
-      "words": [
-        {
-          "text": "Long",
-          "start": 143.64,
-          "end": 143.98,
-          "confidence": 0.503
-        },
-        {
-          "text": "before",
-          "start": 143.98,
-          "end": 144.46,
-          "confidence": 0.995
-        },
-        {
-          "text": "I",
-          "start": 144.46,
-          "end": 145.06,
-          "confidence": 0.978
-        },
-        {
-          "text": "see",
-          "start": 145.06,
-          "end": 145.48,
-          "confidence": 0.957
-        },
-        {
-          "text": "the",
-          "start": 145.48,
-          "end": 145.9,
-          "confidence": 0.955
-        },
-        {
-          "text": "light",
-          "start": 145.9,
-          "end": 146.4,
-          "confidence": 0.985
-        }
-      ]
-    },
-    {
-      "id": 10,
-      "seek": 5456,
-      "start": 161.03,
-      "end": 180.91,
-      "text": " Say hello, but I just can't get enough",
-      "tokens": [
-        50368,
-        6463,
-        7751,
-        11,
-        457,
-        286,
-        445,
-        393,
-        380,
-        483,
-        1547,
-        50552
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.17940788269042968,
-      "compression_ratio": 2.75,
-      "no_speech_prob": 0.05923401564359665,
-      "confidence": 0.614,
-      "words": [
-        {
-          "text": "Say",
-          "start": 161.03,
-          "end": 161.27,
-          "confidence": 0.295
-        },
-        {
-          "text": "hello,",
-          "start": 161.27,
-          "end": 161.57,
-          "confidence": 0.344
-        },
-        {
-          "text": "but",
-          "start": 161.83,
-          "end": 161.97,
-          "confidence": 0.456
-        },
-        {
-          "text": "I",
-          "start": 178.51,
-          "end": 178.95,
-          "confidence": 0.808
-        },
-        {
-          "text": "just",
-          "start": 178.95,
-          "end": 179.45,
-          "confidence": 0.978
-        },
-        {
-          "text": "can't",
-          "start": 179.45,
-          "end": 180.17,
-          "confidence": 0.951
-        },
-        {
-          "text": "get",
-          "start": 180.17,
-          "end": 180.39,
-          "confidence": 0.79
-        },
-        {
-          "text": "enough",
-          "start": 180.39,
-          "end": 180.91,
-          "confidence": 0.475
-        }
-      ]
-    },
-    {
-      "id": 11,
-      "seek": 5456,
-      "start": 183.19,
-      "end": 188.96,
-      "text": " Won't you lay me, won't you lay me down",
-      "tokens": [
-        50552,
-        14710,
-        380,
-        291,
-        2360,
-        385,
-        11,
-        1582,
-        380,
-        291,
-        2360,
-        385,
-        760,
-        50860
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.17940788269042968,
-      "compression_ratio": 2.75,
-      "no_speech_prob": 0.05923401564359665,
+      "avg_logprob": -0.36775599585639107,
+      "compression_ratio": 1.884297520661157,
+      "no_speech_prob": 0.04370427504181862,
       "confidence": 0.996,
       "words": [
         {
           "text": "Won't",
-          "start": 183.19,
-          "end": 183.57,
-          "confidence": 0.997
+          "start": 189.54,
+          "end": 190.02,
+          "confidence": 0.995
         },
         {
           "text": "you",
-          "start": 183.57,
-          "end": 183.81,
-          "confidence": 0.999
-        },
-        {
-          "text": "lay",
-          "start": 183.81,
-          "end": 184.29,
-          "confidence": 0.997
-        },
-        {
-          "text": "me,",
-          "start": 184.29,
-          "end": 184.87,
-          "confidence": 0.999
-        },
-        {
-          "text": "won't",
-          "start": 185.93,
-          "end": 186.82,
-          "confidence": 0.997
-        },
-        {
-          "text": "you",
-          "start": 186.82,
-          "end": 187.04,
-          "confidence": 0.999
-        },
-        {
-          "text": "lay",
-          "start": 187.04,
-          "end": 187.58,
-          "confidence": 0.985
-        },
-        {
-          "text": "me",
-          "start": 187.58,
-          "end": 188.24,
-          "confidence": 0.994
-        },
-        {
-          "text": "down",
-          "start": 188.24,
-          "end": 188.96,
-          "confidence": 0.992
-        }
-      ]
-    },
-    {
-      "id": 12,
-      "seek": 5456,
-      "start": 189.58,
-      "end": 195.5,
-      "text": " Won't you lay me, won't you lay me down",
-      "tokens": [
-        50860,
-        14710,
-        380,
-        291,
-        2360,
-        385,
-        11,
-        1582,
-        380,
-        291,
-        2360,
-        385,
-        760,
-        51180
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.17940788269042968,
-      "compression_ratio": 2.75,
-      "no_speech_prob": 0.05923401564359665,
-      "confidence": 0.999,
-      "words": [
-        {
-          "text": "Won't",
-          "start": 189.58,
-          "end": 190.06,
-          "confidence": 0.998
-        },
-        {
-          "text": "you",
-          "start": 190.06,
+          "start": 190.02,
           "end": 190.3,
           "confidence": 0.999
         },
         {
           "text": "lay",
           "start": 190.3,
-          "end": 190.86,
-          "confidence": 0.999
-        },
-        {
-          "text": "me,",
-          "start": 190.86,
-          "end": 191.38,
-          "confidence": 0.999
-        },
-        {
-          "text": "won't",
-          "start": 192.56,
-          "end": 193.3,
-          "confidence": 0.999
-        },
-        {
-          "text": "you",
-          "start": 193.3,
-          "end": 193.54,
-          "confidence": 0.999
-        },
-        {
-          "text": "lay",
-          "start": 193.54,
-          "end": 194.04,
-          "confidence": 0.999
+          "end": 191.08,
+          "confidence": 0.987
         },
         {
           "text": "me",
-          "start": 194.04,
-          "end": 194.78,
-          "confidence": 0.996
-        },
-        {
-          "text": "down",
-          "start": 194.78,
-          "end": 195.5,
-          "confidence": 0.999
-        }
-      ]
-    },
-    {
-      "id": 13,
-      "seek": 5456,
-      "start": 196.08,
-      "end": 201.98,
-      "text": " Won't you lay me, won't you lay me down",
-      "tokens": [
-        51180,
-        14710,
-        380,
-        291,
-        2360,
-        385,
-        11,
-        1582,
-        380,
-        291,
-        2360,
-        385,
-        760,
-        51496
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.17940788269042968,
-      "compression_ratio": 2.75,
-      "no_speech_prob": 0.05923401564359665,
-      "confidence": 0.998,
-      "words": [
-        {
-          "text": "Won't",
-          "start": 196.08,
-          "end": 196.54,
-          "confidence": 0.998
-        },
-        {
-          "text": "you",
-          "start": 196.54,
-          "end": 196.8,
-          "confidence": 0.999
-        },
-        {
-          "text": "lay",
-          "start": 196.8,
-          "end": 197.32,
-          "confidence": 0.996
-        },
-        {
-          "text": "me,",
-          "start": 197.32,
-          "end": 197.9,
-          "confidence": 0.999
-        },
-        {
-          "text": "won't",
-          "start": 199.0,
-          "end": 199.78,
-          "confidence": 0.999
-        },
-        {
-          "text": "you",
-          "start": 199.78,
-          "end": 200.02,
+          "start": 191.08,
+          "end": 192.24,
           "confidence": 1.0
         },
         {
-          "text": "lay",
-          "start": 200.02,
-          "end": 200.64,
-          "confidence": 0.998
-        },
-        {
-          "text": "me",
-          "start": 200.64,
-          "end": 201.22,
+          "text": "Won't",
+          "start": 192.52,
+          "end": 193.24,
           "confidence": 0.999
         },
         {
+          "text": "you",
+          "start": 193.24,
+          "end": 193.72,
+          "confidence": 0.999
+        },
+        {
+          "text": "lay",
+          "start": 193.72,
+          "end": 194.36,
+          "confidence": 0.989
+        },
+        {
+          "text": "me",
+          "start": 194.36,
+          "end": 195.22,
+          "confidence": 1.0
+        },
+        {
           "text": "down",
-          "start": 201.22,
-          "end": 201.98,
-          "confidence": 0.996
+          "start": 195.22,
+          "end": 195.72,
+          "confidence": 0.997
         }
       ]
     },
     {
-      "id": 14,
-      "seek": 5456,
-      "start": 202.64,
-      "end": 227.38,
-      "text": " Won't you lay me, won't you lay me down",
+      "id": 7,
+      "seek": 7098,
+      "start": 197.2,
+      "end": 201.94,
+      "text": " Won't you lay me Won't you lay me down",
       "tokens": [
-        51496,
+        50413,
         14710,
         380,
         291,
         2360,
         385,
-        11,
-        1582,
-        380,
-        291,
-        2360,
-        385,
-        760,
-        51796
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.17940788269042968,
-      "compression_ratio": 2.75,
-      "no_speech_prob": 0.05923401564359665,
-      "confidence": 0.997,
-      "words": [
-        {
-          "text": "Won't",
-          "start": 202.64,
-          "end": 202.98,
-          "confidence": 0.996
-        },
-        {
-          "text": "you",
-          "start": 202.98,
-          "end": 203.22,
-          "confidence": 0.999
-        },
-        {
-          "text": "lay",
-          "start": 203.22,
-          "end": 203.74,
-          "confidence": 0.999
-        },
-        {
-          "text": "me,",
-          "start": 203.74,
-          "end": 204.32,
-          "confidence": 0.999
-        },
-        {
-          "text": "won't",
-          "start": 205.6,
-          "end": 206.22,
-          "confidence": 0.998
-        },
-        {
-          "text": "you",
-          "start": 206.22,
-          "end": 206.44,
-          "confidence": 0.999
-        },
-        {
-          "text": "lay",
-          "start": 206.44,
-          "end": 207.22,
-          "confidence": 0.999
-        },
-        {
-          "text": "me",
-          "start": 207.22,
-          "end": 207.41,
-          "confidence": 0.987
-        },
-        {
-          "text": "down",
-          "start": 226.72,
-          "end": 227.38,
-          "confidence": 0.996
-        }
-      ]
-    },
-    {
-      "id": 15,
-      "seek": 8320,
-      "start": 227.92,
-      "end": 228.1,
-      "text": " Won't you lay me down",
-      "tokens": [
-        50364,
         14710,
         380,
         291,
         2360,
         385,
         760,
-        50564
+        50713
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.6918582386440701,
-      "compression_ratio": 0.7241379310344828,
-      "no_speech_prob": 0.9510802030563354,
-      "confidence": 0.761,
+      "avg_logprob": -0.19371519769941056,
+      "compression_ratio": 1.1875,
+      "no_speech_prob": 0.01717078685760498,
+      "confidence": 0.978,
       "words": [
         {
           "text": "Won't",
-          "start": 227.92,
-          "end": 228.02,
-          "confidence": 0.627
+          "start": 197.2,
+          "end": 197.22,
+          "confidence": 0.946
         },
         {
           "text": "you",
-          "start": 228.02,
-          "end": 228.04,
-          "confidence": 0.98
+          "start": 197.22,
+          "end": 197.24,
+          "confidence": 0.993
         },
         {
           "text": "lay",
-          "start": 228.04,
-          "end": 228.05,
-          "confidence": 0.959
+          "start": 197.24,
+          "end": 197.26,
+          "confidence": 0.973
         },
         {
           "text": "me",
-          "start": 228.06,
-          "end": 228.08,
-          "confidence": 0.987
+          "start": 197.26,
+          "end": 197.92,
+          "confidence": 0.996
+        },
+        {
+          "text": "Won't",
+          "start": 198.67,
+          "end": 199.74,
+          "confidence": 0.971
+        },
+        {
+          "text": "you",
+          "start": 199.74,
+          "end": 200.08,
+          "confidence": 0.994
+        },
+        {
+          "text": "lay",
+          "start": 200.08,
+          "end": 200.78,
+          "confidence": 0.984
+        },
+        {
+          "text": "me",
+          "start": 200.78,
+          "end": 201.26,
+          "confidence": 0.997
         },
         {
           "text": "down",
-          "start": 228.08,
-          "end": 228.1,
-          "confidence": 0.533
+          "start": 201.26,
+          "end": 201.94,
+          "confidence": 0.984
         }
       ]
     }
   ],
-  "language": "en",
+  "language": "no",
   "language_probs": {
-    "en": 0.8615443110466003,
-    "zh": 0.0054108924232423306,
-    "de": 0.0071682678535580635,
-    "es": 0.0024967165663838387,
-    "ru": 0.005942702293395996,
-    "ko": 0.00571504095569253,
-    "fr": 0.0060362862423062325,
-    "ja": 0.0010166765423491597,
-    "pt": 0.006526782177388668,
-    "tr": 0.0027207673992961645,
-    "pl": 0.001869954401627183,
-    "ca": 0.00044763661571778357,
-    "nl": 0.009276428259909153,
-    "ar": 0.0020860848017036915,
-    "sv": 0.004850292112678289,
-    "it": 0.0014908575685694814,
-    "id": 5.1817700295941904e-05,
-    "hi": 0.0001096980704460293,
-    "fi": 0.0002472084015607834,
-    "vi": 0.0005399527726694942,
-    "he": 9.382973803440109e-05,
-    "uk": 0.00031006880453787744,
-    "el": 0.00213555502705276,
-    "ms": 0.00024148185912054032,
-    "cs": 0.000225085808779113,
-    "ro": 0.00023223081370815635,
-    "da": 0.004214007407426834,
-    "hu": 0.00015469906793441623,
-    "ta": 8.745893137529492e-05,
-    "no": 0.004084355663508177,
-    "th": 3.242668753955513e-05,
-    "ur": 9.456564293941483e-05,
-    "hr": 0.00012825003068428487,
-    "bg": 0.00012430419155862182,
-    "lt": 3.561374978744425e-05,
-    "la": 0.017603565007448196,
-    "mi": 0.0019142990931868553,
-    "ml": 0.00011768885451601818,
-    "cy": 0.01948537304997444,
-    "sk": 3.561374978744425e-05,
-    "te": 4.6449084038613364e-05,
-    "fa": 4.608761810231954e-05,
-    "lv": 0.0001712362573016435,
-    "bn": 1.5079810509632807e-05,
-    "sr": 9.004565072245896e-06,
-    "az": 7.012762580416165e-06,
-    "sl": 0.00011861189705086872,
-    "kn": 1.1997423143839114e-06,
-    "et": 1.056860764947487e-05,
-    "mk": 5.090719696454471e-06,
-    "br": 0.0013468776596710086,
-    "eu": 3.2174339139601216e-05,
-    "is": 0.001884620520286262,
-    "hy": 6.2129638536134735e-06,
-    "ne": 9.182164831145201e-06,
-    "mn": 3.022499913640786e-05,
-    "bs": 7.598562660859898e-05,
-    "kk": 1.5079810509632807e-05,
-    "sq": 0.00010386004578322172,
-    "sw": 3.478875805740245e-05,
-    "gl": 0.0003432148660067469,
-    "mr": 9.380171945849725e-07,
-    "pa": 2.6204779715044424e-06,
-    "si": 7.963225652929395e-05,
-    "km": 0.0015624052612110972,
-    "sn": 0.0005152265657670796,
-    "yo": 0.00014307326637208462,
-    "so": 6.574045414708962e-07,
-    "af": 0.00011318026372464374,
-    "oc": 0.00011677299335133284,
-    "ka": 2.2589933905692305e-06,
-    "be": 3.1923958886181936e-05,
-    "tg": 7.72985018215877e-08,
-    "sd": 1.6757157936808653e-05,
-    "gu": 9.415479951258021e-08,
-    "am": 3.160428150295047e-07,
-    "yi": 0.0008233297849074006,
-    "lo": 2.452113903927966e-06,
-    "uz": 1.5278267539997614e-09,
-    "fo": 0.0003568870306480676,
-    "ht": 8.953295036917552e-05,
-    "ps": 3.666707925731316e-06,
-    "tk": 9.599749439814786e-09,
-    "nn": 0.00700221536681056,
-    "mt": 5.35590925210272e-06,
-    "sa": 8.345388778252527e-05,
-    "lb": 1.2376413849324308e-07,
-    "my": 4.9060014134738594e-05,
-    "bo": 2.4862403734005056e-05,
-    "tl": 0.00013335893163457513,
-    "mg": 5.104615841133864e-09,
-    "as": 5.892936769669177e-07,
-    "tt": 1.1115835008013164e-07,
-    "haw": 0.004926673136651516,
-    "ln": 1.2044379218423273e-06,
-    "ha": 9.931112820993349e-09,
-    "ba": 1.3185527336645464e-08,
-    "jw": 0.002699594246223569,
-    "su": 6.781715455872472e-08
+    "en": 5.560937279369682e-05,
+    "zh": 9.643164275985328e-07,
+    "de": 3.3789683584473096e-06,
+    "es": 5.5060731938283425e-06,
+    "ru": 1.3521610526368022e-05,
+    "ko": 3.904390723619144e-06,
+    "fr": 1.0027305279436405e-06,
+    "ja": 3.052643705814262e-06,
+    "pt": 4.935612651024712e-06,
+    "tr": 4.2458282223378774e-07,
+    "pl": 4.821279162570136e-06,
+    "ca": 2.993600219269865e-06,
+    "nl": 1.0045409482017931e-07,
+    "ar": 3.935013410227839e-06,
+    "sv": 8.103305049189657e-08,
+    "it": 4.091766641067807e-06,
+    "id": 1.2599765852883138e-07,
+    "hi": 3.35872670120807e-07,
+    "fi": 1.0590945294097764e-06,
+    "vi": 6.474114684351662e-07,
+    "he": 5.581035225077358e-07,
+    "uk": 3.610970907175215e-06,
+    "el": 3.0886271815688815e-06,
+    "ms": 4.467004828256904e-07,
+    "cs": 3.988586456671328e-07,
+    "ro": 3.821972495643422e-05,
+    "da": 1.6822895076984423e-07,
+    "hu": 5.284018129714241e-07,
+    "ta": 1.4646744830315583e-06,
+    "no": 0.9997162222862244,
+    "th": 4.397093888997006e-08,
+    "ur": 2.555184153152368e-07,
+    "hr": 2.987313223457022e-07,
+    "bg": 8.088700838015939e-07,
+    "lt": 1.7362093785777688e-05,
+    "la": 1.5685343896620907e-05,
+    "mi": 1.8515220290282741e-06,
+    "ml": 2.2113276543223037e-07,
+    "cy": 5.336669346434064e-06,
+    "sk": 1.0777151260299433e-07,
+    "te": 2.757833954092348e-06,
+    "fa": 4.848887442676642e-07,
+    "lv": 3.1007157303974964e-06,
+    "bn": 5.20209709975461e-07,
+    "sr": 1.4140766779746627e-06,
+    "az": 9.310036830356694e-07,
+    "sl": 6.011011919326847e-07,
+    "kn": 4.644949740395532e-07,
+    "et": 8.745970490053878e-07,
+    "mk": 1.0124196592187218e-07,
+    "br": 5.325461529537279e-07,
+    "eu": 1.2501712376433716e-07,
+    "is": 1.2702378626272548e-05,
+    "hy": 7.539497346442658e-07,
+    "ne": 3.268130228661903e-07,
+    "mn": 1.2825119029002963e-06,
+    "bs": 2.730625112690177e-07,
+    "kk": 1.0345605687689385e-06,
+    "sq": 6.094667696743272e-06,
+    "sw": 2.2373941988007573e-07,
+    "gl": 1.287531404159381e-06,
+    "mr": 7.465114038041065e-08,
+    "pa": 1.470407028136833e-06,
+    "si": 7.825708962627687e-06,
+    "km": 9.07798130356241e-06,
+    "sn": 1.8660435898709693e-06,
+    "yo": 5.668924245583185e-07,
+    "so": 2.1685568185603188e-07,
+    "af": 1.4819396483289893e-06,
+    "oc": 2.8505138516266015e-07,
+    "ka": 2.7036852756623375e-08,
+    "be": 2.741312528087292e-07,
+    "tg": 2.3535946525043983e-08,
+    "sd": 5.516014880413422e-07,
+    "gu": 8.492190772813046e-08,
+    "am": 7.110423894118867e-07,
+    "yi": 3.249522251280723e-06,
+    "lo": 8.393253381200338e-08,
+    "uz": 2.3490024148031807e-08,
+    "fo": 4.1887997213052586e-06,
+    "ht": 4.5908345214229485e-07,
+    "ps": 1.6115345147227345e-07,
+    "tk": 8.754869051941228e-10,
+    "nn": 5.002808052267937e-07,
+    "mt": 1.5349656905527809e-06,
+    "sa": 1.9941678601753665e-06,
+    "lb": 3.66013267694143e-07,
+    "my": 1.4196111806086265e-06,
+    "bo": 7.307532428058039e-07,
+    "tl": 4.051397581861238e-07,
+    "mg": 3.3511720065604322e-09,
+    "as": 4.3635265001285006e-07,
+    "tt": 2.9181120453358744e-07,
+    "haw": 4.321766937209759e-06,
+    "ln": 1.4872956199951659e-08,
+    "ha": 1.507994511484867e-07,
+    "ba": 2.851055169728056e-09,
+    "jw": 2.1062608084321255e-06,
+    "su": 4.483818827338837e-08
   },
   "speech_activity": [
     {

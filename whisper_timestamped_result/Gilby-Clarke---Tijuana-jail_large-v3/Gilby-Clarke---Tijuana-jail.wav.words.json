@@ -1,734 +1,5121 @@
 {
-  "text": " Pregunta una adamita que si cuando fue la fecha una adamita del auditorio cuando ocurrió el último eclipse solana yo le dije que el 9 de perre me creo que tienes que irme a ver yo soy conocido como el sexo y quiero irme a casa este es mi casa no es el sexo 635 40 30 2 no le dan trabajo porque está muy joven o muy viejo",
+  "text": " Preguntaba a una damita que si cuándo fue la fecha, una damita del auditorio, cuando ocurrió el último eclipse solar. Yo le dije que el 9 de febrero. Bienvenido a la salvación, mi chiquillo es mi compañero por la noche de oblivion. Ves a todo el mundo alrededor de mí, me hace tan solito sin amigos. Oh, nunca lo he tenido. Estaba pensando, señor, no estás en Texas más. Le envío mi amor a mi casa, le envío mi mano a mi casa. Oh, mirando al cielo de mi casa, es mi casa, al menos por ahora. Me siento como siempre. Dormiendo en el piso con las ropas, colgando mi asco. Voy a matar eso. Oh, sí. Disculpe, señor oficial, y me voy a dar la venta. En este lado de la puerta, es un embeso que te mató. Me espanto y digo, señor, creo que beberé a tu frente. Le envío mi amor a mi casa, pero envío mi mano. ¿Qué quieres decir? Voy a ganar mi muerte, suicidio, la solución. Y yo soy un hombre de la vida. Y no estoy en la casa. Ves, el sol se va bajando y mis problemas serán solucionados por la noche, pero no por la justicia. ¿Quién sabía que había un vacío en su respiro? Y yo sabía que era mi último chance. Debería darme a un hombre que muere, su último alimento. Me llevó a la clase con solo un hueso y luego gritó. Le agarré los platos de la comida. Y me dejé. Y me dejé. Y me dejé. Y me dejé. Y me dejé. Y me dejé. Y me dejé. Y me dejé. Y me dejé. Y me dejé. Y me dejé. Y me dejé. Y me dejé. Y me dejé. Y me dejé. Y me dejé. Y me dejé. Y me dejé. Y me dejé. Y me dejé. Y me dejé. Y me dejé. Y me dejé. Y me dejé. Y me dejé. Y me dejé. Y me dejé. Y me dejé. Y me dejé. Y me dejé. Y me dejé. Y me dejé. Y me dejé. Y me dejé. Y me dejé. Y me dejé. Y me dejé. Y me dejé. Y me dejé. Y me dejé. Y me dejé. Y me dejé. Y me dejé. Y me dejé. Y me dejé. Y me dejé. Y me dejé. Y me dejé. Y me dejé. Y me dejé. Y me dejé. Y me dejé. Y me dejé. Y me dejé. Y me dejé. Y me dejé. Y me dejé. Y me dejé. Y me dejé. Y me dejé. Y me dejé. Y me dejé. Y me dejé. Y me dejé. Y me dejé.",
   "segments": [
     {
       "id": 0,
       "seek": 0,
-      "start": 1.51,
-      "end": 10.69,
-      "text": " Pregunta una adamita que si cuando fue la fecha una adamita del auditorio cuando ocurrió el último eclipse solana",
+      "start": 1.23,
+      "end": 10.37,
+      "text": " Preguntaba a una damita que si cuándo fue la fecha, una damita del auditorio, cuando ocurrió el último eclipse solar.",
       "tokens": [
-        50364,
+        50365,
         430,
         3375,
-        46380,
+        2760,
+        5509,
+        257,
         2002,
-        16368,
+        2422,
         2786,
         631,
         1511,
-        7767,
+        2702,
+        18606,
+        78,
         9248,
         635,
         579,
         4413,
+        11,
         2002,
-        16368,
+        2422,
         2786,
         1103,
         33970,
         1004,
+        11,
         7767,
         26430,
         44802,
         806,
         21013,
         35722,
-        1404,
-        2095,
-        50840
+        7936,
+        13,
+        50828
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.5655072840248666,
-      "compression_ratio": 1.2972972972972974,
-      "no_speech_prob": 0.5078331232070923,
-      "confidence": 0.711,
+      "avg_logprob": -0.3464943735223067,
+      "compression_ratio": 1.425233644859813,
+      "no_speech_prob": 0.5927305221557617,
+      "confidence": 0.911,
       "words": [
         {
-          "text": "Pregunta",
-          "start": 1.51,
-          "end": 1.89,
-          "confidence": 0.582
+          "text": "Preguntaba",
+          "start": 1.23,
+          "end": 1.93,
+          "confidence": 0.815
+        },
+        {
+          "text": "a",
+          "start": 1.93,
+          "end": 1.97,
+          "confidence": 0.514
         },
         {
           "text": "una",
-          "start": 1.89,
+          "start": 1.97,
           "end": 2.07,
-          "confidence": 0.82
+          "confidence": 0.998
         },
         {
-          "text": "adamita",
+          "text": "damita",
           "start": 2.07,
-          "end": 2.45,
-          "confidence": 0.605
+          "end": 2.39,
+          "confidence": 0.963
         },
         {
           "text": "que",
-          "start": 2.45,
-          "end": 2.79,
-          "confidence": 0.659
+          "start": 2.39,
+          "end": 2.69,
+          "confidence": 0.819
         },
         {
           "text": "si",
-          "start": 2.79,
-          "end": 2.97,
-          "confidence": 0.833
+          "start": 2.69,
+          "end": 2.85,
+          "confidence": 0.983
         },
         {
-          "text": "cuando",
-          "start": 2.97,
-          "end": 3.35,
-          "confidence": 0.576
+          "text": "cuándo",
+          "start": 2.85,
+          "end": 3.41,
+          "confidence": 0.811
         },
         {
           "text": "fue",
-          "start": 3.35,
-          "end": 3.73,
-          "confidence": 0.935
+          "start": 3.41,
+          "end": 3.69,
+          "confidence": 0.999
         },
         {
           "text": "la",
-          "start": 3.73,
-          "end": 4.49,
-          "confidence": 0.878
+          "start": 3.69,
+          "end": 4.39,
+          "confidence": 0.985
         },
         {
-          "text": "fecha",
-          "start": 4.49,
-          "end": 4.91,
-          "confidence": 0.996
+          "text": "fecha,",
+          "start": 4.39,
+          "end": 4.87,
+          "confidence": 1.0
         },
         {
           "text": "una",
-          "start": 4.91,
-          "end": 5.11,
-          "confidence": 0.756
+          "start": 4.93,
+          "end": 5.03,
+          "confidence": 0.935
         },
         {
-          "text": "adamita",
-          "start": 5.11,
-          "end": 5.45,
-          "confidence": 0.869
+          "text": "damita",
+          "start": 5.03,
+          "end": 5.39,
+          "confidence": 0.999
         },
         {
           "text": "del",
-          "start": 5.45,
-          "end": 5.59,
-          "confidence": 0.891
+          "start": 5.39,
+          "end": 5.49,
+          "confidence": 0.998
         },
         {
-          "text": "auditorio",
-          "start": 5.59,
-          "end": 6.31,
-          "confidence": 0.92
+          "text": "auditorio,",
+          "start": 5.49,
+          "end": 6.09,
+          "confidence": 0.997
         },
         {
           "text": "cuando",
-          "start": 6.31,
-          "end": 6.65,
-          "confidence": 0.59
+          "start": 6.09,
+          "end": 6.59,
+          "confidence": 0.82
         },
         {
           "text": "ocurrió",
-          "start": 6.65,
+          "start": 6.59,
           "end": 7.21,
-          "confidence": 0.926
+          "confidence": 0.983
         },
         {
           "text": "el",
           "start": 7.21,
-          "end": 7.75,
-          "confidence": 0.883
+          "end": 7.63,
+          "confidence": 0.997
         },
         {
           "text": "último",
-          "start": 7.75,
-          "end": 8.23,
-          "confidence": 0.877
+          "start": 7.63,
+          "end": 8.17,
+          "confidence": 0.998
         },
         {
           "text": "eclipse",
-          "start": 8.23,
-          "end": 9.53,
-          "confidence": 0.378
+          "start": 8.17,
+          "end": 9.55,
+          "confidence": 0.98
         },
         {
-          "text": "solana",
-          "start": 9.53,
-          "end": 10.69,
-          "confidence": 0.321
+          "text": "solar.",
+          "start": 9.55,
+          "end": 10.37,
+          "confidence": 0.979
         }
       ]
     },
     {
       "id": 1,
       "seek": 0,
-      "start": 11.05,
-      "end": 12.63,
-      "text": " yo le dije que el 9 de perre",
+      "start": 10.41,
+      "end": 12.57,
+      "text": " Yo le dije que el 9 de febrero.",
       "tokens": [
-        50840,
-        5290,
+        50849,
+        7616,
         476,
         39414,
         631,
         806,
         1722,
         368,
-        680,
-        265,
-        50940
+        579,
+        1443,
+        2032,
+        13,
+        50936
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.5655072840248666,
-      "compression_ratio": 1.2972972972972974,
-      "no_speech_prob": 0.5078331232070923,
-      "confidence": 0.54,
+      "avg_logprob": -0.3464943735223067,
+      "compression_ratio": 1.425233644859813,
+      "no_speech_prob": 0.5927305221557617,
+      "confidence": 0.925,
       "words": [
         {
-          "text": "yo",
-          "start": 11.05,
-          "end": 11.27,
-          "confidence": 0.448
+          "text": "Yo",
+          "start": 10.41,
+          "end": 11.15,
+          "confidence": 0.671
         },
         {
           "text": "le",
-          "start": 11.27,
-          "end": 11.39,
-          "confidence": 0.731
+          "start": 11.15,
+          "end": 11.31,
+          "confidence": 1.0
         },
         {
           "text": "dije",
-          "start": 11.39,
-          "end": 11.53,
-          "confidence": 0.996
+          "start": 11.31,
+          "end": 11.49,
+          "confidence": 1.0
         },
         {
           "text": "que",
-          "start": 11.53,
-          "end": 11.71,
-          "confidence": 0.348
+          "start": 11.49,
+          "end": 11.59,
+          "confidence": 0.986
         },
         {
           "text": "el",
-          "start": 11.71,
-          "end": 11.83,
-          "confidence": 0.759
+          "start": 11.59,
+          "end": 11.81,
+          "confidence": 0.997
         },
         {
           "text": "9",
-          "start": 11.83,
+          "start": 11.81,
           "end": 12.05,
-          "confidence": 0.722
+          "confidence": 0.969
         },
         {
           "text": "de",
           "start": 12.05,
-          "end": 12.29,
-          "confidence": 0.624
+          "end": 12.27,
+          "confidence": 0.996
         },
         {
-          "text": "perre",
-          "start": 12.29,
-          "end": 12.63,
-          "confidence": 0.316
+          "text": "febrero.",
+          "start": 12.27,
+          "end": 12.57,
+          "confidence": 0.896
         }
       ]
     },
     {
       "id": 2,
-      "seek": 15000,
-      "start": 237.64,
-      "end": 239.3,
-      "text": " me creo que tienes que irme a ver",
+      "seek": 0,
+      "start": 33.93,
+      "end": 40.93,
+      "text": " Bienvenido a la salvación, mi chiquillo es mi compañero por la noche de oblivion.",
       "tokens": [
-        50364,
-        385,
-        14336,
-        631,
-        20716,
-        631,
-        3418,
-        1398,
+        50944,
+        16956,
+        553,
+        2925,
         257,
-        1306,
-        50464
+        635,
+        26858,
+        3482,
+        11,
+        2752,
+        417,
+        3221,
+        15831,
+        785,
+        2752,
+        29953,
+        2032,
+        1515,
+        635,
+        29735,
+        368,
+        47039,
+        313,
+        13,
+        51323
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.3924424913194444,
-      "compression_ratio": 7.4526315789473685,
-      "no_speech_prob": 0.4586804211139679,
-      "confidence": 0.122,
+      "avg_logprob": -0.3464943735223067,
+      "compression_ratio": 1.425233644859813,
+      "no_speech_prob": 0.5927305221557617,
+      "confidence": 0.744,
       "words": [
         {
-          "text": "me",
-          "start": 237.64,
-          "end": 237.8,
-          "confidence": 0.058
-        },
-        {
-          "text": "creo",
-          "start": 237.8,
-          "end": 238.08,
-          "confidence": 0.038
-        },
-        {
-          "text": "que",
-          "start": 238.08,
-          "end": 238.26,
-          "confidence": 0.812
-        },
-        {
-          "text": "tienes",
-          "start": 238.26,
-          "end": 238.42,
-          "confidence": 0.116
-        },
-        {
-          "text": "que",
-          "start": 238.42,
-          "end": 238.54,
-          "confidence": 0.207
-        },
-        {
-          "text": "irme",
-          "start": 238.54,
-          "end": 239.16,
-          "confidence": 0.121
+          "text": "Bienvenido",
+          "start": 33.93,
+          "end": 34.63,
+          "confidence": 0.741
         },
         {
           "text": "a",
-          "start": 239.16,
-          "end": 239.28,
-          "confidence": 0.143
+          "start": 34.63,
+          "end": 34.75,
+          "confidence": 0.957
         },
         {
-          "text": "ver",
-          "start": 239.28,
-          "end": 239.3,
-          "confidence": 0.068
+          "text": "la",
+          "start": 34.75,
+          "end": 34.93,
+          "confidence": 0.993
+        },
+        {
+          "text": "salvación,",
+          "start": 34.93,
+          "end": 35.45,
+          "confidence": 0.985
+        },
+        {
+          "text": "mi",
+          "start": 35.63,
+          "end": 35.93,
+          "confidence": 0.658
+        },
+        {
+          "text": "chiquillo",
+          "start": 35.93,
+          "end": 36.65,
+          "confidence": 0.602
+        },
+        {
+          "text": "es",
+          "start": 36.65,
+          "end": 36.89,
+          "confidence": 0.542
+        },
+        {
+          "text": "mi",
+          "start": 36.89,
+          "end": 37.11,
+          "confidence": 0.999
+        },
+        {
+          "text": "compañero",
+          "start": 37.11,
+          "end": 37.97,
+          "confidence": 0.981
+        },
+        {
+          "text": "por",
+          "start": 37.97,
+          "end": 38.23,
+          "confidence": 0.498
+        },
+        {
+          "text": "la",
+          "start": 38.23,
+          "end": 38.43,
+          "confidence": 0.482
+        },
+        {
+          "text": "noche",
+          "start": 38.43,
+          "end": 38.81,
+          "confidence": 0.853
+        },
+        {
+          "text": "de",
+          "start": 38.81,
+          "end": 39.57,
+          "confidence": 0.929
+        },
+        {
+          "text": "oblivion.",
+          "start": 39.57,
+          "end": 40.93,
+          "confidence": 0.61
         }
       ]
     },
     {
       "id": 3,
-      "seek": 15000,
-      "start": 239.3,
-      "end": 243.88,
-      "text": " yo soy conocido como el sexo y quiero irme a casa",
+      "seek": 0,
+      "start": 42.77,
+      "end": 48.03,
+      "text": " Ves a todo el mundo alrededor de mí, me hace tan solito sin amigos.",
       "tokens": [
-        50464,
-        5290,
-        8812,
-        15871,
-        2925,
-        2617,
-        806,
-        3260,
-        78,
-        288,
-        16811,
-        3418,
-        1398,
+        51383,
+        691,
+        279,
         257,
-        9022,
-        50700
+        5149,
+        806,
+        7968,
+        43663,
+        368,
+        14692,
+        11,
+        385,
+        10032,
+        7603,
+        1404,
+        3528,
+        3343,
+        18243,
+        13,
+        51665
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.3924424913194444,
-      "compression_ratio": 7.4526315789473685,
-      "no_speech_prob": 0.4586804211139679,
-      "confidence": 0.288,
+      "avg_logprob": -0.3464943735223067,
+      "compression_ratio": 1.425233644859813,
+      "no_speech_prob": 0.5927305221557617,
+      "confidence": 0.63,
       "words": [
         {
-          "text": "yo",
-          "start": 239.3,
-          "end": 239.96,
-          "confidence": 0.19
-        },
-        {
-          "text": "soy",
-          "start": 239.96,
-          "end": 240.04,
-          "confidence": 0.245
-        },
-        {
-          "text": "conocido",
-          "start": 240.04,
-          "end": 240.62,
-          "confidence": 0.52
-        },
-        {
-          "text": "como",
-          "start": 240.62,
-          "end": 240.88,
-          "confidence": 0.235
-        },
-        {
-          "text": "el",
-          "start": 240.88,
-          "end": 240.9,
-          "confidence": 0.22
-        },
-        {
-          "text": "sexo",
-          "start": 240.9,
-          "end": 241.92,
-          "confidence": 0.157
-        },
-        {
-          "text": "y",
-          "start": 241.92,
-          "end": 242.2,
-          "confidence": 0.156
-        },
-        {
-          "text": "quiero",
-          "start": 242.2,
-          "end": 242.62,
-          "confidence": 0.338
-        },
-        {
-          "text": "irme",
-          "start": 242.62,
-          "end": 243.62,
-          "confidence": 0.294
+          "text": "Ves",
+          "start": 42.77,
+          "end": 43.13,
+          "confidence": 0.649
         },
         {
           "text": "a",
-          "start": 243.62,
-          "end": 243.64,
-          "confidence": 0.545
+          "start": 43.13,
+          "end": 43.25,
+          "confidence": 0.988
         },
         {
-          "text": "casa",
-          "start": 243.64,
-          "end": 243.88,
-          "confidence": 0.688
+          "text": "todo",
+          "start": 43.25,
+          "end": 43.69,
+          "confidence": 0.743
+        },
+        {
+          "text": "el",
+          "start": 43.69,
+          "end": 43.87,
+          "confidence": 0.949
+        },
+        {
+          "text": "mundo",
+          "start": 43.87,
+          "end": 44.17,
+          "confidence": 0.991
+        },
+        {
+          "text": "alrededor",
+          "start": 44.17,
+          "end": 44.45,
+          "confidence": 0.958
+        },
+        {
+          "text": "de",
+          "start": 44.45,
+          "end": 44.69,
+          "confidence": 0.95
+        },
+        {
+          "text": "mí,",
+          "start": 44.69,
+          "end": 44.89,
+          "confidence": 0.828
+        },
+        {
+          "text": "me",
+          "start": 44.93,
+          "end": 45.27,
+          "confidence": 0.743
+        },
+        {
+          "text": "hace",
+          "start": 45.27,
+          "end": 45.43,
+          "confidence": 0.622
+        },
+        {
+          "text": "tan",
+          "start": 45.43,
+          "end": 46.67,
+          "confidence": 0.156
+        },
+        {
+          "text": "solito",
+          "start": 46.67,
+          "end": 47.15,
+          "confidence": 0.284
+        },
+        {
+          "text": "sin",
+          "start": 47.15,
+          "end": 47.53,
+          "confidence": 0.494
+        },
+        {
+          "text": "amigos.",
+          "start": 47.53,
+          "end": 48.03,
+          "confidence": 0.974
         }
       ]
     },
     {
       "id": 4,
-      "seek": 15000,
-      "start": 244.56,
-      "end": 245.32,
-      "text": " este es mi casa",
+      "seek": 2600,
+      "start": 79.75,
+      "end": 80.15,
+      "text": " Oh, nunca lo he tenido.",
       "tokens": [
-        50700,
-        4065,
-        785,
-        2752,
-        9022,
-        50800
+        50365,
+        876,
+        11,
+        13768,
+        450,
+        415,
+        33104,
+        13,
+        51864
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.3924424913194444,
-      "compression_ratio": 7.4526315789473685,
-      "no_speech_prob": 0.4586804211139679,
-      "confidence": 0.068,
+      "avg_logprob": -0.25587966442108157,
+      "compression_ratio": 0.7419354838709677,
+      "no_speech_prob": 0.03519438952207565,
+      "confidence": 0.743,
       "words": [
         {
-          "text": "este",
-          "start": 244.56,
-          "end": 244.78,
-          "confidence": 0.071
+          "text": "Oh,",
+          "start": 79.75,
+          "end": 80.07,
+          "confidence": 0.709
         },
         {
-          "text": "es",
-          "start": 244.78,
-          "end": 244.98,
-          "confidence": 0.034
+          "text": "nunca",
+          "start": 80.07,
+          "end": 80.09,
+          "confidence": 0.75
         },
         {
-          "text": "mi",
-          "start": 244.98,
-          "end": 245.14,
-          "confidence": 0.383
+          "text": "lo",
+          "start": 80.09,
+          "end": 80.11,
+          "confidence": 0.762
         },
         {
-          "text": "casa",
-          "start": 245.14,
-          "end": 245.32,
-          "confidence": 0.023
+          "text": "he",
+          "start": 80.11,
+          "end": 80.13,
+          "confidence": 0.728
+        },
+        {
+          "text": "tenido.",
+          "start": 80.13,
+          "end": 80.15,
+          "confidence": 0.769
         }
       ]
     },
     {
       "id": 5,
-      "seek": 15000,
-      "start": 245.94,
-      "end": 247.76,
-      "text": " no es el sexo",
+      "seek": 5600,
+      "start": 80.15,
+      "end": 83.57,
+      "text": " Estaba pensando, señor, no estás en Texas más.",
       "tokens": [
-        50800,
+        50365,
+        4410,
+        5509,
+        34525,
+        11,
+        22188,
+        11,
         572,
-        785,
-        806,
-        3260,
-        78,
-        50900
+        24389,
+        465,
+        7885,
+        3573,
+        13,
+        50565
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.3924424913194444,
-      "compression_ratio": 7.4526315789473685,
-      "no_speech_prob": 0.4586804211139679,
-      "confidence": 0.337,
+      "avg_logprob": -0.6148751227410285,
+      "compression_ratio": 1.5344827586206897,
+      "no_speech_prob": 0.050617288798093796,
+      "confidence": 0.544,
       "words": [
         {
+          "text": "Estaba",
+          "start": 80.15,
+          "end": 80.57,
+          "confidence": 0.344
+        },
+        {
+          "text": "pensando,",
+          "start": 80.57,
+          "end": 81.17,
+          "confidence": 0.229
+        },
+        {
+          "text": "señor,",
+          "start": 81.49,
+          "end": 81.79,
+          "confidence": 0.871
+        },
+        {
           "text": "no",
-          "start": 245.94,
-          "end": 246.74,
-          "confidence": 0.419
+          "start": 81.79,
+          "end": 82.17,
+          "confidence": 0.622
         },
         {
-          "text": "es",
-          "start": 246.74,
-          "end": 247.1,
-          "confidence": 0.112
+          "text": "estás",
+          "start": 82.17,
+          "end": 82.47,
+          "confidence": 0.94
         },
         {
-          "text": "el",
-          "start": 247.1,
-          "end": 247.12,
-          "confidence": 0.098
+          "text": "en",
+          "start": 82.47,
+          "end": 82.69,
+          "confidence": 0.586
         },
         {
-          "text": "sexo",
-          "start": 247.12,
-          "end": 247.76,
-          "confidence": 0.979
+          "text": "Texas",
+          "start": 82.69,
+          "end": 83.21,
+          "confidence": 0.971
+        },
+        {
+          "text": "más.",
+          "start": 83.21,
+          "end": 83.57,
+          "confidence": 0.531
         }
       ]
     },
     {
       "id": 6,
-      "seek": 16072,
-      "start": 292.09,
-      "end": 296.19,
-      "text": " 635 40 30 2 no le dan trabajo porque está muy joven o muy viejo",
+      "seek": 5600,
+      "start": 87.94,
+      "end": 93.12,
+      "text": " Le envío mi amor a mi casa, le envío mi mano a mi casa.",
       "tokens": [
-        50364,
-        1386,
-        8794,
-        3356,
-        2217,
-        568,
-        572,
+        50627,
+        1456,
+        2267,
+        20492,
+        2752,
+        15543,
+        257,
+        2752,
+        9022,
+        11,
         476,
-        3277,
-        18099,
-        4021,
-        3192,
-        5323,
-        1488,
-        553,
-        277,
-        5323,
-        4941,
-        5134,
-        51004
+        2267,
+        20492,
+        2752,
+        18384,
+        257,
+        2752,
+        9022,
+        13,
+        50912
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.601276851835705,
-      "compression_ratio": 0.927536231884058,
-      "no_speech_prob": 0.6130897998809814,
-      "confidence": 0.661,
+      "avg_logprob": -0.6148751227410285,
+      "compression_ratio": 1.5344827586206897,
+      "no_speech_prob": 0.050617288798093796,
+      "confidence": 0.645,
       "words": [
         {
-          "text": "635",
-          "start": 292.09,
-          "end": 292.49,
-          "confidence": 0.162
+          "text": "Le",
+          "start": 87.94,
+          "end": 88.16,
+          "confidence": 0.308
         },
         {
-          "text": "40",
-          "start": 292.49,
-          "end": 293.01,
-          "confidence": 0.395
+          "text": "envío",
+          "start": 88.16,
+          "end": 88.46,
+          "confidence": 0.677
         },
         {
-          "text": "30",
-          "start": 293.01,
-          "end": 293.41,
-          "confidence": 0.37
+          "text": "mi",
+          "start": 88.46,
+          "end": 88.58,
+          "confidence": 0.987
         },
         {
-          "text": "2",
-          "start": 293.41,
-          "end": 293.71,
-          "confidence": 0.479
+          "text": "amor",
+          "start": 88.58,
+          "end": 88.98,
+          "confidence": 0.991
         },
         {
-          "text": "no",
-          "start": 293.71,
-          "end": 294.21,
-          "confidence": 0.604
+          "text": "a",
+          "start": 88.98,
+          "end": 89.44,
+          "confidence": 0.996
+        },
+        {
+          "text": "mi",
+          "start": 89.44,
+          "end": 89.6,
+          "confidence": 0.997
+        },
+        {
+          "text": "casa,",
+          "start": 89.6,
+          "end": 90.14,
+          "confidence": 0.896
         },
         {
           "text": "le",
-          "start": 294.21,
-          "end": 294.35,
-          "confidence": 0.966
+          "start": 90.32,
+          "end": 90.56,
+          "confidence": 0.514
         },
         {
-          "text": "dan",
-          "start": 294.35,
-          "end": 294.45,
-          "confidence": 0.989
+          "text": "envío",
+          "start": 90.56,
+          "end": 90.82,
+          "confidence": 0.998
         },
         {
-          "text": "trabajo",
-          "start": 294.45,
-          "end": 294.73,
-          "confidence": 0.975
+          "text": "mi",
+          "start": 90.82,
+          "end": 90.92,
+          "confidence": 0.982
         },
         {
-          "text": "porque",
-          "start": 294.73,
-          "end": 295.01,
-          "confidence": 0.894
+          "text": "mano",
+          "start": 90.92,
+          "end": 91.34,
+          "confidence": 0.192
         },
         {
-          "text": "está",
-          "start": 295.01,
-          "end": 295.17,
-          "confidence": 0.875
+          "text": "a",
+          "start": 91.34,
+          "end": 92.52,
+          "confidence": 0.486
         },
         {
-          "text": "muy",
-          "start": 295.17,
-          "end": 295.33,
+          "text": "mi",
+          "start": 92.52,
+          "end": 92.84,
+          "confidence": 0.612
+        },
+        {
+          "text": "casa.",
+          "start": 92.84,
+          "end": 93.12,
+          "confidence": 0.254
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 5600,
+      "start": 102.45,
+      "end": 107.85,
+      "text": " Oh, mirando al cielo de mi casa, es mi casa, al menos por ahora.",
+      "tokens": [
+        51037,
+        876,
+        11,
+        3149,
+        1806,
+        419,
+        49549,
+        368,
+        2752,
+        9022,
+        11,
+        785,
+        2752,
+        9022,
+        11,
+        419,
+        8902,
+        1515,
+        9923,
+        13,
+        51339
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6148751227410285,
+      "compression_ratio": 1.5344827586206897,
+      "no_speech_prob": 0.050617288798093796,
+      "confidence": 0.775,
+      "words": [
+        {
+          "text": "Oh,",
+          "start": 102.45,
+          "end": 102.75,
+          "confidence": 0.907
+        },
+        {
+          "text": "mirando",
+          "start": 102.85,
+          "end": 103.31,
+          "confidence": 0.968
+        },
+        {
+          "text": "al",
+          "start": 103.31,
+          "end": 103.77,
+          "confidence": 0.862
+        },
+        {
+          "text": "cielo",
+          "start": 103.77,
+          "end": 104.27,
+          "confidence": 0.243
+        },
+        {
+          "text": "de",
+          "start": 104.27,
+          "end": 104.79,
+          "confidence": 0.848
+        },
+        {
+          "text": "mi",
+          "start": 104.79,
+          "end": 105.13,
+          "confidence": 0.995
+        },
+        {
+          "text": "casa,",
+          "start": 105.13,
+          "end": 105.55,
+          "confidence": 0.562
+        },
+        {
+          "text": "es",
+          "start": 105.77,
+          "end": 106.03,
+          "confidence": 0.951
+        },
+        {
+          "text": "mi",
+          "start": 106.03,
+          "end": 106.33,
+          "confidence": 0.997
+        },
+        {
+          "text": "casa,",
+          "start": 106.33,
+          "end": 106.69,
+          "confidence": 0.876
+        },
+        {
+          "text": "al",
+          "start": 106.83,
+          "end": 106.99,
+          "confidence": 0.487
+        },
+        {
+          "text": "menos",
+          "start": 106.99,
+          "end": 107.31,
+          "confidence": 0.986
+        },
+        {
+          "text": "por",
+          "start": 107.31,
+          "end": 107.57,
+          "confidence": 0.659
+        },
+        {
+          "text": "ahora.",
+          "start": 107.57,
+          "end": 107.85,
+          "confidence": 0.979
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seek": 5600,
+      "start": 108.95,
+      "end": 109.97,
+      "text": " Me siento como siempre.",
+      "tokens": [
+        51380,
+        1923,
+        40340,
+        2617,
+        12758,
+        13,
+        51449
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6148751227410285,
+      "compression_ratio": 1.5344827586206897,
+      "no_speech_prob": 0.050617288798093796,
+      "confidence": 0.613,
+      "words": [
+        {
+          "text": "Me",
+          "start": 108.95,
+          "end": 109.17,
+          "confidence": 0.293
+        },
+        {
+          "text": "siento",
+          "start": 109.17,
+          "end": 109.39,
+          "confidence": 0.838
+        },
+        {
+          "text": "como",
+          "start": 109.39,
+          "end": 109.71,
+          "confidence": 0.935
+        },
+        {
+          "text": "siempre.",
+          "start": 109.71,
+          "end": 109.97,
+          "confidence": 0.617
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "seek": 5600,
+      "start": 111.97,
+      "end": 117.61,
+      "text": " Dormiendo en el piso con las ropas, colgando mi asco.",
+      "tokens": [
+        51520,
+        413,
+        687,
+        7304,
+        465,
+        806,
+        280,
+        19227,
+        416,
+        2439,
+        744,
+        20990,
+        11,
+        1173,
+        70,
+        1806,
+        2752,
+        382,
+        1291,
+        13,
+        51784
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6148751227410285,
+      "compression_ratio": 1.5344827586206897,
+      "no_speech_prob": 0.050617288798093796,
+      "confidence": 0.46,
+      "words": [
+        {
+          "text": "Dormiendo",
+          "start": 111.97,
+          "end": 112.97,
+          "confidence": 0.435
+        },
+        {
+          "text": "en",
+          "start": 112.97,
+          "end": 113.23,
+          "confidence": 0.982
+        },
+        {
+          "text": "el",
+          "start": 113.23,
+          "end": 113.35,
+          "confidence": 0.93
+        },
+        {
+          "text": "piso",
+          "start": 113.35,
+          "end": 113.91,
+          "confidence": 0.61
+        },
+        {
+          "text": "con",
+          "start": 113.91,
+          "end": 114.27,
+          "confidence": 0.693
+        },
+        {
+          "text": "las",
+          "start": 114.27,
+          "end": 114.55,
+          "confidence": 0.366
+        },
+        {
+          "text": "ropas,",
+          "start": 114.55,
+          "end": 115.05,
+          "confidence": 0.203
+        },
+        {
+          "text": "colgando",
+          "start": 115.23,
+          "end": 116.29,
+          "confidence": 0.394
+        },
+        {
+          "text": "mi",
+          "start": 116.29,
+          "end": 116.63,
+          "confidence": 0.981
+        },
+        {
+          "text": "asco.",
+          "start": 116.63,
+          "end": 117.61,
+          "confidence": 0.328
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "seek": 5600,
+      "start": 117.83,
+      "end": 118.73,
+      "text": " Voy a matar eso.",
+      "tokens": [
+        51784,
+        25563,
+        257,
+        39208,
+        7287,
+        13,
+        51850
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6148751227410285,
+      "compression_ratio": 1.5344827586206897,
+      "no_speech_prob": 0.050617288798093796,
+      "confidence": 0.769,
+      "words": [
+        {
+          "text": "Voy",
+          "start": 117.83,
+          "end": 117.97,
+          "confidence": 0.795
+        },
+        {
+          "text": "a",
+          "start": 117.97,
+          "end": 118.21,
+          "confidence": 1.0
+        },
+        {
+          "text": "matar",
+          "start": 118.21,
+          "end": 118.43,
+          "confidence": 0.788
+        },
+        {
+          "text": "eso.",
+          "start": 118.43,
+          "end": 118.73,
+          "confidence": 0.557
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "seek": 8600,
+      "start": 119.31,
+      "end": 120.43,
+      "text": " Oh, sí.",
+      "tokens": [
+        50365,
+        876,
+        11,
+        8600,
+        13,
+        50443
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6509207666447733,
+      "compression_ratio": 1.4035087719298245,
+      "no_speech_prob": 0.15845037996768951,
+      "confidence": 0.276,
+      "words": [
+        {
+          "text": "Oh,",
+          "start": 119.31,
+          "end": 119.77,
+          "confidence": 0.153
+        },
+        {
+          "text": "sí.",
+          "start": 120.23,
+          "end": 120.43,
+          "confidence": 0.498
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "seek": 8600,
+      "start": 121.55,
+      "end": 125.45,
+      "text": " Disculpe, señor oficial, y me voy a dar la venta.",
+      "tokens": [
+        50485,
+        4208,
+        2444,
+        494,
+        11,
+        22188,
+        37189,
+        11,
+        288,
+        385,
+        7552,
+        257,
+        4072,
+        635,
+        6931,
+        64,
+        13,
+        50692
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6509207666447733,
+      "compression_ratio": 1.4035087719298245,
+      "no_speech_prob": 0.15845037996768951,
+      "confidence": 0.593,
+      "words": [
+        {
+          "text": "Disculpe,",
+          "start": 121.55,
+          "end": 122.05,
+          "confidence": 0.693
+        },
+        {
+          "text": "señor",
+          "start": 122.19,
+          "end": 122.67,
+          "confidence": 0.982
+        },
+        {
+          "text": "oficial,",
+          "start": 122.67,
+          "end": 123.03,
+          "confidence": 0.671
+        },
+        {
+          "text": "y",
+          "start": 123.65,
+          "end": 123.87,
+          "confidence": 0.829
+        },
+        {
+          "text": "me",
+          "start": 123.87,
+          "end": 123.99,
+          "confidence": 0.435
+        },
+        {
+          "text": "voy",
+          "start": 123.99,
+          "end": 124.17,
+          "confidence": 0.954
+        },
+        {
+          "text": "a",
+          "start": 124.17,
+          "end": 124.53,
+          "confidence": 1.0
+        },
+        {
+          "text": "dar",
+          "start": 124.53,
+          "end": 124.91,
+          "confidence": 0.112
+        },
+        {
+          "text": "la",
+          "start": 124.91,
+          "end": 125.09,
+          "confidence": 0.254
+        },
+        {
+          "text": "venta.",
+          "start": 125.09,
+          "end": 125.45,
+          "confidence": 0.726
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "seek": 8600,
+      "start": 126.31,
+      "end": 130.21,
+      "text": " En este lado de la puerta, es un embeso que te mató.",
+      "tokens": [
+        50707,
+        2193,
+        4065,
+        11631,
+        368,
+        635,
+        48597,
+        11,
+        785,
+        517,
+        4605,
+        41189,
+        631,
+        535,
+        3803,
+        812,
+        13,
+        50923
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6509207666447733,
+      "compression_ratio": 1.4035087719298245,
+      "no_speech_prob": 0.15845037996768951,
+      "confidence": 0.503,
+      "words": [
+        {
+          "text": "En",
+          "start": 126.31,
+          "end": 126.43,
+          "confidence": 0.868
+        },
+        {
+          "text": "este",
+          "start": 126.43,
+          "end": 126.71,
+          "confidence": 0.665
+        },
+        {
+          "text": "lado",
+          "start": 126.71,
+          "end": 127.07,
+          "confidence": 0.978
+        },
+        {
+          "text": "de",
+          "start": 127.07,
+          "end": 127.35,
+          "confidence": 0.589
+        },
+        {
+          "text": "la",
+          "start": 127.35,
+          "end": 127.53,
+          "confidence": 0.981
+        },
+        {
+          "text": "puerta,",
+          "start": 127.53,
+          "end": 127.79,
+          "confidence": 0.84
+        },
+        {
+          "text": "es",
+          "start": 128.01,
+          "end": 128.37,
+          "confidence": 0.426
+        },
+        {
+          "text": "un",
+          "start": 128.37,
+          "end": 128.45,
+          "confidence": 0.714
+        },
+        {
+          "text": "embeso",
+          "start": 128.45,
+          "end": 129.17,
+          "confidence": 0.197
+        },
+        {
+          "text": "que",
+          "start": 129.17,
+          "end": 129.45,
+          "confidence": 0.508
+        },
+        {
+          "text": "te",
+          "start": 129.45,
+          "end": 129.69,
+          "confidence": 0.876
+        },
+        {
+          "text": "mató.",
+          "start": 129.69,
+          "end": 130.21,
+          "confidence": 0.216
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "seek": 8600,
+      "start": 130.93,
+      "end": 134.85,
+      "text": " Me espanto y digo, señor, creo que beberé a tu frente.",
+      "tokens": [
+        50953,
+        1923,
+        7089,
+        5857,
+        288,
+        22990,
+        11,
+        22188,
+        11,
+        14336,
+        631,
+        40069,
+        526,
+        257,
+        2604,
+        19873,
+        13,
+        51170
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6509207666447733,
+      "compression_ratio": 1.4035087719298245,
+      "no_speech_prob": 0.15845037996768951,
+      "confidence": 0.479,
+      "words": [
+        {
+          "text": "Me",
+          "start": 130.93,
+          "end": 130.99,
+          "confidence": 0.31
+        },
+        {
+          "text": "espanto",
+          "start": 130.99,
+          "end": 131.55,
+          "confidence": 0.267
+        },
+        {
+          "text": "y",
+          "start": 131.55,
+          "end": 131.71,
+          "confidence": 0.961
+        },
+        {
+          "text": "digo,",
+          "start": 131.71,
+          "end": 131.99,
+          "confidence": 0.797
+        },
+        {
+          "text": "señor,",
+          "start": 132.25,
+          "end": 132.37,
           "confidence": 0.999
         },
         {
-          "text": "joven",
-          "start": 295.33,
-          "end": 295.63,
-          "confidence": 0.987
+          "text": "creo",
+          "start": 132.57,
+          "end": 133.03,
+          "confidence": 0.893
         },
         {
-          "text": "o",
-          "start": 295.63,
-          "end": 295.73,
-          "confidence": 0.762
+          "text": "que",
+          "start": 133.03,
+          "end": 133.31,
+          "confidence": 0.997
         },
         {
-          "text": "muy",
-          "start": 295.73,
-          "end": 295.83,
-          "confidence": 0.987
+          "text": "beberé",
+          "start": 133.31,
+          "end": 134.03,
+          "confidence": 0.442
         },
         {
-          "text": "viejo",
-          "start": 295.83,
-          "end": 296.19,
+          "text": "a",
+          "start": 134.03,
+          "end": 134.13,
+          "confidence": 0.635
+        },
+        {
+          "text": "tu",
+          "start": 134.13,
+          "end": 134.45,
+          "confidence": 0.602
+        },
+        {
+          "text": "frente.",
+          "start": 134.45,
+          "end": 134.85,
+          "confidence": 0.062
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "seek": 8600,
+      "start": 138.84,
+      "end": 142.0,
+      "text": " Le envío mi amor a mi casa, pero envío mi mano.",
+      "tokens": [
+        51268,
+        1456,
+        2267,
+        20492,
+        2752,
+        15543,
+        257,
+        2752,
+        9022,
+        11,
+        4768,
+        2267,
+        20492,
+        2752,
+        18384,
+        13,
+        51448
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6509207666447733,
+      "compression_ratio": 1.4035087719298245,
+      "no_speech_prob": 0.15845037996768951,
+      "confidence": 0.871,
+      "words": [
+        {
+          "text": "Le",
+          "start": 138.84,
+          "end": 138.96,
+          "confidence": 0.906
+        },
+        {
+          "text": "envío",
+          "start": 138.96,
+          "end": 139.28,
+          "confidence": 0.998
+        },
+        {
+          "text": "mi",
+          "start": 139.28,
+          "end": 139.36,
+          "confidence": 0.999
+        },
+        {
+          "text": "amor",
+          "start": 139.36,
+          "end": 139.78,
+          "confidence": 0.999
+        },
+        {
+          "text": "a",
+          "start": 139.78,
+          "end": 140.12,
+          "confidence": 1.0
+        },
+        {
+          "text": "mi",
+          "start": 140.12,
+          "end": 140.42,
+          "confidence": 1.0
+        },
+        {
+          "text": "casa,",
+          "start": 140.42,
+          "end": 140.92,
+          "confidence": 1.0
+        },
+        {
+          "text": "pero",
+          "start": 141.08,
+          "end": 141.18,
+          "confidence": 0.858
+        },
+        {
+          "text": "envío",
+          "start": 141.18,
+          "end": 141.64,
+          "confidence": 0.968
+        },
+        {
+          "text": "mi",
+          "start": 141.64,
+          "end": 141.74,
+          "confidence": 0.997
+        },
+        {
+          "text": "mano.",
+          "start": 141.74,
+          "end": 142.0,
+          "confidence": 0.23
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "seek": 8600,
+      "start": 143.24,
+      "end": 144.28,
+      "text": " ¿Qué quieres decir?",
+      "tokens": [
+        51487,
+        3841,
+        15137,
+        29839,
+        10235,
+        30,
+        51559
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6509207666447733,
+      "compression_ratio": 1.4035087719298245,
+      "no_speech_prob": 0.15845037996768951,
+      "confidence": 0.855,
+      "words": [
+        {
+          "text": "¿Qué",
+          "start": 143.24,
+          "end": 143.52,
+          "confidence": 0.782
+        },
+        {
+          "text": "quieres",
+          "start": 143.52,
+          "end": 143.7,
+          "confidence": 0.921
+        },
+        {
+          "text": "decir?",
+          "start": 143.7,
+          "end": 144.28,
+          "confidence": 0.948
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "seek": 8600,
+      "start": 145.34,
+      "end": 201.31,
+      "text": " Voy a ganar mi muerte, suicidio, la solución.",
+      "tokens": [
+        51559,
+        25563,
+        257,
+        7574,
+        289,
+        2752,
+        38497,
+        11,
+        28419,
+        327,
+        1004,
+        11,
+        635,
+        24807,
+        5687,
+        13,
+        51759
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6509207666447733,
+      "compression_ratio": 1.4035087719298245,
+      "no_speech_prob": 0.15845037996768951,
+      "confidence": 0.58,
+      "words": [
+        {
+          "text": "Voy",
+          "start": 145.34,
+          "end": 145.39,
+          "confidence": 0.469
+        },
+        {
+          "text": "a",
+          "start": 197.53,
+          "end": 197.67,
+          "confidence": 0.902
+        },
+        {
+          "text": "ganar",
+          "start": 197.67,
+          "end": 197.93,
+          "confidence": 0.344
+        },
+        {
+          "text": "mi",
+          "start": 197.93,
+          "end": 197.99,
+          "confidence": 0.896
+        },
+        {
+          "text": "muerte,",
+          "start": 197.99,
+          "end": 198.47,
+          "confidence": 0.25
+        },
+        {
+          "text": "suicidio,",
+          "start": 198.47,
+          "end": 200.33,
+          "confidence": 0.612
+        },
+        {
+          "text": "la",
+          "start": 200.33,
+          "end": 200.47,
+          "confidence": 0.575
+        },
+        {
+          "text": "solución.",
+          "start": 200.47,
+          "end": 201.31,
+          "confidence": 0.995
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "seek": 8600,
+      "start": 201.33,
+      "end": 202.61,
+      "text": " Y yo soy un hombre de la vida.",
+      "tokens": [
+        51804,
+        398,
+        5290,
+        8812,
+        517,
+        26102,
+        368,
+        635,
+        7644,
+        13,
+        51855
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6509207666447733,
+      "compression_ratio": 1.4035087719298245,
+      "no_speech_prob": 0.15845037996768951,
+      "confidence": 0.391,
+      "words": [
+        {
+          "text": "Y",
+          "start": 201.33,
+          "end": 201.77,
+          "confidence": 0.947
+        },
+        {
+          "text": "yo",
+          "start": 201.77,
+          "end": 201.85,
+          "confidence": 0.307
+        },
+        {
+          "text": "soy",
+          "start": 201.85,
+          "end": 201.99,
+          "confidence": 0.464
+        },
+        {
+          "text": "un",
+          "start": 201.99,
+          "end": 202.17,
+          "confidence": 0.823
+        },
+        {
+          "text": "hombre",
+          "start": 202.17,
+          "end": 202.23,
+          "confidence": 0.183
+        },
+        {
+          "text": "de",
+          "start": 202.23,
+          "end": 202.33,
+          "confidence": 0.465
+        },
+        {
+          "text": "la",
+          "start": 202.33,
+          "end": 202.59,
+          "confidence": 0.214
+        },
+        {
+          "text": "vida.",
+          "start": 202.59,
+          "end": 202.61,
+          "confidence": 0.268
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "seek": 11600,
+      "start": 202.95,
+      "end": 204.63,
+      "text": " Y no estoy en la casa.",
+      "tokens": [
+        50365,
+        398,
+        572,
+        15796,
+        465,
+        635,
+        9022,
+        13,
+        50457
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6500583286703068,
+      "compression_ratio": 1.503875968992248,
+      "no_speech_prob": 0.04189615324139595,
+      "confidence": 0.34,
+      "words": [
+        {
+          "text": "Y",
+          "start": 202.95,
+          "end": 203.75,
+          "confidence": 0.65
+        },
+        {
+          "text": "no",
+          "start": 203.75,
+          "end": 203.93,
+          "confidence": 0.913
+        },
+        {
+          "text": "estoy",
+          "start": 203.93,
+          "end": 204.23,
+          "confidence": 0.361
+        },
+        {
+          "text": "en",
+          "start": 204.23,
+          "end": 204.25,
+          "confidence": 0.109
+        },
+        {
+          "text": "la",
+          "start": 204.25,
+          "end": 204.27,
+          "confidence": 0.205
+        },
+        {
+          "text": "casa.",
+          "start": 204.27,
+          "end": 204.63,
+          "confidence": 0.325
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "seek": 11600,
+      "start": 206.32,
+      "end": 214.48,
+      "text": " Ves, el sol se va bajando y mis problemas serán solucionados por la noche, pero no por la justicia.",
+      "tokens": [
+        50527,
+        691,
+        279,
+        11,
+        806,
+        1404,
+        369,
+        2773,
+        23589,
+        1806,
+        288,
+        3346,
+        20720,
+        816,
+        7200,
+        1404,
+        1311,
+        313,
+        4181,
+        1515,
+        635,
+        29735,
+        11,
+        4768,
+        572,
+        1515,
+        635,
+        445,
+        15341,
+        13,
+        50960
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6500583286703068,
+      "compression_ratio": 1.503875968992248,
+      "no_speech_prob": 0.04189615324139595,
+      "confidence": 0.73,
+      "words": [
+        {
+          "text": "Ves,",
+          "start": 206.32,
+          "end": 206.76,
+          "confidence": 0.507
+        },
+        {
+          "text": "el",
+          "start": 206.84,
+          "end": 206.98,
+          "confidence": 0.931
+        },
+        {
+          "text": "sol",
+          "start": 206.98,
+          "end": 207.26,
+          "confidence": 0.965
+        },
+        {
+          "text": "se",
+          "start": 207.26,
+          "end": 207.54,
+          "confidence": 0.462
+        },
+        {
+          "text": "va",
+          "start": 207.54,
+          "end": 207.76,
+          "confidence": 0.606
+        },
+        {
+          "text": "bajando",
+          "start": 207.76,
+          "end": 208.54,
+          "confidence": 0.679
+        },
+        {
+          "text": "y",
+          "start": 208.54,
+          "end": 208.84,
+          "confidence": 0.513
+        },
+        {
+          "text": "mis",
+          "start": 208.84,
+          "end": 209.1,
+          "confidence": 0.997
+        },
+        {
+          "text": "problemas",
+          "start": 209.1,
+          "end": 209.58,
+          "confidence": 0.994
+        },
+        {
+          "text": "serán",
+          "start": 209.58,
+          "end": 210.28,
+          "confidence": 0.812
+        },
+        {
+          "text": "solucionados",
+          "start": 210.28,
+          "end": 211.0,
+          "confidence": 0.772
+        },
+        {
+          "text": "por",
+          "start": 211.0,
+          "end": 211.56,
+          "confidence": 0.646
+        },
+        {
+          "text": "la",
+          "start": 211.56,
+          "end": 211.76,
+          "confidence": 0.971
+        },
+        {
+          "text": "noche,",
+          "start": 211.76,
+          "end": 211.88,
+          "confidence": 0.209
+        },
+        {
+          "text": "pero",
+          "start": 212.36,
+          "end": 213.14,
+          "confidence": 0.663
+        },
+        {
+          "text": "no",
+          "start": 213.14,
+          "end": 213.66,
+          "confidence": 1.0
+        },
+        {
+          "text": "por",
+          "start": 213.66,
+          "end": 213.9,
+          "confidence": 0.976
+        },
+        {
+          "text": "la",
+          "start": 213.9,
+          "end": 214.02,
+          "confidence": 0.924
+        },
+        {
+          "text": "justicia.",
+          "start": 214.02,
+          "end": 214.48,
+          "confidence": 0.996
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "seek": 11600,
+      "start": 215.74,
+      "end": 217.94,
+      "text": " ¿Quién sabía que había un vacío en su respiro?",
+      "tokens": [
+        50995,
+        3841,
+        48,
+        3077,
+        3516,
+        5560,
+        2686,
+        631,
+        16395,
+        517,
+        2842,
+        20492,
+        465,
+        459,
+        1597,
+        5182,
+        30,
+        51105
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6500583286703068,
+      "compression_ratio": 1.503875968992248,
+      "no_speech_prob": 0.04189615324139595,
+      "confidence": 0.511,
+      "words": [
+        {
+          "text": "¿Quién",
+          "start": 215.74,
+          "end": 216.04,
+          "confidence": 0.835
+        },
+        {
+          "text": "sabía",
+          "start": 216.04,
+          "end": 216.36,
+          "confidence": 0.424
+        },
+        {
+          "text": "que",
+          "start": 216.36,
+          "end": 216.56,
+          "confidence": 0.933
+        },
+        {
+          "text": "había",
+          "start": 216.56,
+          "end": 216.62,
+          "confidence": 0.188
+        },
+        {
+          "text": "un",
+          "start": 216.62,
+          "end": 216.64,
+          "confidence": 0.331
+        },
+        {
+          "text": "vacío",
+          "start": 216.64,
+          "end": 216.92,
+          "confidence": 0.249
+        },
+        {
+          "text": "en",
+          "start": 216.92,
+          "end": 217.22,
+          "confidence": 0.996
+        },
+        {
+          "text": "su",
+          "start": 217.22,
+          "end": 217.54,
+          "confidence": 0.76
+        },
+        {
+          "text": "respiro?",
+          "start": 217.54,
+          "end": 217.94,
+          "confidence": 0.421
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "seek": 11600,
+      "start": 218.24,
+      "end": 220.1,
+      "text": " Y yo sabía que era mi último chance.",
+      "tokens": [
+        51114,
+        398,
+        5290,
+        5560,
+        2686,
+        631,
+        4249,
+        2752,
+        21013,
+        2931,
+        13,
+        51229
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6500583286703068,
+      "compression_ratio": 1.503875968992248,
+      "no_speech_prob": 0.04189615324139595,
+      "confidence": 0.731,
+      "words": [
+        {
+          "text": "Y",
+          "start": 218.24,
+          "end": 218.28,
+          "confidence": 0.998
+        },
+        {
+          "text": "yo",
+          "start": 218.28,
+          "end": 218.48,
+          "confidence": 0.869
+        },
+        {
+          "text": "sabía",
+          "start": 218.48,
+          "end": 218.9,
+          "confidence": 0.947
+        },
+        {
+          "text": "que",
+          "start": 218.9,
+          "end": 219.1,
+          "confidence": 1.0
+        },
+        {
+          "text": "era",
+          "start": 219.1,
+          "end": 219.32,
+          "confidence": 0.377
+        },
+        {
+          "text": "mi",
+          "start": 219.32,
+          "end": 219.54,
+          "confidence": 0.962
+        },
+        {
+          "text": "último",
+          "start": 219.54,
+          "end": 219.82,
+          "confidence": 0.398
+        },
+        {
+          "text": "chance.",
+          "start": 219.82,
+          "end": 220.1,
+          "confidence": 0.533
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "seek": 11600,
+      "start": 220.36,
+      "end": 224.24,
+      "text": " Debería darme a un hombre que muere, su último alimento.",
+      "tokens": [
+        51238,
+        1346,
+        607,
+        2686,
+        4072,
+        1398,
+        257,
+        517,
+        26102,
+        631,
+        2992,
+        323,
+        11,
+        459,
+        21013,
+        419,
+        10030,
+        13,
+        51426
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6500583286703068,
+      "compression_ratio": 1.503875968992248,
+      "no_speech_prob": 0.04189615324139595,
+      "confidence": 0.617,
+      "words": [
+        {
+          "text": "Debería",
+          "start": 220.36,
+          "end": 221.0,
+          "confidence": 0.696
+        },
+        {
+          "text": "darme",
+          "start": 221.0,
+          "end": 221.24,
+          "confidence": 0.712
+        },
+        {
+          "text": "a",
+          "start": 221.24,
+          "end": 221.32,
+          "confidence": 0.362
+        },
+        {
+          "text": "un",
+          "start": 221.32,
+          "end": 221.36,
+          "confidence": 0.992
+        },
+        {
+          "text": "hombre",
+          "start": 221.36,
+          "end": 221.88,
+          "confidence": 0.729
+        },
+        {
+          "text": "que",
+          "start": 221.88,
+          "end": 221.9,
+          "confidence": 0.825
+        },
+        {
+          "text": "muere,",
+          "start": 221.9,
+          "end": 222.34,
+          "confidence": 0.55
+        },
+        {
+          "text": "su",
+          "start": 222.34,
+          "end": 223.2,
+          "confidence": 0.993
+        },
+        {
+          "text": "último",
+          "start": 223.2,
+          "end": 223.64,
+          "confidence": 0.929
+        },
+        {
+          "text": "alimento.",
+          "start": 223.64,
+          "end": 224.24,
+          "confidence": 0.265
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "seek": 11600,
+      "start": 225.72,
+      "end": 229.76,
+      "text": " Me llevó a la clase con solo un hueso y luego gritó.",
+      "tokens": [
+        51463,
+        1923,
+        27124,
+        812,
+        257,
+        635,
+        44578,
+        416,
+        6944,
+        517,
+        276,
+        1247,
+        78,
+        288,
+        17222,
+        30133,
+        812,
+        13,
+        51678
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6500583286703068,
+      "compression_ratio": 1.503875968992248,
+      "no_speech_prob": 0.04189615324139595,
+      "confidence": 0.504,
+      "words": [
+        {
+          "text": "Me",
+          "start": 225.72,
+          "end": 225.92,
+          "confidence": 0.361
+        },
+        {
+          "text": "llevó",
+          "start": 225.92,
+          "end": 226.44,
+          "confidence": 0.585
+        },
+        {
+          "text": "a",
+          "start": 226.44,
+          "end": 226.46,
+          "confidence": 0.412
+        },
+        {
+          "text": "la",
+          "start": 226.46,
+          "end": 226.74,
+          "confidence": 0.734
+        },
+        {
+          "text": "clase",
+          "start": 226.74,
+          "end": 227.28,
+          "confidence": 0.201
+        },
+        {
+          "text": "con",
+          "start": 227.28,
+          "end": 227.6,
+          "confidence": 0.997
+        },
+        {
+          "text": "solo",
+          "start": 227.6,
+          "end": 227.96,
+          "confidence": 0.74
+        },
+        {
+          "text": "un",
+          "start": 227.96,
+          "end": 228.3,
+          "confidence": 0.724
+        },
+        {
+          "text": "hueso",
+          "start": 228.3,
+          "end": 228.64,
+          "confidence": 0.307
+        },
+        {
+          "text": "y",
+          "start": 228.64,
+          "end": 228.82,
+          "confidence": 0.777
+        },
+        {
+          "text": "luego",
+          "start": 228.82,
+          "end": 229.18,
+          "confidence": 0.876
+        },
+        {
+          "text": "gritó.",
+          "start": 229.18,
+          "end": 229.76,
+          "confidence": 0.469
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "seek": 11600,
+      "start": 229.84,
+      "end": 231.68,
+      "text": " Le agarré los platos de la comida.",
+      "tokens": [
+        51678,
+        1456,
+        623,
+        2284,
+        526,
+        1750,
+        3403,
+        329,
+        368,
+        635,
+        30779,
+        13,
+        51791
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6500583286703068,
+      "compression_ratio": 1.503875968992248,
+      "no_speech_prob": 0.04189615324139595,
+      "confidence": 0.329,
+      "words": [
+        {
+          "text": "Le",
+          "start": 229.84,
+          "end": 230.14,
+          "confidence": 0.38
+        },
+        {
+          "text": "agarré",
+          "start": 230.14,
+          "end": 230.46,
+          "confidence": 0.559
+        },
+        {
+          "text": "los",
+          "start": 230.46,
+          "end": 230.6,
+          "confidence": 0.303
+        },
+        {
+          "text": "platos",
+          "start": 230.6,
+          "end": 231.4,
+          "confidence": 0.188
+        },
+        {
+          "text": "de",
+          "start": 231.4,
+          "end": 231.42,
+          "confidence": 0.362
+        },
+        {
+          "text": "la",
+          "start": 231.42,
+          "end": 231.44,
+          "confidence": 0.314
+        },
+        {
+          "text": "comida.",
+          "start": 231.44,
+          "end": 231.68,
+          "confidence": 0.184
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "seek": 11600,
+      "start": 232.64,
+      "end": 233.15,
+      "text": " Y me dejé.",
+      "tokens": [
+        51817,
+        398,
+        385,
+        21259,
+        526,
+        13,
+        51855
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6500583286703068,
+      "compression_ratio": 1.503875968992248,
+      "no_speech_prob": 0.04189615324139595,
+      "confidence": 0.358,
+      "words": [
+        {
+          "text": "Y",
+          "start": 232.64,
+          "end": 232.76,
+          "confidence": 0.924
+        },
+        {
+          "text": "me",
+          "start": 232.76,
+          "end": 232.9,
+          "confidence": 0.624
+        },
+        {
+          "text": "dejé.",
+          "start": 232.9,
+          "end": 233.15,
+          "confidence": 0.169
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "seek": 11600,
+      "start": 233.15,
+      "end": 233.42,
+      "text": " Y me dejé.",
+      "tokens": [
+        51855,
+        398,
+        385,
+        21259,
+        526,
+        13,
+        51862
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6500583286703068,
+      "compression_ratio": 1.503875968992248,
+      "no_speech_prob": 0.04189615324139595,
+      "confidence": 0.732,
+      "words": [
+        {
+          "text": "Y",
+          "start": 233.15,
+          "end": 233.17,
+          "confidence": 0.431
+        },
+        {
+          "text": "me",
+          "start": 233.17,
+          "end": 233.19,
+          "confidence": 0.825
+        },
+        {
+          "text": "dejé.",
+          "start": 233.19,
+          "end": 233.42,
+          "confidence": 0.9
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "seek": 14594,
+      "start": 233.58,
+      "end": 233.88,
+      "text": " Y me dejé.",
+      "tokens": [
+        50365,
+        398,
+        385,
+        21259,
+        526,
+        13,
+        50394
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.40594260040420055,
+      "compression_ratio": 15.28,
+      "no_speech_prob": 0.08678539842367172,
+      "confidence": 0.952,
+      "words": [
+        {
+          "text": "Y",
+          "start": 233.58,
+          "end": 233.72,
+          "confidence": 0.898
+        },
+        {
+          "text": "me",
+          "start": 233.72,
+          "end": 233.76,
+          "confidence": 0.948
+        },
+        {
+          "text": "dejé.",
+          "start": 233.76,
+          "end": 233.88,
+          "confidence": 0.982
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "seek": 14594,
+      "start": 233.88,
+      "end": 234.12,
+      "text": " Y me dejé.",
+      "tokens": [
+        50394,
+        398,
+        385,
+        21259,
+        526,
+        13,
+        50395
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.40594260040420055,
+      "compression_ratio": 15.28,
+      "no_speech_prob": 0.08678539842367172,
+      "confidence": 0.977,
+      "words": [
+        {
+          "text": "Y",
+          "start": 233.88,
+          "end": 233.9,
+          "confidence": 0.931
+        },
+        {
+          "text": "me",
+          "start": 233.9,
+          "end": 233.94,
+          "confidence": 0.996
+        },
+        {
+          "text": "dejé.",
+          "start": 233.94,
+          "end": 234.12,
           "confidence": 0.991
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "seek": 14594,
+      "start": 234.12,
+      "end": 234.18,
+      "text": " Y me dejé.",
+      "tokens": [
+        50395,
+        398,
+        385,
+        21259,
+        526,
+        13,
+        50397
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.40594260040420055,
+      "compression_ratio": 15.28,
+      "no_speech_prob": 0.08678539842367172,
+      "confidence": 0.988,
+      "words": [
+        {
+          "text": "Y",
+          "start": 234.12,
+          "end": 234.14,
+          "confidence": 0.96
+        },
+        {
+          "text": "me",
+          "start": 234.14,
+          "end": 234.16,
+          "confidence": 0.999
+        },
+        {
+          "text": "dejé.",
+          "start": 234.16,
+          "end": 234.18,
+          "confidence": 0.996
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "seek": 14594,
+      "start": 234.18,
+      "end": 234.24,
+      "text": " Y me dejé.",
+      "tokens": [
+        50397,
+        398,
+        385,
+        21259,
+        526,
+        13,
+        50399
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.40594260040420055,
+      "compression_ratio": 15.28,
+      "no_speech_prob": 0.08678539842367172,
+      "confidence": 0.99,
+      "words": [
+        {
+          "text": "Y",
+          "start": 234.18,
+          "end": 234.2,
+          "confidence": 0.968
+        },
+        {
+          "text": "me",
+          "start": 234.2,
+          "end": 234.22,
+          "confidence": 1.0
+        },
+        {
+          "text": "dejé.",
+          "start": 234.22,
+          "end": 234.24,
+          "confidence": 0.997
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "seek": 14594,
+      "start": 234.24,
+      "end": 234.3,
+      "text": " Y me dejé.",
+      "tokens": [
+        50399,
+        398,
+        385,
+        21259,
+        526,
+        13,
+        50403
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.40594260040420055,
+      "compression_ratio": 15.28,
+      "no_speech_prob": 0.08678539842367172,
+      "confidence": 0.992,
+      "words": [
+        {
+          "text": "Y",
+          "start": 234.24,
+          "end": 234.26,
+          "confidence": 0.974
+        },
+        {
+          "text": "me",
+          "start": 234.26,
+          "end": 234.28,
+          "confidence": 1.0
+        },
+        {
+          "text": "dejé.",
+          "start": 234.28,
+          "end": 234.3,
+          "confidence": 0.997
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "seek": 14594,
+      "start": 234.3,
+      "end": 234.36,
+      "text": " Y me dejé.",
+      "tokens": [
+        50403,
+        398,
+        385,
+        21259,
+        526,
+        13,
+        50407
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.40594260040420055,
+      "compression_ratio": 15.28,
+      "no_speech_prob": 0.08678539842367172,
+      "confidence": 0.994,
+      "words": [
+        {
+          "text": "Y",
+          "start": 234.3,
+          "end": 234.32,
+          "confidence": 0.981
+        },
+        {
+          "text": "me",
+          "start": 234.32,
+          "end": 234.34,
+          "confidence": 1.0
+        },
+        {
+          "text": "dejé.",
+          "start": 234.34,
+          "end": 234.36,
+          "confidence": 0.998
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "seek": 14594,
+      "start": 234.36,
+      "end": 235.04,
+      "text": " Y me dejé.",
+      "tokens": [
+        50407,
+        398,
+        385,
+        21259,
+        526,
+        13,
+        50408
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.40594260040420055,
+      "compression_ratio": 15.28,
+      "no_speech_prob": 0.08678539842367172,
+      "confidence": 0.993,
+      "words": [
+        {
+          "text": "Y",
+          "start": 234.36,
+          "end": 234.58,
+          "confidence": 0.978
+        },
+        {
+          "text": "me",
+          "start": 234.58,
+          "end": 234.88,
+          "confidence": 1.0
+        },
+        {
+          "text": "dejé.",
+          "start": 234.88,
+          "end": 235.04,
+          "confidence": 0.998
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "seek": 14594,
+      "start": 235.04,
+      "end": 235.1,
+      "text": " Y me dejé.",
+      "tokens": [
+        50408,
+        398,
+        385,
+        21259,
+        526,
+        13,
+        50409
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.40594260040420055,
+      "compression_ratio": 15.28,
+      "no_speech_prob": 0.08678539842367172,
+      "confidence": 0.994,
+      "words": [
+        {
+          "text": "Y",
+          "start": 235.04,
+          "end": 235.06,
+          "confidence": 0.979
+        },
+        {
+          "text": "me",
+          "start": 235.06,
+          "end": 235.08,
+          "confidence": 1.0
+        },
+        {
+          "text": "dejé.",
+          "start": 235.08,
+          "end": 235.1,
+          "confidence": 0.998
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "seek": 14594,
+      "start": 235.1,
+      "end": 235.16,
+      "text": " Y me dejé.",
+      "tokens": [
+        50409,
+        398,
+        385,
+        21259,
+        526,
+        13,
+        50412
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.40594260040420055,
+      "compression_ratio": 15.28,
+      "no_speech_prob": 0.08678539842367172,
+      "confidence": 0.994,
+      "words": [
+        {
+          "text": "Y",
+          "start": 235.1,
+          "end": 235.12,
+          "confidence": 0.981
+        },
+        {
+          "text": "me",
+          "start": 235.12,
+          "end": 235.14,
+          "confidence": 1.0
+        },
+        {
+          "text": "dejé.",
+          "start": 235.14,
+          "end": 235.16,
+          "confidence": 0.998
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "seek": 14594,
+      "start": 235.16,
+      "end": 235.22,
+      "text": " Y me dejé.",
+      "tokens": [
+        50412,
+        398,
+        385,
+        21259,
+        526,
+        13,
+        50413
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.40594260040420055,
+      "compression_ratio": 15.28,
+      "no_speech_prob": 0.08678539842367172,
+      "confidence": 0.995,
+      "words": [
+        {
+          "text": "Y",
+          "start": 235.16,
+          "end": 235.18,
+          "confidence": 0.984
+        },
+        {
+          "text": "me",
+          "start": 235.18,
+          "end": 235.2,
+          "confidence": 1.0
+        },
+        {
+          "text": "dejé.",
+          "start": 235.2,
+          "end": 235.22,
+          "confidence": 0.999
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "seek": 14594,
+      "start": 235.22,
+      "end": 235.28,
+      "text": " Y me dejé.",
+      "tokens": [
+        50413,
+        398,
+        385,
+        21259,
+        526,
+        13,
+        50415
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.40594260040420055,
+      "compression_ratio": 15.28,
+      "no_speech_prob": 0.08678539842367172,
+      "confidence": 0.995,
+      "words": [
+        {
+          "text": "Y",
+          "start": 235.22,
+          "end": 235.24,
+          "confidence": 0.983
+        },
+        {
+          "text": "me",
+          "start": 235.24,
+          "end": 235.26,
+          "confidence": 1.0
+        },
+        {
+          "text": "dejé.",
+          "start": 235.26,
+          "end": 235.28,
+          "confidence": 0.999
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "seek": 14594,
+      "start": 235.28,
+      "end": 235.34,
+      "text": " Y me dejé.",
+      "tokens": [
+        50415,
+        398,
+        385,
+        21259,
+        526,
+        13,
+        50416
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.40594260040420055,
+      "compression_ratio": 15.28,
+      "no_speech_prob": 0.08678539842367172,
+      "confidence": 0.995,
+      "words": [
+        {
+          "text": "Y",
+          "start": 235.28,
+          "end": 235.3,
+          "confidence": 0.985
+        },
+        {
+          "text": "me",
+          "start": 235.3,
+          "end": 235.32,
+          "confidence": 1.0
+        },
+        {
+          "text": "dejé.",
+          "start": 235.32,
+          "end": 235.34,
+          "confidence": 0.999
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "seek": 14594,
+      "start": 235.34,
+      "end": 235.4,
+      "text": " Y me dejé.",
+      "tokens": [
+        50416,
+        398,
+        385,
+        21259,
+        526,
+        13,
+        50418
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.40594260040420055,
+      "compression_ratio": 15.28,
+      "no_speech_prob": 0.08678539842367172,
+      "confidence": 0.995,
+      "words": [
+        {
+          "text": "Y",
+          "start": 235.34,
+          "end": 235.36,
+          "confidence": 0.985
+        },
+        {
+          "text": "me",
+          "start": 235.36,
+          "end": 235.38,
+          "confidence": 1.0
+        },
+        {
+          "text": "dejé.",
+          "start": 235.38,
+          "end": 235.4,
+          "confidence": 0.999
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "seek": 14594,
+      "start": 235.4,
+      "end": 235.46,
+      "text": " Y me dejé.",
+      "tokens": [
+        50418,
+        398,
+        385,
+        21259,
+        526,
+        13,
+        50420
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.40594260040420055,
+      "compression_ratio": 15.28,
+      "no_speech_prob": 0.08678539842367172,
+      "confidence": 0.996,
+      "words": [
+        {
+          "text": "Y",
+          "start": 235.4,
+          "end": 235.42,
+          "confidence": 0.988
+        },
+        {
+          "text": "me",
+          "start": 235.42,
+          "end": 235.44,
+          "confidence": 1.0
+        },
+        {
+          "text": "dejé.",
+          "start": 235.44,
+          "end": 235.46,
+          "confidence": 0.999
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "seek": 14594,
+      "start": 235.46,
+      "end": 235.52,
+      "text": " Y me dejé.",
+      "tokens": [
+        50420,
+        398,
+        385,
+        21259,
+        526,
+        13,
+        50439
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.40594260040420055,
+      "compression_ratio": 15.28,
+      "no_speech_prob": 0.08678539842367172,
+      "confidence": 0.996,
+      "words": [
+        {
+          "text": "Y",
+          "start": 235.46,
+          "end": 235.48,
+          "confidence": 0.986
+        },
+        {
+          "text": "me",
+          "start": 235.48,
+          "end": 235.5,
+          "confidence": 1.0
+        },
+        {
+          "text": "dejé.",
+          "start": 235.5,
+          "end": 235.52,
+          "confidence": 0.999
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "seek": 14594,
+      "start": 235.52,
+      "end": 235.58,
+      "text": " Y me dejé.",
+      "tokens": [
+        50439,
+        398,
+        385,
+        21259,
+        526,
+        13,
+        50440
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.40594260040420055,
+      "compression_ratio": 15.28,
+      "no_speech_prob": 0.08678539842367172,
+      "confidence": 0.99,
+      "words": [
+        {
+          "text": "Y",
+          "start": 235.52,
+          "end": 235.54,
+          "confidence": 0.963
+        },
+        {
+          "text": "me",
+          "start": 235.54,
+          "end": 235.56,
+          "confidence": 1.0
+        },
+        {
+          "text": "dejé.",
+          "start": 235.56,
+          "end": 235.58,
+          "confidence": 0.999
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "seek": 14594,
+      "start": 235.58,
+      "end": 235.64,
+      "text": " Y me dejé.",
+      "tokens": [
+        50440,
+        398,
+        385,
+        21259,
+        526,
+        13,
+        50443
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.40594260040420055,
+      "compression_ratio": 15.28,
+      "no_speech_prob": 0.08678539842367172,
+      "confidence": 0.99,
+      "words": [
+        {
+          "text": "Y",
+          "start": 235.58,
+          "end": 235.6,
+          "confidence": 0.963
+        },
+        {
+          "text": "me",
+          "start": 235.6,
+          "end": 235.62,
+          "confidence": 1.0
+        },
+        {
+          "text": "dejé.",
+          "start": 235.62,
+          "end": 235.64,
+          "confidence": 0.999
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "seek": 14594,
+      "start": 235.64,
+      "end": 235.7,
+      "text": " Y me dejé.",
+      "tokens": [
+        50443,
+        398,
+        385,
+        21259,
+        526,
+        13,
+        50444
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.40594260040420055,
+      "compression_ratio": 15.28,
+      "no_speech_prob": 0.08678539842367172,
+      "confidence": 0.989,
+      "words": [
+        {
+          "text": "Y",
+          "start": 235.64,
+          "end": 235.66,
+          "confidence": 0.959
+        },
+        {
+          "text": "me",
+          "start": 235.66,
+          "end": 235.68,
+          "confidence": 1.0
+        },
+        {
+          "text": "dejé.",
+          "start": 235.68,
+          "end": 235.7,
+          "confidence": 0.999
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "seek": 14594,
+      "start": 235.7,
+      "end": 235.76,
+      "text": " Y me dejé.",
+      "tokens": [
+        50444,
+        398,
+        385,
+        21259,
+        526,
+        13,
+        50447
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.40594260040420055,
+      "compression_ratio": 15.28,
+      "no_speech_prob": 0.08678539842367172,
+      "confidence": 0.986,
+      "words": [
+        {
+          "text": "Y",
+          "start": 235.7,
+          "end": 235.72,
+          "confidence": 0.947
+        },
+        {
+          "text": "me",
+          "start": 235.72,
+          "end": 235.74,
+          "confidence": 1.0
+        },
+        {
+          "text": "dejé.",
+          "start": 235.74,
+          "end": 235.76,
+          "confidence": 0.999
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "seek": 14594,
+      "start": 235.76,
+      "end": 235.82,
+      "text": " Y me dejé.",
+      "tokens": [
+        50447,
+        398,
+        385,
+        21259,
+        526,
+        13,
+        50448
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.40594260040420055,
+      "compression_ratio": 15.28,
+      "no_speech_prob": 0.08678539842367172,
+      "confidence": 0.989,
+      "words": [
+        {
+          "text": "Y",
+          "start": 235.76,
+          "end": 235.78,
+          "confidence": 0.958
+        },
+        {
+          "text": "me",
+          "start": 235.78,
+          "end": 235.8,
+          "confidence": 1.0
+        },
+        {
+          "text": "dejé.",
+          "start": 235.8,
+          "end": 235.82,
+          "confidence": 0.999
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "seek": 14594,
+      "start": 235.82,
+      "end": 235.88,
+      "text": " Y me dejé.",
+      "tokens": [
+        50448,
+        398,
+        385,
+        21259,
+        526,
+        13,
+        50451
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.40594260040420055,
+      "compression_ratio": 15.28,
+      "no_speech_prob": 0.08678539842367172,
+      "confidence": 0.985,
+      "words": [
+        {
+          "text": "Y",
+          "start": 235.82,
+          "end": 235.84,
+          "confidence": 0.945
+        },
+        {
+          "text": "me",
+          "start": 235.84,
+          "end": 235.86,
+          "confidence": 1.0
+        },
+        {
+          "text": "dejé.",
+          "start": 235.86,
+          "end": 235.88,
+          "confidence": 0.999
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "seek": 14594,
+      "start": 235.88,
+      "end": 235.94,
+      "text": " Y me dejé.",
+      "tokens": [
+        50451,
+        398,
+        385,
+        21259,
+        526,
+        13,
+        50452
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.40594260040420055,
+      "compression_ratio": 15.28,
+      "no_speech_prob": 0.08678539842367172,
+      "confidence": 0.98,
+      "words": [
+        {
+          "text": "Y",
+          "start": 235.88,
+          "end": 235.9,
+          "confidence": 0.927
+        },
+        {
+          "text": "me",
+          "start": 235.9,
+          "end": 235.92,
+          "confidence": 0.999
+        },
+        {
+          "text": "dejé.",
+          "start": 235.92,
+          "end": 235.94,
+          "confidence": 0.999
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "seek": 14594,
+      "start": 235.94,
+      "end": 236.0,
+      "text": " Y me dejé.",
+      "tokens": [
+        50452,
+        398,
+        385,
+        21259,
+        526,
+        13,
+        50454
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.40594260040420055,
+      "compression_ratio": 15.28,
+      "no_speech_prob": 0.08678539842367172,
+      "confidence": 0.977,
+      "words": [
+        {
+          "text": "Y",
+          "start": 235.94,
+          "end": 235.96,
+          "confidence": 0.913
+        },
+        {
+          "text": "me",
+          "start": 235.96,
+          "end": 235.98,
+          "confidence": 0.999
+        },
+        {
+          "text": "dejé.",
+          "start": 235.98,
+          "end": 236.0,
+          "confidence": 0.999
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "seek": 14594,
+      "start": 236.0,
+      "end": 236.06,
+      "text": " Y me dejé.",
+      "tokens": [
+        50454,
+        398,
+        385,
+        21259,
+        526,
+        13,
+        50455
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.40594260040420055,
+      "compression_ratio": 15.28,
+      "no_speech_prob": 0.08678539842367172,
+      "confidence": 0.977,
+      "words": [
+        {
+          "text": "Y",
+          "start": 236.0,
+          "end": 236.02,
+          "confidence": 0.915
+        },
+        {
+          "text": "me",
+          "start": 236.02,
+          "end": 236.04,
+          "confidence": 0.999
+        },
+        {
+          "text": "dejé.",
+          "start": 236.04,
+          "end": 236.06,
+          "confidence": 0.999
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "seek": 14594,
+      "start": 236.06,
+      "end": 236.12,
+      "text": " Y me dejé.",
+      "tokens": [
+        50455,
+        398,
+        385,
+        21259,
+        526,
+        13,
+        50458
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.40594260040420055,
+      "compression_ratio": 15.28,
+      "no_speech_prob": 0.08678539842367172,
+      "confidence": 0.981,
+      "words": [
+        {
+          "text": "Y",
+          "start": 236.06,
+          "end": 236.08,
+          "confidence": 0.928
+        },
+        {
+          "text": "me",
+          "start": 236.08,
+          "end": 236.1,
+          "confidence": 0.999
+        },
+        {
+          "text": "dejé.",
+          "start": 236.1,
+          "end": 236.12,
+          "confidence": 0.999
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "seek": 14594,
+      "start": 236.12,
+      "end": 236.2,
+      "text": " Y me dejé.",
+      "tokens": [
+        50458,
+        398,
+        385,
+        21259,
+        526,
+        13,
+        50472
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.40594260040420055,
+      "compression_ratio": 15.28,
+      "no_speech_prob": 0.08678539842367172,
+      "confidence": 0.98,
+      "words": [
+        {
+          "text": "Y",
+          "start": 236.12,
+          "end": 236.14,
+          "confidence": 0.926
+        },
+        {
+          "text": "me",
+          "start": 236.14,
+          "end": 236.16,
+          "confidence": 0.999
+        },
+        {
+          "text": "dejé.",
+          "start": 236.16,
+          "end": 236.2,
+          "confidence": 0.999
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "seek": 14594,
+      "start": 236.2,
+      "end": 236.32,
+      "text": " Y me dejé.",
+      "tokens": [
+        50472,
+        398,
+        385,
+        21259,
+        526,
+        13,
+        50474
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.40594260040420055,
+      "compression_ratio": 15.28,
+      "no_speech_prob": 0.08678539842367172,
+      "confidence": 0.986,
+      "words": [
+        {
+          "text": "Y",
+          "start": 236.2,
+          "end": 236.22,
+          "confidence": 0.948
+        },
+        {
+          "text": "me",
+          "start": 236.22,
+          "end": 236.24,
+          "confidence": 0.999
+        },
+        {
+          "text": "dejé.",
+          "start": 236.24,
+          "end": 236.32,
+          "confidence": 0.999
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "seek": 14594,
+      "start": 236.32,
+      "end": 236.38,
+      "text": " Y me dejé.",
+      "tokens": [
+        50474,
+        398,
+        385,
+        21259,
+        526,
+        13,
+        50477
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.40594260040420055,
+      "compression_ratio": 15.28,
+      "no_speech_prob": 0.08678539842367172,
+      "confidence": 0.987,
+      "words": [
+        {
+          "text": "Y",
+          "start": 236.32,
+          "end": 236.34,
+          "confidence": 0.954
+        },
+        {
+          "text": "me",
+          "start": 236.34,
+          "end": 236.36,
+          "confidence": 0.999
+        },
+        {
+          "text": "dejé.",
+          "start": 236.36,
+          "end": 236.38,
+          "confidence": 0.999
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "seek": 14594,
+      "start": 236.38,
+      "end": 236.44,
+      "text": " Y me dejé.",
+      "tokens": [
+        50477,
+        398,
+        385,
+        21259,
+        526,
+        13,
+        50480
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.40594260040420055,
+      "compression_ratio": 15.28,
+      "no_speech_prob": 0.08678539842367172,
+      "confidence": 0.989,
+      "words": [
+        {
+          "text": "Y",
+          "start": 236.38,
+          "end": 236.4,
+          "confidence": 0.96
+        },
+        {
+          "text": "me",
+          "start": 236.4,
+          "end": 236.42,
+          "confidence": 0.999
+        },
+        {
+          "text": "dejé.",
+          "start": 236.42,
+          "end": 236.44,
+          "confidence": 0.999
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "seek": 14594,
+      "start": 236.44,
+      "end": 236.5,
+      "text": " Y me dejé.",
+      "tokens": [
+        50480,
+        398,
+        385,
+        21259,
+        526,
+        13,
+        50481
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.40594260040420055,
+      "compression_ratio": 15.28,
+      "no_speech_prob": 0.08678539842367172,
+      "confidence": 0.985,
+      "words": [
+        {
+          "text": "Y",
+          "start": 236.44,
+          "end": 236.46,
+          "confidence": 0.943
+        },
+        {
+          "text": "me",
+          "start": 236.46,
+          "end": 236.48,
+          "confidence": 0.999
+        },
+        {
+          "text": "dejé.",
+          "start": 236.48,
+          "end": 236.5,
+          "confidence": 0.999
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "seek": 14594,
+      "start": 236.5,
+      "end": 236.56,
+      "text": " Y me dejé.",
+      "tokens": [
+        50481,
+        398,
+        385,
+        21259,
+        526,
+        13,
+        50484
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.40594260040420055,
+      "compression_ratio": 15.28,
+      "no_speech_prob": 0.08678539842367172,
+      "confidence": 0.987,
+      "words": [
+        {
+          "text": "Y",
+          "start": 236.5,
+          "end": 236.52,
+          "confidence": 0.952
+        },
+        {
+          "text": "me",
+          "start": 236.52,
+          "end": 236.54,
+          "confidence": 0.999
+        },
+        {
+          "text": "dejé.",
+          "start": 236.54,
+          "end": 236.56,
+          "confidence": 0.999
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "seek": 14832,
+      "start": 236.56,
+      "end": 236.62,
+      "text": " Y me dejé.",
+      "tokens": [
+        50365,
+        398,
+        385,
+        21259,
+        526,
+        13,
+        50415
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.45285889492975756,
+      "compression_ratio": 15.28,
+      "no_speech_prob": 0.024204563349485397,
+      "confidence": 0.958,
+      "words": [
+        {
+          "text": "Y",
+          "start": 236.56,
+          "end": 236.58,
+          "confidence": 0.865
+        },
+        {
+          "text": "me",
+          "start": 236.58,
+          "end": 236.6,
+          "confidence": 0.989
+        },
+        {
+          "text": "dejé.",
+          "start": 236.6,
+          "end": 236.62,
+          "confidence": 0.992
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "seek": 14832,
+      "start": 236.62,
+      "end": 237.02,
+      "text": " Y me dejé.",
+      "tokens": [
+        50415,
+        398,
+        385,
+        21259,
+        526,
+        13,
+        50418
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.45285889492975756,
+      "compression_ratio": 15.28,
+      "no_speech_prob": 0.024204563349485397,
+      "confidence": 0.99,
+      "words": [
+        {
+          "text": "Y",
+          "start": 236.62,
+          "end": 236.98,
+          "confidence": 0.977
+        },
+        {
+          "text": "me",
+          "start": 236.98,
+          "end": 237.0,
+          "confidence": 0.996
+        },
+        {
+          "text": "dejé.",
+          "start": 237.0,
+          "end": 237.02,
+          "confidence": 0.994
+        }
+      ]
+    },
+    {
+      "id": 61,
+      "seek": 14832,
+      "start": 237.02,
+      "end": 237.28,
+      "text": " Y me dejé.",
+      "tokens": [
+        50418,
+        398,
+        385,
+        21259,
+        526,
+        13,
+        50421
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.45285889492975756,
+      "compression_ratio": 15.28,
+      "no_speech_prob": 0.024204563349485397,
+      "confidence": 0.995,
+      "words": [
+        {
+          "text": "Y",
+          "start": 237.02,
+          "end": 237.08,
+          "confidence": 0.987
+        },
+        {
+          "text": "me",
+          "start": 237.08,
+          "end": 237.1,
+          "confidence": 0.999
+        },
+        {
+          "text": "dejé.",
+          "start": 237.1,
+          "end": 237.28,
+          "confidence": 0.997
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "seek": 14832,
+      "start": 237.28,
+      "end": 237.72,
+      "text": " Y me dejé.",
+      "tokens": [
+        50421,
+        398,
+        385,
+        21259,
+        526,
+        13,
+        50424
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.45285889492975756,
+      "compression_ratio": 15.28,
+      "no_speech_prob": 0.024204563349485397,
+      "confidence": 0.996,
+      "words": [
+        {
+          "text": "Y",
+          "start": 237.28,
+          "end": 237.3,
+          "confidence": 0.988
+        },
+        {
+          "text": "me",
+          "start": 237.3,
+          "end": 237.7,
+          "confidence": 0.999
+        },
+        {
+          "text": "dejé.",
+          "start": 237.7,
+          "end": 237.72,
+          "confidence": 0.998
+        }
+      ]
+    },
+    {
+      "id": 63,
+      "seek": 14832,
+      "start": 237.72,
+      "end": 237.78,
+      "text": " Y me dejé.",
+      "tokens": [
+        50424,
+        398,
+        385,
+        21259,
+        526,
+        13,
+        50426
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.45285889492975756,
+      "compression_ratio": 15.28,
+      "no_speech_prob": 0.024204563349485397,
+      "confidence": 0.996,
+      "words": [
+        {
+          "text": "Y",
+          "start": 237.72,
+          "end": 237.74,
+          "confidence": 0.989
+        },
+        {
+          "text": "me",
+          "start": 237.74,
+          "end": 237.76,
+          "confidence": 0.999
+        },
+        {
+          "text": "dejé.",
+          "start": 237.76,
+          "end": 237.78,
+          "confidence": 0.999
+        }
+      ]
+    },
+    {
+      "id": 64,
+      "seek": 14832,
+      "start": 237.78,
+      "end": 237.84,
+      "text": " Y me dejé.",
+      "tokens": [
+        50426,
+        398,
+        385,
+        21259,
+        526,
+        13,
+        50429
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.45285889492975756,
+      "compression_ratio": 15.28,
+      "no_speech_prob": 0.024204563349485397,
+      "confidence": 0.996,
+      "words": [
+        {
+          "text": "Y",
+          "start": 237.78,
+          "end": 237.8,
+          "confidence": 0.987
+        },
+        {
+          "text": "me",
+          "start": 237.8,
+          "end": 237.82,
+          "confidence": 0.999
+        },
+        {
+          "text": "dejé.",
+          "start": 237.82,
+          "end": 237.84,
+          "confidence": 0.999
+        }
+      ]
+    },
+    {
+      "id": 65,
+      "seek": 14832,
+      "start": 237.84,
+      "end": 237.9,
+      "text": " Y me dejé.",
+      "tokens": [
+        50429,
+        398,
+        385,
+        21259,
+        526,
+        13,
+        50430
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.45285889492975756,
+      "compression_ratio": 15.28,
+      "no_speech_prob": 0.024204563349485397,
+      "confidence": 0.996,
+      "words": [
+        {
+          "text": "Y",
+          "start": 237.84,
+          "end": 237.86,
+          "confidence": 0.986
+        },
+        {
+          "text": "me",
+          "start": 237.86,
+          "end": 237.88,
+          "confidence": 0.999
+        },
+        {
+          "text": "dejé.",
+          "start": 237.88,
+          "end": 237.9,
+          "confidence": 0.999
+        }
+      ]
+    },
+    {
+      "id": 66,
+      "seek": 14832,
+      "start": 237.9,
+      "end": 237.96,
+      "text": " Y me dejé.",
+      "tokens": [
+        50430,
+        398,
+        385,
+        21259,
+        526,
+        13,
+        50432
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.45285889492975756,
+      "compression_ratio": 15.28,
+      "no_speech_prob": 0.024204563349485397,
+      "confidence": 0.996,
+      "words": [
+        {
+          "text": "Y",
+          "start": 237.9,
+          "end": 237.92,
+          "confidence": 0.985
+        },
+        {
+          "text": "me",
+          "start": 237.92,
+          "end": 237.94,
+          "confidence": 0.999
+        },
+        {
+          "text": "dejé.",
+          "start": 237.94,
+          "end": 237.96,
+          "confidence": 0.999
+        }
+      ]
+    },
+    {
+      "id": 67,
+      "seek": 14832,
+      "start": 237.96,
+      "end": 238.02,
+      "text": " Y me dejé.",
+      "tokens": [
+        50432,
+        398,
+        385,
+        21259,
+        526,
+        13,
+        50433
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.45285889492975756,
+      "compression_ratio": 15.28,
+      "no_speech_prob": 0.024204563349485397,
+      "confidence": 0.997,
+      "words": [
+        {
+          "text": "Y",
+          "start": 237.96,
+          "end": 237.98,
+          "confidence": 0.989
+        },
+        {
+          "text": "me",
+          "start": 237.98,
+          "end": 238.0,
+          "confidence": 0.999
+        },
+        {
+          "text": "dejé.",
+          "start": 238.0,
+          "end": 238.02,
+          "confidence": 0.999
+        }
+      ]
+    },
+    {
+      "id": 68,
+      "seek": 14832,
+      "start": 238.02,
+      "end": 238.08,
+      "text": " Y me dejé.",
+      "tokens": [
+        50433,
+        398,
+        385,
+        21259,
+        526,
+        13,
+        50434
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.45285889492975756,
+      "compression_ratio": 15.28,
+      "no_speech_prob": 0.024204563349485397,
+      "confidence": 0.997,
+      "words": [
+        {
+          "text": "Y",
+          "start": 238.02,
+          "end": 238.04,
+          "confidence": 0.99
+        },
+        {
+          "text": "me",
+          "start": 238.04,
+          "end": 238.06,
+          "confidence": 0.999
+        },
+        {
+          "text": "dejé.",
+          "start": 238.06,
+          "end": 238.08,
+          "confidence": 0.999
+        }
+      ]
+    },
+    {
+      "id": 69,
+      "seek": 14832,
+      "start": 238.08,
+      "end": 238.14,
+      "text": " Y me dejé.",
+      "tokens": [
+        50434,
+        398,
+        385,
+        21259,
+        526,
+        13,
+        50437
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.45285889492975756,
+      "compression_ratio": 15.28,
+      "no_speech_prob": 0.024204563349485397,
+      "confidence": 0.996,
+      "words": [
+        {
+          "text": "Y",
+          "start": 238.08,
+          "end": 238.1,
+          "confidence": 0.987
+        },
+        {
+          "text": "me",
+          "start": 238.1,
+          "end": 238.12,
+          "confidence": 0.999
+        },
+        {
+          "text": "dejé.",
+          "start": 238.12,
+          "end": 238.14,
+          "confidence": 0.999
+        }
+      ]
+    },
+    {
+      "id": 70,
+      "seek": 14832,
+      "start": 238.14,
+      "end": 238.2,
+      "text": " Y me dejé.",
+      "tokens": [
+        50437,
+        398,
+        385,
+        21259,
+        526,
+        13,
+        50438
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.45285889492975756,
+      "compression_ratio": 15.28,
+      "no_speech_prob": 0.024204563349485397,
+      "confidence": 0.996,
+      "words": [
+        {
+          "text": "Y",
+          "start": 238.14,
+          "end": 238.16,
+          "confidence": 0.987
+        },
+        {
+          "text": "me",
+          "start": 238.16,
+          "end": 238.18,
+          "confidence": 0.999
+        },
+        {
+          "text": "dejé.",
+          "start": 238.18,
+          "end": 238.2,
+          "confidence": 0.999
+        }
+      ]
+    },
+    {
+      "id": 71,
+      "seek": 14832,
+      "start": 238.2,
+      "end": 238.26,
+      "text": " Y me dejé.",
+      "tokens": [
+        50438,
+        398,
+        385,
+        21259,
+        526,
+        13,
+        50453
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.45285889492975756,
+      "compression_ratio": 15.28,
+      "no_speech_prob": 0.024204563349485397,
+      "confidence": 0.995,
+      "words": [
+        {
+          "text": "Y",
+          "start": 238.2,
+          "end": 238.22,
+          "confidence": 0.984
+        },
+        {
+          "text": "me",
+          "start": 238.22,
+          "end": 238.24,
+          "confidence": 0.999
+        },
+        {
+          "text": "dejé.",
+          "start": 238.24,
+          "end": 238.26,
+          "confidence": 0.999
+        }
+      ]
+    },
+    {
+      "id": 72,
+      "seek": 14832,
+      "start": 238.26,
+      "end": 238.32,
+      "text": " Y me dejé.",
+      "tokens": [
+        50453,
+        398,
+        385,
+        21259,
+        526,
+        13,
+        50454
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.45285889492975756,
+      "compression_ratio": 15.28,
+      "no_speech_prob": 0.024204563349485397,
+      "confidence": 0.994,
+      "words": [
+        {
+          "text": "Y",
+          "start": 238.26,
+          "end": 238.28,
+          "confidence": 0.977
+        },
+        {
+          "text": "me",
+          "start": 238.28,
+          "end": 238.3,
+          "confidence": 0.999
+        },
+        {
+          "text": "dejé.",
+          "start": 238.3,
+          "end": 238.32,
+          "confidence": 0.999
+        }
+      ]
+    },
+    {
+      "id": 73,
+      "seek": 14832,
+      "start": 238.32,
+      "end": 238.38,
+      "text": " Y me dejé.",
+      "tokens": [
+        50454,
+        398,
+        385,
+        21259,
+        526,
+        13,
+        50456
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.45285889492975756,
+      "compression_ratio": 15.28,
+      "no_speech_prob": 0.024204563349485397,
+      "confidence": 0.993,
+      "words": [
+        {
+          "text": "Y",
+          "start": 238.32,
+          "end": 238.34,
+          "confidence": 0.975
+        },
+        {
+          "text": "me",
+          "start": 238.34,
+          "end": 238.36,
+          "confidence": 0.999
+        },
+        {
+          "text": "dejé.",
+          "start": 238.36,
+          "end": 238.38,
+          "confidence": 0.999
+        }
+      ]
+    },
+    {
+      "id": 74,
+      "seek": 14832,
+      "start": 238.38,
+      "end": 238.44,
+      "text": " Y me dejé.",
+      "tokens": [
+        50456,
+        398,
+        385,
+        21259,
+        526,
+        13,
+        50459
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.45285889492975756,
+      "compression_ratio": 15.28,
+      "no_speech_prob": 0.024204563349485397,
+      "confidence": 0.992,
+      "words": [
+        {
+          "text": "Y",
+          "start": 238.38,
+          "end": 238.4,
+          "confidence": 0.97
+        },
+        {
+          "text": "me",
+          "start": 238.4,
+          "end": 238.42,
+          "confidence": 0.999
+        },
+        {
+          "text": "dejé.",
+          "start": 238.42,
+          "end": 238.44,
+          "confidence": 0.999
+        }
+      ]
+    },
+    {
+      "id": 75,
+      "seek": 14832,
+      "start": 238.44,
+      "end": 238.5,
+      "text": " Y me dejé.",
+      "tokens": [
+        50459,
+        398,
+        385,
+        21259,
+        526,
+        13,
+        50460
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.45285889492975756,
+      "compression_ratio": 15.28,
+      "no_speech_prob": 0.024204563349485397,
+      "confidence": 0.992,
+      "words": [
+        {
+          "text": "Y",
+          "start": 238.44,
+          "end": 238.46,
+          "confidence": 0.97
+        },
+        {
+          "text": "me",
+          "start": 238.46,
+          "end": 238.48,
+          "confidence": 0.999
+        },
+        {
+          "text": "dejé.",
+          "start": 238.48,
+          "end": 238.5,
+          "confidence": 0.999
+        }
+      ]
+    },
+    {
+      "id": 76,
+      "seek": 14832,
+      "start": 238.5,
+      "end": 238.56,
+      "text": " Y me dejé.",
+      "tokens": [
+        50460,
+        398,
+        385,
+        21259,
+        526,
+        13,
+        50464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.45285889492975756,
+      "compression_ratio": 15.28,
+      "no_speech_prob": 0.024204563349485397,
+      "confidence": 0.99,
+      "words": [
+        {
+          "text": "Y",
+          "start": 238.5,
+          "end": 238.52,
+          "confidence": 0.965
+        },
+        {
+          "text": "me",
+          "start": 238.52,
+          "end": 238.54,
+          "confidence": 0.999
+        },
+        {
+          "text": "dejé.",
+          "start": 238.54,
+          "end": 238.56,
+          "confidence": 0.999
+        }
+      ]
+    },
+    {
+      "id": 77,
+      "seek": 14832,
+      "start": 238.56,
+      "end": 238.62,
+      "text": " Y me dejé.",
+      "tokens": [
+        50464,
+        398,
+        385,
+        21259,
+        526,
+        13,
+        50465
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.45285889492975756,
+      "compression_ratio": 15.28,
+      "no_speech_prob": 0.024204563349485397,
+      "confidence": 0.99,
+      "words": [
+        {
+          "text": "Y",
+          "start": 238.56,
+          "end": 238.58,
+          "confidence": 0.963
+        },
+        {
+          "text": "me",
+          "start": 238.58,
+          "end": 238.6,
+          "confidence": 0.999
+        },
+        {
+          "text": "dejé.",
+          "start": 238.6,
+          "end": 238.62,
+          "confidence": 0.999
+        }
+      ]
+    },
+    {
+      "id": 78,
+      "seek": 14832,
+      "start": 238.62,
+      "end": 238.68,
+      "text": " Y me dejé.",
+      "tokens": [
+        50465,
+        398,
+        385,
+        21259,
+        526,
+        13,
+        50468
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.45285889492975756,
+      "compression_ratio": 15.28,
+      "no_speech_prob": 0.024204563349485397,
+      "confidence": 0.988,
+      "words": [
+        {
+          "text": "Y",
+          "start": 238.62,
+          "end": 238.64,
+          "confidence": 0.955
+        },
+        {
+          "text": "me",
+          "start": 238.64,
+          "end": 238.66,
+          "confidence": 0.999
+        },
+        {
+          "text": "dejé.",
+          "start": 238.66,
+          "end": 238.68,
+          "confidence": 0.999
+        }
+      ]
+    },
+    {
+      "id": 79,
+      "seek": 14832,
+      "start": 238.68,
+      "end": 238.74,
+      "text": " Y me dejé.",
+      "tokens": [
+        50468,
+        398,
+        385,
+        21259,
+        526,
+        13,
+        50470
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.45285889492975756,
+      "compression_ratio": 15.28,
+      "no_speech_prob": 0.024204563349485397,
+      "confidence": 0.983,
+      "words": [
+        {
+          "text": "Y",
+          "start": 238.68,
+          "end": 238.7,
+          "confidence": 0.938
+        },
+        {
+          "text": "me",
+          "start": 238.7,
+          "end": 238.72,
+          "confidence": 0.999
+        },
+        {
+          "text": "dejé.",
+          "start": 238.72,
+          "end": 238.74,
+          "confidence": 0.999
+        }
+      ]
+    },
+    {
+      "id": 80,
+      "seek": 14832,
+      "start": 238.74,
+      "end": 238.8,
+      "text": " Y me dejé.",
+      "tokens": [
+        50470,
+        398,
+        385,
+        21259,
+        526,
+        13,
+        50473
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.45285889492975756,
+      "compression_ratio": 15.28,
+      "no_speech_prob": 0.024204563349485397,
+      "confidence": 0.982,
+      "words": [
+        {
+          "text": "Y",
+          "start": 238.74,
+          "end": 238.76,
+          "confidence": 0.933
+        },
+        {
+          "text": "me",
+          "start": 238.76,
+          "end": 238.78,
+          "confidence": 0.999
+        },
+        {
+          "text": "dejé.",
+          "start": 238.78,
+          "end": 238.8,
+          "confidence": 0.999
+        }
+      ]
+    },
+    {
+      "id": 81,
+      "seek": 14832,
+      "start": 238.8,
+      "end": 238.86,
+      "text": " Y me dejé.",
+      "tokens": [
+        50473,
+        398,
+        385,
+        21259,
+        526,
+        13,
+        50476
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.45285889492975756,
+      "compression_ratio": 15.28,
+      "no_speech_prob": 0.024204563349485397,
+      "confidence": 0.982,
+      "words": [
+        {
+          "text": "Y",
+          "start": 238.8,
+          "end": 238.82,
+          "confidence": 0.933
+        },
+        {
+          "text": "me",
+          "start": 238.82,
+          "end": 238.84,
+          "confidence": 0.999
+        },
+        {
+          "text": "dejé.",
+          "start": 238.84,
+          "end": 238.86,
+          "confidence": 0.999
+        }
+      ]
+    },
+    {
+      "id": 82,
+      "seek": 14832,
+      "start": 238.86,
+      "end": 238.92,
+      "text": " Y me dejé.",
+      "tokens": [
+        50476,
+        398,
+        385,
+        21259,
+        526,
+        13,
+        50479
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.45285889492975756,
+      "compression_ratio": 15.28,
+      "no_speech_prob": 0.024204563349485397,
+      "confidence": 0.983,
+      "words": [
+        {
+          "text": "Y",
+          "start": 238.86,
+          "end": 238.88,
+          "confidence": 0.937
+        },
+        {
+          "text": "me",
+          "start": 238.88,
+          "end": 238.9,
+          "confidence": 0.999
+        },
+        {
+          "text": "dejé.",
+          "start": 238.9,
+          "end": 238.92,
+          "confidence": 0.999
+        }
+      ]
+    },
+    {
+      "id": 83,
+      "seek": 14832,
+      "start": 238.92,
+      "end": 238.98,
+      "text": " Y me dejé.",
+      "tokens": [
+        50479,
+        398,
+        385,
+        21259,
+        526,
+        13,
+        50480
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.45285889492975756,
+      "compression_ratio": 15.28,
+      "no_speech_prob": 0.024204563349485397,
+      "confidence": 0.983,
+      "words": [
+        {
+          "text": "Y",
+          "start": 238.92,
+          "end": 238.94,
+          "confidence": 0.934
+        },
+        {
+          "text": "me",
+          "start": 238.94,
+          "end": 238.96,
+          "confidence": 0.999
+        },
+        {
+          "text": "dejé.",
+          "start": 238.96,
+          "end": 238.98,
+          "confidence": 0.999
+        }
+      ]
+    },
+    {
+      "id": 84,
+      "seek": 14832,
+      "start": 238.98,
+      "end": 239.04,
+      "text": " Y me dejé.",
+      "tokens": [
+        50480,
+        398,
+        385,
+        21259,
+        526,
+        13,
+        50497
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.45285889492975756,
+      "compression_ratio": 15.28,
+      "no_speech_prob": 0.024204563349485397,
+      "confidence": 0.973,
+      "words": [
+        {
+          "text": "Y",
+          "start": 238.98,
+          "end": 239.0,
+          "confidence": 0.9
+        },
+        {
+          "text": "me",
+          "start": 239.0,
+          "end": 239.02,
+          "confidence": 0.999
+        },
+        {
+          "text": "dejé.",
+          "start": 239.02,
+          "end": 239.04,
+          "confidence": 0.999
+        }
+      ]
+    },
+    {
+      "id": 85,
+      "seek": 14832,
+      "start": 239.04,
+      "end": 239.22,
+      "text": " Y me dejé.",
+      "tokens": [
+        50497,
+        398,
+        385,
+        21259,
+        526,
+        13,
+        50498
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.45285889492975756,
+      "compression_ratio": 15.28,
+      "no_speech_prob": 0.024204563349485397,
+      "confidence": 0.986,
+      "words": [
+        {
+          "text": "Y",
+          "start": 239.04,
+          "end": 239.06,
+          "confidence": 0.947
+        },
+        {
+          "text": "me",
+          "start": 239.06,
+          "end": 239.08,
+          "confidence": 0.999
+        },
+        {
+          "text": "dejé.",
+          "start": 239.08,
+          "end": 239.22,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "id": 86,
+      "seek": 14832,
+      "start": 239.22,
+      "end": 239.28,
+      "text": " Y me dejé.",
+      "tokens": [
+        50498,
+        398,
+        385,
+        21259,
+        526,
+        13,
+        50500
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.45285889492975756,
+      "compression_ratio": 15.28,
+      "no_speech_prob": 0.024204563349485397,
+      "confidence": 0.987,
+      "words": [
+        {
+          "text": "Y",
+          "start": 239.22,
+          "end": 239.24,
+          "confidence": 0.952
+        },
+        {
+          "text": "me",
+          "start": 239.24,
+          "end": 239.26,
+          "confidence": 0.999
+        },
+        {
+          "text": "dejé.",
+          "start": 239.26,
+          "end": 239.28,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "id": 87,
+      "seek": 14832,
+      "start": 239.28,
+      "end": 239.34,
+      "text": " Y me dejé.",
+      "tokens": [
+        50500,
+        398,
+        385,
+        21259,
+        526,
+        13,
+        50503
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.45285889492975756,
+      "compression_ratio": 15.28,
+      "no_speech_prob": 0.024204563349485397,
+      "confidence": 0.989,
+      "words": [
+        {
+          "text": "Y",
+          "start": 239.28,
+          "end": 239.3,
+          "confidence": 0.958
+        },
+        {
+          "text": "me",
+          "start": 239.3,
+          "end": 239.32,
+          "confidence": 0.999
+        },
+        {
+          "text": "dejé.",
+          "start": 239.32,
+          "end": 239.34,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "id": 88,
+      "seek": 14832,
+      "start": 239.34,
+      "end": 239.4,
+      "text": " Y me dejé.",
+      "tokens": [
+        50503,
+        398,
+        385,
+        21259,
+        526,
+        13,
+        50504
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.45285889492975756,
+      "compression_ratio": 15.28,
+      "no_speech_prob": 0.024204563349485397,
+      "confidence": 0.989,
+      "words": [
+        {
+          "text": "Y",
+          "start": 239.34,
+          "end": 239.36,
+          "confidence": 0.959
+        },
+        {
+          "text": "me",
+          "start": 239.36,
+          "end": 239.38,
+          "confidence": 0.999
+        },
+        {
+          "text": "dejé.",
+          "start": 239.38,
+          "end": 239.4,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "id": 89,
+      "seek": 14832,
+      "start": 239.4,
+      "end": 239.46,
+      "text": " Y me dejé.",
+      "tokens": [
+        50504,
+        398,
+        385,
+        21259,
+        526,
+        13,
+        50506
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.45285889492975756,
+      "compression_ratio": 15.28,
+      "no_speech_prob": 0.024204563349485397,
+      "confidence": 0.988,
+      "words": [
+        {
+          "text": "Y",
+          "start": 239.4,
+          "end": 239.42,
+          "confidence": 0.954
+        },
+        {
+          "text": "me",
+          "start": 239.42,
+          "end": 239.44,
+          "confidence": 0.999
+        },
+        {
+          "text": "dejé.",
+          "start": 239.44,
+          "end": 239.46,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "id": 90,
+      "seek": 15114,
+      "start": 296.39,
+      "end": 296.71,
+      "text": " Y me dejé.",
+      "tokens": [
+        50365,
+        398,
+        385,
+        21259,
+        526,
+        13,
+        51864
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6431607604026794,
+      "compression_ratio": 0.5789473684210527,
+      "no_speech_prob": 0.022449005395174026,
+      "confidence": 0.973,
+      "words": [
+        {
+          "text": "Y",
+          "start": 296.39,
+          "end": 296.41,
+          "confidence": 0.914
+        },
+        {
+          "text": "me",
+          "start": 296.41,
+          "end": 296.53,
+          "confidence": 0.994
+        },
+        {
+          "text": "dejé.",
+          "start": 296.53,
+          "end": 296.71,
+          "confidence": 0.993
         }
       ]
     }
   ],
   "language": "es",
   "language_probs": {
-    "en": 0.29635676741600037,
-    "zh": 0.0009808129398152232,
-    "de": 0.00422730203717947,
-    "es": 0.5623862743377686,
-    "ru": 0.0032666060142219067,
-    "ko": 0.0023163703735917807,
-    "fr": 0.007959581911563873,
-    "ja": 0.0016815046546980739,
-    "pt": 0.014300779439508915,
-    "tr": 0.0013724040472880006,
-    "pl": 0.005513441748917103,
-    "ca": 0.0021930953953415155,
-    "nl": 0.005644188728183508,
-    "ar": 0.003423373680561781,
-    "sv": 0.0018039910355582833,
-    "it": 0.05070066079497337,
-    "id": 0.0006332604098133743,
-    "hi": 0.0001208598623634316,
-    "fi": 0.0006482777534984052,
-    "vi": 0.00042184238554909825,
-    "he": 0.00020720202883239836,
-    "uk": 8.177787822205573e-05,
-    "el": 0.0017899523954838514,
-    "ms": 0.00043184609967283905,
-    "cs": 0.00019926423556171358,
-    "ro": 0.0007345949416048825,
-    "da": 0.0001515922340331599,
-    "hu": 0.000728878250811249,
-    "ta": 5.1576662372099236e-05,
-    "no": 0.00010019634646596387,
-    "th": 6.077215221012011e-05,
-    "ur": 7.445960363838822e-05,
-    "hr": 9.194533777190372e-05,
-    "bg": 4.411585541674867e-05,
-    "lt": 3.3622166029090295e-06,
-    "la": 0.006150688044726849,
-    "mi": 0.00043864670442417264,
-    "ml": 7.160710083553568e-05,
-    "cy": 0.004002328962087631,
-    "sk": 2.9850281862309203e-05,
-    "te": 3.5448087146505713e-05,
-    "fa": 3.40900915034581e-05,
-    "lv": 8.962680112745147e-06,
-    "bn": 1.635660373722203e-05,
-    "sr": 9.175222658086568e-06,
-    "az": 2.162347300327383e-06,
-    "sl": 9.051985398400575e-05,
-    "kn": 5.299059466778999e-07,
-    "et": 1.1154234925925266e-05,
-    "mk": 4.1355974644829985e-06,
-    "br": 0.0004056818434037268,
-    "eu": 0.0002366321423323825,
-    "is": 4.3772542994702235e-05,
-    "hy": 2.680593070181203e-06,
-    "ne": 2.3563923150504706e-06,
-    "mn": 4.436848030309193e-06,
-    "bs": 5.798920028610155e-05,
-    "kk": 9.48356785102078e-07,
-    "sq": 8.619324944447726e-06,
-    "sw": 2.1167017621337436e-05,
-    "gl": 0.006915404926985502,
-    "mr": 1.3584584621639806e-06,
-    "pa": 3.3947048905247357e-07,
-    "si": 2.0040530216647312e-05,
-    "km": 0.0005765901878476143,
-    "sn": 0.0002538692206144333,
-    "yo": 9.194533777190372e-05,
-    "so": 2.9150095315344515e-07,
-    "af": 8.2246169768041e-06,
-    "oc": 0.0004780101007781923,
-    "ka": 7.299763069568144e-07,
-    "be": 1.7008176655508578e-05,
-    "tg": 1.63173794476279e-08,
-    "sd": 6.608665898966137e-06,
-    "gu": 8.094689718518566e-08,
-    "am": 1.273473344554077e-07,
-    "yi": 3.83285187126603e-05,
-    "lo": 2.63903416453104e-06,
-    "uz": 2.6894778071273606e-10,
-    "fo": 2.28870030696271e-05,
-    "ht": 5.798920028610155e-05,
-    "ps": 1.563576006446965e-06,
-    "tk": 3.408638260538055e-09,
-    "nn": 0.005020045209676027,
-    "mt": 3.593069095586543e-06,
-    "sa": 5.405187766882591e-05,
-    "lb": 1.494445278638068e-08,
-    "my": 2.7392157790018246e-05,
-    "bo": 2.412272579022101e-06,
-    "tl": 0.000537441170308739,
-    "mg": 1.8370275300938488e-09,
-    "as": 8.534287303518795e-07,
-    "tt": 7.6403372517575e-09,
-    "haw": 0.001483922591432929,
-    "ln": 2.071401922876248e-06,
-    "ha": 2.3564876716619665e-09,
-    "ba": 4.894583405246067e-09,
-    "jw": 0.0019812965765595436,
-    "su": 3.550148619524407e-08
+    "en": 0.423789381980896,
+    "zh": 0.0016143366228789091,
+    "de": 0.003210491966456175,
+    "es": 0.5111875534057617,
+    "ru": 0.008795468136668205,
+    "ko": 0.0029231859371066093,
+    "fr": 0.005768208764493465,
+    "ja": 0.0029004374518990517,
+    "pt": 0.010363593697547913,
+    "tr": 0.0008708693785592914,
+    "pl": 0.0012281225062906742,
+    "ca": 0.0009126631775870919,
+    "nl": 0.0013279169797897339,
+    "ar": 0.000667718646582216,
+    "sv": 0.0007507362752221525,
+    "it": 0.01310081034898758,
+    "id": 0.00030570387025363743,
+    "hi": 0.0002894346253015101,
+    "fi": 0.0003956102009397,
+    "vi": 0.00045180105371400714,
+    "he": 4.706469553639181e-05,
+    "uk": 0.0001294431567657739,
+    "el": 0.0005578997661359608,
+    "ms": 0.00013251282507553697,
+    "cs": 0.00015015670214779675,
+    "ro": 0.00027834653155878186,
+    "da": 7.261103019118309e-05,
+    "hu": 0.00017831550212576985,
+    "ta": 0.00013251282507553697,
+    "no": 7.28952290955931e-05,
+    "th": 0.00011423318937886506,
+    "ur": 2.609332113934215e-05,
+    "hr": 2.609332113934215e-05,
+    "bg": 1.6392690667998977e-05,
+    "lt": 1.385805899190018e-05,
+    "la": 0.0011903371196240187,
+    "mi": 0.00012255430920049548,
+    "ml": 2.5290513804065995e-05,
+    "cy": 0.00231243041343987,
+    "sk": 1.435392096027499e-05,
+    "te": 1.1266522051300853e-05,
+    "fa": 3.978756285505369e-05,
+    "lv": 8.242763215093873e-06,
+    "bn": 2.3851227524573915e-05,
+    "sr": 1.2789691936632153e-06,
+    "az": 6.077832949813455e-06,
+    "sl": 2.3207880076370202e-05,
+    "kn": 4.873418788520212e-07,
+    "et": 1.1091850865341257e-05,
+    "mk": 5.426083475867927e-07,
+    "br": 8.758562034927309e-05,
+    "eu": 6.090623719501309e-05,
+    "is": 1.588834129506722e-05,
+    "hy": 3.686391664814437e-06,
+    "ne": 4.9994887376669794e-06,
+    "mn": 1.5517971405643038e-06,
+    "bs": 7.245852884807391e-06,
+    "kk": 1.9124747723253677e-06,
+    "sq": 1.4074189493840095e-06,
+    "sw": 1.5101656572369393e-05,
+    "gl": 0.00028718222165480256,
+    "mr": 2.417594714643201e-06,
+    "pa": 7.742203820271243e-07,
+    "si": 1.9773360691033304e-05,
+    "km": 0.0005000982200726867,
+    "sn": 0.00010081043728860095,
+    "yo": 1.3484261216945015e-05,
+    "so": 3.4818354865961965e-09,
+    "af": 1.9124747723253677e-06,
+    "oc": 1.1807213013526052e-05,
+    "ka": 3.240062085296813e-07,
+    "be": 7.804091183061246e-06,
+    "tg": 6.757449710903529e-09,
+    "sd": 9.284320299229876e-07,
+    "gu": 2.1901961133607983e-07,
+    "am": 3.9320813272070154e-08,
+    "yi": 1.8464073718860163e-06,
+    "lo": 1.0216765531367855e-06,
+    "uz": 1.2684479022695427e-09,
+    "fo": 1.113359985538409e-06,
+    "ht": 2.4365560875594383e-06,
+    "ps": 6.700318522234738e-07,
+    "tk": 2.9607729601366373e-09,
+    "nn": 0.0012572465930134058,
+    "mt": 2.8040403776685707e-07,
+    "sa": 1.306939338974189e-05,
+    "lb": 4.270202413891866e-09,
+    "my": 5.776898433396127e-06,
+    "bo": 5.936153684160672e-07,
+    "tl": 0.00020847193081863225,
+    "mg": 4.195796154959908e-09,
+    "as": 7.654598732642626e-08,
+    "tt": 4.224576244382661e-09,
+    "haw": 0.00027834653155878186,
+    "ln": 2.1583468878816348e-07,
+    "ha": 7.040373173339276e-09,
+    "ba": 3.427854888826687e-09,
+    "jw": 0.000484711752505973,
+    "su": 1.2123167358879527e-08,
+    "yue": 2.9853310934413457e-06
   },
   "speech_activity": [
     {

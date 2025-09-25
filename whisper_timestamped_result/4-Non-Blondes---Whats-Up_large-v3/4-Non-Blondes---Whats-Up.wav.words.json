@@ -1,14 +1,14 @@
 {
-  "text": " 25 years and my life is still trying to get up that great big healer of hope for a destination. I realized quickly when I knew I should that the world was made up of this brotherhood of man for whatever that means. In Sui Christ sometimes when I'm lying in bed just to get it all out what's in my head and I, I didn't feel any, a little peculiar. In Sui wake in the morning and I step outside and I take a deep breath and I get real high and I scream for the top of my lungs what? In I said hey, hey, hey, hey, hey, I said hey. In I said hey, hey, hey, hey, hey, I said hey. In Sui Christ sometimes when I'm lying in bed just to get it all out what's in my head and I scream for the top of my lungs what? In Sui wake in the morning and I step outside and I take a deep breath and I get real high and I scream for the top of my lungs what? In I said hey, hey, hey, hey, I said hey. In I said hey, hey, hey, hey, I said hey. What's going on? In I said hey, hey, hey, hey, I said hey. 25 years and my life is still done to get up that great big healer of hope for a destination.",
+  "text": " 25 years and my life is still trying to get up that great big hill of hope for a destination. I realized quickly when I knew I should that the world was made up of this brotherhood of man. For whatever that means. And so I cry sometimes when I'm lying in bed just to get it all out what's in my head. And I, I am feeling a little peculiar. And so I wake in the morning and I step outside and I take a deep breath and I get real high. And I scream from the top of my lungs. And I say, hey, hey, hey, hey, hey. I said, hey. And I say, hey, hey, hey, hey, hey. I said, hey. And so I cry sometimes when I'm lying in bed just to get it all out what's in my head. I'm feeling a little peculiar. And so I wake in the morning and I step outside and I take a deep breath and I get real high. And I scream from the top of my lungs. And I say. Hey, hey, hey, hey, hey. I said, hey. And I say, hey. I said, hey. What's going? And I say, hey. I said, hey. And I say, hey. Twenty-five years and my life is still trying to get up that great big hill of hope for a destination.",
   "segments": [
     {
       "id": 0,
       "seek": 0,
-      "start": 29.88,
-      "end": 40.23,
-      "text": " 25 years and my life is still trying to get up that great big healer of hope for a destination.",
+      "start": 29.52,
+      "end": 39.81,
+      "text": " 25 years and my life is still trying to get up that great big hill of hope for a destination.",
       "tokens": [
-        50364,
+        50365,
         3552,
         924,
         293,
@@ -23,152 +23,151 @@
         300,
         869,
         955,
-        10526,
-        260,
+        10997,
         295,
         1454,
         337,
         257,
         12236,
         13,
-        50914
+        50877
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.2205063303311666,
-      "compression_ratio": 1.3404255319148937,
-      "no_speech_prob": 0.3380860984325409,
-      "confidence": 0.84,
+      "avg_logprob": -0.2226757916537198,
+      "compression_ratio": 1.3741935483870968,
+      "no_speech_prob": 0.19768241047859192,
+      "confidence": 0.93,
       "words": [
         {
           "text": "25",
-          "start": 29.88,
-          "end": 30.34,
-          "confidence": 0.715
+          "start": 29.52,
+          "end": 30.22,
+          "confidence": 0.714
         },
         {
           "text": "years",
-          "start": 30.34,
-          "end": 30.82,
-          "confidence": 0.978
+          "start": 30.22,
+          "end": 30.72,
+          "confidence": 0.979
         },
         {
           "text": "and",
-          "start": 30.82,
-          "end": 31.16,
-          "confidence": 0.743
+          "start": 30.72,
+          "end": 30.98,
+          "confidence": 0.88
         },
         {
           "text": "my",
-          "start": 31.16,
-          "end": 31.34,
-          "confidence": 0.991
+          "start": 30.98,
+          "end": 31.2,
+          "confidence": 0.996
         },
         {
           "text": "life",
-          "start": 31.34,
-          "end": 31.56,
-          "confidence": 0.847
+          "start": 31.2,
+          "end": 31.54,
+          "confidence": 0.977
         },
         {
           "text": "is",
-          "start": 31.56,
-          "end": 31.88,
-          "confidence": 0.984
+          "start": 31.54,
+          "end": 31.78,
+          "confidence": 0.992
         },
         {
           "text": "still",
-          "start": 31.88,
-          "end": 32.36,
-          "confidence": 0.991
+          "start": 31.78,
+          "end": 32.28,
+          "confidence": 0.99
         },
         {
           "text": "trying",
-          "start": 32.36,
-          "end": 33.44,
-          "confidence": 0.595
+          "start": 32.28,
+          "end": 33.38,
+          "confidence": 0.639
         },
         {
           "text": "to",
-          "start": 33.44,
-          "end": 33.78,
-          "confidence": 0.966
+          "start": 33.38,
+          "end": 33.64,
+          "confidence": 0.989
         },
         {
           "text": "get",
-          "start": 33.78,
-          "end": 34.02,
-          "confidence": 0.985
+          "start": 33.64,
+          "end": 33.96,
+          "confidence": 0.996
         },
         {
           "text": "up",
-          "start": 34.02,
+          "start": 33.96,
           "end": 34.16,
-          "confidence": 0.938
+          "confidence": 0.99
         },
         {
           "text": "that",
           "start": 34.16,
-          "end": 34.62,
-          "confidence": 0.918
+          "end": 34.58,
+          "confidence": 0.978
         },
         {
           "text": "great",
-          "start": 34.62,
-          "end": 35.14,
-          "confidence": 0.862
+          "start": 34.58,
+          "end": 35.08,
+          "confidence": 0.967
         },
         {
           "text": "big",
-          "start": 35.14,
-          "end": 35.5,
-          "confidence": 0.94
+          "start": 35.08,
+          "end": 35.46,
+          "confidence": 0.989
         },
         {
-          "text": "healer",
-          "start": 35.5,
-          "end": 36.34,
-          "confidence": 0.754
+          "text": "hill",
+          "start": 35.46,
+          "end": 35.86,
+          "confidence": 0.974
         },
         {
           "text": "of",
-          "start": 36.34,
-          "end": 36.58,
-          "confidence": 0.944
+          "start": 35.86,
+          "end": 36.3,
+          "confidence": 0.994
         },
         {
           "text": "hope",
-          "start": 36.58,
-          "end": 37.0,
-          "confidence": 0.988
+          "start": 36.3,
+          "end": 36.9,
+          "confidence": 0.989
         },
         {
           "text": "for",
-          "start": 38.54,
-          "end": 39.25,
-          "confidence": 0.477
+          "start": 36.9,
+          "end": 37.65,
+          "confidence": 0.8
         },
         {
           "text": "a",
-          "start": 39.25,
-          "end": 39.47,
-          "confidence": 0.853
+          "start": 38.99,
+          "end": 39.33,
+          "confidence": 0.977
         },
         {
           "text": "destination.",
-          "start": 39.47,
-          "end": 40.23,
-          "confidence": 0.701
+          "start": 39.33,
+          "end": 39.81,
+          "confidence": 0.906
         }
       ]
     },
     {
       "id": 1,
       "seek": 0,
-      "start": 43.7,
-      "end": 51.3,
-      "text": " I realized quickly when I knew I should that the world was made up of this brotherhood of man",
+      "start": 43.46,
+      "end": 51.12,
+      "text": " I realized quickly when I knew I should that the world was made up of this brotherhood of man.",
       "tokens": [
-        50914,
+        50930,
         286,
         5334,
         2661,
@@ -189,189 +188,190 @@
         3809,
         295,
         587,
-        51364
+        13,
+        51349
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.2205063303311666,
-      "compression_ratio": 1.3404255319148937,
-      "no_speech_prob": 0.3380860984325409,
-      "confidence": 0.948,
+      "avg_logprob": -0.2226757916537198,
+      "compression_ratio": 1.3741935483870968,
+      "no_speech_prob": 0.19768241047859192,
+      "confidence": 0.991,
       "words": [
         {
           "text": "I",
-          "start": 43.7,
-          "end": 43.88,
-          "confidence": 0.991
+          "start": 43.46,
+          "end": 43.76,
+          "confidence": 0.998
         },
         {
           "text": "realized",
-          "start": 43.88,
-          "end": 44.28,
-          "confidence": 0.938
-        },
-        {
-          "text": "quickly",
-          "start": 44.28,
-          "end": 45.06,
-          "confidence": 0.986
-        },
-        {
-          "text": "when",
-          "start": 45.06,
-          "end": 45.54,
-          "confidence": 0.961
-        },
-        {
-          "text": "I",
-          "start": 45.54,
-          "end": 45.72,
-          "confidence": 0.99
-        },
-        {
-          "text": "knew",
-          "start": 45.72,
-          "end": 45.96,
+          "start": 43.76,
+          "end": 44.2,
           "confidence": 0.996
         },
         {
+          "text": "quickly",
+          "start": 44.2,
+          "end": 44.92,
+          "confidence": 1.0
+        },
+        {
+          "text": "when",
+          "start": 44.92,
+          "end": 45.42,
+          "confidence": 1.0
+        },
+        {
           "text": "I",
-          "start": 45.96,
-          "end": 46.26,
-          "confidence": 0.986
+          "start": 45.42,
+          "end": 45.6,
+          "confidence": 1.0
+        },
+        {
+          "text": "knew",
+          "start": 45.6,
+          "end": 45.92,
+          "confidence": 1.0
+        },
+        {
+          "text": "I",
+          "start": 45.92,
+          "end": 46.18,
+          "confidence": 1.0
         },
         {
           "text": "should",
-          "start": 46.26,
-          "end": 46.68,
-          "confidence": 0.969
+          "start": 46.18,
+          "end": 46.58,
+          "confidence": 1.0
         },
         {
           "text": "that",
-          "start": 46.68,
-          "end": 47.08,
-          "confidence": 0.776
+          "start": 46.58,
+          "end": 46.88,
+          "confidence": 0.977
         },
         {
           "text": "the",
-          "start": 47.08,
-          "end": 47.3,
-          "confidence": 0.989
+          "start": 46.88,
+          "end": 47.16,
+          "confidence": 1.0
         },
         {
           "text": "world",
-          "start": 47.3,
-          "end": 47.66,
-          "confidence": 0.972
+          "start": 47.16,
+          "end": 47.6,
+          "confidence": 1.0
         },
         {
           "text": "was",
-          "start": 47.66,
-          "end": 48.06,
-          "confidence": 0.984
+          "start": 47.6,
+          "end": 48.04,
+          "confidence": 1.0
         },
         {
           "text": "made",
-          "start": 48.06,
-          "end": 48.42,
-          "confidence": 0.993
+          "start": 48.04,
+          "end": 48.34,
+          "confidence": 1.0
         },
         {
           "text": "up",
-          "start": 48.42,
-          "end": 48.68,
-          "confidence": 0.988
+          "start": 48.34,
+          "end": 48.64,
+          "confidence": 1.0
         },
         {
           "text": "of",
-          "start": 48.68,
+          "start": 48.64,
           "end": 48.88,
-          "confidence": 0.979
+          "confidence": 1.0
         },
         {
           "text": "this",
           "start": 48.88,
-          "end": 49.18,
-          "confidence": 0.969
+          "end": 49.1,
+          "confidence": 1.0
         },
         {
           "text": "brotherhood",
-          "start": 49.18,
-          "end": 50.28,
-          "confidence": 0.879
+          "start": 49.1,
+          "end": 50.26,
+          "confidence": 0.994
         },
         {
           "text": "of",
-          "start": 50.28,
-          "end": 50.76,
-          "confidence": 0.861
+          "start": 50.26,
+          "end": 50.58,
+          "confidence": 0.918
         },
         {
-          "text": "man",
-          "start": 50.76,
-          "end": 51.3,
-          "confidence": 0.912
+          "text": "man.",
+          "start": 50.58,
+          "end": 51.12,
+          "confidence": 0.942
         }
       ]
     },
     {
       "id": 2,
-      "seek": 2000,
-      "start": 52.88,
-      "end": 54.86,
-      "text": " for whatever that means.",
+      "seek": 0,
+      "start": 53.24,
+      "end": 54.74,
+      "text": " For whatever that means.",
       "tokens": [
-        50364,
-        337,
+        51402,
+        1171,
         2035,
         300,
         1355,
         13,
-        50514
+        51498
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.2748369375864665,
-      "compression_ratio": 1.4879518072289157,
-      "no_speech_prob": 0.779705822467804,
-      "confidence": 0.796,
+      "avg_logprob": -0.2226757916537198,
+      "compression_ratio": 1.3741935483870968,
+      "no_speech_prob": 0.19768241047859192,
+      "confidence": 0.988,
       "words": [
         {
-          "text": "for",
-          "start": 52.88,
-          "end": 53.54,
-          "confidence": 0.419
+          "text": "For",
+          "start": 53.24,
+          "end": 53.38,
+          "confidence": 0.952
         },
         {
           "text": "whatever",
-          "start": 53.54,
-          "end": 54.0,
-          "confidence": 0.976
+          "start": 53.38,
+          "end": 53.86,
+          "confidence": 1.0
         },
         {
           "text": "that",
-          "start": 54.0,
-          "end": 54.44,
-          "confidence": 0.988
+          "start": 53.86,
+          "end": 54.3,
+          "confidence": 1.0
         },
         {
           "text": "means.",
-          "start": 54.44,
-          "end": 54.86,
-          "confidence": 0.995
+          "start": 54.3,
+          "end": 54.74,
+          "confidence": 1.0
         }
       ]
     },
     {
       "id": 3,
-      "seek": 2000,
-      "start": 57.61,
-      "end": 64.73,
-      "text": " In Sui Christ sometimes when I'm lying in bed just to get it all out what's in my head",
+      "seek": 2266,
+      "start": 57.39,
+      "end": 64.45,
+      "text": " And so I cry sometimes when I'm lying in bed just to get it all out what's in my head.",
       "tokens": [
-        50514,
-        682,
-        2746,
-        72,
-        2040,
+        50365,
+        400,
+        370,
+        286,
+        3305,
         2171,
         562,
         286,
@@ -390,226 +390,224 @@
         294,
         452,
         1378,
-        50914
+        13,
+        50779
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.2748369375864665,
-      "compression_ratio": 1.4879518072289157,
-      "no_speech_prob": 0.779705822467804,
-      "confidence": 0.732,
+      "avg_logprob": -0.20877108731112637,
+      "compression_ratio": 1.651685393258427,
+      "no_speech_prob": 0.003300544572994113,
+      "confidence": 0.94,
       "words": [
         {
-          "text": "In",
-          "start": 57.61,
-          "end": 57.81,
-          "confidence": 0.404
+          "text": "And",
+          "start": 57.39,
+          "end": 57.65,
+          "confidence": 0.855
         },
         {
-          "text": "Sui",
-          "start": 57.81,
-          "end": 58.21,
-          "confidence": 0.277
+          "text": "so",
+          "start": 57.65,
+          "end": 57.83,
+          "confidence": 0.982
         },
         {
-          "text": "Christ",
-          "start": 58.21,
-          "end": 58.57,
-          "confidence": 0.774
+          "text": "I",
+          "start": 57.83,
+          "end": 58.09,
+          "confidence": 0.986
+        },
+        {
+          "text": "cry",
+          "start": 58.09,
+          "end": 58.35,
+          "confidence": 0.99
         },
         {
           "text": "sometimes",
-          "start": 58.57,
-          "end": 59.45,
-          "confidence": 0.658
+          "start": 58.35,
+          "end": 59.03,
+          "confidence": 0.998
         },
         {
           "text": "when",
-          "start": 59.45,
-          "end": 59.85,
-          "confidence": 0.897
+          "start": 59.03,
+          "end": 59.69,
+          "confidence": 0.996
         },
         {
           "text": "I'm",
-          "start": 59.85,
-          "end": 60.11,
-          "confidence": 0.966
+          "start": 59.69,
+          "end": 60.07,
+          "confidence": 0.997
         },
         {
           "text": "lying",
-          "start": 60.11,
-          "end": 60.41,
-          "confidence": 0.889
+          "start": 60.07,
+          "end": 60.33,
+          "confidence": 0.995
         },
         {
           "text": "in",
-          "start": 60.41,
-          "end": 60.73,
-          "confidence": 0.948
+          "start": 60.33,
+          "end": 60.63,
+          "confidence": 0.999
         },
         {
           "text": "bed",
-          "start": 60.73,
-          "end": 61.07,
-          "confidence": 0.976
+          "start": 60.63,
+          "end": 60.95,
+          "confidence": 1.0
         },
         {
           "text": "just",
-          "start": 61.07,
-          "end": 61.41,
-          "confidence": 0.823
+          "start": 60.95,
+          "end": 61.31,
+          "confidence": 0.868
         },
         {
           "text": "to",
-          "start": 61.41,
-          "end": 61.69,
-          "confidence": 0.921
+          "start": 61.31,
+          "end": 61.43,
+          "confidence": 0.998
         },
         {
           "text": "get",
-          "start": 61.69,
-          "end": 62.07,
-          "confidence": 0.862
+          "start": 61.43,
+          "end": 61.83,
+          "confidence": 0.987
         },
         {
           "text": "it",
-          "start": 62.07,
-          "end": 62.35,
-          "confidence": 0.778
+          "start": 61.83,
+          "end": 62.17,
+          "confidence": 0.682
         },
         {
           "text": "all",
-          "start": 62.35,
-          "end": 62.61,
-          "confidence": 0.856
+          "start": 62.17,
+          "end": 62.53,
+          "confidence": 0.972
         },
         {
           "text": "out",
-          "start": 62.61,
-          "end": 62.89,
-          "confidence": 0.988
+          "start": 62.53,
+          "end": 62.83,
+          "confidence": 1.0
         },
         {
           "text": "what's",
-          "start": 62.89,
-          "end": 63.59,
-          "confidence": 0.589
+          "start": 62.83,
+          "end": 63.29,
+          "confidence": 0.872
         },
         {
           "text": "in",
-          "start": 63.59,
-          "end": 63.79,
-          "confidence": 0.991
+          "start": 63.29,
+          "end": 63.69,
+          "confidence": 0.999
         },
         {
           "text": "my",
-          "start": 63.79,
-          "end": 64.25,
-          "confidence": 0.954
+          "start": 63.69,
+          "end": 63.97,
+          "confidence": 0.745
         },
         {
-          "text": "head",
-          "start": 64.25,
-          "end": 64.73,
-          "confidence": 0.679
+          "text": "head.",
+          "start": 63.97,
+          "end": 64.45,
+          "confidence": 0.989
         }
       ]
     },
     {
       "id": 4,
-      "seek": 2000,
-      "start": 64.83,
-      "end": 69.36,
-      "text": " and I, I didn't feel any, a little peculiar.",
+      "seek": 2266,
+      "start": 64.47,
+      "end": 68.9,
+      "text": " And I, I am feeling a little peculiar.",
       "tokens": [
-        50914,
-        293,
+        50784,
+        400,
         286,
         11,
         286,
-        994,
-        380,
-        841,
-        604,
-        11,
+        669,
+        2633,
         257,
         707,
         27149,
         13,
-        51164
+        51002
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.2748369375864665,
-      "compression_ratio": 1.4879518072289157,
-      "no_speech_prob": 0.779705822467804,
-      "confidence": 0.736,
+      "avg_logprob": -0.20877108731112637,
+      "compression_ratio": 1.651685393258427,
+      "no_speech_prob": 0.003300544572994113,
+      "confidence": 0.988,
       "words": [
         {
-          "text": "and",
-          "start": 64.83,
+          "text": "And",
+          "start": 64.47,
           "end": 65.07,
-          "confidence": 0.377
+          "confidence": 0.994
         },
         {
           "text": "I,",
           "start": 65.07,
-          "end": 65.37,
-          "confidence": 0.932
+          "end": 65.13,
+          "confidence": 0.999
         },
         {
           "text": "I",
-          "start": 65.82,
-          "end": 66.26,
-          "confidence": 0.979
+          "start": 65.65,
+          "end": 66.12,
+          "confidence": 0.997
         },
         {
-          "text": "didn't",
-          "start": 66.26,
-          "end": 66.48,
-          "confidence": 0.578
+          "text": "am",
+          "start": 66.12,
+          "end": 66.38,
+          "confidence": 0.922
         },
         {
-          "text": "feel",
-          "start": 66.48,
-          "end": 66.64,
-          "confidence": 0.975
-        },
-        {
-          "text": "any,",
-          "start": 66.64,
-          "end": 66.94,
-          "confidence": 0.483
+          "text": "feeling",
+          "start": 66.38,
+          "end": 66.66,
+          "confidence": 0.999
         },
         {
           "text": "a",
-          "start": 67.66,
-          "end": 68.12,
-          "confidence": 0.873
+          "start": 66.66,
+          "end": 66.9,
+          "confidence": 0.999
         },
         {
           "text": "little",
-          "start": 68.12,
-          "end": 68.46,
-          "confidence": 0.995
+          "start": 66.9,
+          "end": 68.4,
+          "confidence": 1.0
         },
         {
           "text": "peculiar.",
-          "start": 68.46,
-          "end": 69.36,
+          "start": 68.4,
+          "end": 68.9,
           "confidence": 0.999
         }
       ]
     },
     {
       "id": 5,
-      "seek": 2000,
-      "start": 71.89,
-      "end": 79.13,
-      "text": " In Sui wake in the morning and I step outside and I take a deep breath and I get real high",
+      "seek": 2266,
+      "start": 71.87,
+      "end": 78.67,
+      "text": " And so I wake in the morning and I step outside and I take a deep breath and I get real high.",
       "tokens": [
-        51164,
-        682,
-        2746,
-        72,
+        51075,
+        400,
+        370,
+        286,
         6634,
         294,
         264,
@@ -629,243 +627,242 @@
         483,
         957,
         1090,
-        51564
+        13,
+        51432
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.2748369375864665,
-      "compression_ratio": 1.4879518072289157,
-      "no_speech_prob": 0.779705822467804,
-      "confidence": 0.892,
+      "avg_logprob": -0.20877108731112637,
+      "compression_ratio": 1.651685393258427,
+      "no_speech_prob": 0.003300544572994113,
+      "confidence": 0.992,
       "words": [
         {
-          "text": "In",
-          "start": 71.89,
-          "end": 72.11,
-          "confidence": 0.936
+          "text": "And",
+          "start": 71.87,
+          "end": 72.03,
+          "confidence": 1.0
         },
         {
-          "text": "Sui",
-          "start": 72.11,
-          "end": 72.59,
-          "confidence": 0.981
+          "text": "so",
+          "start": 72.03,
+          "end": 72.23,
+          "confidence": 1.0
+        },
+        {
+          "text": "I",
+          "start": 72.23,
+          "end": 72.43,
+          "confidence": 1.0
         },
         {
           "text": "wake",
-          "start": 72.59,
-          "end": 72.85,
-          "confidence": 0.533
+          "start": 72.43,
+          "end": 72.81,
+          "confidence": 0.999
         },
         {
           "text": "in",
-          "start": 72.85,
-          "end": 73.29,
-          "confidence": 0.801
+          "start": 72.81,
+          "end": 73.11,
+          "confidence": 0.999
         },
         {
           "text": "the",
-          "start": 73.29,
-          "end": 73.47,
-          "confidence": 0.998
+          "start": 73.11,
+          "end": 73.29,
+          "confidence": 1.0
         },
         {
           "text": "morning",
-          "start": 73.47,
-          "end": 73.85,
-          "confidence": 0.99
+          "start": 73.29,
+          "end": 73.81,
+          "confidence": 1.0
         },
         {
           "text": "and",
-          "start": 73.85,
-          "end": 74.23,
-          "confidence": 0.864
+          "start": 73.81,
+          "end": 74.07,
+          "confidence": 1.0
         },
         {
           "text": "I",
-          "start": 74.23,
-          "end": 74.37,
-          "confidence": 0.947
+          "start": 74.07,
+          "end": 74.27,
+          "confidence": 1.0
         },
         {
           "text": "step",
-          "start": 74.37,
-          "end": 74.61,
-          "confidence": 0.978
+          "start": 74.27,
+          "end": 74.51,
+          "confidence": 1.0
         },
         {
           "text": "outside",
-          "start": 74.61,
-          "end": 75.27,
-          "confidence": 0.976
+          "start": 74.51,
+          "end": 75.01,
+          "confidence": 1.0
         },
         {
           "text": "and",
-          "start": 75.27,
-          "end": 75.79,
-          "confidence": 0.735
+          "start": 75.01,
+          "end": 75.67,
+          "confidence": 0.903
         },
         {
           "text": "I",
-          "start": 75.79,
-          "end": 76.07,
-          "confidence": 0.987
+          "start": 75.67,
+          "end": 75.99,
+          "confidence": 1.0
         },
         {
           "text": "take",
-          "start": 76.07,
-          "end": 76.43,
-          "confidence": 0.966
+          "start": 75.99,
+          "end": 76.23,
+          "confidence": 1.0
         },
         {
           "text": "a",
-          "start": 76.43,
-          "end": 76.67,
-          "confidence": 0.994
+          "start": 76.23,
+          "end": 76.49,
+          "confidence": 1.0
         },
         {
           "text": "deep",
-          "start": 76.67,
-          "end": 76.91,
-          "confidence": 0.757
+          "start": 76.49,
+          "end": 76.81,
+          "confidence": 0.996
         },
         {
           "text": "breath",
-          "start": 76.91,
-          "end": 77.25,
-          "confidence": 0.988
+          "start": 76.81,
+          "end": 77.15,
+          "confidence": 0.997
         },
         {
           "text": "and",
-          "start": 77.25,
-          "end": 77.63,
-          "confidence": 0.618
+          "start": 77.15,
+          "end": 77.51,
+          "confidence": 0.992
         },
         {
           "text": "I",
-          "start": 77.63,
-          "end": 77.79,
-          "confidence": 0.979
+          "start": 77.51,
+          "end": 77.65,
+          "confidence": 1.0
         },
         {
           "text": "get",
-          "start": 77.79,
-          "end": 78.11,
-          "confidence": 0.979
+          "start": 77.65,
+          "end": 78.05,
+          "confidence": 0.964
         },
         {
           "text": "real",
-          "start": 78.11,
-          "end": 78.53,
-          "confidence": 0.892
+          "start": 78.05,
+          "end": 78.31,
+          "confidence": 0.973
         },
         {
-          "text": "high",
-          "start": 78.83,
-          "end": 79.13,
-          "confidence": 0.979
+          "text": "high.",
+          "start": 78.31,
+          "end": 78.67,
+          "confidence": 0.999
         }
       ]
     },
     {
       "id": 6,
-      "seek": 4400,
-      "start": 79.19,
-      "end": 82.29,
-      "text": " and I scream for the top of my lungs what?",
+      "seek": 2266,
+      "start": 79.03,
+      "end": 81.73,
+      "text": " And I scream from the top of my lungs.",
       "tokens": [
-        50364,
-        293,
+        51432,
+        400,
         286,
         7291,
-        337,
+        490,
         264,
         1192,
         295,
         452,
         19467,
-        437,
-        30,
-        50564
+        13,
+        51573
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.23034375673764712,
-      "compression_ratio": 1.7559055118110236,
-      "no_speech_prob": 0.2221558541059494,
-      "confidence": 0.815,
+      "avg_logprob": -0.20877108731112637,
+      "compression_ratio": 1.651685393258427,
+      "no_speech_prob": 0.003300544572994113,
+      "confidence": 0.993,
       "words": [
         {
-          "text": "and",
-          "start": 79.19,
-          "end": 79.41,
-          "confidence": 0.943
-        },
-        {
-          "text": "I",
-          "start": 79.41,
-          "end": 79.71,
-          "confidence": 0.976
-        },
-        {
-          "text": "scream",
-          "start": 79.71,
-          "end": 80.39,
-          "confidence": 0.856
-        },
-        {
-          "text": "for",
-          "start": 80.39,
-          "end": 80.61,
-          "confidence": 0.864
-        },
-        {
-          "text": "the",
-          "start": 80.61,
-          "end": 80.71,
-          "confidence": 0.993
-        },
-        {
-          "text": "top",
-          "start": 80.71,
-          "end": 80.91,
-          "confidence": 0.992
-        },
-        {
-          "text": "of",
-          "start": 80.91,
-          "end": 81.13,
+          "text": "And",
+          "start": 79.03,
+          "end": 79.25,
           "confidence": 0.991
         },
         {
+          "text": "I",
+          "start": 79.25,
+          "end": 79.61,
+          "confidence": 0.997
+        },
+        {
+          "text": "scream",
+          "start": 79.61,
+          "end": 80.27,
+          "confidence": 0.967
+        },
+        {
+          "text": "from",
+          "start": 80.27,
+          "end": 80.55,
+          "confidence": 0.987
+        },
+        {
+          "text": "the",
+          "start": 80.55,
+          "end": 80.63,
+          "confidence": 1.0
+        },
+        {
+          "text": "top",
+          "start": 80.63,
+          "end": 80.87,
+          "confidence": 1.0
+        },
+        {
+          "text": "of",
+          "start": 80.87,
+          "end": 81.03,
+          "confidence": 1.0
+        },
+        {
           "text": "my",
-          "start": 81.13,
-          "end": 81.35,
-          "confidence": 0.999
+          "start": 81.03,
+          "end": 81.25,
+          "confidence": 1.0
         },
         {
-          "text": "lungs",
-          "start": 81.35,
-          "end": 81.87,
-          "confidence": 0.998
-        },
-        {
-          "text": "what?",
-          "start": 81.87,
-          "end": 82.29,
-          "confidence": 0.195
+          "text": "lungs.",
+          "start": 81.25,
+          "end": 81.73,
+          "confidence": 1.0
         }
       ]
     },
     {
       "id": 7,
-      "seek": 4400,
-      "start": 85.6,
-      "end": 94.17,
-      "text": " In I said hey, hey, hey, hey, hey, I said hey.",
+      "seek": 2266,
+      "start": 85.1,
+      "end": 89.88,
+      "text": " And I say, hey, hey, hey, hey, hey.",
       "tokens": [
-        50564,
-        682,
+        51589,
+        400,
         286,
-        848,
-        4177,
+        584,
         11,
         4177,
         11,
@@ -875,199 +872,240 @@
         11,
         4177,
         11,
-        286,
-        848,
         4177,
         13,
-        50864
+        51832
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.23034375673764712,
-      "compression_ratio": 1.7559055118110236,
-      "no_speech_prob": 0.2221558541059494,
-      "confidence": 0.525,
+      "avg_logprob": -0.20877108731112637,
+      "compression_ratio": 1.651685393258427,
+      "no_speech_prob": 0.003300544572994113,
+      "confidence": 0.944,
       "words": [
         {
-          "text": "In",
-          "start": 85.6,
-          "end": 85.84,
-          "confidence": 0.475
+          "text": "And",
+          "start": 85.1,
+          "end": 85.56,
+          "confidence": 0.973
         },
         {
           "text": "I",
-          "start": 85.84,
-          "end": 86.1,
-          "confidence": 0.161
+          "start": 85.56,
+          "end": 85.84,
+          "confidence": 1.0
         },
         {
-          "text": "said",
-          "start": 86.1,
-          "end": 86.48,
-          "confidence": 0.689
+          "text": "say,",
+          "start": 85.84,
+          "end": 86.3,
+          "confidence": 0.965
         },
         {
           "text": "hey,",
           "start": 86.48,
-          "end": 87.52,
-          "confidence": 0.512
+          "end": 86.96,
+          "confidence": 0.77
         },
         {
           "text": "hey,",
-          "start": 88.3,
-          "end": 89.0,
-          "confidence": 0.373
+          "start": 87.24,
+          "end": 87.7,
+          "confidence": 0.893
         },
         {
           "text": "hey,",
-          "start": 89.92,
-          "end": 89.98,
-          "confidence": 0.593
+          "start": 88.5,
+          "end": 88.94,
+          "confidence": 0.979
         },
         {
           "text": "hey,",
-          "start": 90.18,
-          "end": 90.68,
-          "confidence": 0.621
-        },
-        {
-          "text": "hey,",
-          "start": 91.18,
-          "end": 91.2,
-          "confidence": 0.483
-        },
-        {
-          "text": "I",
-          "start": 93.29,
-          "end": 93.49,
-          "confidence": 0.48
-        },
-        {
-          "text": "said",
-          "start": 93.49,
-          "end": 93.73,
-          "confidence": 0.985
+          "start": 89.0,
+          "end": 89.48,
+          "confidence": 0.997
         },
         {
           "text": "hey.",
-          "start": 93.73,
-          "end": 94.17,
-          "confidence": 0.975
+          "start": 89.58,
+          "end": 89.88,
+          "confidence": 0.998
         }
       ]
     },
     {
       "id": 8,
-      "seek": 4400,
-      "start": 99.74,
-      "end": 108.36,
-      "text": " In I said hey, hey, hey, hey, hey, I said hey.",
+      "seek": 5266,
+      "start": 93.31,
+      "end": 94.01,
+      "text": " I said, hey.",
       "tokens": [
-        50864,
-        682,
+        50365,
         286,
         848,
-        4177,
         11,
-        4177,
-        11,
-        4177,
-        11,
-        4177,
-        11,
-        4177,
-        11,
-        286,
-        848,
         4177,
         13,
-        51214
+        50413
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.23034375673764712,
-      "compression_ratio": 1.7559055118110236,
-      "no_speech_prob": 0.2221558541059494,
-      "confidence": 0.891,
+      "avg_logprob": -0.2802845107184516,
+      "compression_ratio": 1.7459459459459459,
+      "no_speech_prob": 0.0036202273331582546,
+      "confidence": 0.981,
       "words": [
         {
-          "text": "In",
-          "start": 99.74,
-          "end": 100.06,
-          "confidence": 0.982
-        },
-        {
           "text": "I",
-          "start": 100.06,
-          "end": 100.32,
-          "confidence": 0.997
+          "start": 93.31,
+          "end": 93.43,
+          "confidence": 0.972
         },
         {
-          "text": "said",
-          "start": 100.32,
-          "end": 100.74,
-          "confidence": 0.979
-        },
-        {
-          "text": "hey,",
-          "start": 100.74,
-          "end": 101.6,
-          "confidence": 0.905
-        },
-        {
-          "text": "hey,",
-          "start": 104.41,
-          "end": 105.09,
-          "confidence": 0.99
-        },
-        {
-          "text": "hey,",
-          "start": 106.44,
-          "end": 106.46,
-          "confidence": 0.977
-        },
-        {
-          "text": "hey,",
-          "start": 106.46,
-          "end": 106.7,
-          "confidence": 0.925
-        },
-        {
-          "text": "hey,",
-          "start": 106.7,
-          "end": 106.88,
-          "confidence": 0.694
-        },
-        {
-          "text": "I",
-          "start": 107.42,
-          "end": 107.64,
-          "confidence": 0.53
-        },
-        {
-          "text": "said",
-          "start": 107.64,
-          "end": 107.92,
-          "confidence": 0.997
+          "text": "said,",
+          "start": 93.43,
+          "end": 93.69,
+          "confidence": 0.972
         },
         {
           "text": "hey.",
-          "start": 107.92,
-          "end": 108.36,
-          "confidence": 0.991
+          "start": 93.71,
+          "end": 94.01,
+          "confidence": 0.999
         }
       ]
     },
     {
       "id": 9,
-      "seek": 4400,
-      "start": 171.77,
-      "end": 178.73,
-      "text": " In Sui Christ sometimes when I'm lying in bed just to get it all out what's in my head",
+      "seek": 5266,
+      "start": 99.72,
+      "end": 106.52,
+      "text": " And I say, hey, hey, hey, hey, hey.",
       "tokens": [
-        51214,
-        682,
-        2746,
-        72,
-        2040,
+        50450,
+        400,
+        286,
+        584,
+        11,
+        4177,
+        11,
+        4177,
+        11,
+        4177,
+        11,
+        4177,
+        11,
+        4177,
+        13,
+        50662
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2802845107184516,
+      "compression_ratio": 1.7459459459459459,
+      "no_speech_prob": 0.0036202273331582546,
+      "confidence": 0.926,
+      "words": [
+        {
+          "text": "And",
+          "start": 99.72,
+          "end": 99.9,
+          "confidence": 0.993
+        },
+        {
+          "text": "I",
+          "start": 99.9,
+          "end": 100.1,
+          "confidence": 0.999
+        },
+        {
+          "text": "say,",
+          "start": 100.1,
+          "end": 100.5,
+          "confidence": 0.595
+        },
+        {
+          "text": "hey,",
+          "start": 100.7,
+          "end": 101.12,
+          "confidence": 0.998
+        },
+        {
+          "text": "hey,",
+          "start": 101.36,
+          "end": 101.78,
+          "confidence": 0.997
+        },
+        {
+          "text": "hey,",
+          "start": 104.23,
+          "end": 104.61,
+          "confidence": 0.995
+        },
+        {
+          "text": "hey,",
+          "start": 104.93,
+          "end": 105.33,
+          "confidence": 0.973
+        },
+        {
+          "text": "hey.",
+          "start": 106.24,
+          "end": 106.52,
+          "confidence": 0.957
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "seek": 5266,
+      "start": 107.48,
+      "end": 108.14,
+      "text": " I said, hey.",
+      "tokens": [
+        50681,
+        286,
+        848,
+        11,
+        4177,
+        13,
+        50742
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2802845107184516,
+      "compression_ratio": 1.7459459459459459,
+      "no_speech_prob": 0.0036202273331582546,
+      "confidence": 0.997,
+      "words": [
+        {
+          "text": "I",
+          "start": 107.48,
+          "end": 107.54,
+          "confidence": 0.995
+        },
+        {
+          "text": "said,",
+          "start": 107.54,
+          "end": 107.86,
+          "confidence": 0.998
+        },
+        {
+          "text": "hey.",
+          "start": 107.86,
+          "end": 108.14,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "seek": 5266,
+      "start": 123.43,
+      "end": 178.41,
+      "text": " And so I cry sometimes when I'm lying in bed just to get it all out what's in my head.",
+      "tokens": [
+        50801,
+        400,
+        370,
+        286,
+        3305,
         2171,
         562,
         286,
@@ -1086,230 +1124,203 @@
         294,
         452,
         1378,
-        51614
+        13,
+        51153
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.23034375673764712,
-      "compression_ratio": 1.7559055118110236,
-      "no_speech_prob": 0.2221558541059494,
-      "confidence": 0.989,
+      "avg_logprob": -0.2802845107184516,
+      "compression_ratio": 1.7459459459459459,
+      "no_speech_prob": 0.0036202273331582546,
+      "confidence": 1.0,
       "words": [
         {
-          "text": "In",
-          "start": 171.77,
-          "end": 171.91,
-          "confidence": 0.954
-        },
-        {
-          "text": "Sui",
-          "start": 171.91,
-          "end": 172.33,
-          "confidence": 0.994
-        },
-        {
-          "text": "Christ",
-          "start": 172.33,
-          "end": 172.67,
-          "confidence": 0.994
-        },
-        {
-          "text": "sometimes",
-          "start": 172.67,
-          "end": 173.47,
-          "confidence": 0.95
-        },
-        {
-          "text": "when",
-          "start": 173.47,
-          "end": 173.95,
-          "confidence": 0.998
-        },
-        {
-          "text": "I'm",
-          "start": 173.95,
-          "end": 174.23,
-          "confidence": 0.996
-        },
-        {
-          "text": "lying",
-          "start": 174.23,
-          "end": 174.51,
-          "confidence": 0.995
-        },
-        {
-          "text": "in",
-          "start": 174.51,
-          "end": 174.79,
-          "confidence": 0.992
-        },
-        {
-          "text": "bed",
-          "start": 174.79,
-          "end": 175.15,
+          "text": "And",
+          "start": 123.43,
+          "end": 123.63,
           "confidence": 0.999
         },
         {
-          "text": "just",
-          "start": 175.15,
-          "end": 175.49,
-          "confidence": 0.981
-        },
-        {
-          "text": "to",
-          "start": 175.49,
-          "end": 175.81,
-          "confidence": 0.997
-        },
-        {
-          "text": "get",
-          "start": 175.81,
-          "end": 176.17,
-          "confidence": 0.997
-        },
-        {
-          "text": "it",
-          "start": 176.17,
-          "end": 176.43,
-          "confidence": 0.996
-        },
-        {
-          "text": "all",
-          "start": 176.43,
-          "end": 176.69,
+          "text": "so",
+          "start": 171.79,
+          "end": 172.01,
           "confidence": 0.999
-        },
-        {
-          "text": "out",
-          "start": 176.69,
-          "end": 176.95,
-          "confidence": 0.996
-        },
-        {
-          "text": "what's",
-          "start": 176.95,
-          "end": 177.61,
-          "confidence": 0.986
-        },
-        {
-          "text": "in",
-          "start": 177.61,
-          "end": 177.87,
-          "confidence": 0.997
-        },
-        {
-          "text": "my",
-          "start": 177.87,
-          "end": 178.37,
-          "confidence": 0.996
-        },
-        {
-          "text": "head",
-          "start": 178.37,
-          "end": 178.73,
-          "confidence": 0.968
-        }
-      ]
-    },
-    {
-      "id": 10,
-      "seek": 6900,
-      "start": 182.93,
-      "end": 184.31,
-      "text": " and I scream for the top of my lungs what?",
-      "tokens": [
-        50364,
-        293,
-        286,
-        7291,
-        337,
-        264,
-        1192,
-        295,
-        452,
-        19467,
-        437,
-        30,
-        50564
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.09842868381076389,
-      "compression_ratio": 4.636363636363637,
-      "no_speech_prob": 0.26282185316085815,
-      "confidence": 0.879,
-      "words": [
-        {
-          "text": "and",
-          "start": 182.93,
-          "end": 182.95,
-          "confidence": 0.92
         },
         {
           "text": "I",
-          "start": 182.95,
-          "end": 182.97,
-          "confidence": 0.939
+          "start": 172.01,
+          "end": 172.17,
+          "confidence": 0.999
         },
         {
-          "text": "scream",
-          "start": 182.97,
-          "end": 182.99,
-          "confidence": 0.491
+          "text": "cry",
+          "start": 172.17,
+          "end": 172.53,
+          "confidence": 0.999
         },
         {
-          "text": "for",
-          "start": 182.99,
-          "end": 183.21,
-          "confidence": 0.883
+          "text": "sometimes",
+          "start": 172.53,
+          "end": 173.13,
+          "confidence": 1.0
         },
         {
-          "text": "the",
-          "start": 183.21,
-          "end": 183.23,
-          "confidence": 0.935
+          "text": "when",
+          "start": 173.13,
+          "end": 173.79,
+          "confidence": 1.0
         },
         {
-          "text": "top",
-          "start": 183.23,
-          "end": 183.25,
-          "confidence": 0.984
+          "text": "I'm",
+          "start": 173.79,
+          "end": 174.19,
+          "confidence": 1.0
         },
         {
-          "text": "of",
-          "start": 183.25,
-          "end": 183.27,
-          "confidence": 0.994
+          "text": "lying",
+          "start": 174.19,
+          "end": 174.41,
+          "confidence": 1.0
+        },
+        {
+          "text": "in",
+          "start": 174.41,
+          "end": 174.69,
+          "confidence": 1.0
+        },
+        {
+          "text": "bed",
+          "start": 174.69,
+          "end": 175.01,
+          "confidence": 1.0
+        },
+        {
+          "text": "just",
+          "start": 175.01,
+          "end": 175.33,
+          "confidence": 0.999
+        },
+        {
+          "text": "to",
+          "start": 175.33,
+          "end": 175.53,
+          "confidence": 1.0
+        },
+        {
+          "text": "get",
+          "start": 175.53,
+          "end": 175.93,
+          "confidence": 1.0
+        },
+        {
+          "text": "it",
+          "start": 175.93,
+          "end": 176.23,
+          "confidence": 1.0
+        },
+        {
+          "text": "all",
+          "start": 176.23,
+          "end": 176.59,
+          "confidence": 1.0
+        },
+        {
+          "text": "out",
+          "start": 176.59,
+          "end": 176.87,
+          "confidence": 1.0
+        },
+        {
+          "text": "what's",
+          "start": 176.87,
+          "end": 177.39,
+          "confidence": 0.999
+        },
+        {
+          "text": "in",
+          "start": 177.39,
+          "end": 177.71,
+          "confidence": 1.0
         },
         {
           "text": "my",
-          "start": 183.27,
-          "end": 183.45,
-          "confidence": 0.995
+          "start": 177.71,
+          "end": 178.11,
+          "confidence": 1.0
         },
         {
-          "text": "lungs",
-          "start": 183.45,
-          "end": 183.89,
-          "confidence": 0.998
-        },
-        {
-          "text": "what?",
-          "start": 183.89,
-          "end": 184.31,
-          "confidence": 0.811
+          "text": "head.",
+          "start": 178.11,
+          "end": 178.41,
+          "confidence": 0.999
         }
       ]
     },
     {
-      "id": 11,
-      "seek": 6900,
-      "start": 187.55,
-      "end": 192.9,
-      "text": " In Sui wake in the morning and I step outside and I take a deep breath and I get real high",
+      "id": 12,
+      "seek": 5266,
+      "start": 178.41,
+      "end": 183.45,
+      "text": " I'm feeling a little peculiar.",
       "tokens": [
-        50564,
-        682,
-        2746,
-        72,
+        51153,
+        286,
+        478,
+        2633,
+        257,
+        707,
+        27149,
+        13,
+        51205
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2802845107184516,
+      "compression_ratio": 1.7459459459459459,
+      "no_speech_prob": 0.0036202273331582546,
+      "confidence": 0.777,
+      "words": [
+        {
+          "text": "I'm",
+          "start": 178.41,
+          "end": 178.8,
+          "confidence": 0.482
+        },
+        {
+          "text": "feeling",
+          "start": 182.45,
+          "end": 182.75,
+          "confidence": 0.96
+        },
+        {
+          "text": "a",
+          "start": 182.75,
+          "end": 183.21,
+          "confidence": 0.995
+        },
+        {
+          "text": "little",
+          "start": 183.21,
+          "end": 183.43,
+          "confidence": 0.999
+        },
+        {
+          "text": "peculiar.",
+          "start": 183.43,
+          "end": 183.45,
+          "confidence": 0.995
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "seek": 5266,
+      "start": 185.83,
+      "end": 192.5,
+      "text": " And so I wake in the morning and I step outside and I take a deep breath and I get real high.",
+      "tokens": [
+        51272,
+        400,
+        370,
+        286,
         6634,
         294,
         264,
@@ -1329,470 +1340,280 @@
         483,
         957,
         1090,
-        50814
+        13,
+        51626
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.09842868381076389,
-      "compression_ratio": 4.636363636363637,
-      "no_speech_prob": 0.26282185316085815,
-      "confidence": 0.979,
+      "avg_logprob": -0.2802845107184516,
+      "compression_ratio": 1.7459459459459459,
+      "no_speech_prob": 0.0036202273331582546,
+      "confidence": 0.996,
       "words": [
         {
-          "text": "In",
-          "start": 187.55,
-          "end": 187.57,
-          "confidence": 0.967
+          "text": "And",
+          "start": 185.83,
+          "end": 185.91,
+          "confidence": 1.0
         },
         {
-          "text": "Sui",
-          "start": 187.57,
-          "end": 187.59,
-          "confidence": 0.943
+          "text": "so",
+          "start": 185.91,
+          "end": 186.15,
+          "confidence": 1.0
+        },
+        {
+          "text": "I",
+          "start": 186.15,
+          "end": 186.33,
+          "confidence": 1.0
         },
         {
           "text": "wake",
-          "start": 187.59,
-          "end": 187.61,
-          "confidence": 0.989
+          "start": 186.33,
+          "end": 186.65,
+          "confidence": 1.0
         },
         {
           "text": "in",
-          "start": 187.61,
-          "end": 187.63,
-          "confidence": 0.978
+          "start": 186.65,
+          "end": 187.05,
+          "confidence": 1.0
         },
         {
           "text": "the",
-          "start": 187.63,
-          "end": 187.65,
-          "confidence": 0.996
+          "start": 187.05,
+          "end": 187.21,
+          "confidence": 1.0
         },
         {
           "text": "morning",
-          "start": 187.65,
-          "end": 187.75,
-          "confidence": 0.999
+          "start": 187.21,
+          "end": 187.69,
+          "confidence": 1.0
         },
         {
           "text": "and",
-          "start": 187.75,
-          "end": 188.13,
-          "confidence": 0.981
+          "start": 187.69,
+          "end": 187.91,
+          "confidence": 1.0
         },
         {
           "text": "I",
-          "start": 188.13,
-          "end": 188.25,
-          "confidence": 0.994
+          "start": 187.91,
+          "end": 188.15,
+          "confidence": 1.0
         },
         {
           "text": "step",
-          "start": 188.25,
-          "end": 188.49,
-          "confidence": 0.992
+          "start": 188.15,
+          "end": 188.39,
+          "confidence": 1.0
         },
         {
           "text": "outside",
-          "start": 188.49,
-          "end": 189.15,
-          "confidence": 0.993
+          "start": 188.39,
+          "end": 189.05,
+          "confidence": 1.0
         },
         {
           "text": "and",
-          "start": 189.15,
-          "end": 189.67,
-          "confidence": 0.978
+          "start": 189.05,
+          "end": 189.57,
+          "confidence": 0.922
         },
         {
           "text": "I",
-          "start": 189.67,
-          "end": 189.95,
-          "confidence": 0.988
+          "start": 189.57,
+          "end": 189.81,
+          "confidence": 1.0
         },
         {
           "text": "take",
-          "start": 189.95,
-          "end": 190.29,
-          "confidence": 0.998
+          "start": 189.81,
+          "end": 190.17,
+          "confidence": 1.0
         },
         {
           "text": "a",
-          "start": 190.29,
-          "end": 190.51,
-          "confidence": 0.997
+          "start": 190.17,
+          "end": 190.35,
+          "confidence": 1.0
         },
         {
           "text": "deep",
-          "start": 190.51,
-          "end": 190.73,
-          "confidence": 0.988
+          "start": 190.35,
+          "end": 190.63,
+          "confidence": 0.999
         },
         {
           "text": "breath",
-          "start": 190.73,
-          "end": 191.09,
-          "confidence": 0.995
-        },
-        {
-          "text": "and",
-          "start": 191.09,
-          "end": 191.47,
-          "confidence": 0.874
-        },
-        {
-          "text": "I",
-          "start": 191.47,
-          "end": 191.61,
-          "confidence": 0.99
-        },
-        {
-          "text": "get",
-          "start": 191.61,
-          "end": 191.91,
-          "confidence": 0.988
-        },
-        {
-          "text": "real",
-          "start": 191.91,
-          "end": 192.35,
-          "confidence": 0.991
-        },
-        {
-          "text": "high",
-          "start": 192.59,
-          "end": 192.9,
-          "confidence": 0.996
-        }
-      ]
-    },
-    {
-      "id": 12,
-      "seek": 6900,
-      "start": 192.94,
-      "end": 196.06,
-      "text": " and I scream for the top of my lungs what?",
-      "tokens": [
-        50814,
-        293,
-        286,
-        7291,
-        337,
-        264,
-        1192,
-        295,
-        452,
-        19467,
-        437,
-        30,
-        50964
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.09842868381076389,
-      "compression_ratio": 4.636363636363637,
-      "no_speech_prob": 0.26282185316085815,
-      "confidence": 0.984,
-      "words": [
-        {
-          "text": "and",
-          "start": 192.94,
-          "end": 193.22,
-          "confidence": 0.984
-        },
-        {
-          "text": "I",
-          "start": 193.22,
-          "end": 193.48,
-          "confidence": 0.997
-        },
-        {
-          "text": "scream",
-          "start": 193.48,
-          "end": 194.22,
-          "confidence": 0.979
-        },
-        {
-          "text": "for",
-          "start": 194.22,
-          "end": 194.38,
-          "confidence": 0.989
-        },
-        {
-          "text": "the",
-          "start": 194.38,
-          "end": 194.5,
-          "confidence": 0.997
-        },
-        {
-          "text": "top",
-          "start": 194.5,
-          "end": 194.72,
-          "confidence": 0.996
-        },
-        {
-          "text": "of",
-          "start": 194.72,
-          "end": 194.94,
+          "start": 190.63,
+          "end": 190.99,
           "confidence": 0.998
         },
         {
-          "text": "my",
-          "start": 194.94,
-          "end": 195.14,
+          "text": "and",
+          "start": 190.99,
+          "end": 191.31,
           "confidence": 0.999
         },
         {
-          "text": "lungs",
-          "start": 195.14,
-          "end": 195.64,
-          "confidence": 0.999
-        },
-        {
-          "text": "what?",
-          "start": 195.64,
-          "end": 196.06,
-          "confidence": 0.906
-        }
-      ]
-    },
-    {
-      "id": 13,
-      "seek": 6900,
-      "start": 199.33,
-      "end": 207.97,
-      "text": " In I said hey, hey, hey, hey, I said hey.",
-      "tokens": [
-        50964,
-        682,
-        286,
-        848,
-        4177,
-        11,
-        4177,
-        11,
-        4177,
-        11,
-        4177,
-        11,
-        286,
-        848,
-        4177,
-        13,
-        51214
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.09842868381076389,
-      "compression_ratio": 4.636363636363637,
-      "no_speech_prob": 0.26282185316085815,
-      "confidence": 0.918,
-      "words": [
-        {
-          "text": "In",
-          "start": 199.33,
-          "end": 199.67,
-          "confidence": 0.977
-        },
-        {
           "text": "I",
-          "start": 199.67,
-          "end": 199.91,
-          "confidence": 0.992
+          "start": 191.31,
+          "end": 191.49,
+          "confidence": 1.0
         },
         {
-          "text": "said",
-          "start": 199.91,
-          "end": 200.33,
-          "confidence": 0.956
+          "text": "get",
+          "start": 191.49,
+          "end": 191.75,
+          "confidence": 1.0
         },
         {
-          "text": "hey,",
-          "start": 200.33,
-          "end": 201.09,
-          "confidence": 0.941
+          "text": "real",
+          "start": 191.75,
+          "end": 192.09,
+          "confidence": 1.0
         },
         {
-          "text": "hey,",
-          "start": 202.41,
-          "end": 202.83,
-          "confidence": 0.96
-        },
-        {
-          "text": "hey,",
-          "start": 202.99,
-          "end": 203.07,
-          "confidence": 0.981
-        },
-        {
-          "text": "hey,",
-          "start": 207.09,
-          "end": 207.11,
-          "confidence": 0.855
-        },
-        {
-          "text": "I",
-          "start": 207.13,
-          "end": 207.21,
-          "confidence": 0.611
-        },
-        {
-          "text": "said",
-          "start": 207.21,
-          "end": 207.51,
-          "confidence": 0.997
-        },
-        {
-          "text": "hey.",
-          "start": 207.51,
-          "end": 207.97,
-          "confidence": 0.992
+          "text": "high.",
+          "start": 192.09,
+          "end": 192.5,
+          "confidence": 1.0
         }
       ]
     },
     {
       "id": 14,
-      "seek": 8600,
-      "start": 213.46,
-      "end": 222.12,
-      "text": " In I said hey, hey, hey, hey, I said hey.",
+      "seek": 5266,
+      "start": 192.7,
+      "end": 195.45,
+      "text": " And I scream from the top of my lungs.",
       "tokens": [
-        50364,
-        682,
+        51631,
+        400,
         286,
-        848,
-        4177,
-        11,
-        4177,
-        11,
-        4177,
-        11,
-        4177,
-        11,
-        286,
-        848,
-        4177,
+        7291,
+        490,
+        264,
+        1192,
+        295,
+        452,
+        19467,
         13,
-        50564
+        51764
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.1901922948432691,
-      "compression_ratio": 1.6440677966101696,
-      "no_speech_prob": 0.5929387211799622,
-      "confidence": 0.803,
+      "avg_logprob": -0.2802845107184516,
+      "compression_ratio": 1.7459459459459459,
+      "no_speech_prob": 0.0036202273331582546,
+      "confidence": 1.0,
       "words": [
         {
-          "text": "In",
-          "start": 213.46,
-          "end": 213.76,
-          "confidence": 0.97
+          "text": "And",
+          "start": 192.7,
+          "end": 193.1,
+          "confidence": 1.0
         },
         {
           "text": "I",
-          "start": 213.76,
-          "end": 214.02,
-          "confidence": 0.989
+          "start": 193.1,
+          "end": 193.4,
+          "confidence": 1.0
         },
         {
-          "text": "said",
-          "start": 214.02,
-          "end": 214.44,
-          "confidence": 0.86
+          "text": "scream",
+          "start": 193.4,
+          "end": 194.1,
+          "confidence": 0.998
         },
         {
-          "text": "hey,",
-          "start": 214.44,
-          "end": 215.06,
-          "confidence": 0.896
+          "text": "from",
+          "start": 194.1,
+          "end": 194.34,
+          "confidence": 1.0
         },
         {
-          "text": "hey,",
-          "start": 221.13,
-          "end": 221.44,
-          "confidence": 0.829
+          "text": "the",
+          "start": 194.34,
+          "end": 194.44,
+          "confidence": 1.0
         },
         {
-          "text": "hey,",
-          "start": 221.44,
-          "end": 221.46,
-          "confidence": 0.882
+          "text": "top",
+          "start": 194.44,
+          "end": 194.66,
+          "confidence": 1.0
         },
         {
-          "text": "hey,",
-          "start": 221.46,
-          "end": 221.48,
-          "confidence": 0.504
+          "text": "of",
+          "start": 194.66,
+          "end": 194.82,
+          "confidence": 1.0
         },
         {
-          "text": "I",
-          "start": 221.48,
-          "end": 221.5,
-          "confidence": 0.429
+          "text": "my",
+          "start": 194.82,
+          "end": 195.08,
+          "confidence": 1.0
         },
         {
-          "text": "said",
-          "start": 221.5,
-          "end": 221.56,
-          "confidence": 0.994
-        },
-        {
-          "text": "hey.",
-          "start": 221.56,
-          "end": 222.12,
-          "confidence": 0.963
+          "text": "lungs.",
+          "start": 195.08,
+          "end": 195.45,
+          "confidence": 1.0
         }
       ]
     },
     {
       "id": 15,
-      "seek": 8600,
-      "start": 223.83,
-      "end": 225.13,
-      "text": " What's going on?",
+      "seek": 5266,
+      "start": 195.45,
+      "end": 200.11,
+      "text": " And I say.",
       "tokens": [
-        50564,
-        708,
-        311,
-        516,
-        322,
-        30,
-        50664
+        51770,
+        400,
+        286,
+        584,
+        13,
+        51851
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.1901922948432691,
-      "compression_ratio": 1.6440677966101696,
-      "no_speech_prob": 0.5929387211799622,
-      "confidence": 0.778,
+      "avg_logprob": -0.2802845107184516,
+      "compression_ratio": 1.7459459459459459,
+      "no_speech_prob": 0.0036202273331582546,
+      "confidence": 0.968,
       "words": [
         {
-          "text": "What's",
-          "start": 223.83,
-          "end": 224.45,
-          "confidence": 0.898
+          "text": "And",
+          "start": 195.45,
+          "end": 196.08,
+          "confidence": 0.915
         },
         {
-          "text": "going",
-          "start": 224.45,
-          "end": 224.79,
-          "confidence": 0.936
+          "text": "I",
+          "start": 199.29,
+          "end": 199.65,
+          "confidence": 1.0
         },
         {
-          "text": "on?",
-          "start": 224.79,
-          "end": 225.13,
-          "confidence": 0.485
+          "text": "say.",
+          "start": 199.65,
+          "end": 200.11,
+          "confidence": 0.992
         }
       ]
     },
     {
       "id": 16,
-      "seek": 8600,
-      "start": 227.59,
-      "end": 243.33,
-      "text": " In I said hey, hey, hey, hey, I said hey.",
+      "seek": 8266,
+      "start": 200.71,
+      "end": 203.11,
+      "text": " Hey, hey, hey, hey, hey.",
       "tokens": [
-        50664,
-        682,
-        286,
-        848,
-        4177,
+        50365,
+        1911,
         11,
         4177,
         11,
@@ -1800,342 +1621,613 @@
         11,
         4177,
         11,
-        286,
-        848,
         4177,
         13,
-        50914
+        50463
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.1901922948432691,
-      "compression_ratio": 1.6440677966101696,
-      "no_speech_prob": 0.5929387211799622,
-      "confidence": 0.917,
+      "avg_logprob": -0.3681341449866134,
+      "compression_ratio": 1.7674418604651163,
+      "no_speech_prob": 0.007292982190847397,
+      "confidence": 0.851,
       "words": [
         {
-          "text": "In",
-          "start": 227.59,
-          "end": 227.89,
-          "confidence": 0.981
-        },
-        {
-          "text": "I",
-          "start": 227.89,
-          "end": 228.11,
-          "confidence": 0.996
-        },
-        {
-          "text": "said",
-          "start": 228.11,
-          "end": 228.61,
-          "confidence": 0.951
+          "text": "Hey,",
+          "start": 200.71,
+          "end": 201.11,
+          "confidence": 0.735
         },
         {
           "text": "hey,",
-          "start": 228.61,
-          "end": 229.27,
-          "confidence": 0.966
+          "start": 202.0,
+          "end": 202.53,
+          "confidence": 0.679
         },
         {
           "text": "hey,",
-          "start": 229.49,
-          "end": 229.55,
-          "confidence": 0.98
+          "start": 202.63,
+          "end": 202.65,
+          "confidence": 0.938
         },
         {
           "text": "hey,",
-          "start": 235.28,
-          "end": 235.95,
-          "confidence": 0.98
-        },
-        {
-          "text": "hey,",
-          "start": 241.39,
-          "end": 241.79,
-          "confidence": 0.825
-        },
-        {
-          "text": "I",
-          "start": 241.79,
-          "end": 242.19,
-          "confidence": 0.629
-        },
-        {
-          "text": "said",
-          "start": 242.19,
-          "end": 242.57,
-          "confidence": 0.99
+          "start": 202.71,
+          "end": 202.73,
+          "confidence": 0.974
         },
         {
           "text": "hey.",
-          "start": 242.57,
-          "end": 243.33,
-          "confidence": 0.952
+          "start": 202.89,
+          "end": 203.11,
+          "confidence": 0.979
         }
       ]
     },
     {
       "id": 17,
-      "seek": 8600,
-      "start": 272.72,
-      "end": 285.34,
-      "text": " 25 years and my life is still done to get up that great big healer of hope for a destination.",
+      "seek": 8266,
+      "start": 206.86,
+      "end": 207.81,
+      "text": " I said, hey.",
       "tokens": [
-        50914,
-        3552,
+        50463,
+        286,
+        848,
+        11,
+        4177,
+        13,
+        50524
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3681341449866134,
+      "compression_ratio": 1.7674418604651163,
+      "no_speech_prob": 0.007292982190847397,
+      "confidence": 0.991,
+      "words": [
+        {
+          "text": "I",
+          "start": 206.86,
+          "end": 207.13,
+          "confidence": 0.981
+        },
+        {
+          "text": "said,",
+          "start": 207.13,
+          "end": 207.47,
+          "confidence": 0.995
+        },
+        {
+          "text": "hey.",
+          "start": 207.47,
+          "end": 207.81,
+          "confidence": 0.998
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "seek": 8266,
+      "start": 213.44,
+      "end": 214.86,
+      "text": " And I say, hey.",
+      "tokens": [
+        50560,
+        400,
+        286,
+        584,
+        11,
+        4177,
+        13,
+        50639
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3681341449866134,
+      "compression_ratio": 1.7674418604651163,
+      "no_speech_prob": 0.007292982190847397,
+      "confidence": 0.987,
+      "words": [
+        {
+          "text": "And",
+          "start": 213.44,
+          "end": 213.58,
+          "confidence": 0.999
+        },
+        {
+          "text": "I",
+          "start": 213.58,
+          "end": 213.8,
+          "confidence": 1.0
+        },
+        {
+          "text": "say,",
+          "start": 213.8,
+          "end": 214.24,
+          "confidence": 0.95
+        },
+        {
+          "text": "hey.",
+          "start": 214.48,
+          "end": 214.86,
+          "confidence": 0.998
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "seek": 8266,
+      "start": 215.28,
+      "end": 221.9,
+      "text": " I said, hey.",
+      "tokens": [
+        50661,
+        286,
+        848,
+        11,
+        4177,
+        13,
+        50716
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3681341449866134,
+      "compression_ratio": 1.7674418604651163,
+      "no_speech_prob": 0.007292982190847397,
+      "confidence": 0.998,
+      "words": [
+        {
+          "text": "I",
+          "start": 215.28,
+          "end": 215.47,
+          "confidence": 0.995
+        },
+        {
+          "text": "said,",
+          "start": 221.2,
+          "end": 221.4,
+          "confidence": 1.0
+        },
+        {
+          "text": "hey.",
+          "start": 221.52,
+          "end": 221.9,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "seek": 8266,
+      "start": 223.79,
+      "end": 224.71,
+      "text": " What's going?",
+      "tokens": [
+        50745,
+        708,
+        311,
+        516,
+        30,
+        50795
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3681341449866134,
+      "compression_ratio": 1.7674418604651163,
+      "no_speech_prob": 0.007292982190847397,
+      "confidence": 0.935,
+      "words": [
+        {
+          "text": "What's",
+          "start": 223.79,
+          "end": 224.25,
+          "confidence": 0.907
+        },
+        {
+          "text": "going?",
+          "start": 224.25,
+          "end": 224.71,
+          "confidence": 0.991
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "seek": 8266,
+      "start": 227.57,
+      "end": 228.95,
+      "text": " And I say, hey.",
+      "tokens": [
+        50822,
+        400,
+        286,
+        584,
+        11,
+        4177,
+        13,
+        50917
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3681341449866134,
+      "compression_ratio": 1.7674418604651163,
+      "no_speech_prob": 0.007292982190847397,
+      "confidence": 0.994,
+      "words": [
+        {
+          "text": "And",
+          "start": 227.57,
+          "end": 227.69,
+          "confidence": 0.998
+        },
+        {
+          "text": "I",
+          "start": 227.69,
+          "end": 227.91,
+          "confidence": 1.0
+        },
+        {
+          "text": "say,",
+          "start": 227.91,
+          "end": 228.25,
+          "confidence": 0.98
+        },
+        {
+          "text": "hey.",
+          "start": 228.53,
+          "end": 228.95,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "seek": 8266,
+      "start": 235.28,
+      "end": 236.03,
+      "text": " I said, hey.",
+      "tokens": [
+        50923,
+        286,
+        848,
+        11,
+        4177,
+        13,
+        50972
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3681341449866134,
+      "compression_ratio": 1.7674418604651163,
+      "no_speech_prob": 0.007292982190847397,
+      "confidence": 0.998,
+      "words": [
+        {
+          "text": "I",
+          "start": 235.28,
+          "end": 235.39,
+          "confidence": 0.994
+        },
+        {
+          "text": "said,",
+          "start": 235.39,
+          "end": 235.69,
+          "confidence": 1.0
+        },
+        {
+          "text": "hey.",
+          "start": 235.69,
+          "end": 236.03,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "seek": 8266,
+      "start": 241.63,
+      "end": 243.03,
+      "text": " And I say, hey.",
+      "tokens": [
+        50997,
+        400,
+        286,
+        584,
+        11,
+        4177,
+        13,
+        51083
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3681341449866134,
+      "compression_ratio": 1.7674418604651163,
+      "no_speech_prob": 0.007292982190847397,
+      "confidence": 0.999,
+      "words": [
+        {
+          "text": "And",
+          "start": 241.63,
+          "end": 241.81,
+          "confidence": 1.0
+        },
+        {
+          "text": "I",
+          "start": 241.81,
+          "end": 242.01,
+          "confidence": 1.0
+        },
+        {
+          "text": "say,",
+          "start": 242.01,
+          "end": 242.51,
+          "confidence": 0.998
+        },
+        {
+          "text": "hey.",
+          "start": 242.61,
+          "end": 243.03,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "seek": 8266,
+      "start": 272.4,
+      "end": 284.3,
+      "text": " Twenty-five years and my life is still trying to get up that great big hill of hope for a destination.",
+      "tokens": [
+        51083,
+        28789,
+        12,
+        18621,
         924,
         293,
         452,
         993,
         307,
         920,
-        1096,
+        1382,
         281,
         483,
         493,
         300,
         869,
         955,
-        10526,
-        260,
+        10997,
         295,
         1454,
         337,
         257,
         12236,
         13,
-        51564
+        51670
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.1901922948432691,
-      "compression_ratio": 1.6440677966101696,
-      "no_speech_prob": 0.5929387211799622,
-      "confidence": 0.784,
+      "avg_logprob": -0.3681341449866134,
+      "compression_ratio": 1.7674418604651163,
+      "no_speech_prob": 0.007292982190847397,
+      "confidence": 0.911,
       "words": [
         {
-          "text": "25",
-          "start": 272.72,
-          "end": 273.14,
-          "confidence": 0.718
+          "text": "Twenty-five",
+          "start": 272.4,
+          "end": 273.26,
+          "confidence": 0.82
         },
         {
           "text": "years",
-          "start": 273.14,
-          "end": 273.74,
-          "confidence": 0.979
+          "start": 273.26,
+          "end": 273.64,
+          "confidence": 1.0
         },
         {
           "text": "and",
-          "start": 273.74,
-          "end": 274.14,
-          "confidence": 0.337
+          "start": 273.64,
+          "end": 274.06,
+          "confidence": 0.988
         },
         {
           "text": "my",
-          "start": 274.14,
-          "end": 274.36,
-          "confidence": 0.995
+          "start": 274.06,
+          "end": 274.22,
+          "confidence": 1.0
         },
         {
           "text": "life",
-          "start": 274.36,
-          "end": 274.66,
-          "confidence": 0.994
+          "start": 274.22,
+          "end": 274.58,
+          "confidence": 1.0
         },
         {
           "text": "is",
-          "start": 274.66,
-          "end": 275.04,
-          "confidence": 0.964
+          "start": 274.58,
+          "end": 275.02,
+          "confidence": 1.0
         },
         {
           "text": "still",
-          "start": 275.04,
-          "end": 275.54,
-          "confidence": 0.994
+          "start": 275.02,
+          "end": 275.46,
+          "confidence": 0.999
         },
         {
-          "text": "done",
-          "start": 275.54,
-          "end": 276.82,
-          "confidence": 0.359
+          "text": "trying",
+          "start": 275.46,
+          "end": 276.76,
+          "confidence": 0.514
         },
         {
           "text": "to",
-          "start": 276.82,
-          "end": 277.22,
-          "confidence": 0.966
+          "start": 276.76,
+          "end": 277.04,
+          "confidence": 1.0
         },
         {
           "text": "get",
-          "start": 277.22,
-          "end": 277.5,
-          "confidence": 0.99
+          "start": 277.04,
+          "end": 277.42,
+          "confidence": 1.0
         },
         {
           "text": "up",
-          "start": 277.5,
+          "start": 277.42,
           "end": 277.66,
-          "confidence": 0.816
+          "confidence": 0.767
         },
         {
           "text": "that",
           "start": 277.66,
-          "end": 278.16,
-          "confidence": 0.794
+          "end": 278.04,
+          "confidence": 0.997
         },
         {
           "text": "great",
-          "start": 278.16,
-          "end": 278.82,
-          "confidence": 0.693
+          "start": 278.04,
+          "end": 278.66,
+          "confidence": 0.652
         },
         {
           "text": "big",
-          "start": 278.82,
-          "end": 279.24,
-          "confidence": 0.802
+          "start": 278.66,
+          "end": 279.2,
+          "confidence": 0.992
         },
         {
-          "text": "healer",
-          "start": 279.24,
-          "end": 280.22,
-          "confidence": 0.542
+          "text": "hill",
+          "start": 279.2,
+          "end": 279.68,
+          "confidence": 0.988
         },
         {
           "text": "of",
-          "start": 280.22,
-          "end": 280.52,
-          "confidence": 0.979
+          "start": 279.68,
+          "end": 280.2,
+          "confidence": 1.0
         },
         {
           "text": "hope",
-          "start": 280.52,
-          "end": 280.96,
-          "confidence": 0.995
+          "start": 280.2,
+          "end": 280.78,
+          "confidence": 1.0
         },
         {
           "text": "for",
-          "start": 282.93,
-          "end": 283.7,
-          "confidence": 0.854
+          "start": 280.78,
+          "end": 281.59,
+          "confidence": 0.988
         },
         {
           "text": "a",
-          "start": 283.7,
-          "end": 283.9,
-          "confidence": 0.917
+          "start": 283.36,
+          "end": 283.82,
+          "confidence": 0.961
         },
         {
           "text": "destination.",
-          "start": 283.9,
-          "end": 285.34,
-          "confidence": 0.975
+          "start": 283.82,
+          "end": 284.3,
+          "confidence": 0.997
         }
       ]
     }
   ],
   "language": "en",
   "language_probs": {
-    "en": 0.9413411021232605,
-    "zh": 0.0004523408133536577,
-    "de": 0.003907628357410431,
-    "es": 0.0005808170535601676,
-    "ru": 0.0007575282943435013,
-    "ko": 0.0002830676094163209,
-    "fr": 0.0019648787565529346,
-    "ja": 0.0007005991647019982,
-    "pt": 0.003557936055585742,
-    "tr": 0.0005673624691553414,
-    "pl": 0.0009066426428034902,
-    "ca": 2.066617707896512e-05,
-    "nl": 0.0004558885411825031,
-    "ar": 0.0009209202835336328,
-    "sv": 0.0005288399988785386,
-    "it": 0.00034412273089401424,
-    "id": 0.00012959781452082098,
-    "hi": 9.099194357986562e-06,
-    "fi": 2.066617707896512e-05,
-    "vi": 0.0003108889504801482,
-    "he": 0.0003720854001585394,
-    "uk": 0.00021035800455138087,
-    "el": 0.00026800305931828916,
-    "ms": 0.0002852877660188824,
-    "cs": 2.0991621568100527e-05,
-    "ro": 0.00013163867697585374,
-    "da": 0.0002722234930843115,
-    "hu": 3.4609329304657876e-05,
-    "ta": 8.415378943027463e-06,
-    "no": 0.0001677120162639767,
-    "th": 3.328347156639211e-05,
-    "ur": 4.4093434553360566e-05,
-    "hr": 2.3601514840265736e-05,
-    "bg": 1.6094832972157747e-05,
-    "lt": 5.06446440340369e-06,
-    "la": 0.003613965352997184,
-    "mi": 0.006544046103954315,
-    "ml": 3.2955099413811695e-06,
-    "cy": 0.004640423227101564,
-    "sk": 3.6194098811392905e-06,
-    "te": 8.888411684893072e-06,
-    "fa": 6.723446131218225e-05,
-    "lv": 1.5119696399779059e-05,
-    "bn": 6.0613701862166636e-06,
-    "sr": 4.365841050457675e-06,
-    "az": 1.1038574712074478e-06,
-    "sl": 3.830903733614832e-05,
-    "kn": 1.3235296592029044e-07,
-    "et": 2.0102739028970973e-07,
-    "mk": 9.044684929904179e-07,
-    "br": 0.0007815748103894293,
-    "eu": 1.168359631265048e-05,
-    "is": 3.9525097236037254e-05,
-    "hy": 3.883059434883762e-06,
-    "ne": 8.044508490456792e-07,
-    "mn": 7.426545380440075e-06,
-    "bs": 2.532072721805889e-05,
-    "kk": 2.300636651852983e-06,
-    "sq": 1.1236004866077565e-05,
-    "sw": 6.365630542859435e-05,
-    "gl": 6.074127304600552e-05,
-    "mr": 1.038850427903526e-07,
-    "pa": 4.860218609792355e-07,
-    "si": 1.941407572303433e-05,
-    "km": 0.0005499065155163407,
-    "sn": 0.0007116319611668587,
-    "yo": 0.00038389666588045657,
-    "so": 2.8019124442835164e-07,
-    "af": 2.9372560675255954e-05,
-    "oc": 2.234546627732925e-05,
-    "ka": 7.888913842180045e-07,
-    "be": 3.225944601581432e-05,
-    "tg": 1.154403150849248e-07,
-    "sd": 7.90551621321356e-06,
-    "gu": 2.4674859488982293e-08,
-    "am": 2.251400132990966e-07,
-    "yi": 0.005597418639808893,
-    "lo": 2.44901502810535e-06,
-    "uz": 1.0184530996326657e-09,
-    "fo": 0.00013267113536130637,
-    "ht": 8.433090260950848e-05,
-    "ps": 2.5465724320383742e-06,
-    "tk": 6.892227677468554e-09,
-    "nn": 0.0005247244844213128,
-    "mt": 4.794938377017388e-06,
-    "sa": 2.8027490770909935e-05,
-    "lb": 1.145419616932486e-07,
-    "my": 5.075122680864297e-05,
-    "bo": 1.8816766896634363e-05,
-    "tl": 6.991277768975124e-05,
-    "mg": 1.0779648285108578e-08,
-    "as": 2.834940460161306e-07,
-    "tt": 4.03653785951974e-08,
-    "haw": 0.015454969368875027,
-    "ln": 1.020901208903524e-06,
-    "ha": 5.9191915369183334e-08,
-    "ba": 1.1274931210891737e-08,
-    "jw": 0.000658151984680444,
-    "su": 2.39660266743158e-07
+    "en": 0.9391835331916809,
+    "zh": 0.0019000608008354902,
+    "de": 0.003838228527456522,
+    "es": 0.00806229654699564,
+    "ru": 0.005005993414670229,
+    "ko": 0.0016508015105500817,
+    "fr": 0.003157240804284811,
+    "ja": 0.001663748873397708,
+    "pt": 0.005944764241576195,
+    "tr": 0.0006314878119155765,
+    "pl": 0.0006265735719352961,
+    "ca": 0.0002591621014289558,
+    "nl": 0.0036056821700185537,
+    "ar": 0.0002453697088640183,
+    "sv": 0.0002492337371222675,
+    "it": 0.000962904014158994,
+    "id": 0.00015235353203024715,
+    "hi": 0.00011681351315928623,
+    "fi": 0.00010148932778974995,
+    "vi": 0.0011345782550051808,
+    "he": 0.00010308755736332387,
+    "uk": 0.00011233844998059794,
+    "el": 0.00018092429672833532,
+    "ms": 0.00018234329763799906,
+    "cs": 0.00013236705854069442,
+    "ro": 9.240709186997265e-05,
+    "da": 0.0001559664960950613,
+    "hu": 3.507377186906524e-05,
+    "ta": 5.26519725099206e-05,
+    "no": 4.7196921514114365e-05,
+    "th": 0.00018521479796618223,
+    "ur": 3.386213575140573e-05,
+    "hr": 1.428223004040774e-05,
+    "bg": 2.506609780539293e-05,
+    "lt": 2.715184564294759e-06,
+    "la": 0.006950133480131626,
+    "mi": 0.0028972469735890627,
+    "ml": 6.38740948488703e-06,
+    "cy": 0.003720138454809785,
+    "sk": 8.233696462411899e-06,
+    "te": 6.239444701350294e-06,
+    "fa": 1.6183888874365948e-05,
+    "lv": 1.4563921467924956e-05,
+    "bn": 2.1190384359215386e-05,
+    "sr": 1.2479673614507192e-06,
+    "az": 2.5807464680838166e-06,
+    "sl": 2.4011849745875224e-05,
+    "kn": 5.76968204768491e-07,
+    "et": 1.0906246643571649e-06,
+    "mk": 1.4907071772540803e-06,
+    "br": 0.0007499103667214513,
+    "eu": 8.091435302048922e-05,
+    "is": 2.3918235456221737e-05,
+    "hy": 5.884357051400002e-06,
+    "ne": 6.000415396556491e-06,
+    "mn": 2.50134507950861e-06,
+    "bs": 1.612079176993575e-05,
+    "kk": 5.2336554290377535e-06,
+    "sq": 1.3027598697590292e-06,
+    "sw": 2.0062650946783833e-05,
+    "gl": 0.00013763994502369314,
+    "mr": 3.486366040306166e-06,
+    "pa": 5.725636128772749e-06,
+    "si": 1.6697622413630597e-05,
+    "km": 0.0005194477271288633,
+    "sn": 0.000823615409899503,
+    "yo": 0.0001243473234353587,
+    "so": 2.645676033807831e-08,
+    "af": 2.4389981263084337e-05,
+    "oc": 5.04374984302558e-05,
+    "ka": 5.548648687181412e-07,
+    "be": 2.720899101404939e-05,
+    "tg": 4.031712919072561e-08,
+    "sd": 8.528310900146607e-06,
+    "gu": 1.862476096903265e-06,
+    "am": 9.26367178522014e-08,
+    "yi": 0.00010553221363807097,
+    "lo": 8.902747140382417e-06,
+    "uz": 8.641837467848745e-09,
+    "fo": 9.66384141065646e-06,
+    "ht": 3.131735502392985e-05,
+    "ps": 3.5970354019809747e-06,
+    "tk": 1.5511414375168897e-08,
+    "nn": 0.00032506207935512066,
+    "mt": 5.537822289625183e-07,
+    "sa": 4.9461952585261315e-05,
+    "lb": 8.442910370831669e-08,
+    "my": 4.433740832610056e-05,
+    "bo": 6.96060396876419e-06,
+    "tl": 9.45984575082548e-05,
+    "mg": 2.423071521207021e-08,
+    "as": 7.948071356622677e-07,
+    "tt": 5.5804228793476796e-08,
+    "haw": 0.0024397263769060373,
+    "ln": 1.4561750276698149e-06,
+    "ha": 5.873989294968851e-08,
+    "ba": 1.923839754169876e-08,
+    "jw": 0.0006722153048031032,
+    "su": 8.056281330937054e-08,
+    "yue": 3.02354856103193e-05
   },
   "speech_activity": [
     {

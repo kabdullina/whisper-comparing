@@ -1,92 +1,26 @@
 {
-  "text": " All right, man. So how we doing this? So I know you don't like doing this that often, but we've been practicing a lot. I think we can do it live in one take live one take Okay, we've been practicing like a lot. So yeah, yeah, we can do it. Yeah one day. It's all it's gonna take Just once Inside baby, I've never had a way to keep it all in pain One day And I see the signs I'll keep it in my mind Learn to thrive and come alive without it now I'm the son of not great Until I'm straight away I'm feeling Flipped at Boys Life is That's what Sweet Flipped at",
+  "text": "All right, man. How are we doing this? I know you don't like doing this. We've been practising a lot. I think we can do it live in one take. Live? One take? OK. We've been practising a lot. We can do it. One take. That's all it's gonna take. Just once.Baby, I never had a way to keep it all at bay. One day I will fade away. We lived, we've died, our own deaths. Life is best left. How did I see the signs? I'll keep it in my mind. I'll find myself in my grave until I fade away. We lived, we've died, our own deaths. Life is best left. We lived, we've died, our own deaths.",
   "segments": [
     {
       "id": 0,
       "seek": 0,
-      "start": 3.29,
-      "end": 5.77,
-      "text": " All right, man. So how we doing this?",
+      "start": 3.25,
+      "end": 9.15,
+      "text": "All right, man. How are we doing this? I know you don't like doing this.",
       "tokens": [
         50364,
-        1057,
+        7868,
         558,
         11,
         587,
         13,
-        407,
-        577,
+        1012,
+        366,
         321,
         884,
-        341,
+        220,
+        11176,
         30,
-        50506
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.29027540418836806,
-      "compression_ratio": 1.6457142857142857,
-      "no_speech_prob": 0.14886586368083954,
-      "confidence": 0.786,
-      "words": [
-        {
-          "text": "All",
-          "start": 3.29,
-          "end": 3.53,
-          "confidence": 0.548
-        },
-        {
-          "text": "right,",
-          "start": 3.53,
-          "end": 3.91,
-          "confidence": 0.981
-        },
-        {
-          "text": "man.",
-          "start": 4.05,
-          "end": 4.33,
-          "confidence": 0.991
-        },
-        {
-          "text": "So",
-          "start": 4.57,
-          "end": 5.03,
-          "confidence": 0.651
-        },
-        {
-          "text": "how",
-          "start": 5.03,
-          "end": 5.19,
-          "confidence": 0.892
-        },
-        {
-          "text": "we",
-          "start": 5.19,
-          "end": 5.31,
-          "confidence": 0.501
-        },
-        {
-          "text": "doing",
-          "start": 5.31,
-          "end": 5.53,
-          "confidence": 0.948
-        },
-        {
-          "text": "this?",
-          "start": 5.53,
-          "end": 5.77,
-          "confidence": 0.99
-        }
-      ]
-    },
-    {
-      "id": 1,
-      "seek": 0,
-      "start": 6.51,
-      "end": 12.13,
-      "text": " So I know you don't like doing this that often, but we've been practicing a lot. I think we can do it live in one take",
-      "tokens": [
-        50548,
-        407,
         286,
         458,
         291,
@@ -94,20 +28,128 @@
         380,
         411,
         884,
-        341,
-        300,
-        2049,
-        11,
-        457,
-        321,
+        220,
+        11176,
+        13,
+        50696
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2698840437264278,
+      "compression_ratio": 1.6258064516129032,
+      "no_speech_prob": 0.025786958634853363,
+      "confidence": 0.832,
+      "words": [
+        {
+          "text": "All",
+          "start": 3.25,
+          "end": 3.73,
+          "confidence": 0.428
+        },
+        {
+          "text": "right,",
+          "start": 3.73,
+          "end": 4.03,
+          "confidence": 0.924
+        },
+        {
+          "text": "man.",
+          "start": 4.53,
+          "end": 4.59,
+          "confidence": 0.991
+        },
+        {
+          "text": "How",
+          "start": 5.01,
+          "end": 5.23,
+          "confidence": 0.596
+        },
+        {
+          "text": "are",
+          "start": 5.23,
+          "end": 5.31,
+          "confidence": 0.855
+        },
+        {
+          "text": "we",
+          "start": 5.31,
+          "end": 5.39,
+          "confidence": 0.987
+        },
+        {
+          "text": "doing",
+          "start": 5.39,
+          "end": 5.67,
+          "confidence": 0.971
+        },
+        {
+          "text": "this?",
+          "start": 5.67,
+          "end": 5.95,
+          "confidence": 0.979
+        },
+        {
+          "text": "I",
+          "start": 6.17,
+          "end": 7.17,
+          "confidence": 0.441
+        },
+        {
+          "text": "know",
+          "start": 7.17,
+          "end": 7.81,
+          "confidence": 0.973
+        },
+        {
+          "text": "you",
+          "start": 7.81,
+          "end": 7.89,
+          "confidence": 0.976
+        },
+        {
+          "text": "don't",
+          "start": 7.89,
+          "end": 8.11,
+          "confidence": 0.992
+        },
+        {
+          "text": "like",
+          "start": 8.11,
+          "end": 8.35,
+          "confidence": 0.645
+        },
+        {
+          "text": "doing",
+          "start": 8.35,
+          "end": 8.55,
+          "confidence": 0.847
+        },
+        {
+          "text": "this.",
+          "start": 8.55,
+          "end": 9.15,
+          "confidence": 0.94
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 9.31,
+      "end": 12.17,
+      "text": " We've been practising a lot. I think we can do it live in one take.",
+      "tokens": [
+        50696,
+        492,
         600,
         668,
-        11350,
+        1927,
+        3436,
         257,
         688,
         13,
         286,
-        519,
+        220,
+        21074,
         321,
         393,
         360,
@@ -115,599 +157,476 @@
         1621,
         294,
         472,
-        747,
-        50825
+        220,
+        27612,
+        13,
+        50888
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.29027540418836806,
-      "compression_ratio": 1.6457142857142857,
-      "no_speech_prob": 0.14886586368083954,
-      "confidence": 0.94,
+      "avg_logprob": -0.2698840437264278,
+      "compression_ratio": 1.6258064516129032,
+      "no_speech_prob": 0.025786958634853363,
+      "confidence": 0.853,
       "words": [
         {
-          "text": "So",
-          "start": 6.51,
-          "end": 7.11,
-          "confidence": 0.961
-        },
-        {
-          "text": "I",
-          "start": 7.11,
-          "end": 7.41,
-          "confidence": 0.851
-        },
-        {
-          "text": "know",
-          "start": 7.41,
-          "end": 7.71,
-          "confidence": 0.939
-        },
-        {
-          "text": "you",
-          "start": 7.71,
-          "end": 7.85,
-          "confidence": 0.987
-        },
-        {
-          "text": "don't",
-          "start": 7.85,
-          "end": 8.03,
-          "confidence": 0.998
-        },
-        {
-          "text": "like",
-          "start": 8.03,
-          "end": 8.19,
-          "confidence": 0.999
-        },
-        {
-          "text": "doing",
-          "start": 8.19,
-          "end": 8.41,
-          "confidence": 0.998
-        },
-        {
-          "text": "this",
-          "start": 8.41,
-          "end": 8.63,
-          "confidence": 0.997
-        },
-        {
-          "text": "that",
-          "start": 8.63,
-          "end": 8.85,
-          "confidence": 0.854
-        },
-        {
-          "text": "often,",
-          "start": 8.85,
-          "end": 9.35,
-          "confidence": 0.695
-        },
-        {
-          "text": "but",
-          "start": 9.67,
-          "end": 9.69,
-          "confidence": 0.99
-        },
-        {
-          "text": "we've",
-          "start": 9.69,
-          "end": 9.97,
-          "confidence": 0.998
+          "text": "We've",
+          "start": 9.31,
+          "end": 9.99,
+          "confidence": 0.722
         },
         {
           "text": "been",
-          "start": 9.97,
-          "end": 10.07,
-          "confidence": 0.999
+          "start": 9.99,
+          "end": 10.21,
+          "confidence": 0.966
         },
         {
-          "text": "practicing",
-          "start": 10.07,
-          "end": 10.35,
-          "confidence": 0.994
+          "text": "practising",
+          "start": 10.21,
+          "end": 10.51,
+          "confidence": 0.752
         },
         {
           "text": "a",
-          "start": 10.35,
-          "end": 10.57,
-          "confidence": 0.994
+          "start": 10.51,
+          "end": 10.69,
+          "confidence": 0.899
         },
         {
           "text": "lot.",
-          "start": 10.57,
-          "end": 10.73,
-          "confidence": 0.997
+          "start": 10.69,
+          "end": 10.85,
+          "confidence": 0.976
         },
         {
           "text": "I",
-          "start": 10.87,
-          "end": 10.95,
-          "confidence": 0.931
+          "start": 10.97,
+          "end": 10.99,
+          "confidence": 0.474
         },
         {
           "text": "think",
-          "start": 10.95,
-          "end": 11.07,
-          "confidence": 0.999
-        },
-        {
-          "text": "we",
-          "start": 11.07,
-          "end": 11.19,
-          "confidence": 0.997
-        },
-        {
-          "text": "can",
-          "start": 11.19,
-          "end": 11.29,
-          "confidence": 0.991
-        },
-        {
-          "text": "do",
-          "start": 11.29,
-          "end": 11.39,
-          "confidence": 0.999
-        },
-        {
-          "text": "it",
-          "start": 11.39,
-          "end": 11.51,
-          "confidence": 0.989
-        },
-        {
-          "text": "live",
-          "start": 11.51,
-          "end": 11.67,
+          "start": 10.99,
+          "end": 11.23,
           "confidence": 0.994
         },
         {
-          "text": "in",
-          "start": 11.67,
+          "text": "we",
+          "start": 11.23,
+          "end": 11.25,
+          "confidence": 0.942
+        },
+        {
+          "text": "can",
+          "start": 11.25,
+          "end": 11.39,
+          "confidence": 0.953
+        },
+        {
+          "text": "do",
+          "start": 11.39,
+          "end": 11.63,
+          "confidence": 0.974
+        },
+        {
+          "text": "it",
+          "start": 11.63,
+          "end": 11.69,
+          "confidence": 0.957
+        },
+        {
+          "text": "live",
+          "start": 11.69,
           "end": 11.83,
-          "confidence": 0.574
+          "confidence": 0.969
+        },
+        {
+          "text": "in",
+          "start": 11.83,
+          "end": 11.89,
+          "confidence": 0.52
         },
         {
           "text": "one",
-          "start": 11.83,
-          "end": 11.97,
-          "confidence": 0.9
+          "start": 11.89,
+          "end": 12.01,
+          "confidence": 0.99
         },
         {
-          "text": "take",
-          "start": 11.97,
-          "end": 12.13,
-          "confidence": 0.872
+          "text": "take.",
+          "start": 12.01,
+          "end": 12.17,
+          "confidence": 0.998
         }
       ]
     },
     {
       "id": 2,
       "seek": 0,
-      "start": 13.41,
-      "end": 13.93,
-      "text": " live",
+      "start": 13.39,
+      "end": 24.84,
+      "text": " Live? One take? OK. We've been practising a lot. We can do it. One take. That's all it's gonna take. Just once.",
       "tokens": [
-        50869,
-        1621,
-        50942
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.29027540418836806,
-      "compression_ratio": 1.6457142857142857,
-      "no_speech_prob": 0.14886586368083954,
-      "confidence": 0.757,
-      "words": [
-        {
-          "text": "live",
-          "start": 13.41,
-          "end": 13.93,
-          "confidence": 0.757
-        }
-      ]
-    },
-    {
-      "id": 3,
-      "seek": 0,
-      "start": 14.93,
-      "end": 15.55,
-      "text": " one take",
-      "tokens": [
-        50942,
-        472,
-        747,
-        51034
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.29027540418836806,
-      "compression_ratio": 1.6457142857142857,
-      "no_speech_prob": 0.14886586368083954,
-      "confidence": 0.703,
-      "words": [
-        {
-          "text": "one",
-          "start": 14.93,
-          "end": 15.27,
-          "confidence": 0.519
-        },
-        {
-          "text": "take",
-          "start": 15.27,
-          "end": 15.55,
-          "confidence": 0.952
-        }
-      ]
-    },
-    {
-      "id": 4,
-      "seek": 0,
-      "start": 16.72,
-      "end": 22.8,
-      "text": " Okay, we've been practicing like a lot. So yeah, yeah, we can do it. Yeah one day. It's all it's gonna take",
-      "tokens": [
-        51034,
-        1033,
-        11,
-        321,
+        50888,
+        10385,
+        30,
+        1485,
+        220,
+        27612,
+        30,
+        2264,
+        13,
+        492,
         600,
         668,
-        11350,
-        411,
+        1927,
+        3436,
         257,
         688,
         13,
-        407,
-        1338,
-        11,
-        1338,
-        11,
-        321,
+        492,
         393,
         360,
         309,
         13,
-        865,
-        472,
-        786,
+        1485,
+        220,
+        27612,
         13,
-        467,
+        663,
         311,
         439,
         309,
         311,
         799,
-        747,
-        51322
+        220,
+        27612,
+        13,
+        1449,
+        1564,
+        13,
+        51430
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.29027540418836806,
-      "compression_ratio": 1.6457142857142857,
-      "no_speech_prob": 0.14886586368083954,
-      "confidence": 0.851,
+      "avg_logprob": -0.2698840437264278,
+      "compression_ratio": 1.6258064516129032,
+      "no_speech_prob": 0.025786958634853363,
+      "confidence": 0.85,
       "words": [
         {
-          "text": "Okay,",
-          "start": 16.72,
-          "end": 17.62,
-          "confidence": 0.949
+          "text": "Live?",
+          "start": 13.39,
+          "end": 14.13,
+          "confidence": 0.952
         },
         {
-          "text": "we've",
-          "start": 18.14,
-          "end": 18.36,
+          "text": "One",
+          "start": 14.49,
+          "end": 15.61,
+          "confidence": 0.947
+        },
+        {
+          "text": "take?",
+          "start": 15.61,
+          "end": 15.63,
           "confidence": 0.998
+        },
+        {
+          "text": "OK.",
+          "start": 16.9,
+          "end": 17.74,
+          "confidence": 0.603
+        },
+        {
+          "text": "We've",
+          "start": 17.96,
+          "end": 18.46,
+          "confidence": 0.961
         },
         {
           "text": "been",
-          "start": 18.36,
-          "end": 18.44,
-          "confidence": 0.999
+          "start": 18.46,
+          "end": 18.48,
+          "confidence": 0.983
         },
         {
-          "text": "practicing",
-          "start": 18.44,
-          "end": 18.8,
-          "confidence": 0.996
-        },
-        {
-          "text": "like",
-          "start": 18.8,
-          "end": 19.16,
-          "confidence": 0.953
+          "text": "practising",
+          "start": 18.48,
+          "end": 19.02,
+          "confidence": 0.987
         },
         {
           "text": "a",
-          "start": 19.16,
-          "end": 19.32,
-          "confidence": 0.963
+          "start": 19.02,
+          "end": 19.38,
+          "confidence": 0.783
         },
         {
           "text": "lot.",
-          "start": 19.32,
-          "end": 19.52,
-          "confidence": 0.902
+          "start": 19.38,
+          "end": 19.6,
+          "confidence": 0.98
         },
         {
-          "text": "So",
-          "start": 19.6,
-          "end": 19.8,
-          "confidence": 0.993
-        },
-        {
-          "text": "yeah,",
-          "start": 19.8,
-          "end": 20.02,
-          "confidence": 0.934
-        },
-        {
-          "text": "yeah,",
-          "start": 20.08,
-          "end": 20.32,
-          "confidence": 0.507
-        },
-        {
-          "text": "we",
-          "start": 20.38,
-          "end": 20.46,
-          "confidence": 0.988
+          "text": "We",
+          "start": 20.2,
+          "end": 20.34,
+          "confidence": 0.384
         },
         {
           "text": "can",
-          "start": 20.46,
-          "end": 20.56,
-          "confidence": 0.558
+          "start": 20.34,
+          "end": 20.74,
+          "confidence": 0.924
         },
         {
           "text": "do",
-          "start": 20.56,
-          "end": 20.66,
-          "confidence": 0.998
+          "start": 20.74,
+          "end": 20.78,
+          "confidence": 0.977
         },
         {
           "text": "it.",
-          "start": 20.66,
-          "end": 20.84,
-          "confidence": 0.992
+          "start": 20.78,
+          "end": 20.94,
+          "confidence": 0.974
         },
         {
-          "text": "Yeah",
-          "start": 20.9,
-          "end": 21.3,
-          "confidence": 0.993
+          "text": "One",
+          "start": 20.96,
+          "end": 21.52,
+          "confidence": 0.658
         },
         {
-          "text": "one",
-          "start": 21.3,
-          "end": 21.46,
-          "confidence": 0.666
+          "text": "take.",
+          "start": 21.52,
+          "end": 21.76,
+          "confidence": 0.995
         },
         {
-          "text": "day.",
-          "start": 21.46,
-          "end": 21.64,
-          "confidence": 0.472
-        },
-        {
-          "text": "It's",
-          "start": 21.76,
-          "end": 22.32,
-          "confidence": 0.63
+          "text": "That's",
+          "start": 22.24,
+          "end": 22.66,
+          "confidence": 0.589
         },
         {
           "text": "all",
-          "start": 22.32,
-          "end": 22.4,
-          "confidence": 0.903
+          "start": 22.66,
+          "end": 22.68,
+          "confidence": 0.925
         },
         {
           "text": "it's",
-          "start": 22.4,
-          "end": 22.5,
-          "confidence": 0.976
+          "start": 22.68,
+          "end": 22.7,
+          "confidence": 0.807
         },
         {
           "text": "gonna",
-          "start": 22.5,
-          "end": 22.62,
-          "confidence": 0.912
+          "start": 22.7,
+          "end": 22.8,
+          "confidence": 0.618
         },
         {
-          "text": "take",
-          "start": 22.62,
-          "end": 22.8,
-          "confidence": 0.923
-        }
-      ]
-    },
-    {
-      "id": 5,
-      "seek": 0,
-      "start": 24.18,
-      "end": 24.74,
-      "text": " Just once",
-      "tokens": [
-        51354,
-        1449,
-        1564,
-        51454
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.29027540418836806,
-      "compression_ratio": 1.6457142857142857,
-      "no_speech_prob": 0.14886586368083954,
-      "confidence": 0.647,
-      "words": [
+          "text": "take.",
+          "start": 22.8,
+          "end": 22.92,
+          "confidence": 0.996
+        },
         {
           "text": "Just",
-          "start": 24.18,
-          "end": 24.5,
-          "confidence": 0.538
+          "start": 24.54,
+          "end": 24.58,
+          "confidence": 0.878
         },
         {
-          "text": "once",
-          "start": 24.5,
-          "end": 24.74,
-          "confidence": 0.778
+          "text": "once.",
+          "start": 24.58,
+          "end": 24.84,
+          "confidence": 0.98
         }
       ]
     },
     {
-      "id": 6,
+      "id": 3,
       "seek": 3000,
-      "start": 91.88,
-      "end": 97.12,
-      "text": " Inside baby, I've never had a way to keep it all in pain",
+      "start": 93.06,
+      "end": 101.06,
+      "text": "Baby, I never had a way to keep it all at bay. One day I will fade away.",
       "tokens": [
-        50364,
-        15123,
-        3186,
+        50414,
+        39767,
         11,
         286,
-        600,
         1128,
         632,
         257,
         636,
-        281,
+        220,
+        1353,
         1066,
         309,
         439,
-        294,
-        1822,
-        50624
+        412,
+        13642,
+        13,
+        1485,
+        786,
+        286,
+        486,
+        21626,
+        1314,
+        13,
+        50814
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.727865270666174,
-      "compression_ratio": 1.1612903225806452,
-      "no_speech_prob": 0.5742509961128235,
-      "confidence": 0.696,
+      "avg_logprob": -0.2732551704018803,
+      "compression_ratio": 1.2785714285714285,
+      "no_speech_prob": 0.22323766350746155,
+      "confidence": 0.911,
       "words": [
         {
-          "text": "Inside",
-          "start": 91.88,
-          "end": 92.7,
-          "confidence": 0.897
+          "text": "Baby,",
+          "start": 93.06,
+          "end": 93.42,
+          "confidence": 0.559
         },
         {
-          "text": "baby,",
-          "start": 92.7,
-          "end": 93.4,
-          "confidence": 0.556
-        },
-        {
-          "text": "I've",
-          "start": 93.54,
-          "end": 93.92,
-          "confidence": 0.715
+          "text": "I",
+          "start": 93.84,
+          "end": 93.88,
+          "confidence": 0.993
         },
         {
           "text": "never",
-          "start": 93.92,
-          "end": 94.42,
-          "confidence": 0.981
+          "start": 93.88,
+          "end": 94.4,
+          "confidence": 0.716
         },
         {
           "text": "had",
-          "start": 94.42,
-          "end": 94.82,
-          "confidence": 0.963
+          "start": 94.4,
+          "end": 94.94,
+          "confidence": 0.985
         },
         {
           "text": "a",
-          "start": 94.82,
-          "end": 95.04,
-          "confidence": 0.974
+          "start": 94.94,
+          "end": 95.08,
+          "confidence": 0.996
         },
         {
           "text": "way",
-          "start": 95.04,
-          "end": 95.28,
-          "confidence": 0.99
+          "start": 95.08,
+          "end": 95.36,
+          "confidence": 0.999
         },
         {
           "text": "to",
-          "start": 95.28,
-          "end": 95.56,
-          "confidence": 0.968
+          "start": 95.36,
+          "end": 95.66,
+          "confidence": 0.974
         },
         {
           "text": "keep",
-          "start": 95.56,
-          "end": 95.92,
-          "confidence": 0.759
+          "start": 95.66,
+          "end": 96.04,
+          "confidence": 0.977
         },
         {
           "text": "it",
-          "start": 95.92,
-          "end": 96.18,
-          "confidence": 0.912
+          "start": 96.04,
+          "end": 96.28,
+          "confidence": 0.989
         },
         {
           "text": "all",
-          "start": 96.18,
-          "end": 96.54,
-          "confidence": 0.618
+          "start": 96.28,
+          "end": 96.64,
+          "confidence": 0.982
         },
         {
-          "text": "in",
-          "start": 96.54,
-          "end": 96.8,
-          "confidence": 0.41
+          "text": "at",
+          "start": 96.64,
+          "end": 96.98,
+          "confidence": 0.778
         },
         {
-          "text": "pain",
-          "start": 96.8,
-          "end": 97.12,
-          "confidence": 0.159
-        }
-      ]
-    },
-    {
-      "id": 7,
-      "seek": 3000,
-      "start": 98.02,
-      "end": 99.46,
-      "text": " One day",
-      "tokens": [
-        50676,
-        1485,
-        786,
-        50776
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.727865270666174,
-      "compression_ratio": 1.1612903225806452,
-      "no_speech_prob": 0.5742509961128235,
-      "confidence": 0.662,
-      "words": [
+          "text": "bay.",
+          "start": 96.98,
+          "end": 97.54,
+          "confidence": 0.925
+        },
         {
           "text": "One",
-          "start": 98.02,
-          "end": 98.8,
-          "confidence": 0.524
+          "start": 97.74,
+          "end": 98.84,
+          "confidence": 0.79
         },
         {
           "text": "day",
-          "start": 98.8,
-          "end": 99.46,
-          "confidence": 0.836
+          "start": 98.84,
+          "end": 99.6,
+          "confidence": 0.987
+        },
+        {
+          "text": "I",
+          "start": 99.6,
+          "end": 99.82,
+          "confidence": 0.895
+        },
+        {
+          "text": "will",
+          "start": 99.82,
+          "end": 100.18,
+          "confidence": 0.985
+        },
+        {
+          "text": "fade",
+          "start": 100.18,
+          "end": 100.8,
+          "confidence": 0.992
+        },
+        {
+          "text": "away.",
+          "start": 100.8,
+          "end": 101.06,
+          "confidence": 0.997
         }
       ]
     },
     {
-      "id": 8,
+      "id": 4,
       "seek": 3000,
-      "start": 138.64,
-      "end": 142.49,
-      "text": " And I see the signs I'll keep it in my mind",
+      "start": 102.62,
+      "end": 142.89,
+      "text": " We lived, we've died, our own deaths. Life is best left. How did I see the signs? I'll keep it in my mind.",
       "tokens": [
-        51386,
-        400,
+        50814,
+        492,
+        5152,
+        11,
+        321,
+        600,
+        4539,
+        11,
+        527,
+        1065,
+        13027,
+        13,
+        7720,
+        307,
+        1151,
+        1411,
+        13,
+        1012,
+        630,
         286,
         536,
-        264,
+        220,
+        3322,
         7880,
+        30,
         286,
         603,
         1066,
@@ -715,589 +634,482 @@
         294,
         452,
         1575,
-        51590
+        13,
+        51614
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.727865270666174,
-      "compression_ratio": 1.1612903225806452,
-      "no_speech_prob": 0.5742509961128235,
-      "confidence": 0.739,
+      "avg_logprob": -0.2732551704018803,
+      "compression_ratio": 1.2785714285714285,
+      "no_speech_prob": 0.22323766350746155,
+      "confidence": 0.819,
       "words": [
         {
-          "text": "And",
+          "text": "We",
+          "start": 102.62,
+          "end": 103.42,
+          "confidence": 0.88
+        },
+        {
+          "text": "lived,",
+          "start": 103.42,
+          "end": 104.82,
+          "confidence": 0.47
+        },
+        {
+          "text": "we've",
+          "start": 105.0,
+          "end": 105.7,
+          "confidence": 0.916
+        },
+        {
+          "text": "died,",
+          "start": 105.7,
+          "end": 106.74,
+          "confidence": 0.794
+        },
+        {
+          "text": "our",
+          "start": 106.74,
+          "end": 107.22,
+          "confidence": 0.506
+        },
+        {
+          "text": "own",
+          "start": 109.63,
+          "end": 110.39,
+          "confidence": 0.797
+        },
+        {
+          "text": "deaths.",
+          "start": 110.39,
+          "end": 111.25,
+          "confidence": 0.601
+        },
+        {
+          "text": "Life",
+          "start": 111.57,
+          "end": 112.49,
+          "confidence": 0.957
+        },
+        {
+          "text": "is",
+          "start": 112.49,
+          "end": 113.71,
+          "confidence": 0.985
+        },
+        {
+          "text": "best",
+          "start": 113.71,
+          "end": 114.89,
+          "confidence": 0.803
+        },
+        {
+          "text": "left.",
+          "start": 114.89,
+          "end": 115.63,
+          "confidence": 0.883
+        },
+        {
+          "text": "How",
           "start": 138.64,
-          "end": 138.93,
-          "confidence": 0.356
+          "end": 138.77,
+          "confidence": 0.375
+        },
+        {
+          "text": "did",
+          "start": 138.77,
+          "end": 139.05,
+          "confidence": 0.631
         },
         {
           "text": "I",
-          "start": 138.93,
-          "end": 139.13,
-          "confidence": 0.547
+          "start": 139.05,
+          "end": 139.15,
+          "confidence": 0.995
         },
         {
           "text": "see",
-          "start": 139.13,
-          "end": 139.49,
-          "confidence": 0.877
+          "start": 139.15,
+          "end": 139.63,
+          "confidence": 0.972
         },
         {
           "text": "the",
-          "start": 139.49,
-          "end": 139.75,
-          "confidence": 0.505
+          "start": 139.63,
+          "end": 140.09,
+          "confidence": 0.988
         },
         {
-          "text": "signs",
-          "start": 139.75,
-          "end": 140.49,
-          "confidence": 0.847
+          "text": "signs?",
+          "start": 140.09,
+          "end": 140.65,
+          "confidence": 0.911
         },
         {
           "text": "I'll",
-          "start": 140.49,
-          "end": 141.03,
-          "confidence": 0.64
+          "start": 140.97,
+          "end": 141.15,
+          "confidence": 0.828
         },
         {
           "text": "keep",
-          "start": 141.03,
-          "end": 141.27,
-          "confidence": 0.998
+          "start": 141.15,
+          "end": 141.41,
+          "confidence": 0.977
         },
         {
           "text": "it",
-          "start": 141.27,
+          "start": 141.41,
           "end": 141.57,
-          "confidence": 0.981
+          "confidence": 0.978
         },
         {
           "text": "in",
           "start": 141.57,
-          "end": 141.77,
-          "confidence": 0.982
+          "end": 142.11,
+          "confidence": 0.971
         },
         {
           "text": "my",
-          "start": 141.77,
-          "end": 142.07,
-          "confidence": 0.932
+          "start": 142.11,
+          "end": 142.15,
+          "confidence": 0.983
         },
         {
-          "text": "mind",
-          "start": 142.07,
-          "end": 142.49,
-          "confidence": 0.986
+          "text": "mind.",
+          "start": 142.15,
+          "end": 142.89,
+          "confidence": 0.991
         }
       ]
     },
     {
-      "id": 9,
-      "seek": 5452,
-      "start": 143.47,
-      "end": 148.52,
-      "text": " Learn to thrive and come alive without it now",
+      "id": 5,
+      "seek": 6000,
+      "start": 148.8,
+      "end": 216.73,
+      "text": " I'll find myself in my grave until I fade away. We lived, we've died, our own deaths. Life is best left. We lived, we've died, our own deaths.",
       "tokens": [
-        50412,
-        17216,
-        281,
-        21233,
-        293,
-        808,
-        5465,
-        1553,
-        309,
-        586,
-        50646
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -1.0428886413574219,
-      "compression_ratio": 1.3140495867768596,
-      "no_speech_prob": 0.0829673781991005,
-      "confidence": 0.601,
-      "words": [
-        {
-          "text": "Learn",
-          "start": 143.47,
-          "end": 144.09,
-          "confidence": 0.607
-        },
-        {
-          "text": "to",
-          "start": 144.09,
-          "end": 144.35,
-          "confidence": 0.645
-        },
-        {
-          "text": "thrive",
-          "start": 144.35,
-          "end": 144.99,
-          "confidence": 0.721
-        },
-        {
-          "text": "and",
-          "start": 144.99,
-          "end": 145.43,
-          "confidence": 0.398
-        },
-        {
-          "text": "come",
-          "start": 145.43,
-          "end": 145.81,
-          "confidence": 0.939
-        },
-        {
-          "text": "alive",
-          "start": 145.81,
-          "end": 146.31,
-          "confidence": 0.938
-        },
-        {
-          "text": "without",
-          "start": 146.99,
-          "end": 147.78,
-          "confidence": 0.493
-        },
-        {
-          "text": "it",
-          "start": 147.78,
-          "end": 148.16,
-          "confidence": 0.556
-        },
-        {
-          "text": "now",
-          "start": 148.16,
-          "end": 148.52,
-          "confidence": 0.38
-        }
-      ]
-    },
-    {
-      "id": 10,
-      "seek": 5452,
-      "start": 148.52,
-      "end": 151.54,
-      "text": " I'm the son of not great",
-      "tokens": [
-        50646,
+        50414,
         286,
-        478,
-        264,
-        1872,
-        295,
-        406,
-        869,
-        50796
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -1.0428886413574219,
-      "compression_ratio": 1.3140495867768596,
-      "no_speech_prob": 0.0829673781991005,
-      "confidence": 0.573,
-      "words": [
-        {
-          "text": "I'm",
-          "start": 148.52,
-          "end": 149.74,
-          "confidence": 0.893
-        },
-        {
-          "text": "the",
-          "start": 149.74,
-          "end": 149.98,
-          "confidence": 0.258
-        },
-        {
-          "text": "son",
-          "start": 149.98,
-          "end": 150.38,
-          "confidence": 0.404
-        },
-        {
-          "text": "of",
-          "start": 150.38,
-          "end": 150.8,
-          "confidence": 0.951
-        },
-        {
-          "text": "not",
-          "start": 150.8,
-          "end": 151.1,
-          "confidence": 0.272
-        },
-        {
-          "text": "great",
-          "start": 151.1,
-          "end": 151.54,
-          "confidence": 0.942
-        }
-      ]
-    },
-    {
-      "id": 11,
-      "seek": 5452,
-      "start": 152.84,
-      "end": 155.5,
-      "text": " Until I'm straight away",
-      "tokens": [
-        50874,
-        9088,
+        603,
+        915,
+        2059,
+        294,
+        452,
+        12525,
+        1826,
         286,
-        478,
-        2997,
+        21626,
         1314,
-        50974
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -1.0428886413574219,
-      "compression_ratio": 1.3140495867768596,
-      "no_speech_prob": 0.0829673781991005,
-      "confidence": 0.634,
-      "words": [
-        {
-          "text": "Until",
-          "start": 152.84,
-          "end": 153.78,
-          "confidence": 0.751
-        },
-        {
-          "text": "I'm",
-          "start": 153.78,
-          "end": 154.46,
-          "confidence": 0.614
-        },
-        {
-          "text": "straight",
-          "start": 154.46,
-          "end": 154.92,
-          "confidence": 0.429
-        },
-        {
-          "text": "away",
-          "start": 154.92,
-          "end": 155.5,
-          "confidence": 0.841
-        }
-      ]
-    },
-    {
-      "id": 12,
-      "seek": 5452,
-      "start": 157.13,
-      "end": 158.15,
-      "text": " I'm feeling",
-      "tokens": [
-        51024,
-        286,
-        478,
-        2633,
-        51124
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -1.0428886413574219,
-      "compression_ratio": 1.3140495867768596,
-      "no_speech_prob": 0.0829673781991005,
-      "confidence": 0.323,
-      "words": [
-        {
-          "text": "I'm",
-          "start": 157.13,
-          "end": 158.13,
-          "confidence": 0.224
-        },
-        {
-          "text": "feeling",
-          "start": 158.13,
-          "end": 158.15,
-          "confidence": 0.67
-        }
-      ]
-    },
-    {
-      "id": 13,
-      "seek": 5452,
-      "start": 158.25,
-      "end": 160.73,
-      "text": " Flipped at",
-      "tokens": [
-        51124,
-        479,
-        2081,
-        3320,
-        412,
-        51224
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -1.0428886413574219,
-      "compression_ratio": 1.3140495867768596,
-      "no_speech_prob": 0.0829673781991005,
-      "confidence": 0.249,
-      "words": [
-        {
-          "text": "Flipped",
-          "start": 158.25,
-          "end": 160.31,
-          "confidence": 0.169
-        },
-        {
-          "text": "at",
-          "start": 160.31,
-          "end": 160.73,
-          "confidence": 0.796
-        }
-      ]
-    },
-    {
-      "id": 14,
-      "seek": 5452,
-      "start": 161.21,
-      "end": 162.27,
-      "text": " Boys",
-      "tokens": [
-        51224,
-        21963,
-        51324
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -1.0428886413574219,
-      "compression_ratio": 1.3140495867768596,
-      "no_speech_prob": 0.0829673781991005,
-      "confidence": 0.116,
-      "words": [
-        {
-          "text": "Boys",
-          "start": 161.21,
-          "end": 162.27,
-          "confidence": 0.116
-        }
-      ]
-    },
-    {
-      "id": 15,
-      "seek": 5452,
-      "start": 164.94,
-      "end": 167.45,
-      "text": " Life is",
-      "tokens": [
-        51324,
+        13,
+        492,
+        5152,
+        11,
+        321,
+        600,
+        4539,
+        11,
+        527,
+        1065,
+        13027,
+        13,
         7720,
         307,
-        51424
+        1151,
+        1411,
+        13,
+        492,
+        5152,
+        11,
+        321,
+        600,
+        4539,
+        11,
+        527,
+        1065,
+        13027,
+        13,
+        51514
       ],
       "temperature": 0.0,
-      "avg_logprob": -1.0428886413574219,
-      "compression_ratio": 1.3140495867768596,
-      "no_speech_prob": 0.0829673781991005,
-      "confidence": 0.902,
+      "avg_logprob": -0.25576303118751165,
+      "compression_ratio": 1.4791666666666667,
+      "no_speech_prob": 0.034589942544698715,
+      "confidence": 0.788,
       "words": [
         {
+          "text": "I'll",
+          "start": 148.8,
+          "end": 148.96,
+          "confidence": 0.599
+        },
+        {
+          "text": "find",
+          "start": 148.96,
+          "end": 149.78,
+          "confidence": 0.509
+        },
+        {
+          "text": "myself",
+          "start": 149.78,
+          "end": 150.28,
+          "confidence": 0.366
+        },
+        {
+          "text": "in",
+          "start": 150.28,
+          "end": 150.86,
+          "confidence": 0.573
+        },
+        {
+          "text": "my",
+          "start": 150.86,
+          "end": 151.2,
+          "confidence": 0.894
+        },
+        {
+          "text": "grave",
+          "start": 151.2,
+          "end": 152.04,
+          "confidence": 0.987
+        },
+        {
+          "text": "until",
+          "start": 152.04,
+          "end": 153.76,
+          "confidence": 0.415
+        },
+        {
+          "text": "I",
+          "start": 153.76,
+          "end": 154.58,
+          "confidence": 0.993
+        },
+        {
+          "text": "fade",
+          "start": 154.58,
+          "end": 155.02,
+          "confidence": 0.605
+        },
+        {
+          "text": "away.",
+          "start": 155.02,
+          "end": 156.28,
+          "confidence": 0.997
+        },
+        {
+          "text": "We",
+          "start": 157.15,
+          "end": 157.65,
+          "confidence": 0.523
+        },
+        {
+          "text": "lived,",
+          "start": 157.65,
+          "end": 159.11,
+          "confidence": 0.864
+        },
+        {
+          "text": "we've",
+          "start": 159.41,
+          "end": 160.29,
+          "confidence": 0.993
+        },
+        {
+          "text": "died,",
+          "start": 160.29,
+          "end": 161.05,
+          "confidence": 0.975
+        },
+        {
+          "text": "our",
+          "start": 161.43,
+          "end": 161.83,
+          "confidence": 0.963
+        },
+        {
+          "text": "own",
+          "start": 161.83,
+          "end": 162.32,
+          "confidence": 0.954
+        },
+        {
+          "text": "deaths.",
+          "start": 164.95,
+          "end": 165.53,
+          "confidence": 0.928
+        },
+        {
           "text": "Life",
-          "start": 164.94,
-          "end": 166.45,
-          "confidence": 0.923
+          "start": 166.03,
+          "end": 166.83,
+          "confidence": 0.776
         },
         {
           "text": "is",
-          "start": 166.45,
-          "end": 167.45,
-          "confidence": 0.882
-        }
-      ]
-    },
-    {
-      "id": 16,
-      "seek": 5452,
-      "start": 167.83,
-      "end": 169.51,
-      "text": " That's what",
-      "tokens": [
-        51424,
-        663,
-        311,
-        437,
-        51524
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -1.0428886413574219,
-      "compression_ratio": 1.3140495867768596,
-      "no_speech_prob": 0.0829673781991005,
-      "confidence": 0.177,
-      "words": [
-        {
-          "text": "That's",
-          "start": 167.83,
-          "end": 169.17,
-          "confidence": 0.197
+          "start": 166.83,
+          "end": 168.17,
+          "confidence": 0.99
         },
         {
-          "text": "what",
-          "start": 169.17,
-          "end": 169.51,
-          "confidence": 0.141
-        }
-      ]
-    },
-    {
-      "id": 17,
-      "seek": 5452,
-      "start": 211.41,
-      "end": 212.17,
-      "text": " Sweet",
-      "tokens": [
-        51568,
-        14653,
-        51668
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -1.0428886413574219,
-      "compression_ratio": 1.3140495867768596,
-      "no_speech_prob": 0.0829673781991005,
-      "confidence": 0.535,
-      "words": [
-        {
-          "text": "Sweet",
-          "start": 211.41,
-          "end": 212.17,
-          "confidence": 0.535
-        }
-      ]
-    },
-    {
-      "id": 18,
-      "seek": 5452,
-      "start": 214.48,
-      "end": 215.71,
-      "text": " Flipped at",
-      "tokens": [
-        51668,
-        479,
-        2081,
-        3320,
-        412,
-        51768
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -1.0428886413574219,
-      "compression_ratio": 1.3140495867768596,
-      "no_speech_prob": 0.0829673781991005,
-      "confidence": 0.674,
-      "words": [
-        {
-          "text": "Flipped",
-          "start": 214.48,
-          "end": 215.13,
-          "confidence": 0.61
+          "text": "best",
+          "start": 168.17,
+          "end": 169.23,
+          "confidence": 0.993
         },
         {
-          "text": "at",
-          "start": 215.13,
-          "end": 215.71,
-          "confidence": 0.911
+          "text": "left.",
+          "start": 169.23,
+          "end": 170.09,
+          "confidence": 0.994
+        },
+        {
+          "text": "We",
+          "start": 211.59,
+          "end": 212.11,
+          "confidence": 0.432
+        },
+        {
+          "text": "lived,",
+          "start": 212.11,
+          "end": 213.07,
+          "confidence": 0.75
+        },
+        {
+          "text": "we've",
+          "start": 214.97,
+          "end": 215.85,
+          "confidence": 0.991
+        },
+        {
+          "text": "died,",
+          "start": 215.85,
+          "end": 216.01,
+          "confidence": 0.983
+        },
+        {
+          "text": "our",
+          "start": 216.13,
+          "end": 216.27,
+          "confidence": 0.98
+        },
+        {
+          "text": "own",
+          "start": 216.51,
+          "end": 216.71,
+          "confidence": 0.989
+        },
+        {
+          "text": "deaths.",
+          "start": 216.71,
+          "end": 216.73,
+          "confidence": 0.854
         }
       ]
     }
   ],
-  "language": "en",
+  "language": "no",
   "language_probs": {
-    "en": 0.9910814762115479,
-    "zh": 0.0008228731458075345,
-    "de": 0.0004688589833676815,
-    "es": 0.0005926932790316641,
-    "ru": 0.0005396533524617553,
-    "ko": 0.0009037493728101254,
-    "fr": 0.001216127653606236,
-    "ja": 0.0005926932790316641,
-    "pt": 0.000810115656349808,
-    "tr": 6.754553760401905e-05,
-    "pl": 0.00011136377725051716,
-    "ca": 5.249403784546303e-06,
-    "nl": 0.00016980947111733258,
-    "ar": 0.0003377064422238618,
-    "sv": 5.019558375352062e-05,
-    "it": 0.0001261916768271476,
-    "id": 0.00011489884491311386,
-    "hi": 3.423041198402643e-05,
-    "fi": 2.2274156435742043e-05,
-    "vi": 0.0002113313094014302,
-    "he": 2.5043507775990292e-05,
-    "uk": 8.999572855827864e-06,
-    "el": 1.8179634935222566e-05,
-    "ms": 6.198327173478901e-05,
-    "cs": 8.454315320705064e-06,
-    "ro": 1.2592665370902978e-05,
-    "da": 1.7758506146492437e-05,
-    "hu": 2.092463182634674e-05,
-    "ta": 5.810560651298147e-06,
-    "no": 1.2397435057209805e-05,
-    "th": 9.377770038554445e-05,
-    "ur": 9.358074748888612e-06,
-    "hr": 9.193641972160549e-07,
-    "bg": 1.0256248970108572e-06,
-    "lt": 1.972791778825922e-07,
-    "la": 0.0003767387825064361,
-    "mi": 0.00010963723616441712,
-    "ml": 6.95433027431136e-06,
-    "cy": 0.0001429939002264291,
-    "sk": 7.049009695947461e-07,
-    "te": 3.085965545324143e-06,
-    "fa": 2.5186916445818497e-06,
-    "lv": 5.279464403429301e-07,
-    "bn": 8.636627626401605e-07,
-    "sr": 2.2354657858159044e-07,
-    "az": 1.0725882759743399e-07,
-    "sl": 4.024857844342478e-06,
-    "kn": 3.620898425538144e-08,
-    "et": 1.253982730986536e-07,
-    "mk": 6.207664426938209e-08,
-    "br": 4.429744876688346e-05,
-    "eu": 5.843834856023022e-07,
-    "is": 1.5517208566961926e-06,
-    "hy": 2.474435234489647e-07,
-    "ne": 3.6856599194834416e-07,
-    "mn": 1.0018662806032808e-06,
-    "bs": 8.050221822486492e-07,
-    "kk": 9.614618790010354e-08,
-    "sq": 2.051378800160819e-07,
-    "sw": 4.490053470362909e-06,
-    "gl": 3.496856834317441e-06,
-    "mr": 6.817785447310598e-08,
-    "pa": 6.712085820481661e-08,
-    "si": 3.962457867601188e-06,
-    "km": 5.2195147873135284e-05,
-    "sn": 3.291906614322215e-05,
-    "yo": 4.2180145101156086e-06,
-    "so": 9.594425698367104e-09,
-    "af": 1.126428628595022e-06,
-    "oc": 8.569417104808963e-07,
-    "ka": 1.6642564659719028e-08,
-    "be": 5.279464403429301e-07,
-    "tg": 4.513743268041992e-10,
-    "sd": 2.984738500799722e-07,
-    "gu": 7.3563013458510795e-09,
-    "am": 9.783659216111573e-09,
-    "yi": 6.68791381031042e-06,
-    "lo": 3.954136218453641e-07,
-    "uz": 1.3451806508968378e-11,
-    "fo": 9.411663199898612e-07,
-    "ht": 4.596531653078273e-06,
-    "ps": 8.551420194180537e-08,
-    "tk": 1.6866626151301745e-10,
-    "nn": 0.0001620333205210045,
-    "mt": 1.512591865093782e-07,
-    "sa": 2.5384458695043577e-06,
-    "lb": 6.554643494638412e-10,
-    "my": 1.90120817933348e-06,
-    "bo": 1.2371397133392747e-06,
-    "tl": 4.327129863668233e-05,
-    "mg": 6.560067766780975e-11,
-    "as": 8.223818781516457e-08,
-    "tt": 2.612354221831481e-10,
-    "haw": 0.0003484264016151428,
-    "ln": 3.455085462178431e-08,
-    "ha": 2.2519901221595973e-10,
-    "ba": 2.1827036011945466e-10,
-    "jw": 4.9032805691240355e-05,
-    "su": 8.785848715220368e-10
+    "en": 0.022854456678032875,
+    "zh": 9.599010809324682e-05,
+    "de": 0.0003636807668954134,
+    "es": 0.0004669753252528608,
+    "ru": 0.0009732602047733963,
+    "ko": 0.00028103069053031504,
+    "fr": 0.00017179061251226813,
+    "ja": 0.0007881700876168907,
+    "pt": 0.00014131110219750553,
+    "tr": 3.545099752955139e-05,
+    "pl": 7.022786303423345e-05,
+    "ca": 2.2622221877099946e-05,
+    "nl": 1.340322160103824e-05,
+    "ar": 4.534252002486028e-05,
+    "sv": 2.2574708964384627e-06,
+    "it": 5.198545477469452e-05,
+    "id": 1.1644920959952287e-05,
+    "hi": 9.34009367483668e-05,
+    "fi": 2.2978470951784402e-05,
+    "vi": 1.6421970940427855e-05,
+    "he": 0.00012086980132153258,
+    "uk": 3.278681106166914e-05,
+    "el": 1.1736253327399027e-05,
+    "ms": 3.092090992140584e-05,
+    "cs": 9.052729728864506e-05,
+    "ro": 0.0001276639522984624,
+    "da": 3.4828083244065056e-06,
+    "hu": 4.193497443338856e-05,
+    "ta": 1.536687159386929e-05,
+    "no": 0.9717962145805359,
+    "th": 3.545099752955139e-05,
+    "ur": 3.8182228308869526e-05,
+    "hr": 7.607152383570792e-06,
+    "bg": 1.938474724738626e-06,
+    "lt": 1.655076994211413e-05,
+    "la": 0.00022758558043278754,
+    "mi": 4.04863094445318e-05,
+    "ml": 2.5882031877699774e-06,
+    "cy": 0.00016012646665330976,
+    "sk": 6.557775122928433e-06,
+    "te": 1.2203772712382488e-05,
+    "fa": 2.8263999411137775e-05,
+    "lv": 3.607428197938134e-06,
+    "bn": 3.330313120386563e-05,
+    "sr": 5.479226274474058e-06,
+    "az": 1.9844439975713613e-06,
+    "sl": 9.653978850110434e-06,
+    "kn": 2.74438684755296e-06,
+    "et": 2.508572606529924e-06,
+    "mk": 1.3427422800305067e-06,
+    "br": 1.714298196020536e-05,
+    "eu": 3.78055256078369e-06,
+    "is": 8.857666671246989e-07,
+    "hy": 8.928471288527362e-06,
+    "ne": 7.4309327828814276e-06,
+    "mn": 1.3991693776915781e-05,
+    "bs": 7.666815690754447e-06,
+    "kk": 3.0615844934800407e-06,
+    "sq": 2.5781127988011576e-06,
+    "sw": 1.1874596566485707e-05,
+    "gl": 7.941146577650215e-06,
+    "mr": 2.733687551881303e-06,
+    "pa": 5.631115982396295e-06,
+    "si": 1.019663341139676e-05,
+    "km": 3.104193092440255e-05,
+    "sn": 5.533822695724666e-05,
+    "yo": 2.57346637226874e-05,
+    "so": 9.085448482437641e-07,
+    "af": 4.283926955395145e-06,
+    "oc": 9.577421451467671e-07,
+    "ka": 4.949329195369501e-07,
+    "be": 6.064950866857544e-06,
+    "tg": 2.57772796885547e-07,
+    "sd": 5.697493634215789e-06,
+    "gu": 3.1464549010706833e-06,
+    "am": 2.0554507500492036e-06,
+    "yi": 1.1242642358411103e-05,
+    "lo": 2.1965795440337388e-06,
+    "uz": 2.8161823095729233e-08,
+    "fo": 1.7376374898958602e-06,
+    "ht": 3.177806502208114e-05,
+    "ps": 2.412470621493412e-06,
+    "tk": 7.354325481934154e-10,
+    "nn": 4.779065875482047e-06,
+    "mt": 2.8204640329931863e-06,
+    "sa": 4.595983227773104e-06,
+    "lb": 4.419254082677071e-07,
+    "my": 8.193224857677706e-06,
+    "bo": 2.446045255055651e-05,
+    "tl": 9.826644964050502e-05,
+    "mg": 7.670871049469952e-09,
+    "as": 1.1644920959952287e-05,
+    "tt": 4.640392603505461e-07,
+    "haw": 0.0001033854132401757,
+    "ln": 3.945949345052213e-07,
+    "ha": 1.2178143151686527e-06,
+    "ba": 1.892722201191077e-09,
+    "jw": 1.7965690858545713e-05,
+    "su": 1.5711238177118503e-07
   },
   "speech_activity": [
     {

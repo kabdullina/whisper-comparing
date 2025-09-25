@@ -1,0 +1,2245 @@
+{
+  "text": " Que mais tem de acontecer no mundo para inverter o teu coração para mim? Que quantidade de lágrimas devo deixar cair? Que flor tem que nascer para ganhar o teu amor? Por esse amor, meu Deus, eu ofeço tudo. Te clamo os poemas mais lindos do universo. A ver se te convenço que a minha alma nasceu para ti. Será preciso um milagre para que o meu coração se alegre. Juro, não vou desistir, faça chuva, faça sol, porque eu preciso de ti para seguir. Quem me dera abraçar-te no outono, no verão e primavera. Quisa viver além um quimera, herdar a sorte e ganhar teu coração. Será preciso uma tempestade para perceber-se que o meu amor é de verdade. Te procuro nos autodosos da cidade, nas luzes dos faróis, nos meros mortais como nós. O meu amor é puro, é tão grande e resistente como um bandeiro. Por ti eu vou onde nunca iria, por ti eu sou o que nunca seria. Quem me dera abraçar-te no outono, no verão e primavera. Quisa viver além um quimera, herdar a sorte e ganhar teu coração. Quem me dera abraçar-te no outono, no verão e primavera. Quisa viver além um quimera, herdar a sorte e ganhar teu coração. Quem me dera abraçar-te no outono, no verão e primavera.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 10.99,
+      "end": 18.83,
+      "text": " Que mais tem de acontecer no mundo para inverter o teu coração para mim?",
+      "tokens": [
+        50364,
+        4493,
+        2420,
+        220,
+        18275,
+        368,
+        35011,
+        572,
+        7968,
+        1690,
+        47201,
+        277,
+        220,
+        975,
+        84,
+        41408,
+        1690,
+        12247,
+        30,
+        50736
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2767203611486098,
+      "compression_ratio": 1.4213483146067416,
+      "no_speech_prob": 0.007142145186662674,
+      "confidence": 0.916,
+      "words": [
+        {
+          "text": "Que",
+          "start": 10.99,
+          "end": 11.43,
+          "confidence": 0.884
+        },
+        {
+          "text": "mais",
+          "start": 11.43,
+          "end": 11.85,
+          "confidence": 0.967
+        },
+        {
+          "text": "tem",
+          "start": 11.85,
+          "end": 12.05,
+          "confidence": 0.936
+        },
+        {
+          "text": "de",
+          "start": 12.05,
+          "end": 12.27,
+          "confidence": 0.994
+        },
+        {
+          "text": "acontecer",
+          "start": 12.27,
+          "end": 13.27,
+          "confidence": 0.959
+        },
+        {
+          "text": "no",
+          "start": 13.27,
+          "end": 13.43,
+          "confidence": 0.997
+        },
+        {
+          "text": "mundo",
+          "start": 13.43,
+          "end": 14.75,
+          "confidence": 0.909
+        },
+        {
+          "text": "para",
+          "start": 16.01,
+          "end": 16.75,
+          "confidence": 0.633
+        },
+        {
+          "text": "inverter",
+          "start": 16.75,
+          "end": 17.07,
+          "confidence": 0.853
+        },
+        {
+          "text": "o",
+          "start": 17.07,
+          "end": 17.27,
+          "confidence": 0.995
+        },
+        {
+          "text": "teu",
+          "start": 17.27,
+          "end": 17.47,
+          "confidence": 0.998
+        },
+        {
+          "text": "coração",
+          "start": 17.47,
+          "end": 18.25,
+          "confidence": 0.726
+        },
+        {
+          "text": "para",
+          "start": 18.25,
+          "end": 18.31,
+          "confidence": 0.894
+        },
+        {
+          "text": "mim?",
+          "start": 18.31,
+          "end": 18.83,
+          "confidence": 0.994
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 21.35,
+      "end": 28.31,
+      "text": " Que quantidade de lágrimas devo deixar cair? Que flor tem que nascer para ganhar o teu amor?",
+      "tokens": [
+        50736,
+        4493,
+        39639,
+        368,
+        7453,
+        861,
+        17957,
+        368,
+        3080,
+        13874,
+        87,
+        289,
+        1335,
+        347,
+        30,
+        4493,
+        37342,
+        220,
+        18275,
+        631,
+        5382,
+        1776,
+        1690,
+        40200,
+        277,
+        220,
+        975,
+        84,
+        15543,
+        30,
+        51130
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2767203611486098,
+      "compression_ratio": 1.4213483146067416,
+      "no_speech_prob": 0.007142145186662674,
+      "confidence": 0.874,
+      "words": [
+        {
+          "text": "Que",
+          "start": 21.35,
+          "end": 21.37,
+          "confidence": 0.961
+        },
+        {
+          "text": "quantidade",
+          "start": 21.37,
+          "end": 22.11,
+          "confidence": 0.672
+        },
+        {
+          "text": "de",
+          "start": 22.11,
+          "end": 22.43,
+          "confidence": 0.994
+        },
+        {
+          "text": "lágrimas",
+          "start": 22.43,
+          "end": 22.83,
+          "confidence": 0.803
+        },
+        {
+          "text": "devo",
+          "start": 22.83,
+          "end": 23.11,
+          "confidence": 0.833
+        },
+        {
+          "text": "deixar",
+          "start": 23.11,
+          "end": 23.67,
+          "confidence": 0.96
+        },
+        {
+          "text": "cair?",
+          "start": 23.67,
+          "end": 24.39,
+          "confidence": 0.778
+        },
+        {
+          "text": "Que",
+          "start": 24.83,
+          "end": 24.85,
+          "confidence": 0.573
+        },
+        {
+          "text": "flor",
+          "start": 24.85,
+          "end": 25.35,
+          "confidence": 0.968
+        },
+        {
+          "text": "tem",
+          "start": 25.35,
+          "end": 25.59,
+          "confidence": 0.92
+        },
+        {
+          "text": "que",
+          "start": 25.59,
+          "end": 25.83,
+          "confidence": 0.933
+        },
+        {
+          "text": "nascer",
+          "start": 25.83,
+          "end": 26.47,
+          "confidence": 0.981
+        },
+        {
+          "text": "para",
+          "start": 26.47,
+          "end": 27.05,
+          "confidence": 0.892
+        },
+        {
+          "text": "ganhar",
+          "start": 27.05,
+          "end": 27.73,
+          "confidence": 0.59
+        },
+        {
+          "text": "o",
+          "start": 27.73,
+          "end": 27.75,
+          "confidence": 0.981
+        },
+        {
+          "text": "teu",
+          "start": 27.75,
+          "end": 27.81,
+          "confidence": 0.997
+        },
+        {
+          "text": "amor?",
+          "start": 27.81,
+          "end": 28.31,
+          "confidence": 0.994
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 31.29,
+      "end": 39.71,
+      "text": " Por esse amor, meu Deus, eu ofeço tudo. Te clamo os poemas mais lindos do universo.",
+      "tokens": [
+        51130,
+        5269,
+        2097,
+        68,
+        15543,
+        11,
+        9230,
+        15057,
+        11,
+        2228,
+        295,
+        68,
+        8560,
+        220,
+        83,
+        6207,
+        13,
+        1989,
+        596,
+        10502,
+        3003,
+        13065,
+        296,
+        2420,
+        287,
+        471,
+        329,
+        360,
+        5950,
+        78,
+        13,
+        51566
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2767203611486098,
+      "compression_ratio": 1.4213483146067416,
+      "no_speech_prob": 0.007142145186662674,
+      "confidence": 0.82,
+      "words": [
+        {
+          "text": "Por",
+          "start": 31.29,
+          "end": 31.79,
+          "confidence": 0.983
+        },
+        {
+          "text": "esse",
+          "start": 31.79,
+          "end": 31.87,
+          "confidence": 0.699
+        },
+        {
+          "text": "amor,",
+          "start": 31.87,
+          "end": 32.31,
+          "confidence": 0.995
+        },
+        {
+          "text": "meu",
+          "start": 32.51,
+          "end": 32.53,
+          "confidence": 0.874
+        },
+        {
+          "text": "Deus,",
+          "start": 32.53,
+          "end": 32.85,
+          "confidence": 0.798
+        },
+        {
+          "text": "eu",
+          "start": 33.21,
+          "end": 33.23,
+          "confidence": 0.995
+        },
+        {
+          "text": "ofeço",
+          "start": 33.23,
+          "end": 33.87,
+          "confidence": 0.623
+        },
+        {
+          "text": "tudo.",
+          "start": 33.87,
+          "end": 34.79,
+          "confidence": 0.822
+        },
+        {
+          "text": "Te",
+          "start": 36.37,
+          "end": 36.39,
+          "confidence": 0.728
+        },
+        {
+          "text": "clamo",
+          "start": 36.39,
+          "end": 36.71,
+          "confidence": 0.563
+        },
+        {
+          "text": "os",
+          "start": 36.71,
+          "end": 37.07,
+          "confidence": 0.939
+        },
+        {
+          "text": "poemas",
+          "start": 37.07,
+          "end": 37.47,
+          "confidence": 0.97
+        },
+        {
+          "text": "mais",
+          "start": 37.47,
+          "end": 37.79,
+          "confidence": 0.965
+        },
+        {
+          "text": "lindos",
+          "start": 37.79,
+          "end": 38.55,
+          "confidence": 0.979
+        },
+        {
+          "text": "do",
+          "start": 38.55,
+          "end": 39.01,
+          "confidence": 0.984
+        },
+        {
+          "text": "universo.",
+          "start": 39.01,
+          "end": 39.71,
+          "confidence": 0.839
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 2404,
+      "start": 41.22,
+      "end": 48.58,
+      "text": " A ver se te convenço que a minha alma nasceu para ti.",
+      "tokens": [
+        50374,
+        316,
+        1306,
+        369,
+        220,
+        975,
+        7158,
+        8560,
+        631,
+        257,
+        11720,
+        32634,
+        5382,
+        384,
+        84,
+        1690,
+        220,
+        7317,
+        13,
+        50786
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2670633212940113,
+      "compression_ratio": 1.3673469387755102,
+      "no_speech_prob": 0.002660047262907028,
+      "confidence": 0.846,
+      "words": [
+        {
+          "text": "A",
+          "start": 41.22,
+          "end": 41.48,
+          "confidence": 0.843
+        },
+        {
+          "text": "ver",
+          "start": 41.48,
+          "end": 42.18,
+          "confidence": 0.86
+        },
+        {
+          "text": "se",
+          "start": 42.18,
+          "end": 42.28,
+          "confidence": 0.999
+        },
+        {
+          "text": "te",
+          "start": 42.28,
+          "end": 42.46,
+          "confidence": 0.97
+        },
+        {
+          "text": "convenço",
+          "start": 42.46,
+          "end": 43.9,
+          "confidence": 0.523
+        },
+        {
+          "text": "que",
+          "start": 43.9,
+          "end": 44.64,
+          "confidence": 0.765
+        },
+        {
+          "text": "a",
+          "start": 44.64,
+          "end": 44.94,
+          "confidence": 0.996
+        },
+        {
+          "text": "minha",
+          "start": 44.94,
+          "end": 44.96,
+          "confidence": 0.861
+        },
+        {
+          "text": "alma",
+          "start": 44.96,
+          "end": 46.0,
+          "confidence": 0.977
+        },
+        {
+          "text": "nasceu",
+          "start": 46.0,
+          "end": 47.48,
+          "confidence": 0.796
+        },
+        {
+          "text": "para",
+          "start": 47.48,
+          "end": 48.08,
+          "confidence": 0.975
+        },
+        {
+          "text": "ti.",
+          "start": 48.08,
+          "end": 48.58,
+          "confidence": 0.989
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 2404,
+      "start": 50.93,
+      "end": 58.81,
+      "text": " Será preciso um milagre para que o meu coração se alegre.",
+      "tokens": [
+        50786,
+        4210,
+        842,
+        30109,
+        1105,
+        1962,
+        559,
+        265,
+        1690,
+        631,
+        277,
+        9230,
+        1181,
+        64,
+        127,
+        100,
+        1076,
+        369,
+        44491,
+        265,
+        13,
+        51162
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2670633212940113,
+      "compression_ratio": 1.3673469387755102,
+      "no_speech_prob": 0.002660047262907028,
+      "confidence": 0.877,
+      "words": [
+        {
+          "text": "Será",
+          "start": 50.93,
+          "end": 51.85,
+          "confidence": 0.7
+        },
+        {
+          "text": "preciso",
+          "start": 51.85,
+          "end": 52.03,
+          "confidence": 0.819
+        },
+        {
+          "text": "um",
+          "start": 52.03,
+          "end": 52.47,
+          "confidence": 0.986
+        },
+        {
+          "text": "milagre",
+          "start": 52.47,
+          "end": 53.97,
+          "confidence": 0.999
+        },
+        {
+          "text": "para",
+          "start": 55.53,
+          "end": 56.17,
+          "confidence": 0.962
+        },
+        {
+          "text": "que",
+          "start": 56.17,
+          "end": 56.23,
+          "confidence": 0.988
+        },
+        {
+          "text": "o",
+          "start": 56.23,
+          "end": 56.55,
+          "confidence": 0.993
+        },
+        {
+          "text": "meu",
+          "start": 56.55,
+          "end": 56.57,
+          "confidence": 0.975
+        },
+        {
+          "text": "coração",
+          "start": 56.57,
+          "end": 57.33,
+          "confidence": 0.747
+        },
+        {
+          "text": "se",
+          "start": 57.33,
+          "end": 58.07,
+          "confidence": 0.996
+        },
+        {
+          "text": "alegre.",
+          "start": 58.07,
+          "end": 58.81,
+          "confidence": 0.991
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 2404,
+      "start": 60.94,
+      "end": 68.72,
+      "text": " Juro, não vou desistir, faça chuva, faça sol, porque eu preciso de ti para seguir.",
+      "tokens": [
+        51162,
+        508,
+        7052,
+        11,
+        2431,
+        6008,
+        730,
+        468,
+        347,
+        11,
+        2050,
+        5297,
+        40215,
+        2757,
+        11,
+        2050,
+        5297,
+        1404,
+        11,
+        4021,
+        2228,
+        30109,
+        368,
+        220,
+        7317,
+        1690,
+        3896,
+        34498,
+        13,
+        51596
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2670633212940113,
+      "compression_ratio": 1.3673469387755102,
+      "no_speech_prob": 0.002660047262907028,
+      "confidence": 0.892,
+      "words": [
+        {
+          "text": "Juro,",
+          "start": 60.94,
+          "end": 61.32,
+          "confidence": 0.964
+        },
+        {
+          "text": "não",
+          "start": 61.62,
+          "end": 61.76,
+          "confidence": 0.85
+        },
+        {
+          "text": "vou",
+          "start": 61.76,
+          "end": 61.96,
+          "confidence": 0.97
+        },
+        {
+          "text": "desistir,",
+          "start": 61.96,
+          "end": 62.86,
+          "confidence": 0.999
+        },
+        {
+          "text": "faça",
+          "start": 63.7,
+          "end": 63.74,
+          "confidence": 0.677
+        },
+        {
+          "text": "chuva,",
+          "start": 63.74,
+          "end": 64.6,
+          "confidence": 0.852
+        },
+        {
+          "text": "faça",
+          "start": 64.76,
+          "end": 65.1,
+          "confidence": 0.956
+        },
+        {
+          "text": "sol,",
+          "start": 65.1,
+          "end": 65.68,
+          "confidence": 0.994
+        },
+        {
+          "text": "porque",
+          "start": 66.12,
+          "end": 66.24,
+          "confidence": 0.833
+        },
+        {
+          "text": "eu",
+          "start": 66.24,
+          "end": 66.34,
+          "confidence": 0.992
+        },
+        {
+          "text": "preciso",
+          "start": 66.34,
+          "end": 66.94,
+          "confidence": 0.665
+        },
+        {
+          "text": "de",
+          "start": 66.94,
+          "end": 67.12,
+          "confidence": 0.978
+        },
+        {
+          "text": "ti",
+          "start": 67.12,
+          "end": 67.78,
+          "confidence": 0.991
+        },
+        {
+          "text": "para",
+          "start": 67.78,
+          "end": 68.16,
+          "confidence": 0.849
+        },
+        {
+          "text": "seguir.",
+          "start": 68.16,
+          "end": 68.72,
+          "confidence": 0.831
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 4868,
+      "start": 69.66,
+      "end": 76.53,
+      "text": " Quem me dera abraçar-te no outono, no verão e primavera.",
+      "tokens": [
+        50366,
+        32342,
+        385,
+        1163,
+        64,
+        33693,
+        26378,
+        12,
+        975,
+        572,
+        484,
+        8957,
+        11,
+        572,
+        1306,
+        1076,
+        308,
+        19507,
+        331,
+        64,
+        13,
+        50738
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.34969528048646215,
+      "compression_ratio": 1.1869158878504673,
+      "no_speech_prob": 0.1569095402956009,
+      "confidence": 0.911,
+      "words": [
+        {
+          "text": "Quem",
+          "start": 69.66,
+          "end": 70.06,
+          "confidence": 0.968
+        },
+        {
+          "text": "me",
+          "start": 70.06,
+          "end": 70.42,
+          "confidence": 0.997
+        },
+        {
+          "text": "dera",
+          "start": 70.42,
+          "end": 71.0,
+          "confidence": 0.975
+        },
+        {
+          "text": "abraçar-te",
+          "start": 71.0,
+          "end": 73.08,
+          "confidence": 0.821
+        },
+        {
+          "text": "no",
+          "start": 73.08,
+          "end": 73.14,
+          "confidence": 0.996
+        },
+        {
+          "text": "outono,",
+          "start": 73.14,
+          "end": 73.9,
+          "confidence": 0.985
+        },
+        {
+          "text": "no",
+          "start": 74.02,
+          "end": 74.3,
+          "confidence": 0.567
+        },
+        {
+          "text": "verão",
+          "start": 74.3,
+          "end": 74.6,
+          "confidence": 0.991
+        },
+        {
+          "text": "e",
+          "start": 74.6,
+          "end": 74.98,
+          "confidence": 0.97
+        },
+        {
+          "text": "primavera.",
+          "start": 74.98,
+          "end": 76.53,
+          "confidence": 0.948
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 4868,
+      "start": 77.2,
+      "end": 85.28,
+      "text": " Quisa viver além um quimera, herdar a sorte e ganhar teu coração.",
+      "tokens": [
+        50738,
+        2326,
+        3837,
+        46280,
+        419,
+        526,
+        76,
+        1105,
+        421,
+        332,
+        1663,
+        11,
+        720,
+        20327,
+        257,
+        25559,
+        308,
+        40200,
+        220,
+        975,
+        84,
+        1181,
+        64,
+        127,
+        100,
+        1076,
+        13,
+        51170
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.34969528048646215,
+      "compression_ratio": 1.1869158878504673,
+      "no_speech_prob": 0.1569095402956009,
+      "confidence": 0.713,
+      "words": [
+        {
+          "text": "Quisa",
+          "start": 77.2,
+          "end": 77.82,
+          "confidence": 0.302
+        },
+        {
+          "text": "viver",
+          "start": 77.82,
+          "end": 78.18,
+          "confidence": 0.849
+        },
+        {
+          "text": "além",
+          "start": 78.18,
+          "end": 79.12,
+          "confidence": 0.489
+        },
+        {
+          "text": "um",
+          "start": 79.12,
+          "end": 79.28,
+          "confidence": 0.383
+        },
+        {
+          "text": "quimera,",
+          "start": 79.28,
+          "end": 80.32,
+          "confidence": 0.939
+        },
+        {
+          "text": "herdar",
+          "start": 82.04,
+          "end": 82.44,
+          "confidence": 0.907
+        },
+        {
+          "text": "a",
+          "start": 82.44,
+          "end": 82.82,
+          "confidence": 0.974
+        },
+        {
+          "text": "sorte",
+          "start": 82.82,
+          "end": 83.2,
+          "confidence": 0.983
+        },
+        {
+          "text": "e",
+          "start": 83.2,
+          "end": 83.52,
+          "confidence": 0.821
+        },
+        {
+          "text": "ganhar",
+          "start": 83.52,
+          "end": 83.84,
+          "confidence": 0.683
+        },
+        {
+          "text": "teu",
+          "start": 83.84,
+          "end": 84.4,
+          "confidence": 0.938
+        },
+        {
+          "text": "coração.",
+          "start": 84.4,
+          "end": 85.28,
+          "confidence": 0.777
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seek": 7868,
+      "start": 110.06,
+      "end": 117.32,
+      "text": " Será preciso uma tempestade para perceber-se que o meu amor é de verdade.",
+      "tokens": [
+        50414,
+        4210,
+        842,
+        30109,
+        2772,
+        220,
+        18275,
+        79,
+        377,
+        762,
+        1690,
+        49376,
+        12,
+        405,
+        631,
+        277,
+        9230,
+        15543,
+        1136,
+        368,
+        1306,
+        20034,
+        68,
+        13,
+        50764
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.31589598655700685,
+      "compression_ratio": 1.387878787878788,
+      "no_speech_prob": 0.04359909147024155,
+      "confidence": 0.825,
+      "words": [
+        {
+          "text": "Será",
+          "start": 110.06,
+          "end": 111.22,
+          "confidence": 0.704
+        },
+        {
+          "text": "preciso",
+          "start": 111.22,
+          "end": 111.5,
+          "confidence": 0.828
+        },
+        {
+          "text": "uma",
+          "start": 111.5,
+          "end": 111.94,
+          "confidence": 0.609
+        },
+        {
+          "text": "tempestade",
+          "start": 111.94,
+          "end": 113.68,
+          "confidence": 0.858
+        },
+        {
+          "text": "para",
+          "start": 114.77,
+          "end": 115.54,
+          "confidence": 0.921
+        },
+        {
+          "text": "perceber-se",
+          "start": 115.54,
+          "end": 116.36,
+          "confidence": 0.818
+        },
+        {
+          "text": "que",
+          "start": 116.36,
+          "end": 116.52,
+          "confidence": 0.98
+        },
+        {
+          "text": "o",
+          "start": 116.52,
+          "end": 116.6,
+          "confidence": 0.985
+        },
+        {
+          "text": "meu",
+          "start": 116.6,
+          "end": 116.62,
+          "confidence": 0.934
+        },
+        {
+          "text": "amor",
+          "start": 116.62,
+          "end": 117.12,
+          "confidence": 0.993
+        },
+        {
+          "text": "é",
+          "start": 117.12,
+          "end": 117.28,
+          "confidence": 0.81
+        },
+        {
+          "text": "de",
+          "start": 117.28,
+          "end": 117.3,
+          "confidence": 0.913
+        },
+        {
+          "text": "verdade.",
+          "start": 117.3,
+          "end": 117.32,
+          "confidence": 0.72
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "seek": 7868,
+      "start": 120.45,
+      "end": 127.11,
+      "text": " Te procuro nos autodosos da cidade, nas luzes dos faróis, nos meros mortais como nós.",
+      "tokens": [
+        50764,
+        1989,
+        447,
+        12032,
+        340,
+        3269,
+        1476,
+        378,
+        33894,
+        1120,
+        27882,
+        11,
+        5382,
+        287,
+        3334,
+        279,
+        4491,
+        1400,
+        812,
+        271,
+        11,
+        3269,
+        3551,
+        329,
+        6599,
+        1527,
+        2617,
+        297,
+        12994,
+        13,
+        51190
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.31589598655700685,
+      "compression_ratio": 1.387878787878788,
+      "no_speech_prob": 0.04359909147024155,
+      "confidence": 0.829,
+      "words": [
+        {
+          "text": "Te",
+          "start": 120.45,
+          "end": 120.47,
+          "confidence": 0.984
+        },
+        {
+          "text": "procuro",
+          "start": 120.47,
+          "end": 120.85,
+          "confidence": 0.781
+        },
+        {
+          "text": "nos",
+          "start": 120.85,
+          "end": 121.11,
+          "confidence": 0.614
+        },
+        {
+          "text": "autodosos",
+          "start": 121.11,
+          "end": 121.57,
+          "confidence": 0.587
+        },
+        {
+          "text": "da",
+          "start": 121.57,
+          "end": 122.59,
+          "confidence": 0.987
+        },
+        {
+          "text": "cidade,",
+          "start": 122.59,
+          "end": 122.61,
+          "confidence": 0.946
+        },
+        {
+          "text": "nas",
+          "start": 122.93,
+          "end": 123.51,
+          "confidence": 0.986
+        },
+        {
+          "text": "luzes",
+          "start": 123.51,
+          "end": 123.57,
+          "confidence": 0.781
+        },
+        {
+          "text": "dos",
+          "start": 123.57,
+          "end": 123.99,
+          "confidence": 0.964
+        },
+        {
+          "text": "faróis,",
+          "start": 123.99,
+          "end": 124.81,
+          "confidence": 0.992
+        },
+        {
+          "text": "nos",
+          "start": 125.37,
+          "end": 125.67,
+          "confidence": 0.871
+        },
+        {
+          "text": "meros",
+          "start": 125.67,
+          "end": 125.93,
+          "confidence": 0.951
+        },
+        {
+          "text": "mortais",
+          "start": 125.93,
+          "end": 126.65,
+          "confidence": 0.964
+        },
+        {
+          "text": "como",
+          "start": 126.65,
+          "end": 127.09,
+          "confidence": 0.858
+        },
+        {
+          "text": "nós.",
+          "start": 127.09,
+          "end": 127.11,
+          "confidence": 0.71
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "seek": 7868,
+      "start": 129.77,
+      "end": 137.08,
+      "text": " O meu amor é puro, é tão grande e resistente como um bandeiro.",
+      "tokens": [
+        51190,
+        422,
+        9230,
+        15543,
+        1136,
+        2362,
+        340,
+        11,
+        1136,
+        220,
+        83,
+        1076,
+        8883,
+        308,
+        4597,
+        1576,
+        2617,
+        1105,
+        46836,
+        5182,
+        13,
+        51590
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.31589598655700685,
+      "compression_ratio": 1.387878787878788,
+      "no_speech_prob": 0.04359909147024155,
+      "confidence": 0.884,
+      "words": [
+        {
+          "text": "O",
+          "start": 129.77,
+          "end": 130.09,
+          "confidence": 0.998
+        },
+        {
+          "text": "meu",
+          "start": 130.09,
+          "end": 130.51,
+          "confidence": 0.934
+        },
+        {
+          "text": "amor",
+          "start": 130.51,
+          "end": 131.61,
+          "confidence": 0.994
+        },
+        {
+          "text": "é",
+          "start": 131.61,
+          "end": 131.63,
+          "confidence": 0.843
+        },
+        {
+          "text": "puro,",
+          "start": 131.63,
+          "end": 132.59,
+          "confidence": 0.868
+        },
+        {
+          "text": "é",
+          "start": 134.92,
+          "end": 135.02,
+          "confidence": 0.796
+        },
+        {
+          "text": "tão",
+          "start": 135.02,
+          "end": 135.16,
+          "confidence": 0.956
+        },
+        {
+          "text": "grande",
+          "start": 135.16,
+          "end": 135.56,
+          "confidence": 0.842
+        },
+        {
+          "text": "e",
+          "start": 135.56,
+          "end": 135.72,
+          "confidence": 0.941
+        },
+        {
+          "text": "resistente",
+          "start": 135.72,
+          "end": 136.46,
+          "confidence": 0.993
+        },
+        {
+          "text": "como",
+          "start": 136.46,
+          "end": 136.9,
+          "confidence": 0.967
+        },
+        {
+          "text": "um",
+          "start": 136.9,
+          "end": 137.06,
+          "confidence": 0.745
+        },
+        {
+          "text": "bandeiro.",
+          "start": 137.06,
+          "end": 137.08,
+          "confidence": 0.689
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "seek": 10320,
+      "start": 137.14,
+      "end": 146.28,
+      "text": " Por ti eu vou onde nunca iria, por ti eu sou o que nunca seria.",
+      "tokens": [
+        50414,
+        5269,
+        220,
+        7317,
+        2228,
+        6008,
+        14396,
+        13768,
+        3418,
+        654,
+        11,
+        1515,
+        220,
+        7317,
+        2228,
+        6926,
+        277,
+        631,
+        13768,
+        20809,
+        13,
+        50814
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.187293979856703,
+      "compression_ratio": 1.3941605839416058,
+      "no_speech_prob": 0.19426245987415314,
+      "confidence": 0.916,
+      "words": [
+        {
+          "text": "Por",
+          "start": 137.14,
+          "end": 138.88,
+          "confidence": 0.921
+        },
+        {
+          "text": "ti",
+          "start": 139.57,
+          "end": 140.06,
+          "confidence": 0.973
+        },
+        {
+          "text": "eu",
+          "start": 140.06,
+          "end": 140.26,
+          "confidence": 0.691
+        },
+        {
+          "text": "vou",
+          "start": 140.26,
+          "end": 140.6,
+          "confidence": 0.915
+        },
+        {
+          "text": "onde",
+          "start": 140.6,
+          "end": 141.14,
+          "confidence": 0.905
+        },
+        {
+          "text": "nunca",
+          "start": 141.14,
+          "end": 141.76,
+          "confidence": 0.978
+        },
+        {
+          "text": "iria,",
+          "start": 141.76,
+          "end": 143.28,
+          "confidence": 0.967
+        },
+        {
+          "text": "por",
+          "start": 143.88,
+          "end": 143.94,
+          "confidence": 0.9
+        },
+        {
+          "text": "ti",
+          "start": 143.94,
+          "end": 144.88,
+          "confidence": 0.861
+        },
+        {
+          "text": "eu",
+          "start": 144.88,
+          "end": 145.14,
+          "confidence": 0.959
+        },
+        {
+          "text": "sou",
+          "start": 145.14,
+          "end": 145.52,
+          "confidence": 0.939
+        },
+        {
+          "text": "o",
+          "start": 145.52,
+          "end": 145.78,
+          "confidence": 0.823
+        },
+        {
+          "text": "que",
+          "start": 145.78,
+          "end": 145.84,
+          "confidence": 0.978
+        },
+        {
+          "text": "nunca",
+          "start": 145.84,
+          "end": 146.16,
+          "confidence": 0.997
+        },
+        {
+          "text": "seria.",
+          "start": 146.16,
+          "end": 146.28,
+          "confidence": 0.94
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "seek": 10320,
+      "start": 148.3,
+      "end": 154.28,
+      "text": " Quem me dera abraçar-te no outono, no verão e primavera.",
+      "tokens": [
+        50814,
+        32342,
+        385,
+        1163,
+        64,
+        33693,
+        26378,
+        12,
+        975,
+        572,
+        484,
+        8957,
+        11,
+        572,
+        1306,
+        1076,
+        308,
+        19507,
+        331,
+        64,
+        13,
+        51214
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.187293979856703,
+      "compression_ratio": 1.3941605839416058,
+      "no_speech_prob": 0.19426245987415314,
+      "confidence": 0.981,
+      "words": [
+        {
+          "text": "Quem",
+          "start": 148.3,
+          "end": 148.92,
+          "confidence": 0.956
+        },
+        {
+          "text": "me",
+          "start": 148.92,
+          "end": 149.18,
+          "confidence": 0.998
+        },
+        {
+          "text": "dera",
+          "start": 149.18,
+          "end": 150.58,
+          "confidence": 0.997
+        },
+        {
+          "text": "abraçar-te",
+          "start": 150.58,
+          "end": 152.02,
+          "confidence": 0.976
+        },
+        {
+          "text": "no",
+          "start": 152.02,
+          "end": 152.22,
+          "confidence": 0.998
+        },
+        {
+          "text": "outono,",
+          "start": 152.22,
+          "end": 152.96,
+          "confidence": 0.998
+        },
+        {
+          "text": "no",
+          "start": 153.16,
+          "end": 153.26,
+          "confidence": 0.875
+        },
+        {
+          "text": "verão",
+          "start": 153.26,
+          "end": 153.68,
+          "confidence": 0.994
+        },
+        {
+          "text": "e",
+          "start": 153.68,
+          "end": 153.8,
+          "confidence": 0.99
+        },
+        {
+          "text": "primavera.",
+          "start": 153.8,
+          "end": 154.28,
+          "confidence": 0.987
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "seek": 10320,
+      "start": 156.16,
+      "end": 163.02,
+      "text": " Quisa viver além um quimera, herdar a sorte e ganhar teu coração.",
+      "tokens": [
+        51214,
+        2326,
+        3837,
+        46280,
+        419,
+        526,
+        76,
+        1105,
+        421,
+        332,
+        1663,
+        11,
+        720,
+        20327,
+        257,
+        25559,
+        308,
+        40200,
+        220,
+        975,
+        84,
+        1181,
+        64,
+        1138,
+        1076,
+        13,
+        51614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.187293979856703,
+      "compression_ratio": 1.3941605839416058,
+      "no_speech_prob": 0.19426245987415314,
+      "confidence": 0.872,
+      "words": [
+        {
+          "text": "Quisa",
+          "start": 156.16,
+          "end": 156.72,
+          "confidence": 0.984
+        },
+        {
+          "text": "viver",
+          "start": 156.72,
+          "end": 157.36,
+          "confidence": 0.772
+        },
+        {
+          "text": "além",
+          "start": 157.36,
+          "end": 158.22,
+          "confidence": 0.835
+        },
+        {
+          "text": "um",
+          "start": 158.22,
+          "end": 158.38,
+          "confidence": 0.992
+        },
+        {
+          "text": "quimera,",
+          "start": 158.38,
+          "end": 159.44,
+          "confidence": 0.991
+        },
+        {
+          "text": "herdar",
+          "start": 161.24,
+          "end": 161.64,
+          "confidence": 0.874
+        },
+        {
+          "text": "a",
+          "start": 161.64,
+          "end": 162.0,
+          "confidence": 0.997
+        },
+        {
+          "text": "sorte",
+          "start": 162.0,
+          "end": 162.4,
+          "confidence": 0.97
+        },
+        {
+          "text": "e",
+          "start": 162.4,
+          "end": 162.64,
+          "confidence": 0.995
+        },
+        {
+          "text": "ganhar",
+          "start": 162.64,
+          "end": 162.98,
+          "confidence": 0.378
+        },
+        {
+          "text": "teu",
+          "start": 162.98,
+          "end": 163.0,
+          "confidence": 0.997
+        },
+        {
+          "text": "coração.",
+          "start": 163.0,
+          "end": 163.02,
+          "confidence": 0.779
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "seek": 13320,
+      "start": 169.73,
+      "end": 174.99,
+      "text": " Quem me dera abraçar-te no outono, no verão e primavera.",
+      "tokens": [
+        50414,
+        2326,
+        443,
+        385,
+        1163,
+        64,
+        33693,
+        26378,
+        12,
+        975,
+        572,
+        484,
+        8957,
+        11,
+        572,
+        1306,
+        1076,
+        308,
+        19507,
+        331,
+        64,
+        13,
+        50814
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1491071009168438,
+      "compression_ratio": 1.1869158878504673,
+      "no_speech_prob": 0.7937259674072266,
+      "confidence": 0.89,
+      "words": [
+        {
+          "text": "Quem",
+          "start": 169.73,
+          "end": 169.75,
+          "confidence": 0.359
+        },
+        {
+          "text": "me",
+          "start": 169.75,
+          "end": 169.77,
+          "confidence": 0.997
+        },
+        {
+          "text": "dera",
+          "start": 169.77,
+          "end": 169.95,
+          "confidence": 0.998
+        },
+        {
+          "text": "abraçar-te",
+          "start": 169.95,
+          "end": 171.85,
+          "confidence": 0.986
+        },
+        {
+          "text": "no",
+          "start": 171.85,
+          "end": 172.13,
+          "confidence": 0.999
+        },
+        {
+          "text": "outono,",
+          "start": 172.13,
+          "end": 172.93,
+          "confidence": 0.998
+        },
+        {
+          "text": "no",
+          "start": 172.93,
+          "end": 172.95,
+          "confidence": 0.983
+        },
+        {
+          "text": "verão",
+          "start": 172.95,
+          "end": 173.57,
+          "confidence": 0.992
+        },
+        {
+          "text": "e",
+          "start": 173.57,
+          "end": 173.93,
+          "confidence": 0.987
+        },
+        {
+          "text": "primavera.",
+          "start": 173.93,
+          "end": 174.99,
+          "confidence": 0.987
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "seek": 13320,
+      "start": 177.85,
+      "end": 186.94,
+      "text": " Quisa viver além um quimera, herdar a sorte e ganhar teu coração.",
+      "tokens": [
+        50814,
+        2326,
+        3837,
+        46280,
+        419,
+        526,
+        76,
+        1105,
+        421,
+        332,
+        1663,
+        11,
+        720,
+        20327,
+        257,
+        25559,
+        308,
+        40200,
+        220,
+        975,
+        84,
+        1181,
+        64,
+        1138,
+        1076,
+        13,
+        51214
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1491071009168438,
+      "compression_ratio": 1.1869158878504673,
+      "no_speech_prob": 0.7937259674072266,
+      "confidence": 0.893,
+      "words": [
+        {
+          "text": "Quisa",
+          "start": 177.85,
+          "end": 177.87,
+          "confidence": 0.988
+        },
+        {
+          "text": "viver",
+          "start": 177.87,
+          "end": 177.89,
+          "confidence": 0.709
+        },
+        {
+          "text": "além",
+          "start": 177.89,
+          "end": 178.19,
+          "confidence": 0.91
+        },
+        {
+          "text": "um",
+          "start": 178.19,
+          "end": 178.35,
+          "confidence": 0.997
+        },
+        {
+          "text": "quimera,",
+          "start": 178.35,
+          "end": 179.53,
+          "confidence": 0.994
+        },
+        {
+          "text": "herdar",
+          "start": 181.03,
+          "end": 181.47,
+          "confidence": 0.781
+        },
+        {
+          "text": "a",
+          "start": 181.47,
+          "end": 181.79,
+          "confidence": 0.999
+        },
+        {
+          "text": "sorte",
+          "start": 181.79,
+          "end": 182.29,
+          "confidence": 0.96
+        },
+        {
+          "text": "e",
+          "start": 182.29,
+          "end": 182.55,
+          "confidence": 0.997
+        },
+        {
+          "text": "ganhar",
+          "start": 182.55,
+          "end": 183.03,
+          "confidence": 0.495
+        },
+        {
+          "text": "teu",
+          "start": 183.03,
+          "end": 184.05,
+          "confidence": 0.999
+        },
+        {
+          "text": "coração.",
+          "start": 185.58,
+          "end": 186.94,
+          "confidence": 0.842
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "seek": 16320,
+      "start": 228.27,
+      "end": 234.98,
+      "text": " Quem me dera abraçar-te no outono, no verão e primavera.",
+      "tokens": [
+        50414,
+        32342,
+        385,
+        1163,
+        64,
+        33693,
+        26378,
+        12,
+        975,
+        572,
+        484,
+        8957,
+        11,
+        572,
+        1306,
+        1076,
+        308,
+        19507,
+        331,
+        64,
+        13,
+        50714
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.13509946284086807,
+      "compression_ratio": 0.9206349206349206,
+      "no_speech_prob": 0.4054539203643799,
+      "confidence": 0.955,
+      "words": [
+        {
+          "text": "Quem",
+          "start": 228.27,
+          "end": 228.29,
+          "confidence": 0.638
+        },
+        {
+          "text": "me",
+          "start": 228.29,
+          "end": 228.65,
+          "confidence": 0.994
+        },
+        {
+          "text": "dera",
+          "start": 228.65,
+          "end": 229.75,
+          "confidence": 0.996
+        },
+        {
+          "text": "abraçar-te",
+          "start": 229.75,
+          "end": 231.67,
+          "confidence": 0.973
+        },
+        {
+          "text": "no",
+          "start": 231.67,
+          "end": 231.91,
+          "confidence": 0.998
+        },
+        {
+          "text": "outono,",
+          "start": 231.91,
+          "end": 232.85,
+          "confidence": 0.997
+        },
+        {
+          "text": "no",
+          "start": 232.93,
+          "end": 233.17,
+          "confidence": 0.846
+        },
+        {
+          "text": "verão",
+          "start": 233.78,
+          "end": 234.0,
+          "confidence": 0.97
+        },
+        {
+          "text": "e",
+          "start": 234.0,
+          "end": 234.14,
+          "confidence": 0.992
+        },
+        {
+          "text": "primavera.",
+          "start": 234.14,
+          "end": 234.98,
+          "confidence": 0.995
+        }
+      ]
+    }
+  ],
+  "language": "pt",
+  "language_probs": {
+    "en": 0.00024892663350328803,
+    "zh": 1.0600573659758084e-05,
+    "de": 6.699768709950149e-05,
+    "es": 0.0020519238896667957,
+    "ru": 2.675414361874573e-05,
+    "ko": 7.605538939969847e-06,
+    "fr": 0.00015699604409746826,
+    "ja": 3.2908155844779685e-05,
+    "pt": 0.49045833945274353,
+    "tr": 3.3617800454521785e-06,
+    "pl": 4.0954862924991176e-05,
+    "ca": 0.004999824333935976,
+    "nl": 3.265206760261208e-05,
+    "ar": 3.5443481465335935e-05,
+    "sv": 1.1701659730078973e-07,
+    "it": 0.0006456664996221662,
+    "id": 5.785989287687698e-06,
+    "hi": 3.7066438380861655e-06,
+    "fi": 2.2441414330387488e-05,
+    "vi": 3.2779862522147596e-05,
+    "he": 9.138265340880025e-06,
+    "uk": 2.2794816686655395e-05,
+    "el": 0.0002865127462428063,
+    "ms": 2.728182153077796e-05,
+    "cs": 4.00061508116778e-05,
+    "ro": 0.0010812878608703613,
+    "da": 3.097016815445386e-06,
+    "hu": 1.2345008144620806e-05,
+    "ta": 1.283677829633234e-05,
+    "no": 0.4753684997558594,
+    "th": 9.428345038031694e-06,
+    "ur": 2.1581698092631996e-05,
+    "hr": 7.816372999513987e-06,
+    "bg": 4.428276952239685e-05,
+    "lt": 0.0001799968449631706,
+    "la": 0.001056239940226078,
+    "mi": 0.0005479700048454106,
+    "ml": 6.07461231538764e-07,
+    "cy": 0.0005352763109840453,
+    "sk": 1.4657872497991775e-06,
+    "te": 4.769441511598416e-05,
+    "fa": 6.040024800313404e-06,
+    "lv": 3.9079401176422834e-05,
+    "bn": 1.9497438188409433e-05,
+    "sr": 5.177179991733283e-05,
+    "az": 1.0894432307395618e-05,
+    "sl": 3.685539195430465e-05,
+    "kn": 1.9879025785485283e-06,
+    "et": 3.945701791963074e-06,
+    "mk": 1.244183204107685e-05,
+    "br": 4.998331860406324e-05,
+    "eu": 9.596974996384233e-05,
+    "is": 1.4098442989052273e-05,
+    "hy": 7.458434538420988e-06,
+    "ne": 1.2887019693152979e-05,
+    "mn": 4.2166170715063345e-06,
+    "bs": 7.358255970757455e-05,
+    "kk": 3.779750841204077e-06,
+    "sq": 0.0010645240545272827,
+    "sw": 1.3505481547326781e-05,
+    "gl": 0.01857660338282585,
+    "mr": 9.821628736972343e-07,
+    "pa": 0.0001690913923084736,
+    "si": 3.4487457014620304e-05,
+    "km": 8.27311014290899e-05,
+    "sn": 7.894256850704551e-05,
+    "yo": 4.6954985009506345e-05,
+    "so": 2.027110213020933e-06,
+    "af": 0.0003246614651288837,
+    "oc": 0.0003297741641290486,
+    "ka": 1.6222364251916588e-07,
+    "be": 2.1666166503564455e-05,
+    "tg": 1.8894744471253944e-06,
+    "sd": 3.3557211281731725e-05,
+    "gu": 6.530823611683445e-06,
+    "am": 7.471900858035951e-07,
+    "yi": 0.00020798596960958093,
+    "lo": 7.033974270598264e-06,
+    "uz": 1.5846572409827786e-07,
+    "fo": 8.144847379298881e-05,
+    "ht": 2.1921559891779907e-05,
+    "ps": 8.484592399327084e-06,
+    "tk": 3.6977552131389757e-09,
+    "nn": 3.6278581774240592e-06,
+    "mt": 4.233119852870004e-06,
+    "sa": 6.124084757175297e-05,
+    "lb": 7.314175491046626e-06,
+    "my": 2.6442447051522322e-05,
+    "bo": 7.228962658700766e-06,
+    "tl": 2.8038102755090222e-05,
+    "mg": 1.0664891192391224e-07,
+    "as": 2.0430090899026254e-06,
+    "tt": 9.067151040653698e-06,
+    "haw": 3.8025304093025625e-05,
+    "ln": 6.924922217876883e-06,
+    "ha": 1.3139233487891033e-06,
+    "ba": 1.4811755377763802e-08,
+    "jw": 4.15998074458912e-05,
+    "su": 2.508040552129387e-06
+  },
+  "speech_activity": [
+    {
+      "start": 10.99,
+      "end": 15.154
+    },
+    {
+      "start": 16.014,
+      "end": 19.186
+    },
+    {
+      "start": 20.942,
+      "end": 28.722
+    },
+    {
+      "start": 30.766,
+      "end": 34.962
+    },
+    {
+      "start": 35.822,
+      "end": 40.274
+    },
+    {
+      "start": 40.622,
+      "end": 49.138
+    },
+    {
+      "start": 50.574,
+      "end": 54.162
+    },
+    {
+      "start": 55.534,
+      "end": 59.314
+    },
+    {
+      "start": 60.43,
+      "end": 76.53
+    },
+    {
+      "start": 76.75,
+      "end": 80.914
+    },
+    {
+      "start": 81.454,
+      "end": 85.938
+    },
+    {
+      "start": 88.334,
+      "end": 95.794
+    },
+    {
+      "start": 96.302,
+      "end": 100.178
+    },
+    {
+      "start": 101.262,
+      "end": 106.29
+    },
+    {
+      "start": 110.062,
+      "end": 113.906
+    },
+    {
+      "start": 114.766,
+      "end": 118.61
+    },
+    {
+      "start": 119.854,
+      "end": 128.626
+    },
+    {
+      "start": 129.23,
+      "end": 132.946
+    },
+    {
+      "start": 134.318,
+      "end": 139.346
+    },
+    {
+      "start": 139.566,
+      "end": 159.922
+    },
+    {
+      "start": 160.622,
+      "end": 165.714
+    },
+    {
+      "start": 167.438,
+      "end": 175.41
+    },
+    {
+      "start": 175.534,
+      "end": 179.954
+    },
+    {
+      "start": 180.398,
+      "end": 184.594
+    },
+    {
+      "start": 185.582,
+      "end": 187.41
+    },
+    {
+      "start": 210.094,
+      "end": 215.026
+    },
+    {
+      "start": 215.086,
+      "end": 217.234
+    },
+    {
+      "start": 217.774,
+      "end": 219.506
+    },
+    {
+      "start": 220.014,
+      "end": 224.946
+    },
+    {
+      "start": 228.142,
+      "end": 233.17
+    },
+    {
+      "start": 233.742,
+      "end": 239.634
+    },
+    {
+      "start": 239.694,
+      "end": 243.474
+    },
+    {
+      "start": 244.142,
+      "end": 245.906
+    },
+    {
+      "start": 247.214,
+      "end": 249.362
+    }
+  ]
+}

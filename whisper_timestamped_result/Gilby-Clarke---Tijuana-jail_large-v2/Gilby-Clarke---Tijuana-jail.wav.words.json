@@ -1,523 +1,2693 @@
 {
-  "text": " Pregunta una adamita que si cuando fue la fecha una adamita del auditorio cuando ocurrió el último eclipse solana yo le dije que el 9 de perre me creo que tienes que irme a ver yo soy conocido como el sexo y quiero irme a casa este es mi casa no es el sexo 635 40 30 2 no le dan trabajo porque está muy joven o muy viejo",
+  "text": "Una damita preguntaba cuando fue la fecha, una damita del auditorio. Cuando ocurrió el ultimo eclipse solar.Picking up the Mustang cause this city has no heart. It sucks you in, and it spits you out. Patiently seeking a destination that's unknown. I follow the road down to Mexico. Sorry mister officer, I think you got it wrong. I'm a lonely old tax boy and I wanna get old. I send my love to my home but send my mail to your one-armed child. Sorry mister sir, I'm gonna get it bent. On this side of the border, 20 pesos can you get. He smiled and said, señor, I think I'll drink to your thrills. I send my love to my home but send my mail to your one-armed child. I'm a desperate man, I'm a desperate man. I'm a desperate man, desperate man. I'm a desperate man, desperate man. I'm a desperate man, desperate man. I'm a desperate man, desperate man. I'm a desperate man, desperate man. I'm a desperate man, desperate man. I'm a desperate man, desperate man. I'm a desperate man, desperate man. I'm a desperate man, desperate man. I'm a desperate man, desperate man. I'm a desperate man, desperate man. I'm a desperate man, desperate man. I'm a desperate man, desperate man. I'm a desperate man, desperate man. I'm a desperate man, desperate man. I'm a desperate man, desperate man. I'm a desperate man, desperate man. I'm a desperate man, desperate man. I'm a desperate man, desperate man. I'm a desperate man, desperate man. I'm a desperate man, desperate man. I'm a desperate man, desperate man. I'm a desperate man, desperate man. I'm a desperate man, desperate man, desperate man. I'm a desperate man, desperate man. I'm a desperate man, desperate man. I'm a desperate man, desperate man. I'm a desperate man, desperate man. I'm a desperate man, desperate man. I'm a desperate man, desperate man. I'm a desperate man, desperate man. ... travajo porque está muy joven o muy viejo ...",
   "segments": [
     {
       "id": 0,
       "seek": 0,
-      "start": 1.51,
-      "end": 10.69,
-      "text": " Pregunta una adamita que si cuando fue la fecha una adamita del auditorio cuando ocurrió el último eclipse solana",
+      "start": 1.23,
+      "end": 6.15,
+      "text": "Una damita preguntaba cuando fue la fecha, una damita del auditorio.",
       "tokens": [
         50364,
-        430,
-        3375,
-        46380,
-        2002,
-        16368,
+        52,
+        629,
+        2422,
         2786,
-        631,
-        1511,
+        19860,
+        5509,
         7767,
         9248,
         635,
         579,
         4413,
+        11,
         2002,
-        16368,
+        2422,
         2786,
         1103,
         33970,
         1004,
-        7767,
-        26430,
-        44802,
-        806,
-        21013,
-        35722,
-        1404,
-        2095,
-        50840
+        13,
+        50614
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.5655072840248666,
-      "compression_ratio": 1.2972972972972974,
-      "no_speech_prob": 0.5078331232070923,
-      "confidence": 0.711,
+      "avg_logprob": -0.4875101361955915,
+      "compression_ratio": 1.1595744680851063,
+      "no_speech_prob": 0.025231916457414627,
+      "confidence": 0.787,
       "words": [
         {
-          "text": "Pregunta",
-          "start": 1.51,
-          "end": 1.89,
-          "confidence": 0.582
+          "text": "Una",
+          "start": 1.23,
+          "end": 2.03,
+          "confidence": 0.415
         },
         {
-          "text": "una",
-          "start": 1.89,
-          "end": 2.07,
-          "confidence": 0.82
+          "text": "damita",
+          "start": 2.03,
+          "end": 2.75,
+          "confidence": 0.982
         },
         {
-          "text": "adamita",
-          "start": 2.07,
-          "end": 2.45,
-          "confidence": 0.605
-        },
-        {
-          "text": "que",
-          "start": 2.45,
-          "end": 2.79,
-          "confidence": 0.659
-        },
-        {
-          "text": "si",
-          "start": 2.79,
-          "end": 2.97,
-          "confidence": 0.833
+          "text": "preguntaba",
+          "start": 2.75,
+          "end": 2.77,
+          "confidence": 0.655
         },
         {
           "text": "cuando",
-          "start": 2.97,
-          "end": 3.35,
-          "confidence": 0.576
+          "start": 2.77,
+          "end": 3.55,
+          "confidence": 0.685
         },
         {
           "text": "fue",
-          "start": 3.35,
-          "end": 3.73,
-          "confidence": 0.935
+          "start": 3.55,
+          "end": 3.81,
+          "confidence": 0.729
         },
         {
           "text": "la",
-          "start": 3.73,
-          "end": 4.49,
-          "confidence": 0.878
+          "start": 3.81,
+          "end": 4.47,
+          "confidence": 0.885
         },
         {
-          "text": "fecha",
-          "start": 4.49,
-          "end": 4.91,
-          "confidence": 0.996
+          "text": "fecha,",
+          "start": 4.47,
+          "end": 5.09,
+          "confidence": 0.983
         },
         {
           "text": "una",
-          "start": 4.91,
-          "end": 5.11,
-          "confidence": 0.756
+          "start": 5.09,
+          "end": 5.13,
+          "confidence": 0.616
         },
         {
-          "text": "adamita",
-          "start": 5.11,
-          "end": 5.45,
-          "confidence": 0.869
+          "text": "damita",
+          "start": 5.13,
+          "end": 5.53,
+          "confidence": 0.997
         },
         {
           "text": "del",
-          "start": 5.45,
-          "end": 5.59,
-          "confidence": 0.891
+          "start": 5.53,
+          "end": 5.71,
+          "confidence": 0.944
         },
         {
-          "text": "auditorio",
-          "start": 5.59,
-          "end": 6.31,
-          "confidence": 0.92
-        },
-        {
-          "text": "cuando",
-          "start": 6.31,
-          "end": 6.65,
-          "confidence": 0.59
-        },
-        {
-          "text": "ocurrió",
-          "start": 6.65,
-          "end": 7.21,
-          "confidence": 0.926
-        },
-        {
-          "text": "el",
-          "start": 7.21,
-          "end": 7.75,
-          "confidence": 0.883
-        },
-        {
-          "text": "último",
-          "start": 7.75,
-          "end": 8.23,
-          "confidence": 0.877
-        },
-        {
-          "text": "eclipse",
-          "start": 8.23,
-          "end": 9.53,
-          "confidence": 0.378
-        },
-        {
-          "text": "solana",
-          "start": 9.53,
-          "end": 10.69,
-          "confidence": 0.321
+          "text": "auditorio.",
+          "start": 5.71,
+          "end": 6.15,
+          "confidence": 0.987
         }
       ]
     },
     {
       "id": 1,
       "seek": 0,
-      "start": 11.05,
-      "end": 12.63,
-      "text": " yo le dije que el 9 de perre",
+      "start": 6.85,
+      "end": 10.55,
+      "text": " Cuando ocurrió el ultimo eclipse solar.",
       "tokens": [
-        50840,
-        5290,
-        476,
-        39414,
-        631,
+        50614,
+        21907,
+        277,
+        14112,
+        470,
+        812,
         806,
-        1722,
-        368,
-        680,
-        265,
-        50940
+        3725,
+        6934,
+        35722,
+        7936,
+        13,
+        50864
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.5655072840248666,
-      "compression_ratio": 1.2972972972972974,
-      "no_speech_prob": 0.5078331232070923,
-      "confidence": 0.54,
+      "avg_logprob": -0.4875101361955915,
+      "compression_ratio": 1.1595744680851063,
+      "no_speech_prob": 0.025231916457414627,
+      "confidence": 0.691,
       "words": [
         {
-          "text": "yo",
-          "start": 11.05,
-          "end": 11.27,
-          "confidence": 0.448
+          "text": "Cuando",
+          "start": 6.85,
+          "end": 6.87,
+          "confidence": 0.59
         },
         {
-          "text": "le",
-          "start": 11.27,
-          "end": 11.39,
-          "confidence": 0.731
-        },
-        {
-          "text": "dije",
-          "start": 11.39,
-          "end": 11.53,
-          "confidence": 0.996
-        },
-        {
-          "text": "que",
-          "start": 11.53,
-          "end": 11.71,
-          "confidence": 0.348
+          "text": "ocurrió",
+          "start": 6.87,
+          "end": 7.37,
+          "confidence": 0.699
         },
         {
           "text": "el",
-          "start": 11.71,
-          "end": 11.83,
-          "confidence": 0.759
+          "start": 7.37,
+          "end": 7.73,
+          "confidence": 0.978
         },
         {
-          "text": "9",
-          "start": 11.83,
-          "end": 12.05,
-          "confidence": 0.722
+          "text": "ultimo",
+          "start": 7.73,
+          "end": 8.45,
+          "confidence": 0.809
         },
         {
-          "text": "de",
-          "start": 12.05,
-          "end": 12.29,
-          "confidence": 0.624
+          "text": "eclipse",
+          "start": 8.45,
+          "end": 9.93,
+          "confidence": 0.36
         },
         {
-          "text": "perre",
-          "start": 12.29,
-          "end": 12.63,
-          "confidence": 0.316
+          "text": "solar.",
+          "start": 9.93,
+          "end": 10.55,
+          "confidence": 0.758
         }
       ]
     },
     {
       "id": 2,
-      "seek": 15000,
-      "start": 237.64,
-      "end": 239.3,
-      "text": " me creo que tienes que irme a ver",
+      "seek": 3000,
+      "start": 52.98,
+      "end": 60.16,
+      "text": "Picking up the Mustang cause this city has no heart. It sucks you in, and it spits you out.",
       "tokens": [
         50364,
-        385,
-        14336,
-        631,
-        20716,
-        631,
-        3418,
-        1398,
-        257,
-        1306,
-        50464
+        47,
+        10401,
+        493,
+        220,
+        3322,
+        37115,
+        3082,
+        220,
+        11176,
+        2307,
+        575,
+        572,
+        1917,
+        13,
+        467,
+        15846,
+        291,
+        294,
+        11,
+        293,
+        309,
+        637,
+        1208,
+        291,
+        484,
+        13,
+        50714
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.3924424913194444,
-      "compression_ratio": 7.4526315789473685,
-      "no_speech_prob": 0.4586804211139679,
-      "confidence": 0.122,
+      "avg_logprob": -0.2062895033094618,
+      "compression_ratio": 1.451086956521739,
+      "no_speech_prob": 0.3719916045665741,
+      "confidence": 0.839,
       "words": [
         {
-          "text": "me",
-          "start": 237.64,
-          "end": 237.8,
-          "confidence": 0.058
+          "text": "Picking",
+          "start": 52.98,
+          "end": 53.54,
+          "confidence": 0.471
         },
         {
-          "text": "creo",
-          "start": 237.8,
-          "end": 238.08,
-          "confidence": 0.038
+          "text": "up",
+          "start": 53.54,
+          "end": 53.56,
+          "confidence": 0.991
         },
         {
-          "text": "que",
-          "start": 238.08,
-          "end": 238.26,
-          "confidence": 0.812
+          "text": "the",
+          "start": 53.56,
+          "end": 53.76,
+          "confidence": 0.747
         },
         {
-          "text": "tienes",
-          "start": 238.26,
-          "end": 238.42,
-          "confidence": 0.116
+          "text": "Mustang",
+          "start": 53.76,
+          "end": 54.38,
+          "confidence": 0.96
         },
         {
-          "text": "que",
-          "start": 238.42,
-          "end": 238.54,
-          "confidence": 0.207
+          "text": "cause",
+          "start": 54.38,
+          "end": 55.34,
+          "confidence": 0.718
         },
         {
-          "text": "irme",
-          "start": 238.54,
-          "end": 239.16,
-          "confidence": 0.121
+          "text": "this",
+          "start": 55.34,
+          "end": 55.72,
+          "confidence": 0.842
         },
         {
-          "text": "a",
-          "start": 239.16,
-          "end": 239.28,
-          "confidence": 0.143
+          "text": "city",
+          "start": 55.72,
+          "end": 55.74,
+          "confidence": 0.993
         },
         {
-          "text": "ver",
-          "start": 239.28,
-          "end": 239.3,
-          "confidence": 0.068
+          "text": "has",
+          "start": 55.74,
+          "end": 55.86,
+          "confidence": 0.952
+        },
+        {
+          "text": "no",
+          "start": 55.86,
+          "end": 55.94,
+          "confidence": 0.992
+        },
+        {
+          "text": "heart.",
+          "start": 55.94,
+          "end": 56.54,
+          "confidence": 0.958
+        },
+        {
+          "text": "It",
+          "start": 56.6,
+          "end": 56.66,
+          "confidence": 0.576
+        },
+        {
+          "text": "sucks",
+          "start": 56.66,
+          "end": 57.02,
+          "confidence": 0.747
+        },
+        {
+          "text": "you",
+          "start": 57.02,
+          "end": 57.28,
+          "confidence": 0.982
+        },
+        {
+          "text": "in,",
+          "start": 57.28,
+          "end": 57.84,
+          "confidence": 0.991
+        },
+        {
+          "text": "and",
+          "start": 58.58,
+          "end": 58.88,
+          "confidence": 0.932
+        },
+        {
+          "text": "it",
+          "start": 58.88,
+          "end": 59.04,
+          "confidence": 0.869
+        },
+        {
+          "text": "spits",
+          "start": 59.04,
+          "end": 59.4,
+          "confidence": 0.993
+        },
+        {
+          "text": "you",
+          "start": 59.4,
+          "end": 59.48,
+          "confidence": 0.996
+        },
+        {
+          "text": "out.",
+          "start": 59.48,
+          "end": 60.16,
+          "confidence": 0.993
         }
       ]
     },
     {
       "id": 3,
-      "seek": 15000,
-      "start": 239.3,
-      "end": 243.88,
-      "text": " yo soy conocido como el sexo y quiero irme a casa",
+      "seek": 3000,
+      "start": 62.41,
+      "end": 69.53,
+      "text": " Patiently seeking a destination that's unknown. I follow the road down to Mexico.",
       "tokens": [
-        50464,
-        5290,
-        8812,
-        15871,
-        2925,
-        2617,
-        806,
-        3260,
-        78,
-        288,
-        16811,
-        3418,
-        1398,
+        50764,
+        4379,
+        1196,
+        356,
+        11670,
         257,
-        9022,
-        50700
+        12236,
+        220,
+        6780,
+        311,
+        9841,
+        13,
+        286,
+        1524,
+        220,
+        3322,
+        3060,
+        760,
+        220,
+        1353,
+        8612,
+        13,
+        51164
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.3924424913194444,
-      "compression_ratio": 7.4526315789473685,
-      "no_speech_prob": 0.4586804211139679,
-      "confidence": 0.288,
+      "avg_logprob": -0.2062895033094618,
+      "compression_ratio": 1.451086956521739,
+      "no_speech_prob": 0.3719916045665741,
+      "confidence": 0.897,
       "words": [
         {
-          "text": "yo",
-          "start": 239.3,
-          "end": 239.96,
-          "confidence": 0.19
+          "text": "Patiently",
+          "start": 62.41,
+          "end": 62.83,
+          "confidence": 0.778
         },
         {
-          "text": "soy",
-          "start": 239.96,
-          "end": 240.04,
-          "confidence": 0.245
-        },
-        {
-          "text": "conocido",
-          "start": 240.04,
-          "end": 240.62,
-          "confidence": 0.52
-        },
-        {
-          "text": "como",
-          "start": 240.62,
-          "end": 240.88,
-          "confidence": 0.235
-        },
-        {
-          "text": "el",
-          "start": 240.88,
-          "end": 240.9,
-          "confidence": 0.22
-        },
-        {
-          "text": "sexo",
-          "start": 240.9,
-          "end": 241.92,
-          "confidence": 0.157
-        },
-        {
-          "text": "y",
-          "start": 241.92,
-          "end": 242.2,
-          "confidence": 0.156
-        },
-        {
-          "text": "quiero",
-          "start": 242.2,
-          "end": 242.62,
-          "confidence": 0.338
-        },
-        {
-          "text": "irme",
-          "start": 242.62,
-          "end": 243.62,
-          "confidence": 0.294
+          "text": "seeking",
+          "start": 62.83,
+          "end": 63.63,
+          "confidence": 0.899
         },
         {
           "text": "a",
-          "start": 243.62,
-          "end": 243.64,
-          "confidence": 0.545
+          "start": 63.63,
+          "end": 63.65,
+          "confidence": 0.906
         },
         {
-          "text": "casa",
-          "start": 243.64,
-          "end": 243.88,
-          "confidence": 0.688
+          "text": "destination",
+          "start": 63.65,
+          "end": 64.75,
+          "confidence": 0.986
+        },
+        {
+          "text": "that's",
+          "start": 64.75,
+          "end": 64.99,
+          "confidence": 0.824
+        },
+        {
+          "text": "unknown.",
+          "start": 64.99,
+          "end": 65.65,
+          "confidence": 0.952
+        },
+        {
+          "text": "I",
+          "start": 65.69,
+          "end": 65.89,
+          "confidence": 0.929
+        },
+        {
+          "text": "follow",
+          "start": 65.89,
+          "end": 66.21,
+          "confidence": 0.787
+        },
+        {
+          "text": "the",
+          "start": 66.21,
+          "end": 66.51,
+          "confidence": 0.995
+        },
+        {
+          "text": "road",
+          "start": 66.51,
+          "end": 67.07,
+          "confidence": 0.986
+        },
+        {
+          "text": "down",
+          "start": 67.07,
+          "end": 68.27,
+          "confidence": 0.91
+        },
+        {
+          "text": "to",
+          "start": 68.27,
+          "end": 68.67,
+          "confidence": 0.99
+        },
+        {
+          "text": "Mexico.",
+          "start": 68.67,
+          "end": 69.53,
+          "confidence": 0.998
         }
       ]
     },
     {
       "id": 4,
-      "seek": 15000,
-      "start": 244.56,
-      "end": 245.32,
-      "text": " este es mi casa",
+      "seek": 3000,
+      "start": 71.11,
+      "end": 79.21,
+      "text": " Sorry mister officer, I think you got it wrong. I'm a lonely old tax boy and I wanna get old.",
       "tokens": [
-        50700,
-        4065,
-        785,
-        2752,
-        9022,
-        50800
+        51214,
+        4919,
+        26562,
+        8456,
+        11,
+        286,
+        220,
+        21074,
+        291,
+        658,
+        309,
+        2085,
+        13,
+        286,
+        478,
+        257,
+        14236,
+        1331,
+        220,
+        1328,
+        87,
+        3237,
+        293,
+        286,
+        1948,
+        483,
+        1331,
+        13,
+        51614
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.3924424913194444,
-      "compression_ratio": 7.4526315789473685,
-      "no_speech_prob": 0.4586804211139679,
-      "confidence": 0.068,
+      "avg_logprob": -0.2062895033094618,
+      "compression_ratio": 1.451086956521739,
+      "no_speech_prob": 0.3719916045665741,
+      "confidence": 0.834,
       "words": [
         {
-          "text": "este",
-          "start": 244.56,
-          "end": 244.78,
-          "confidence": 0.071
+          "text": "Sorry",
+          "start": 71.11,
+          "end": 71.55,
+          "confidence": 0.96
         },
         {
-          "text": "es",
-          "start": 244.78,
-          "end": 244.98,
-          "confidence": 0.034
+          "text": "mister",
+          "start": 71.55,
+          "end": 72.13,
+          "confidence": 0.497
         },
         {
-          "text": "mi",
-          "start": 244.98,
-          "end": 245.14,
-          "confidence": 0.383
+          "text": "officer,",
+          "start": 72.13,
+          "end": 73.23,
+          "confidence": 0.685
         },
         {
-          "text": "casa",
-          "start": 245.14,
-          "end": 245.32,
-          "confidence": 0.023
+          "text": "I",
+          "start": 73.23,
+          "end": 73.43,
+          "confidence": 0.98
+        },
+        {
+          "text": "think",
+          "start": 73.43,
+          "end": 73.81,
+          "confidence": 0.986
+        },
+        {
+          "text": "you",
+          "start": 73.81,
+          "end": 74.03,
+          "confidence": 0.991
+        },
+        {
+          "text": "got",
+          "start": 74.03,
+          "end": 74.39,
+          "confidence": 0.561
+        },
+        {
+          "text": "it",
+          "start": 74.39,
+          "end": 74.63,
+          "confidence": 0.971
+        },
+        {
+          "text": "wrong.",
+          "start": 74.63,
+          "end": 75.03,
+          "confidence": 0.979
+        },
+        {
+          "text": "I'm",
+          "start": 75.55,
+          "end": 75.83,
+          "confidence": 0.965
+        },
+        {
+          "text": "a",
+          "start": 75.83,
+          "end": 76.01,
+          "confidence": 0.98
+        },
+        {
+          "text": "lonely",
+          "start": 76.01,
+          "end": 76.45,
+          "confidence": 0.941
+        },
+        {
+          "text": "old",
+          "start": 76.45,
+          "end": 76.81,
+          "confidence": 0.87
+        },
+        {
+          "text": "tax",
+          "start": 76.81,
+          "end": 77.39,
+          "confidence": 0.876
+        },
+        {
+          "text": "boy",
+          "start": 77.39,
+          "end": 77.87,
+          "confidence": 0.707
+        },
+        {
+          "text": "and",
+          "start": 77.87,
+          "end": 77.99,
+          "confidence": 0.547
+        },
+        {
+          "text": "I",
+          "start": 77.99,
+          "end": 78.29,
+          "confidence": 0.97
+        },
+        {
+          "text": "wanna",
+          "start": 78.29,
+          "end": 78.53,
+          "confidence": 0.625
+        },
+        {
+          "text": "get",
+          "start": 78.53,
+          "end": 79.09,
+          "confidence": 0.979
+        },
+        {
+          "text": "old.",
+          "start": 79.09,
+          "end": 79.21,
+          "confidence": 0.686
         }
       ]
     },
     {
       "id": 5,
-      "seek": 15000,
-      "start": 245.94,
-      "end": 247.76,
-      "text": " no es el sexo",
+      "seek": 6000,
+      "start": 87.7,
+      "end": 94.2,
+      "text": " I send my love to my home but send my mail to your one-armed child.",
       "tokens": [
-        50800,
-        572,
-        785,
-        806,
-        3260,
-        78,
-        50900
+        50414,
+        286,
+        2845,
+        452,
+        959,
+        220,
+        1353,
+        452,
+        1280,
+        457,
+        2845,
+        452,
+        10071,
+        220,
+        1353,
+        428,
+        472,
+        12,
+        38375,
+        1440,
+        13,
+        50814
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.3924424913194444,
-      "compression_ratio": 7.4526315789473685,
-      "no_speech_prob": 0.4586804211139679,
-      "confidence": 0.337,
+      "avg_logprob": -0.30545251265816065,
+      "compression_ratio": 1.0634920634920635,
+      "no_speech_prob": 0.2332155406475067,
+      "confidence": 0.742,
       "words": [
         {
-          "text": "no",
-          "start": 245.94,
-          "end": 246.74,
-          "confidence": 0.419
+          "text": "I",
+          "start": 87.7,
+          "end": 88.16,
+          "confidence": 0.95
         },
         {
-          "text": "es",
-          "start": 246.74,
-          "end": 247.1,
-          "confidence": 0.112
+          "text": "send",
+          "start": 88.16,
+          "end": 88.5,
+          "confidence": 0.902
         },
         {
-          "text": "el",
-          "start": 247.1,
-          "end": 247.12,
-          "confidence": 0.098
+          "text": "my",
+          "start": 88.5,
+          "end": 88.76,
+          "confidence": 0.99
         },
         {
-          "text": "sexo",
-          "start": 247.12,
-          "end": 247.76,
-          "confidence": 0.979
+          "text": "love",
+          "start": 88.76,
+          "end": 89.32,
+          "confidence": 0.994
+        },
+        {
+          "text": "to",
+          "start": 89.32,
+          "end": 89.78,
+          "confidence": 0.994
+        },
+        {
+          "text": "my",
+          "start": 89.78,
+          "end": 89.88,
+          "confidence": 0.992
+        },
+        {
+          "text": "home",
+          "start": 89.88,
+          "end": 90.28,
+          "confidence": 0.837
+        },
+        {
+          "text": "but",
+          "start": 90.28,
+          "end": 90.62,
+          "confidence": 0.506
+        },
+        {
+          "text": "send",
+          "start": 90.62,
+          "end": 91.0,
+          "confidence": 0.956
+        },
+        {
+          "text": "my",
+          "start": 91.0,
+          "end": 91.16,
+          "confidence": 0.992
+        },
+        {
+          "text": "mail",
+          "start": 91.16,
+          "end": 91.9,
+          "confidence": 0.97
+        },
+        {
+          "text": "to",
+          "start": 91.9,
+          "end": 92.86,
+          "confidence": 0.923
+        },
+        {
+          "text": "your",
+          "start": 92.86,
+          "end": 92.92,
+          "confidence": 0.334
+        },
+        {
+          "text": "one-armed",
+          "start": 92.92,
+          "end": 93.54,
+          "confidence": 0.558
+        },
+        {
+          "text": "child.",
+          "start": 93.54,
+          "end": 94.2,
+          "confidence": 0.216
         }
       ]
     },
     {
       "id": 6,
-      "seek": 16072,
-      "start": 292.09,
-      "end": 296.19,
-      "text": " 635 40 30 2 no le dan trabajo porque está muy joven o muy viejo",
+      "seek": 9000,
+      "start": 123.73,
+      "end": 130.33,
+      "text": " Sorry mister sir, I'm gonna get it bent. On this side of the border, 20 pesos can you get.",
       "tokens": [
-        50364,
-        1386,
-        8794,
-        3356,
-        2217,
-        568,
-        572,
-        476,
-        3277,
-        18099,
+        50414,
+        4919,
+        26562,
+        4735,
+        11,
+        286,
+        478,
+        799,
+        483,
+        309,
+        14075,
+        13,
+        1282,
+        220,
+        11176,
+        1252,
+        295,
+        220,
+        3322,
+        7838,
+        11,
+        945,
+        33204,
+        393,
+        291,
+        483,
+        13,
+        50814
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2812725485187687,
+      "compression_ratio": 1.3962264150943395,
+      "no_speech_prob": 0.4133032262325287,
+      "confidence": 0.706,
+      "words": [
+        {
+          "text": "Sorry",
+          "start": 123.73,
+          "end": 123.75,
+          "confidence": 0.171
+        },
+        {
+          "text": "mister",
+          "start": 123.75,
+          "end": 123.77,
+          "confidence": 0.945
+        },
+        {
+          "text": "sir,",
+          "start": 123.77,
+          "end": 124.01,
+          "confidence": 0.634
+        },
+        {
+          "text": "I'm",
+          "start": 124.13,
+          "end": 124.23,
+          "confidence": 0.885
+        },
+        {
+          "text": "gonna",
+          "start": 124.23,
+          "end": 124.55,
+          "confidence": 0.891
+        },
+        {
+          "text": "get",
+          "start": 124.55,
+          "end": 125.33,
+          "confidence": 0.947
+        },
+        {
+          "text": "it",
+          "start": 125.33,
+          "end": 125.41,
+          "confidence": 0.248
+        },
+        {
+          "text": "bent.",
+          "start": 125.41,
+          "end": 125.77,
+          "confidence": 0.717
+        },
+        {
+          "text": "On",
+          "start": 126.39,
+          "end": 126.59,
+          "confidence": 0.761
+        },
+        {
+          "text": "this",
+          "start": 126.59,
+          "end": 126.91,
+          "confidence": 0.847
+        },
+        {
+          "text": "side",
+          "start": 126.91,
+          "end": 127.63,
+          "confidence": 0.995
+        },
+        {
+          "text": "of",
+          "start": 127.63,
+          "end": 127.65,
+          "confidence": 0.984
+        },
+        {
+          "text": "the",
+          "start": 127.65,
+          "end": 127.67,
+          "confidence": 0.996
+        },
+        {
+          "text": "border,",
+          "start": 127.67,
+          "end": 128.41,
+          "confidence": 0.946
+        },
+        {
+          "text": "20",
+          "start": 129.53,
+          "end": 129.55,
+          "confidence": 0.605
+        },
+        {
+          "text": "pesos",
+          "start": 129.55,
+          "end": 129.57,
+          "confidence": 0.874
+        },
+        {
+          "text": "can",
+          "start": 129.57,
+          "end": 130.03,
+          "confidence": 0.329
+        },
+        {
+          "text": "you",
+          "start": 130.03,
+          "end": 130.05,
+          "confidence": 0.564
+        },
+        {
+          "text": "get.",
+          "start": 130.05,
+          "end": 130.33,
+          "confidence": 0.79
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 9000,
+      "start": 132.73,
+      "end": 144.72,
+      "text": " He smiled and said, señor, I think I'll drink to your thrills. I send my love to my home but send my mail to your one-armed child.",
+      "tokens": [
+        50864,
+        634,
+        35132,
+        293,
+        848,
+        11,
+        22188,
+        11,
+        286,
+        220,
+        21074,
+        286,
+        603,
+        2822,
+        220,
+        1353,
+        428,
+        220,
+        392,
+        81,
+        2565,
+        13,
+        286,
+        2845,
+        452,
+        959,
+        220,
+        1353,
+        452,
+        1280,
+        457,
+        2845,
+        452,
+        10071,
+        220,
+        1353,
+        428,
+        472,
+        12,
+        38375,
+        1440,
+        13,
+        51414
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2812725485187687,
+      "compression_ratio": 1.3962264150943395,
+      "no_speech_prob": 0.4133032262325287,
+      "confidence": 0.843,
+      "words": [
+        {
+          "text": "He",
+          "start": 132.73,
+          "end": 132.75,
+          "confidence": 0.725
+        },
+        {
+          "text": "smiled",
+          "start": 132.75,
+          "end": 132.77,
+          "confidence": 0.824
+        },
+        {
+          "text": "and",
+          "start": 132.77,
+          "end": 132.79,
+          "confidence": 0.956
+        },
+        {
+          "text": "said,",
+          "start": 132.79,
+          "end": 132.81,
+          "confidence": 0.952
+        },
+        {
+          "text": "señor,",
+          "start": 133.01,
+          "end": 133.03,
+          "confidence": 0.42
+        },
+        {
+          "text": "I",
+          "start": 133.11,
+          "end": 133.13,
+          "confidence": 0.988
+        },
+        {
+          "text": "think",
+          "start": 133.13,
+          "end": 133.53,
+          "confidence": 0.692
+        },
+        {
+          "text": "I'll",
+          "start": 133.53,
+          "end": 133.69,
+          "confidence": 0.733
+        },
+        {
+          "text": "drink",
+          "start": 133.69,
+          "end": 134.01,
+          "confidence": 0.994
+        },
+        {
+          "text": "to",
+          "start": 134.01,
+          "end": 134.45,
+          "confidence": 0.981
+        },
+        {
+          "text": "your",
+          "start": 134.45,
+          "end": 134.73,
+          "confidence": 0.987
+        },
+        {
+          "text": "thrills.",
+          "start": 134.73,
+          "end": 135.39,
+          "confidence": 0.629
+        },
+        {
+          "text": "I",
+          "start": 135.41,
+          "end": 136.82,
+          "confidence": 0.84
+        },
+        {
+          "text": "send",
+          "start": 139.28,
+          "end": 139.3,
+          "confidence": 0.942
+        },
+        {
+          "text": "my",
+          "start": 139.3,
+          "end": 139.56,
+          "confidence": 0.989
+        },
+        {
+          "text": "love",
+          "start": 139.56,
+          "end": 140.2,
+          "confidence": 0.994
+        },
+        {
+          "text": "to",
+          "start": 140.2,
+          "end": 140.44,
+          "confidence": 0.995
+        },
+        {
+          "text": "my",
+          "start": 140.44,
+          "end": 140.64,
+          "confidence": 0.994
+        },
+        {
+          "text": "home",
+          "start": 140.64,
+          "end": 141.28,
+          "confidence": 0.979
+        },
+        {
+          "text": "but",
+          "start": 141.28,
+          "end": 141.32,
+          "confidence": 0.474
+        },
+        {
+          "text": "send",
+          "start": 141.32,
+          "end": 141.64,
+          "confidence": 0.957
+        },
+        {
+          "text": "my",
+          "start": 141.64,
+          "end": 141.96,
+          "confidence": 0.992
+        },
+        {
+          "text": "mail",
+          "start": 141.96,
+          "end": 142.62,
+          "confidence": 0.993
+        },
+        {
+          "text": "to",
+          "start": 142.62,
+          "end": 143.48,
+          "confidence": 0.955
+        },
+        {
+          "text": "your",
+          "start": 143.48,
+          "end": 143.86,
+          "confidence": 0.952
+        },
+        {
+          "text": "one-armed",
+          "start": 143.86,
+          "end": 144.4,
+          "confidence": 0.971
+        },
+        {
+          "text": "child.",
+          "start": 144.4,
+          "end": 144.72,
+          "confidence": 0.808
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seek": 11100,
+      "start": 198.45,
+      "end": 228.68,
+      "text": " I'm a desperate man, I'm a desperate man. I'm a desperate man, desperate man. I'm a desperate man, desperate man. I'm a desperate man, desperate man. I'm a desperate man, desperate man. I'm a desperate man, desperate man. I'm a desperate man, desperate man. I'm a desperate man, desperate man. I'm a desperate man, desperate man. I'm a desperate man, desperate man. I'm a desperate man, desperate man. I'm a desperate man, desperate man. I'm a desperate man, desperate man. I'm a desperate man, desperate man. I'm a desperate man, desperate man. I'm a desperate man, desperate man. I'm a desperate man, desperate man. I'm a desperate man, desperate man. I'm a desperate man, desperate man. I'm a desperate man, desperate man. I'm a desperate man, desperate man. I'm a desperate man, desperate man. I'm a desperate man, desperate man. I'm a desperate man, desperate man. I'm a desperate",
+      "tokens": [
+        50414,
+        286,
+        478,
+        257,
+        17601,
+        587,
+        11,
+        286,
+        478,
+        257,
+        17601,
+        587,
+        13,
+        286,
+        478,
+        257,
+        17601,
+        587,
+        11,
+        17601,
+        587,
+        13,
+        286,
+        478,
+        257,
+        17601,
+        587,
+        11,
+        17601,
+        587,
+        13,
+        286,
+        478,
+        257,
+        17601,
+        587,
+        11,
+        17601,
+        587,
+        13,
+        286,
+        478,
+        257,
+        17601,
+        587,
+        11,
+        17601,
+        587,
+        13,
+        286,
+        478,
+        257,
+        17601,
+        587,
+        11,
+        17601,
+        587,
+        13,
+        286,
+        478,
+        257,
+        17601,
+        587,
+        11,
+        17601,
+        587,
+        13,
+        286,
+        478,
+        257,
+        17601,
+        587,
+        11,
+        17601,
+        587,
+        13,
+        286,
+        478,
+        257,
+        17601,
+        587,
+        11,
+        17601,
+        587,
+        13,
+        286,
+        478,
+        257,
+        17601,
+        587,
+        11,
+        17601,
+        587,
+        13,
+        286,
+        478,
+        257,
+        17601,
+        587,
+        11,
+        17601,
+        587,
+        13,
+        286,
+        478,
+        257,
+        17601,
+        587,
+        11,
+        17601,
+        587,
+        13,
+        286,
+        478,
+        257,
+        17601,
+        587,
+        11,
+        17601,
+        587,
+        13,
+        286,
+        478,
+        257,
+        17601,
+        587,
+        11,
+        17601,
+        587,
+        13,
+        286,
+        478,
+        257,
+        17601,
+        587,
+        11,
+        17601,
+        587,
+        13,
+        286,
+        478,
+        257,
+        17601,
+        587,
+        11,
+        17601,
+        587,
+        13,
+        286,
+        478,
+        257,
+        17601,
+        587,
+        11,
+        17601,
+        587,
+        13,
+        286,
+        478,
+        257,
+        17601,
+        587,
+        11,
+        17601,
+        587,
+        13,
+        286,
+        478,
+        257,
+        17601,
+        587,
+        11,
+        17601,
+        587,
+        13,
+        286,
+        478,
+        257,
+        17601,
+        587,
+        11,
+        17601,
+        587,
+        13,
+        286,
+        478,
+        257,
+        17601,
+        587,
+        11,
+        17601,
+        587,
+        13,
+        286,
+        478,
+        257,
+        17601,
+        587,
+        11,
+        17601,
+        587,
+        13,
+        286,
+        478,
+        257,
+        17601,
+        587,
+        11,
+        17601,
+        587,
+        13,
+        286,
+        478,
+        257,
+        17601,
+        587,
+        11,
+        17601,
+        587,
+        13,
+        286,
+        478,
+        257,
+        17601
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.11345054626464844,
+      "compression_ratio": 19.666666666666668,
+      "no_speech_prob": 0.1119961366057396,
+      "confidence": 0.885,
+      "words": [
+        {
+          "text": "I'm",
+          "start": 198.45,
+          "end": 198.47,
+          "confidence": 0.361
+        },
+        {
+          "text": "a",
+          "start": 198.47,
+          "end": 198.49,
+          "confidence": 0.425
+        },
+        {
+          "text": "desperate",
+          "start": 198.49,
+          "end": 198.51,
+          "confidence": 0.555
+        },
+        {
+          "text": "man,",
+          "start": 198.51,
+          "end": 198.53,
+          "confidence": 0.276
+        },
+        {
+          "text": "I'm",
+          "start": 198.53,
+          "end": 198.55,
+          "confidence": 0.288
+        },
+        {
+          "text": "a",
+          "start": 198.55,
+          "end": 198.65,
+          "confidence": 0.256
+        },
+        {
+          "text": "desperate",
+          "start": 198.65,
+          "end": 198.67,
+          "confidence": 0.812
+        },
+        {
+          "text": "man.",
+          "start": 198.67,
+          "end": 199.23,
+          "confidence": 0.781
+        },
+        {
+          "text": "I'm",
+          "start": 199.23,
+          "end": 199.25,
+          "confidence": 0.443
+        },
+        {
+          "text": "a",
+          "start": 199.25,
+          "end": 199.27,
+          "confidence": 0.369
+        },
+        {
+          "text": "desperate",
+          "start": 199.27,
+          "end": 199.29,
+          "confidence": 0.891
+        },
+        {
+          "text": "man,",
+          "start": 199.29,
+          "end": 200.89,
+          "confidence": 0.962
+        },
+        {
+          "text": "desperate",
+          "start": 201.27,
+          "end": 201.33,
+          "confidence": 0.367
+        },
+        {
+          "text": "man.",
+          "start": 201.33,
+          "end": 201.35,
+          "confidence": 0.881
+        },
+        {
+          "text": "I'm",
+          "start": 201.35,
+          "end": 201.37,
+          "confidence": 0.53
+        },
+        {
+          "text": "a",
+          "start": 201.37,
+          "end": 201.39,
+          "confidence": 0.633
+        },
+        {
+          "text": "desperate",
+          "start": 201.39,
+          "end": 203.25,
+          "confidence": 0.952
+        },
+        {
+          "text": "man,",
+          "start": 203.25,
+          "end": 203.27,
+          "confidence": 0.977
+        },
+        {
+          "text": "desperate",
+          "start": 203.63,
+          "end": 203.97,
+          "confidence": 0.941
+        },
+        {
+          "text": "man.",
+          "start": 203.97,
+          "end": 203.99,
+          "confidence": 0.975
+        },
+        {
+          "text": "I'm",
+          "start": 203.99,
+          "end": 204.01,
+          "confidence": 0.643
+        },
+        {
+          "text": "a",
+          "start": 204.01,
+          "end": 204.49,
+          "confidence": 0.728
+        },
+        {
+          "text": "desperate",
+          "start": 204.49,
+          "end": 205.03,
+          "confidence": 0.982
+        },
+        {
+          "text": "man,",
+          "start": 205.03,
+          "end": 205.11,
+          "confidence": 0.979
+        },
+        {
+          "text": "desperate",
+          "start": 205.11,
+          "end": 205.13,
+          "confidence": 0.963
+        },
+        {
+          "text": "man.",
+          "start": 205.13,
+          "end": 205.17,
+          "confidence": 0.979
+        },
+        {
+          "text": "I'm",
+          "start": 206.78,
+          "end": 206.8,
+          "confidence": 0.716
+        },
+        {
+          "text": "a",
+          "start": 206.8,
+          "end": 207.24,
+          "confidence": 0.766
+        },
+        {
+          "text": "desperate",
+          "start": 207.24,
+          "end": 207.26,
+          "confidence": 0.987
+        },
+        {
+          "text": "man,",
+          "start": 207.26,
+          "end": 211.08,
+          "confidence": 0.981
+        },
+        {
+          "text": "desperate",
+          "start": 211.08,
+          "end": 211.1,
+          "confidence": 0.971
+        },
+        {
+          "text": "man.",
+          "start": 211.1,
+          "end": 211.12,
+          "confidence": 0.984
+        },
+        {
+          "text": "I'm",
+          "start": 213.2,
+          "end": 213.44,
+          "confidence": 0.793
+        },
+        {
+          "text": "a",
+          "start": 213.44,
+          "end": 213.46,
+          "confidence": 0.839
+        },
+        {
+          "text": "desperate",
+          "start": 213.46,
+          "end": 213.48,
+          "confidence": 0.99
+        },
+        {
+          "text": "man,",
+          "start": 213.48,
+          "end": 213.5,
+          "confidence": 0.984
+        },
+        {
+          "text": "desperate",
+          "start": 213.5,
+          "end": 213.52,
+          "confidence": 0.98
+        },
+        {
+          "text": "man.",
+          "start": 213.52,
+          "end": 213.54,
+          "confidence": 0.987
+        },
+        {
+          "text": "I'm",
+          "start": 214.9,
+          "end": 214.92,
+          "confidence": 0.865
+        },
+        {
+          "text": "a",
+          "start": 214.92,
+          "end": 214.94,
+          "confidence": 0.906
+        },
+        {
+          "text": "desperate",
+          "start": 214.94,
+          "end": 214.96,
+          "confidence": 0.992
+        },
+        {
+          "text": "man,",
+          "start": 214.96,
+          "end": 214.98,
+          "confidence": 0.987
+        },
+        {
+          "text": "desperate",
+          "start": 214.98,
+          "end": 215.0,
+          "confidence": 0.986
+        },
+        {
+          "text": "man.",
+          "start": 215.0,
+          "end": 215.02,
+          "confidence": 0.989
+        },
+        {
+          "text": "I'm",
+          "start": 215.02,
+          "end": 215.04,
+          "confidence": 0.897
+        },
+        {
+          "text": "a",
+          "start": 215.04,
+          "end": 215.06,
+          "confidence": 0.94
+        },
+        {
+          "text": "desperate",
+          "start": 215.06,
+          "end": 215.08,
+          "confidence": 0.992
+        },
+        {
+          "text": "man,",
+          "start": 215.08,
+          "end": 215.14,
+          "confidence": 0.99
+        },
+        {
+          "text": "desperate",
+          "start": 215.14,
+          "end": 215.16,
+          "confidence": 0.99
+        },
+        {
+          "text": "man.",
+          "start": 215.16,
+          "end": 215.18,
+          "confidence": 0.992
+        },
+        {
+          "text": "I'm",
+          "start": 215.18,
+          "end": 215.2,
+          "confidence": 0.921
+        },
+        {
+          "text": "a",
+          "start": 215.2,
+          "end": 215.22,
+          "confidence": 0.962
+        },
+        {
+          "text": "desperate",
+          "start": 215.22,
+          "end": 215.24,
+          "confidence": 0.993
+        },
+        {
+          "text": "man,",
+          "start": 215.24,
+          "end": 215.26,
+          "confidence": 0.992
+        },
+        {
+          "text": "desperate",
+          "start": 215.26,
+          "end": 215.28,
+          "confidence": 0.992
+        },
+        {
+          "text": "man.",
+          "start": 215.28,
+          "end": 215.3,
+          "confidence": 0.993
+        },
+        {
+          "text": "I'm",
+          "start": 215.3,
+          "end": 215.32,
+          "confidence": 0.936
+        },
+        {
+          "text": "a",
+          "start": 215.32,
+          "end": 215.34,
+          "confidence": 0.974
+        },
+        {
+          "text": "desperate",
+          "start": 215.34,
+          "end": 215.36,
+          "confidence": 0.992
+        },
+        {
+          "text": "man,",
+          "start": 215.36,
+          "end": 215.38,
+          "confidence": 0.993
+        },
+        {
+          "text": "desperate",
+          "start": 215.38,
+          "end": 215.4,
+          "confidence": 0.993
+        },
+        {
+          "text": "man.",
+          "start": 215.4,
+          "end": 215.42,
+          "confidence": 0.994
+        },
+        {
+          "text": "I'm",
+          "start": 215.42,
+          "end": 215.44,
+          "confidence": 0.944
+        },
+        {
+          "text": "a",
+          "start": 215.44,
+          "end": 215.46,
+          "confidence": 0.979
+        },
+        {
+          "text": "desperate",
+          "start": 215.46,
+          "end": 215.48,
+          "confidence": 0.991
+        },
+        {
+          "text": "man,",
+          "start": 215.48,
+          "end": 215.5,
+          "confidence": 0.994
+        },
+        {
+          "text": "desperate",
+          "start": 215.5,
+          "end": 215.52,
+          "confidence": 0.994
+        },
+        {
+          "text": "man.",
+          "start": 215.52,
+          "end": 215.54,
+          "confidence": 0.995
+        },
+        {
+          "text": "I'm",
+          "start": 215.54,
+          "end": 215.56,
+          "confidence": 0.951
+        },
+        {
+          "text": "a",
+          "start": 215.56,
+          "end": 215.58,
+          "confidence": 0.982
+        },
+        {
+          "text": "desperate",
+          "start": 215.58,
+          "end": 215.6,
+          "confidence": 0.991
+        },
+        {
+          "text": "man,",
+          "start": 215.6,
+          "end": 215.62,
+          "confidence": 0.994
+        },
+        {
+          "text": "desperate",
+          "start": 215.62,
+          "end": 215.64,
+          "confidence": 0.995
+        },
+        {
+          "text": "man.",
+          "start": 215.64,
+          "end": 215.66,
+          "confidence": 0.995
+        },
+        {
+          "text": "I'm",
+          "start": 215.66,
+          "end": 215.68,
+          "confidence": 0.958
+        },
+        {
+          "text": "a",
+          "start": 215.68,
+          "end": 215.7,
+          "confidence": 0.984
+        },
+        {
+          "text": "desperate",
+          "start": 215.7,
+          "end": 215.72,
+          "confidence": 0.99
+        },
+        {
+          "text": "man,",
+          "start": 215.72,
+          "end": 215.74,
+          "confidence": 0.995
+        },
+        {
+          "text": "desperate",
+          "start": 215.74,
+          "end": 215.76,
+          "confidence": 0.995
+        },
+        {
+          "text": "man.",
+          "start": 215.76,
+          "end": 215.78,
+          "confidence": 0.996
+        },
+        {
+          "text": "I'm",
+          "start": 215.78,
+          "end": 215.8,
+          "confidence": 0.961
+        },
+        {
+          "text": "a",
+          "start": 215.8,
+          "end": 215.82,
+          "confidence": 0.985
+        },
+        {
+          "text": "desperate",
+          "start": 215.82,
+          "end": 215.84,
+          "confidence": 0.989
+        },
+        {
+          "text": "man,",
+          "start": 215.84,
+          "end": 215.86,
+          "confidence": 0.995
+        },
+        {
+          "text": "desperate",
+          "start": 215.86,
+          "end": 215.88,
+          "confidence": 0.996
+        },
+        {
+          "text": "man.",
+          "start": 215.88,
+          "end": 215.9,
+          "confidence": 0.996
+        },
+        {
+          "text": "I'm",
+          "start": 215.9,
+          "end": 215.92,
+          "confidence": 0.959
+        },
+        {
+          "text": "a",
+          "start": 215.92,
+          "end": 215.94,
+          "confidence": 0.984
+        },
+        {
+          "text": "desperate",
+          "start": 215.94,
+          "end": 215.96,
+          "confidence": 0.989
+        },
+        {
+          "text": "man,",
+          "start": 215.96,
+          "end": 215.98,
+          "confidence": 0.995
+        },
+        {
+          "text": "desperate",
+          "start": 215.98,
+          "end": 216.0,
+          "confidence": 0.996
+        },
+        {
+          "text": "man.",
+          "start": 216.0,
+          "end": 216.02,
+          "confidence": 0.996
+        },
+        {
+          "text": "I'm",
+          "start": 216.02,
+          "end": 216.04,
+          "confidence": 0.957
+        },
+        {
+          "text": "a",
+          "start": 216.04,
+          "end": 216.06,
+          "confidence": 0.981
+        },
+        {
+          "text": "desperate",
+          "start": 216.06,
+          "end": 216.08,
+          "confidence": 0.988
+        },
+        {
+          "text": "man,",
+          "start": 216.08,
+          "end": 216.1,
+          "confidence": 0.995
+        },
+        {
+          "text": "desperate",
+          "start": 216.1,
+          "end": 216.12,
+          "confidence": 0.996
+        },
+        {
+          "text": "man.",
+          "start": 216.12,
+          "end": 216.14,
+          "confidence": 0.996
+        },
+        {
+          "text": "I'm",
+          "start": 216.14,
+          "end": 216.16,
+          "confidence": 0.955
+        },
+        {
+          "text": "a",
+          "start": 216.16,
+          "end": 216.18,
+          "confidence": 0.981
+        },
+        {
+          "text": "desperate",
+          "start": 216.18,
+          "end": 216.2,
+          "confidence": 0.988
+        },
+        {
+          "text": "man,",
+          "start": 216.2,
+          "end": 216.22,
+          "confidence": 0.995
+        },
+        {
+          "text": "desperate",
+          "start": 216.22,
+          "end": 216.24,
+          "confidence": 0.995
+        },
+        {
+          "text": "man.",
+          "start": 216.24,
+          "end": 216.26,
+          "confidence": 0.996
+        },
+        {
+          "text": "I'm",
+          "start": 216.26,
+          "end": 216.28,
+          "confidence": 0.95
+        },
+        {
+          "text": "a",
+          "start": 216.28,
+          "end": 216.3,
+          "confidence": 0.978
+        },
+        {
+          "text": "desperate",
+          "start": 216.3,
+          "end": 216.32,
+          "confidence": 0.986
+        },
+        {
+          "text": "man,",
+          "start": 216.32,
+          "end": 216.34,
+          "confidence": 0.995
+        },
+        {
+          "text": "desperate",
+          "start": 216.34,
+          "end": 216.36,
+          "confidence": 0.995
+        },
+        {
+          "text": "man.",
+          "start": 216.36,
+          "end": 216.38,
+          "confidence": 0.996
+        },
+        {
+          "text": "I'm",
+          "start": 216.38,
+          "end": 216.4,
+          "confidence": 0.949
+        },
+        {
+          "text": "a",
+          "start": 216.4,
+          "end": 216.42,
+          "confidence": 0.984
+        },
+        {
+          "text": "desperate",
+          "start": 216.42,
+          "end": 216.44,
+          "confidence": 0.985
+        },
+        {
+          "text": "man,",
+          "start": 216.44,
+          "end": 216.46,
+          "confidence": 0.995
+        },
+        {
+          "text": "desperate",
+          "start": 216.46,
+          "end": 216.48,
+          "confidence": 0.995
+        },
+        {
+          "text": "man.",
+          "start": 216.48,
+          "end": 216.5,
+          "confidence": 0.996
+        },
+        {
+          "text": "I'm",
+          "start": 216.5,
+          "end": 216.52,
+          "confidence": 0.947
+        },
+        {
+          "text": "a",
+          "start": 216.52,
+          "end": 216.54,
+          "confidence": 0.986
+        },
+        {
+          "text": "desperate",
+          "start": 216.54,
+          "end": 216.56,
+          "confidence": 0.984
+        },
+        {
+          "text": "man,",
+          "start": 216.56,
+          "end": 217.26,
+          "confidence": 0.995
+        },
+        {
+          "text": "desperate",
+          "start": 217.62,
+          "end": 217.64,
+          "confidence": 0.995
+        },
+        {
+          "text": "man.",
+          "start": 217.64,
+          "end": 217.98,
+          "confidence": 0.995
+        },
+        {
+          "text": "I'm",
+          "start": 218.04,
+          "end": 218.46,
+          "confidence": 0.94
+        },
+        {
+          "text": "a",
+          "start": 218.46,
+          "end": 218.48,
+          "confidence": 0.988
+        },
+        {
+          "text": "desperate",
+          "start": 218.48,
+          "end": 218.5,
+          "confidence": 0.981
+        },
+        {
+          "text": "man,",
+          "start": 218.5,
+          "end": 219.62,
+          "confidence": 0.996
+        },
+        {
+          "text": "desperate",
+          "start": 219.62,
+          "end": 219.64,
+          "confidence": 0.995
+        },
+        {
+          "text": "man.",
+          "start": 219.64,
+          "end": 220.54,
+          "confidence": 0.995
+        },
+        {
+          "text": "I'm",
+          "start": 220.54,
+          "end": 220.9,
+          "confidence": 0.935
+        },
+        {
+          "text": "a",
+          "start": 220.9,
+          "end": 220.92,
+          "confidence": 0.992
+        },
+        {
+          "text": "desperate",
+          "start": 220.92,
+          "end": 220.94,
+          "confidence": 0.979
+        },
+        {
+          "text": "man,",
+          "start": 220.94,
+          "end": 220.96,
+          "confidence": 0.996
+        },
+        {
+          "text": "desperate",
+          "start": 220.96,
+          "end": 220.98,
+          "confidence": 0.994
+        },
+        {
+          "text": "man.",
+          "start": 220.98,
+          "end": 221.0,
+          "confidence": 0.994
+        },
+        {
+          "text": "I'm",
+          "start": 221.0,
+          "end": 221.02,
+          "confidence": 0.94
+        },
+        {
+          "text": "a",
+          "start": 221.02,
+          "end": 221.04,
+          "confidence": 0.995
+        },
+        {
+          "text": "desperate",
+          "start": 221.04,
+          "end": 221.06,
+          "confidence": 0.977
+        },
+        {
+          "text": "man,",
+          "start": 221.06,
+          "end": 222.1,
+          "confidence": 0.996
+        },
+        {
+          "text": "desperate",
+          "start": 222.12,
+          "end": 223.8,
+          "confidence": 0.994
+        },
+        {
+          "text": "man.",
+          "start": 223.8,
+          "end": 224.54,
+          "confidence": 0.994
+        },
+        {
+          "text": "I'm",
+          "start": 225.52,
+          "end": 226.32,
+          "confidence": 0.945
+        },
+        {
+          "text": "a",
+          "start": 226.32,
+          "end": 226.54,
+          "confidence": 0.996
+        },
+        {
+          "text": "desperate",
+          "start": 226.54,
+          "end": 226.56,
+          "confidence": 0.973
+        },
+        {
+          "text": "man,",
+          "start": 226.56,
+          "end": 227.56,
+          "confidence": 0.995
+        },
+        {
+          "text": "desperate",
+          "start": 227.78,
+          "end": 227.8,
+          "confidence": 0.994
+        },
+        {
+          "text": "man.",
+          "start": 227.8,
+          "end": 228.62,
+          "confidence": 0.993
+        },
+        {
+          "text": "I'm",
+          "start": 228.62,
+          "end": 228.64,
+          "confidence": 0.946
+        },
+        {
+          "text": "a",
+          "start": 228.64,
+          "end": 228.66,
+          "confidence": 0.997
+        },
+        {
+          "text": "desperate",
+          "start": 228.66,
+          "end": 228.68,
+          "confidence": 0.962
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "seek": 14100,
+      "start": 229.1,
+      "end": 236.08,
+      "text": " man, desperate man, desperate man. I'm a desperate man, desperate man.",
+      "tokens": [
+        50412,
+        587,
+        11,
+        17601,
+        587,
+        11,
+        17601,
+        587,
+        13,
+        286,
+        478,
+        257,
+        17601,
+        587,
+        11,
+        17601,
+        587,
+        13,
+        50712
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.21197054386138917,
+      "compression_ratio": 8.17142857142857,
+      "no_speech_prob": 0.01861529052257538,
+      "confidence": 0.898,
+      "words": [
+        {
+          "text": "man,",
+          "start": 229.1,
+          "end": 230.54,
+          "confidence": 0.562
+        },
+        {
+          "text": "desperate",
+          "start": 230.56,
+          "end": 230.58,
+          "confidence": 0.827
+        },
+        {
+          "text": "man,",
+          "start": 230.58,
+          "end": 230.6,
+          "confidence": 0.983
+        },
+        {
+          "text": "desperate",
+          "start": 230.6,
+          "end": 230.62,
+          "confidence": 0.949
+        },
+        {
+          "text": "man.",
+          "start": 230.62,
+          "end": 230.64,
+          "confidence": 0.986
+        },
+        {
+          "text": "I'm",
+          "start": 235.34,
+          "end": 235.36,
+          "confidence": 0.879
+        },
+        {
+          "text": "a",
+          "start": 235.36,
+          "end": 235.38,
+          "confidence": 0.978
+        },
+        {
+          "text": "desperate",
+          "start": 235.38,
+          "end": 235.4,
+          "confidence": 0.938
+        },
+        {
+          "text": "man,",
+          "start": 235.4,
+          "end": 235.78,
+          "confidence": 0.985
+        },
+        {
+          "text": "desperate",
+          "start": 235.78,
+          "end": 235.8,
+          "confidence": 0.931
+        },
+        {
+          "text": "man.",
+          "start": 235.8,
+          "end": 236.08,
+          "confidence": 0.991
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "seek": 14100,
+      "start": 236.08,
+      "end": 241.92,
+      "text": " I'm a desperate man, desperate man. I'm a desperate man, desperate man.",
+      "tokens": [
+        50712,
+        286,
+        478,
+        257,
+        17601,
+        587,
+        11,
+        17601,
+        587,
+        13,
+        286,
+        478,
+        257,
+        17601,
+        587,
+        11,
+        17601,
+        587,
+        13,
+        51012
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.21197054386138917,
+      "compression_ratio": 8.17142857142857,
+      "no_speech_prob": 0.01861529052257538,
+      "confidence": 0.974,
+      "words": [
+        {
+          "text": "I'm",
+          "start": 236.08,
+          "end": 236.1,
+          "confidence": 0.927
+        },
+        {
+          "text": "a",
+          "start": 236.1,
+          "end": 236.12,
+          "confidence": 0.982
+        },
+        {
+          "text": "desperate",
+          "start": 236.12,
+          "end": 236.14,
+          "confidence": 0.969
+        },
+        {
+          "text": "man,",
+          "start": 236.14,
+          "end": 236.16,
+          "confidence": 0.993
+        },
+        {
+          "text": "desperate",
+          "start": 236.52,
+          "end": 236.54,
+          "confidence": 0.964
+        },
+        {
+          "text": "man.",
+          "start": 236.54,
+          "end": 237.3,
+          "confidence": 0.993
+        },
+        {
+          "text": "I'm",
+          "start": 239.48,
+          "end": 240.28,
+          "confidence": 0.97
+        },
+        {
+          "text": "a",
+          "start": 240.28,
+          "end": 240.3,
+          "confidence": 0.993
+        },
+        {
+          "text": "desperate",
+          "start": 240.3,
+          "end": 240.5,
+          "confidence": 0.985
+        },
+        {
+          "text": "man,",
+          "start": 240.5,
+          "end": 240.82,
+          "confidence": 0.992
+        },
+        {
+          "text": "desperate",
+          "start": 241.64,
+          "end": 241.78,
+          "confidence": 0.979
+        },
+        {
+          "text": "man.",
+          "start": 241.78,
+          "end": 241.92,
+          "confidence": 0.995
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "seek": 14100,
+      "start": 241.92,
+      "end": 242.94,
+      "text": " I'm a desperate man, desperate man. I'm a desperate man, desperate man.",
+      "tokens": [
+        51012,
+        286,
+        478,
+        257,
+        17601,
+        587,
+        11,
+        17601,
+        587,
+        13,
+        286,
+        478,
+        257,
+        17601,
+        587,
+        11,
+        17601,
+        587,
+        13,
+        51312
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.21197054386138917,
+      "compression_ratio": 8.17142857142857,
+      "no_speech_prob": 0.01861529052257538,
+      "confidence": 0.981,
+      "words": [
+        {
+          "text": "I'm",
+          "start": 241.92,
+          "end": 241.94,
+          "confidence": 0.962
+        },
+        {
+          "text": "a",
+          "start": 241.94,
+          "end": 241.96,
+          "confidence": 0.984
+        },
+        {
+          "text": "desperate",
+          "start": 241.96,
+          "end": 241.98,
+          "confidence": 0.97
+        },
+        {
+          "text": "man,",
+          "start": 241.98,
+          "end": 242.78,
+          "confidence": 0.993
+        },
+        {
+          "text": "desperate",
+          "start": 242.78,
+          "end": 242.8,
+          "confidence": 0.97
+        },
+        {
+          "text": "man.",
+          "start": 242.8,
+          "end": 242.82,
+          "confidence": 0.995
+        },
+        {
+          "text": "I'm",
+          "start": 242.82,
+          "end": 242.84,
+          "confidence": 0.979
+        },
+        {
+          "text": "a",
+          "start": 242.84,
+          "end": 242.86,
+          "confidence": 0.995
+        },
+        {
+          "text": "desperate",
+          "start": 242.86,
+          "end": 242.88,
+          "confidence": 0.983
+        },
+        {
+          "text": "man,",
+          "start": 242.88,
+          "end": 242.9,
+          "confidence": 0.993
+        },
+        {
+          "text": "desperate",
+          "start": 242.9,
+          "end": 242.92,
+          "confidence": 0.97
+        },
+        {
+          "text": "man.",
+          "start": 242.92,
+          "end": 242.94,
+          "confidence": 0.995
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "seek": 14100,
+      "start": 247.1,
+      "end": 257.08,
+      "text": " I'm a desperate man, desperate man. I'm a desperate man, desperate man.",
+      "tokens": [
+        51312,
+        286,
+        478,
+        257,
+        17601,
+        587,
+        11,
+        17601,
+        587,
+        13,
+        286,
+        478,
+        257,
+        17601,
+        587,
+        11,
+        17601,
+        587,
+        13,
+        51612
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.21197054386138917,
+      "compression_ratio": 8.17142857142857,
+      "no_speech_prob": 0.01861529052257538,
+      "confidence": 0.983,
+      "words": [
+        {
+          "text": "I'm",
+          "start": 247.1,
+          "end": 247.12,
+          "confidence": 0.961
+        },
+        {
+          "text": "a",
+          "start": 247.12,
+          "end": 247.14,
+          "confidence": 0.988
+        },
+        {
+          "text": "desperate",
+          "start": 247.14,
+          "end": 247.16,
+          "confidence": 0.976
+        },
+        {
+          "text": "man,",
+          "start": 247.16,
+          "end": 248.04,
+          "confidence": 0.994
+        },
+        {
+          "text": "desperate",
+          "start": 248.18,
+          "end": 248.2,
+          "confidence": 0.975
+        },
+        {
+          "text": "man.",
+          "start": 248.2,
+          "end": 249.54,
+          "confidence": 0.995
+        },
+        {
+          "text": "I'm",
+          "start": 255.7,
+          "end": 256.42,
+          "confidence": 0.984
+        },
+        {
+          "text": "a",
+          "start": 256.42,
+          "end": 256.44,
+          "confidence": 0.996
+        },
+        {
+          "text": "desperate",
+          "start": 256.44,
+          "end": 256.46,
+          "confidence": 0.989
+        },
+        {
+          "text": "man,",
+          "start": 256.46,
+          "end": 257.02,
+          "confidence": 0.994
+        },
+        {
+          "text": "desperate",
+          "start": 257.04,
+          "end": 257.06,
+          "confidence": 0.977
+        },
+        {
+          "text": "man.",
+          "start": 257.06,
+          "end": 257.08,
+          "confidence": 0.994
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "seek": 17100,
+      "start": 293.51,
+      "end": 296.91,
+      "text": " ... travajo porque está muy joven o muy viejo ...",
+      "tokens": [
+        50379,
+        1097,
+        220,
+        83,
+        13404,
+        13440,
         4021,
         3192,
         5323,
@@ -527,208 +2697,179 @@
         5323,
         4941,
         5134,
-        51004
+        1097,
+        50579
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.601276851835705,
-      "compression_ratio": 0.927536231884058,
-      "no_speech_prob": 0.6130897998809814,
-      "confidence": 0.661,
+      "avg_logprob": -0.9543828964233398,
+      "compression_ratio": 0.9259259259259259,
+      "no_speech_prob": 0.8505191802978516,
+      "confidence": 0.471,
       "words": [
         {
-          "text": "635",
-          "start": 292.09,
-          "end": 292.49,
-          "confidence": 0.162
+          "text": "...",
+          "start": 293.51,
+          "end": 294.25,
+          "confidence": 0.065
         },
         {
-          "text": "40",
-          "start": 292.49,
-          "end": 293.01,
-          "confidence": 0.395
-        },
-        {
-          "text": "30",
-          "start": 293.01,
-          "end": 293.41,
-          "confidence": 0.37
-        },
-        {
-          "text": "2",
-          "start": 293.41,
-          "end": 293.71,
-          "confidence": 0.479
-        },
-        {
-          "text": "no",
-          "start": 293.71,
-          "end": 294.21,
-          "confidence": 0.604
-        },
-        {
-          "text": "le",
-          "start": 294.21,
-          "end": 294.35,
-          "confidence": 0.966
-        },
-        {
-          "text": "dan",
-          "start": 294.35,
-          "end": 294.45,
-          "confidence": 0.989
-        },
-        {
-          "text": "trabajo",
-          "start": 294.45,
-          "end": 294.73,
-          "confidence": 0.975
+          "text": "travajo",
+          "start": 294.25,
+          "end": 294.81,
+          "confidence": 0.248
         },
         {
           "text": "porque",
-          "start": 294.73,
-          "end": 295.01,
-          "confidence": 0.894
+          "start": 294.81,
+          "end": 295.11,
+          "confidence": 0.526
         },
         {
           "text": "está",
-          "start": 295.01,
-          "end": 295.17,
-          "confidence": 0.875
+          "start": 295.11,
+          "end": 295.35,
+          "confidence": 0.71
         },
         {
           "text": "muy",
-          "start": 295.17,
-          "end": 295.33,
-          "confidence": 0.999
+          "start": 295.35,
+          "end": 295.39,
+          "confidence": 0.945
         },
         {
           "text": "joven",
-          "start": 295.33,
-          "end": 295.63,
-          "confidence": 0.987
+          "start": 295.39,
+          "end": 295.65,
+          "confidence": 0.953
         },
         {
           "text": "o",
-          "start": 295.63,
+          "start": 295.65,
           "end": 295.73,
-          "confidence": 0.762
+          "confidence": 0.368
         },
         {
           "text": "muy",
           "start": 295.73,
-          "end": 295.83,
-          "confidence": 0.987
+          "end": 295.89,
+          "confidence": 0.968
         },
         {
           "text": "viejo",
-          "start": 295.83,
-          "end": 296.19,
-          "confidence": 0.991
+          "start": 295.89,
+          "end": 296.25,
+          "confidence": 0.982
+        },
+        {
+          "text": "...",
+          "start": 296.25,
+          "end": 296.91,
+          "confidence": 0.465
         }
       ]
     }
   ],
-  "language": "es",
+  "language": "no",
   "language_probs": {
-    "en": 0.29635676741600037,
-    "zh": 0.0009808129398152232,
-    "de": 0.00422730203717947,
-    "es": 0.5623862743377686,
-    "ru": 0.0032666060142219067,
-    "ko": 0.0023163703735917807,
-    "fr": 0.007959581911563873,
-    "ja": 0.0016815046546980739,
-    "pt": 0.014300779439508915,
-    "tr": 0.0013724040472880006,
-    "pl": 0.005513441748917103,
-    "ca": 0.0021930953953415155,
-    "nl": 0.005644188728183508,
-    "ar": 0.003423373680561781,
-    "sv": 0.0018039910355582833,
-    "it": 0.05070066079497337,
-    "id": 0.0006332604098133743,
-    "hi": 0.0001208598623634316,
-    "fi": 0.0006482777534984052,
-    "vi": 0.00042184238554909825,
-    "he": 0.00020720202883239836,
-    "uk": 8.177787822205573e-05,
-    "el": 0.0017899523954838514,
-    "ms": 0.00043184609967283905,
-    "cs": 0.00019926423556171358,
-    "ro": 0.0007345949416048825,
-    "da": 0.0001515922340331599,
-    "hu": 0.000728878250811249,
-    "ta": 5.1576662372099236e-05,
-    "no": 0.00010019634646596387,
-    "th": 6.077215221012011e-05,
-    "ur": 7.445960363838822e-05,
-    "hr": 9.194533777190372e-05,
-    "bg": 4.411585541674867e-05,
-    "lt": 3.3622166029090295e-06,
-    "la": 0.006150688044726849,
-    "mi": 0.00043864670442417264,
-    "ml": 7.160710083553568e-05,
-    "cy": 0.004002328962087631,
-    "sk": 2.9850281862309203e-05,
-    "te": 3.5448087146505713e-05,
-    "fa": 3.40900915034581e-05,
-    "lv": 8.962680112745147e-06,
-    "bn": 1.635660373722203e-05,
-    "sr": 9.175222658086568e-06,
-    "az": 2.162347300327383e-06,
-    "sl": 9.051985398400575e-05,
-    "kn": 5.299059466778999e-07,
-    "et": 1.1154234925925266e-05,
-    "mk": 4.1355974644829985e-06,
-    "br": 0.0004056818434037268,
-    "eu": 0.0002366321423323825,
-    "is": 4.3772542994702235e-05,
-    "hy": 2.680593070181203e-06,
-    "ne": 2.3563923150504706e-06,
-    "mn": 4.436848030309193e-06,
-    "bs": 5.798920028610155e-05,
-    "kk": 9.48356785102078e-07,
-    "sq": 8.619324944447726e-06,
-    "sw": 2.1167017621337436e-05,
-    "gl": 0.006915404926985502,
-    "mr": 1.3584584621639806e-06,
-    "pa": 3.3947048905247357e-07,
-    "si": 2.0040530216647312e-05,
-    "km": 0.0005765901878476143,
-    "sn": 0.0002538692206144333,
-    "yo": 9.194533777190372e-05,
-    "so": 2.9150095315344515e-07,
-    "af": 8.2246169768041e-06,
-    "oc": 0.0004780101007781923,
-    "ka": 7.299763069568144e-07,
-    "be": 1.7008176655508578e-05,
-    "tg": 1.63173794476279e-08,
-    "sd": 6.608665898966137e-06,
-    "gu": 8.094689718518566e-08,
-    "am": 1.273473344554077e-07,
-    "yi": 3.83285187126603e-05,
-    "lo": 2.63903416453104e-06,
-    "uz": 2.6894778071273606e-10,
-    "fo": 2.28870030696271e-05,
-    "ht": 5.798920028610155e-05,
-    "ps": 1.563576006446965e-06,
-    "tk": 3.408638260538055e-09,
-    "nn": 0.005020045209676027,
-    "mt": 3.593069095586543e-06,
-    "sa": 5.405187766882591e-05,
-    "lb": 1.494445278638068e-08,
-    "my": 2.7392157790018246e-05,
-    "bo": 2.412272579022101e-06,
-    "tl": 0.000537441170308739,
-    "mg": 1.8370275300938488e-09,
-    "as": 8.534287303518795e-07,
-    "tt": 7.6403372517575e-09,
-    "haw": 0.001483922591432929,
-    "ln": 2.071401922876248e-06,
-    "ha": 2.3564876716619665e-09,
-    "ba": 4.894583405246067e-09,
-    "jw": 0.0019812965765595436,
-    "su": 3.550148619524407e-08
+    "en": 0.003228523535653949,
+    "zh": 6.519849557662383e-05,
+    "de": 0.0002588743227533996,
+    "es": 0.032101407647132874,
+    "ru": 0.0006767353042960167,
+    "ko": 8.306504605570808e-05,
+    "fr": 0.00041692450759001076,
+    "ja": 0.00032470113364979625,
+    "pt": 0.0005148330237716436,
+    "tr": 2.9044895200058818e-05,
+    "pl": 0.0003002994926646352,
+    "ca": 0.0021675280295312405,
+    "nl": 8.404417894780636e-05,
+    "ar": 8.946457819547504e-05,
+    "sv": 6.184014637256041e-06,
+    "it": 0.001356404391117394,
+    "id": 1.5546609574812464e-05,
+    "hi": 3.969966564909555e-05,
+    "fi": 0.0002146143524441868,
+    "vi": 3.165132875437848e-05,
+    "he": 0.0002691867121029645,
+    "uk": 4.826251824852079e-05,
+    "el": 0.00035108564770780504,
+    "ms": 5.3006006055511534e-05,
+    "cs": 9.74929571384564e-05,
+    "ro": 0.0004268116317689419,
+    "da": 7.401296443276806e-06,
+    "hu": 3.0438786779996008e-05,
+    "ta": 9.016624971991405e-05,
+    "no": 0.9529142379760742,
+    "th": 7.84792337071849e-06,
+    "ur": 6.0534763179020956e-05,
+    "hr": 2.7714831958292052e-05,
+    "bg": 1.642049574002158e-05,
+    "lt": 3.3956923289224505e-05,
+    "la": 0.0002691867121029645,
+    "mi": 9.194462472805753e-05,
+    "ml": 1.0685019333322998e-05,
+    "cy": 0.000666243489831686,
+    "sk": 1.7141439457191154e-05,
+    "te": 5.753747609560378e-05,
+    "fa": 1.8034384993370622e-05,
+    "lv": 9.211063115799334e-06,
+    "bn": 5.342173608369194e-05,
+    "sr": 1.782427898433525e-05,
+    "az": 5.69698113395134e-06,
+    "sl": 2.4458255211357027e-05,
+    "kn": 1.259002965525724e-05,
+    "et": 2.370575202803593e-05,
+    "mk": 1.3559994840761647e-05,
+    "br": 2.1249699784675613e-05,
+    "eu": 7.1606547862757e-05,
+    "is": 9.1393812908791e-06,
+    "hy": 6.925768047949532e-06,
+    "ne": 2.4650082195876166e-05,
+    "mn": 1.1110662853752729e-05,
+    "bs": 4.428817919688299e-05,
+    "kk": 4.667939265345922e-06,
+    "sq": 2.407906504231505e-05,
+    "sw": 6.700587255181745e-05,
+    "gl": 0.0012447066837921739,
+    "mr": 4.385123247629963e-06,
+    "pa": 1.1241631000302732e-05,
+    "si": 1.8752793039311655e-05,
+    "km": 3.58656543539837e-05,
+    "sn": 9.74929571384564e-05,
+    "yo": 9.266575216315687e-05,
+    "so": 7.756491868349258e-06,
+    "af": 1.8534316041041166e-05,
+    "oc": 3.449166615610011e-05,
+    "ka": 1.4978022591094486e-06,
+    "be": 3.091813050559722e-05,
+    "tg": 6.764323075003631e-07,
+    "sd": 2.523464172554668e-05,
+    "gu": 3.1584856969857356e-06,
+    "am": 2.82572409560089e-06,
+    "yi": 1.5546609574812464e-05,
+    "lo": 2.3981608592293924e-06,
+    "uz": 7.588432993088645e-08,
+    "fo": 5.126728410687065e-06,
+    "ht": 2.7714831958292052e-05,
+    "ps": 9.032904017658439e-06,
+    "tk": 2.014610922529414e-09,
+    "nn": 9.920704542309977e-06,
+    "mt": 9.540649443806615e-06,
+    "sa": 8.789256753516383e-06,
+    "lb": 9.539223810861586e-07,
+    "my": 1.9048105968977325e-05,
+    "bo": 9.103750926442444e-06,
+    "tl": 0.00011759896005969495,
+    "mg": 6.415111641899784e-08,
+    "as": 6.355442110361764e-06,
+    "tt": 1.3373871752264677e-06,
+    "haw": 6.940343882888556e-05,
+    "ln": 7.401296443276806e-06,
+    "ha": 2.498567710063071e-06,
+    "ba": 5.194974672662056e-09,
+    "jw": 3.1899573514238e-05,
+    "su": 7.472813763342856e-07
   },
   "speech_activity": [
     {

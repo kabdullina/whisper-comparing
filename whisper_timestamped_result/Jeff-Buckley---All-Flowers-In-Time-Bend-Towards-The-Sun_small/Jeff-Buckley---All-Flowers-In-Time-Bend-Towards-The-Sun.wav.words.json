@@ -1,0 +1,2170 @@
+{
+  "text": " I'm singing into my fire Oh, all flowers in time Bend towards the sun I know you say that there's no one for you But here is one Oh, flowers in time Bend towards the sun I know you say that there's no one for you But here is one But here is one I know you say that there's no one for you But here is one Bend towards the sun I know you say that there's no one for you But here is one Keep it going in me We can travel and Fading farther from me With your face in my window glow Wait for me, sweet widow It's okay to be in vain To me, yeah, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes,",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 26.13,
+      "end": 40.61,
+      "text": " I'm singing into my fire",
+      "tokens": [
+        50364,
+        286,
+        478,
+        6726,
+        666,
+        452,
+        2610,
+        50734
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5264264297485352,
+      "compression_ratio": 1.5225225225225225,
+      "no_speech_prob": 0.8070057034492493,
+      "confidence": 0.192,
+      "words": [
+        {
+          "text": "I'm",
+          "start": 26.13,
+          "end": 27.47,
+          "confidence": 0.083
+        },
+        {
+          "text": "singing",
+          "start": 28.37,
+          "end": 30.29,
+          "confidence": 0.129
+        },
+        {
+          "text": "into",
+          "start": 37.87,
+          "end": 38.9,
+          "confidence": 0.441
+        },
+        {
+          "text": "my",
+          "start": 39.83,
+          "end": 40.19,
+          "confidence": 0.989
+        },
+        {
+          "text": "fire",
+          "start": 40.19,
+          "end": 40.61,
+          "confidence": 0.126
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 48.72,
+      "end": 54.82,
+      "text": " Oh, all flowers in time Bend towards the sun",
+      "tokens": [
+        50734,
+        876,
+        11,
+        439,
+        8085,
+        294,
+        565,
+        32451,
+        3030,
+        264,
+        3295,
+        51084
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5264264297485352,
+      "compression_ratio": 1.5225225225225225,
+      "no_speech_prob": 0.8070057034492493,
+      "confidence": 0.69,
+      "words": [
+        {
+          "text": "Oh,",
+          "start": 48.72,
+          "end": 49.34,
+          "confidence": 0.618
+        },
+        {
+          "text": "all",
+          "start": 49.74,
+          "end": 50.76,
+          "confidence": 0.509
+        },
+        {
+          "text": "flowers",
+          "start": 50.76,
+          "end": 51.68,
+          "confidence": 0.964
+        },
+        {
+          "text": "in",
+          "start": 51.68,
+          "end": 52.02,
+          "confidence": 0.94
+        },
+        {
+          "text": "time",
+          "start": 52.02,
+          "end": 52.62,
+          "confidence": 0.742
+        },
+        {
+          "text": "Bend",
+          "start": 52.62,
+          "end": 53.54,
+          "confidence": 0.195
+        },
+        {
+          "text": "towards",
+          "start": 53.54,
+          "end": 54.1,
+          "confidence": 0.94
+        },
+        {
+          "text": "the",
+          "start": 54.1,
+          "end": 54.46,
+          "confidence": 0.971
+        },
+        {
+          "text": "sun",
+          "start": 54.46,
+          "end": 54.82,
+          "confidence": 0.936
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 55.38,
+      "end": 60.38,
+      "text": " I know you say that there's no one for you But here is one",
+      "tokens": [
+        51084,
+        286,
+        458,
+        291,
+        584,
+        300,
+        456,
+        311,
+        572,
+        472,
+        337,
+        291,
+        583,
+        510,
+        307,
+        472,
+        51384
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5264264297485352,
+      "compression_ratio": 1.5225225225225225,
+      "no_speech_prob": 0.8070057034492493,
+      "confidence": 0.892,
+      "words": [
+        {
+          "text": "I",
+          "start": 55.38,
+          "end": 55.58,
+          "confidence": 0.974
+        },
+        {
+          "text": "know",
+          "start": 55.58,
+          "end": 55.8,
+          "confidence": 0.993
+        },
+        {
+          "text": "you",
+          "start": 55.8,
+          "end": 56.04,
+          "confidence": 0.845
+        },
+        {
+          "text": "say",
+          "start": 56.04,
+          "end": 56.36,
+          "confidence": 0.926
+        },
+        {
+          "text": "that",
+          "start": 56.36,
+          "end": 56.7,
+          "confidence": 0.713
+        },
+        {
+          "text": "there's",
+          "start": 56.7,
+          "end": 57.12,
+          "confidence": 0.97
+        },
+        {
+          "text": "no",
+          "start": 57.12,
+          "end": 57.28,
+          "confidence": 0.991
+        },
+        {
+          "text": "one",
+          "start": 57.28,
+          "end": 57.48,
+          "confidence": 0.924
+        },
+        {
+          "text": "for",
+          "start": 57.48,
+          "end": 57.92,
+          "confidence": 0.986
+        },
+        {
+          "text": "you",
+          "start": 57.92,
+          "end": 58.28,
+          "confidence": 0.994
+        },
+        {
+          "text": "But",
+          "start": 58.28,
+          "end": 59.38,
+          "confidence": 0.464
+        },
+        {
+          "text": "here",
+          "start": 59.38,
+          "end": 59.58,
+          "confidence": 0.988
+        },
+        {
+          "text": "is",
+          "start": 59.58,
+          "end": 59.9,
+          "confidence": 0.894
+        },
+        {
+          "text": "one",
+          "start": 59.9,
+          "end": 60.38,
+          "confidence": 0.966
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 61.75,
+      "end": 66.55,
+      "text": " Oh, flowers in time Bend towards the sun",
+      "tokens": [
+        51384,
+        876,
+        11,
+        8085,
+        294,
+        565,
+        32451,
+        3030,
+        264,
+        3295,
+        51684
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5264264297485352,
+      "compression_ratio": 1.5225225225225225,
+      "no_speech_prob": 0.8070057034492493,
+      "confidence": 0.924,
+      "words": [
+        {
+          "text": "Oh,",
+          "start": 61.75,
+          "end": 62.13,
+          "confidence": 0.774
+        },
+        {
+          "text": "flowers",
+          "start": 62.29,
+          "end": 63.13,
+          "confidence": 0.708
+        },
+        {
+          "text": "in",
+          "start": 63.13,
+          "end": 63.71,
+          "confidence": 0.998
+        },
+        {
+          "text": "time",
+          "start": 63.71,
+          "end": 64.27,
+          "confidence": 0.997
+        },
+        {
+          "text": "Bend",
+          "start": 64.27,
+          "end": 65.19,
+          "confidence": 0.995
+        },
+        {
+          "text": "towards",
+          "start": 65.19,
+          "end": 65.69,
+          "confidence": 0.986
+        },
+        {
+          "text": "the",
+          "start": 65.69,
+          "end": 66.09,
+          "confidence": 0.997
+        },
+        {
+          "text": "sun",
+          "start": 66.09,
+          "end": 66.55,
+          "confidence": 0.996
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 2640,
+      "start": 67.13,
+      "end": 72.17,
+      "text": " I know you say that there's no one for you But here is one",
+      "tokens": [
+        50364,
+        286,
+        458,
+        291,
+        584,
+        300,
+        456,
+        311,
+        572,
+        472,
+        337,
+        291,
+        583,
+        510,
+        307,
+        472,
+        50664
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.09595859967745267,
+      "compression_ratio": 2.597560975609756,
+      "no_speech_prob": 0.05922034755349159,
+      "confidence": 0.978,
+      "words": [
+        {
+          "text": "I",
+          "start": 67.13,
+          "end": 67.25,
+          "confidence": 0.967
+        },
+        {
+          "text": "know",
+          "start": 67.25,
+          "end": 67.45,
+          "confidence": 0.999
+        },
+        {
+          "text": "you",
+          "start": 67.45,
+          "end": 67.73,
+          "confidence": 0.996
+        },
+        {
+          "text": "say",
+          "start": 67.73,
+          "end": 68.01,
+          "confidence": 0.996
+        },
+        {
+          "text": "that",
+          "start": 68.01,
+          "end": 68.35,
+          "confidence": 0.972
+        },
+        {
+          "text": "there's",
+          "start": 68.35,
+          "end": 68.73,
+          "confidence": 0.987
+        },
+        {
+          "text": "no",
+          "start": 68.73,
+          "end": 68.93,
+          "confidence": 0.999
+        },
+        {
+          "text": "one",
+          "start": 68.93,
+          "end": 69.11,
+          "confidence": 0.99
+        },
+        {
+          "text": "for",
+          "start": 69.11,
+          "end": 69.53,
+          "confidence": 0.998
+        },
+        {
+          "text": "you",
+          "start": 69.53,
+          "end": 70.03,
+          "confidence": 0.917
+        },
+        {
+          "text": "But",
+          "start": 70.03,
+          "end": 71.01,
+          "confidence": 0.874
+        },
+        {
+          "text": "here",
+          "start": 71.01,
+          "end": 71.25,
+          "confidence": 0.996
+        },
+        {
+          "text": "is",
+          "start": 71.25,
+          "end": 71.55,
+          "confidence": 0.999
+        },
+        {
+          "text": "one",
+          "start": 71.55,
+          "end": 72.17,
+          "confidence": 0.997
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 2640,
+      "start": 73.79,
+      "end": 75.33,
+      "text": " But here is one",
+      "tokens": [
+        50664,
+        583,
+        510,
+        307,
+        472,
+        50964
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.09595859967745267,
+      "compression_ratio": 2.597560975609756,
+      "no_speech_prob": 0.05922034755349159,
+      "confidence": 0.969,
+      "words": [
+        {
+          "text": "But",
+          "start": 73.79,
+          "end": 73.97,
+          "confidence": 0.901
+        },
+        {
+          "text": "here",
+          "start": 73.97,
+          "end": 74.17,
+          "confidence": 0.994
+        },
+        {
+          "text": "is",
+          "start": 74.17,
+          "end": 74.47,
+          "confidence": 0.999
+        },
+        {
+          "text": "one",
+          "start": 74.47,
+          "end": 75.33,
+          "confidence": 0.987
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 2640,
+      "start": 128.27,
+      "end": 133.15,
+      "text": " I know you say that there's no one for you But here is one",
+      "tokens": [
+        50964,
+        286,
+        458,
+        291,
+        584,
+        300,
+        456,
+        311,
+        572,
+        472,
+        337,
+        291,
+        583,
+        510,
+        307,
+        472,
+        51164
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.09595859967745267,
+      "compression_ratio": 2.597560975609756,
+      "no_speech_prob": 0.05922034755349159,
+      "confidence": 0.938,
+      "words": [
+        {
+          "text": "I",
+          "start": 128.27,
+          "end": 128.37,
+          "confidence": 0.919
+        },
+        {
+          "text": "know",
+          "start": 128.37,
+          "end": 128.49,
+          "confidence": 0.984
+        },
+        {
+          "text": "you",
+          "start": 128.49,
+          "end": 128.75,
+          "confidence": 0.993
+        },
+        {
+          "text": "say",
+          "start": 128.75,
+          "end": 129.25,
+          "confidence": 0.992
+        },
+        {
+          "text": "that",
+          "start": 129.25,
+          "end": 129.55,
+          "confidence": 0.745
+        },
+        {
+          "text": "there's",
+          "start": 129.81,
+          "end": 130.04,
+          "confidence": 0.883
+        },
+        {
+          "text": "no",
+          "start": 130.04,
+          "end": 130.06,
+          "confidence": 0.98
+        },
+        {
+          "text": "one",
+          "start": 130.06,
+          "end": 130.18,
+          "confidence": 0.983
+        },
+        {
+          "text": "for",
+          "start": 130.18,
+          "end": 130.6,
+          "confidence": 0.997
+        },
+        {
+          "text": "you",
+          "start": 130.6,
+          "end": 131.02,
+          "confidence": 0.997
+        },
+        {
+          "text": "But",
+          "start": 131.02,
+          "end": 131.15,
+          "confidence": 0.81
+        },
+        {
+          "text": "here",
+          "start": 132.15,
+          "end": 132.37,
+          "confidence": 0.993
+        },
+        {
+          "text": "is",
+          "start": 132.37,
+          "end": 132.65,
+          "confidence": 0.998
+        },
+        {
+          "text": "one",
+          "start": 132.65,
+          "end": 133.15,
+          "confidence": 0.965
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 2640,
+      "start": 137.5,
+      "end": 142.8,
+      "text": " Bend towards the sun I know you say that there's no one for you",
+      "tokens": [
+        51164,
+        32451,
+        3030,
+        264,
+        3295,
+        286,
+        458,
+        291,
+        584,
+        300,
+        456,
+        311,
+        572,
+        472,
+        337,
+        291,
+        51414
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.09595859967745267,
+      "compression_ratio": 2.597560975609756,
+      "no_speech_prob": 0.05922034755349159,
+      "confidence": 0.941,
+      "words": [
+        {
+          "text": "Bend",
+          "start": 137.5,
+          "end": 137.8,
+          "confidence": 0.986
+        },
+        {
+          "text": "towards",
+          "start": 137.8,
+          "end": 138.18,
+          "confidence": 0.994
+        },
+        {
+          "text": "the",
+          "start": 138.18,
+          "end": 138.6,
+          "confidence": 0.998
+        },
+        {
+          "text": "sun",
+          "start": 138.6,
+          "end": 139.1,
+          "confidence": 0.996
+        },
+        {
+          "text": "I",
+          "start": 139.1,
+          "end": 139.35,
+          "confidence": 0.692
+        },
+        {
+          "text": "know",
+          "start": 139.88,
+          "end": 140.1,
+          "confidence": 0.999
+        },
+        {
+          "text": "you",
+          "start": 140.1,
+          "end": 140.38,
+          "confidence": 0.997
+        },
+        {
+          "text": "say",
+          "start": 140.38,
+          "end": 140.78,
+          "confidence": 0.996
+        },
+        {
+          "text": "that",
+          "start": 140.78,
+          "end": 141.12,
+          "confidence": 0.637
+        },
+        {
+          "text": "there's",
+          "start": 141.12,
+          "end": 141.38,
+          "confidence": 0.982
+        },
+        {
+          "text": "no",
+          "start": 141.38,
+          "end": 141.56,
+          "confidence": 0.996
+        },
+        {
+          "text": "one",
+          "start": 141.56,
+          "end": 141.78,
+          "confidence": 0.998
+        },
+        {
+          "text": "for",
+          "start": 141.78,
+          "end": 142.22,
+          "confidence": 0.989
+        },
+        {
+          "text": "you",
+          "start": 142.22,
+          "end": 142.8,
+          "confidence": 0.999
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seek": 2640,
+      "start": 143.48,
+      "end": 144.84,
+      "text": " But here is one",
+      "tokens": [
+        51414,
+        583,
+        510,
+        307,
+        472,
+        51664
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.09595859967745267,
+      "compression_ratio": 2.597560975609756,
+      "no_speech_prob": 0.05922034755349159,
+      "confidence": 0.99,
+      "words": [
+        {
+          "text": "But",
+          "start": 143.48,
+          "end": 143.64,
+          "confidence": 0.99
+        },
+        {
+          "text": "here",
+          "start": 143.64,
+          "end": 143.94,
+          "confidence": 0.994
+        },
+        {
+          "text": "is",
+          "start": 143.94,
+          "end": 144.26,
+          "confidence": 0.998
+        },
+        {
+          "text": "one",
+          "start": 144.26,
+          "end": 144.84,
+          "confidence": 0.98
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "seek": 5240,
+      "start": 172.34,
+      "end": 177.02,
+      "text": " Keep it going in me We can travel and",
+      "tokens": [
+        50364,
+        5527,
+        309,
+        516,
+        294,
+        385,
+        492,
+        393,
+        3147,
+        293,
+        50614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3410283497401646,
+      "compression_ratio": 1.2456140350877194,
+      "no_speech_prob": 0.277772456407547,
+      "confidence": 0.735,
+      "words": [
+        {
+          "text": "Keep",
+          "start": 172.34,
+          "end": 172.62,
+          "confidence": 0.957
+        },
+        {
+          "text": "it",
+          "start": 172.62,
+          "end": 173.0,
+          "confidence": 0.991
+        },
+        {
+          "text": "going",
+          "start": 173.0,
+          "end": 173.52,
+          "confidence": 0.822
+        },
+        {
+          "text": "in",
+          "start": 173.52,
+          "end": 174.04,
+          "confidence": 0.898
+        },
+        {
+          "text": "me",
+          "start": 174.04,
+          "end": 174.7,
+          "confidence": 0.987
+        },
+        {
+          "text": "We",
+          "start": 174.7,
+          "end": 175.48,
+          "confidence": 0.397
+        },
+        {
+          "text": "can",
+          "start": 175.48,
+          "end": 175.78,
+          "confidence": 0.414
+        },
+        {
+          "text": "travel",
+          "start": 175.78,
+          "end": 176.48,
+          "confidence": 0.826
+        },
+        {
+          "text": "and",
+          "start": 176.48,
+          "end": 177.02,
+          "confidence": 0.67
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "seek": 5240,
+      "start": 178.1,
+      "end": 184.76,
+      "text": " Fading farther from me With your face in my window glow",
+      "tokens": [
+        50614,
+        479,
+        8166,
+        20344,
+        490,
+        385,
+        2022,
+        428,
+        1851,
+        294,
+        452,
+        4910,
+        17513,
+        51064
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3410283497401646,
+      "compression_ratio": 1.2456140350877194,
+      "no_speech_prob": 0.277772456407547,
+      "confidence": 0.739,
+      "words": [
+        {
+          "text": "Fading",
+          "start": 178.1,
+          "end": 178.7,
+          "confidence": 0.3
+        },
+        {
+          "text": "farther",
+          "start": 178.7,
+          "end": 179.32,
+          "confidence": 0.945
+        },
+        {
+          "text": "from",
+          "start": 179.32,
+          "end": 179.84,
+          "confidence": 0.996
+        },
+        {
+          "text": "me",
+          "start": 179.84,
+          "end": 180.54,
+          "confidence": 0.973
+        },
+        {
+          "text": "With",
+          "start": 180.54,
+          "end": 181.32,
+          "confidence": 0.885
+        },
+        {
+          "text": "your",
+          "start": 181.32,
+          "end": 181.6,
+          "confidence": 0.98
+        },
+        {
+          "text": "face",
+          "start": 181.6,
+          "end": 182.3,
+          "confidence": 0.999
+        },
+        {
+          "text": "in",
+          "start": 182.3,
+          "end": 182.84,
+          "confidence": 0.876
+        },
+        {
+          "text": "my",
+          "start": 182.84,
+          "end": 183.16,
+          "confidence": 0.995
+        },
+        {
+          "text": "window",
+          "start": 183.16,
+          "end": 183.94,
+          "confidence": 0.995
+        },
+        {
+          "text": "glow",
+          "start": 183.94,
+          "end": 184.76,
+          "confidence": 0.431
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "seek": 5240,
+      "start": 188.59,
+      "end": 211.44,
+      "text": " Wait for me, sweet widow It's okay to be in vain",
+      "tokens": [
+        51064,
+        3802,
+        337,
+        385,
+        11,
+        3844,
+        37207,
+        467,
+        311,
+        1392,
+        281,
+        312,
+        294,
+        22240,
+        51564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3410283497401646,
+      "compression_ratio": 1.2456140350877194,
+      "no_speech_prob": 0.277772456407547,
+      "confidence": 0.692,
+      "words": [
+        {
+          "text": "Wait",
+          "start": 188.59,
+          "end": 189.07,
+          "confidence": 0.518
+        },
+        {
+          "text": "for",
+          "start": 190.51,
+          "end": 191.24,
+          "confidence": 0.687
+        },
+        {
+          "text": "me,",
+          "start": 191.24,
+          "end": 191.72,
+          "confidence": 0.999
+        },
+        {
+          "text": "sweet",
+          "start": 192.02,
+          "end": 192.9,
+          "confidence": 0.888
+        },
+        {
+          "text": "widow",
+          "start": 192.9,
+          "end": 193.88,
+          "confidence": 0.387
+        },
+        {
+          "text": "It's",
+          "start": 193.88,
+          "end": 194.87,
+          "confidence": 0.712
+        },
+        {
+          "text": "okay",
+          "start": 207.81,
+          "end": 208.27,
+          "confidence": 0.779
+        },
+        {
+          "text": "to",
+          "start": 208.27,
+          "end": 209.27,
+          "confidence": 0.959
+        },
+        {
+          "text": "be",
+          "start": 210.36,
+          "end": 210.58,
+          "confidence": 0.988
+        },
+        {
+          "text": "in",
+          "start": 210.58,
+          "end": 210.92,
+          "confidence": 0.83
+        },
+        {
+          "text": "vain",
+          "start": 210.92,
+          "end": 211.44,
+          "confidence": 0.316
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "seek": 7640,
+      "start": 212.12,
+      "end": 276.56,
+      "text": " To me, yeah, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes,",
+      "tokens": [
+        50364,
+        1407,
+        385,
+        11,
+        1338,
+        11,
+        2086,
+        11,
+        2086,
+        11,
+        2086,
+        11,
+        2086,
+        11,
+        2086,
+        11,
+        2086,
+        11,
+        2086,
+        11,
+        2086,
+        11,
+        2086,
+        11,
+        2086,
+        11,
+        2086,
+        11,
+        2086,
+        11,
+        2086,
+        11,
+        2086,
+        11,
+        2086,
+        11,
+        2086,
+        11,
+        2086,
+        11,
+        2086,
+        11,
+        2086,
+        11,
+        2086,
+        11,
+        2086,
+        11,
+        2086,
+        11,
+        2086,
+        11,
+        2086,
+        11,
+        2086,
+        11,
+        2086,
+        11,
+        2086,
+        11,
+        2086,
+        11,
+        2086,
+        11,
+        2086,
+        11,
+        2086,
+        11,
+        2086,
+        11,
+        2086,
+        11,
+        2086,
+        11,
+        2086,
+        11,
+        2086,
+        11,
+        2086,
+        11,
+        2086,
+        11,
+        2086,
+        11,
+        2086,
+        11,
+        2086,
+        11,
+        2086,
+        11,
+        2086,
+        11,
+        2086,
+        11,
+        2086,
+        11,
+        2086,
+        11,
+        2086,
+        11,
+        2086,
+        11,
+        2086,
+        11,
+        2086,
+        11,
+        2086,
+        11,
+        2086,
+        11,
+        2086,
+        11,
+        2086,
+        11,
+        2086,
+        11,
+        2086,
+        11,
+        2086,
+        11,
+        2086,
+        11,
+        2086,
+        11,
+        2086,
+        11,
+        2086,
+        11,
+        2086,
+        11,
+        2086,
+        11,
+        2086,
+        11,
+        2086,
+        11,
+        2086,
+        11,
+        2086,
+        11,
+        2086,
+        11,
+        2086,
+        11,
+        2086,
+        11,
+        2086,
+        11,
+        2086,
+        11,
+        2086,
+        11,
+        2086,
+        11,
+        2086,
+        11,
+        2086,
+        11,
+        2086,
+        11,
+        2086,
+        11,
+        2086,
+        11,
+        2086,
+        11,
+        2086,
+        11,
+        2086,
+        11,
+        2086,
+        11,
+        2086,
+        11,
+        2086,
+        11,
+        2086,
+        11,
+        2086,
+        11,
+        2086,
+        11,
+        2086,
+        11,
+        2086,
+        11,
+        2086,
+        11,
+        2086,
+        11,
+        2086,
+        11,
+        2086,
+        11,
+        2086,
+        11,
+        2086,
+        11,
+        2086,
+        11,
+        2086,
+        11,
+        2086,
+        11,
+        2086,
+        11,
+        2086,
+        11,
+        2086,
+        11,
+        2086,
+        11,
+        2086,
+        11,
+        2086,
+        11,
+        2086,
+        11,
+        2086,
+        11,
+        2086,
+        11,
+        2086,
+        11
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.09093788146972656,
+      "compression_ratio": 20.62962962962963,
+      "no_speech_prob": 0.3955765664577484,
+      "confidence": 0.931,
+      "words": [
+        {
+          "text": "To",
+          "start": 212.12,
+          "end": 212.34,
+          "confidence": 0.107
+        },
+        {
+          "text": "me,",
+          "start": 214.74,
+          "end": 215.06,
+          "confidence": 0.913
+        },
+        {
+          "text": "yeah,",
+          "start": 219.07,
+          "end": 219.27,
+          "confidence": 0.545
+        },
+        {
+          "text": "yes,",
+          "start": 221.97,
+          "end": 222.35,
+          "confidence": 0.553
+        },
+        {
+          "text": "yes,",
+          "start": 222.35,
+          "end": 222.69,
+          "confidence": 0.94
+        },
+        {
+          "text": "yes,",
+          "start": 222.97,
+          "end": 223.39,
+          "confidence": 0.751
+        },
+        {
+          "text": "yes,",
+          "start": 223.47,
+          "end": 223.77,
+          "confidence": 0.381
+        },
+        {
+          "text": "yes,",
+          "start": 223.77,
+          "end": 223.95,
+          "confidence": 0.427
+        },
+        {
+          "text": "yes,",
+          "start": 223.95,
+          "end": 223.97,
+          "confidence": 0.603
+        },
+        {
+          "text": "yes,",
+          "start": 223.97,
+          "end": 223.99,
+          "confidence": 0.763
+        },
+        {
+          "text": "yes,",
+          "start": 223.99,
+          "end": 224.01,
+          "confidence": 0.845
+        },
+        {
+          "text": "yes,",
+          "start": 224.01,
+          "end": 224.03,
+          "confidence": 0.891
+        },
+        {
+          "text": "yes,",
+          "start": 224.03,
+          "end": 224.25,
+          "confidence": 0.917
+        },
+        {
+          "text": "yes,",
+          "start": 224.29,
+          "end": 224.31,
+          "confidence": 0.935
+        },
+        {
+          "text": "yes,",
+          "start": 224.31,
+          "end": 224.39,
+          "confidence": 0.948
+        },
+        {
+          "text": "yes,",
+          "start": 224.39,
+          "end": 224.41,
+          "confidence": 0.958
+        },
+        {
+          "text": "yes,",
+          "start": 224.49,
+          "end": 224.5,
+          "confidence": 0.967
+        },
+        {
+          "text": "yes,",
+          "start": 246.04,
+          "end": 246.06,
+          "confidence": 0.975
+        },
+        {
+          "text": "yes,",
+          "start": 246.06,
+          "end": 246.08,
+          "confidence": 0.979
+        },
+        {
+          "text": "yes,",
+          "start": 246.08,
+          "end": 246.1,
+          "confidence": 0.981
+        },
+        {
+          "text": "yes,",
+          "start": 246.1,
+          "end": 246.12,
+          "confidence": 0.983
+        },
+        {
+          "text": "yes,",
+          "start": 246.12,
+          "end": 246.14,
+          "confidence": 0.984
+        },
+        {
+          "text": "yes,",
+          "start": 246.14,
+          "end": 246.16,
+          "confidence": 0.986
+        },
+        {
+          "text": "yes,",
+          "start": 246.16,
+          "end": 246.18,
+          "confidence": 0.986
+        },
+        {
+          "text": "yes,",
+          "start": 246.18,
+          "end": 246.2,
+          "confidence": 0.986
+        },
+        {
+          "text": "yes,",
+          "start": 246.2,
+          "end": 246.22,
+          "confidence": 0.987
+        },
+        {
+          "text": "yes,",
+          "start": 246.22,
+          "end": 246.24,
+          "confidence": 0.987
+        },
+        {
+          "text": "yes,",
+          "start": 246.24,
+          "end": 246.26,
+          "confidence": 0.988
+        },
+        {
+          "text": "yes,",
+          "start": 246.26,
+          "end": 246.28,
+          "confidence": 0.988
+        },
+        {
+          "text": "yes,",
+          "start": 246.28,
+          "end": 246.3,
+          "confidence": 0.989
+        },
+        {
+          "text": "yes,",
+          "start": 246.3,
+          "end": 246.32,
+          "confidence": 0.989
+        },
+        {
+          "text": "yes,",
+          "start": 246.32,
+          "end": 246.34,
+          "confidence": 0.99
+        },
+        {
+          "text": "yes,",
+          "start": 246.34,
+          "end": 246.36,
+          "confidence": 0.99
+        },
+        {
+          "text": "yes,",
+          "start": 246.36,
+          "end": 246.38,
+          "confidence": 0.99
+        },
+        {
+          "text": "yes,",
+          "start": 246.38,
+          "end": 246.4,
+          "confidence": 0.99
+        },
+        {
+          "text": "yes,",
+          "start": 246.5,
+          "end": 246.52,
+          "confidence": 0.989
+        },
+        {
+          "text": "yes,",
+          "start": 246.54,
+          "end": 246.56,
+          "confidence": 0.989
+        },
+        {
+          "text": "yes,",
+          "start": 246.96,
+          "end": 246.98,
+          "confidence": 0.99
+        },
+        {
+          "text": "yes,",
+          "start": 246.98,
+          "end": 247.0,
+          "confidence": 0.99
+        },
+        {
+          "text": "yes,",
+          "start": 247.0,
+          "end": 247.02,
+          "confidence": 0.99
+        },
+        {
+          "text": "yes,",
+          "start": 247.02,
+          "end": 247.04,
+          "confidence": 0.99
+        },
+        {
+          "text": "yes,",
+          "start": 247.04,
+          "end": 247.06,
+          "confidence": 0.99
+        },
+        {
+          "text": "yes,",
+          "start": 247.12,
+          "end": 247.14,
+          "confidence": 0.989
+        },
+        {
+          "text": "yes,",
+          "start": 247.14,
+          "end": 247.16,
+          "confidence": 0.989
+        },
+        {
+          "text": "yes,",
+          "start": 247.28,
+          "end": 247.3,
+          "confidence": 0.989
+        },
+        {
+          "text": "yes,",
+          "start": 247.3,
+          "end": 247.32,
+          "confidence": 0.989
+        },
+        {
+          "text": "yes,",
+          "start": 247.32,
+          "end": 247.34,
+          "confidence": 0.989
+        },
+        {
+          "text": "yes,",
+          "start": 247.34,
+          "end": 247.36,
+          "confidence": 0.989
+        },
+        {
+          "text": "yes,",
+          "start": 247.36,
+          "end": 247.38,
+          "confidence": 0.989
+        },
+        {
+          "text": "yes,",
+          "start": 247.38,
+          "end": 247.4,
+          "confidence": 0.988
+        },
+        {
+          "text": "yes,",
+          "start": 247.4,
+          "end": 247.42,
+          "confidence": 0.989
+        },
+        {
+          "text": "yes,",
+          "start": 247.42,
+          "end": 247.44,
+          "confidence": 0.988
+        },
+        {
+          "text": "yes,",
+          "start": 247.44,
+          "end": 247.46,
+          "confidence": 0.988
+        },
+        {
+          "text": "yes,",
+          "start": 247.46,
+          "end": 247.48,
+          "confidence": 0.988
+        },
+        {
+          "text": "yes,",
+          "start": 247.48,
+          "end": 247.5,
+          "confidence": 0.988
+        },
+        {
+          "text": "yes,",
+          "start": 247.5,
+          "end": 247.58,
+          "confidence": 0.988
+        },
+        {
+          "text": "yes,",
+          "start": 247.58,
+          "end": 247.6,
+          "confidence": 0.988
+        },
+        {
+          "text": "yes,",
+          "start": 247.6,
+          "end": 247.62,
+          "confidence": 0.988
+        },
+        {
+          "text": "yes,",
+          "start": 247.62,
+          "end": 247.64,
+          "confidence": 0.988
+        },
+        {
+          "text": "yes,",
+          "start": 247.64,
+          "end": 247.66,
+          "confidence": 0.988
+        },
+        {
+          "text": "yes,",
+          "start": 247.66,
+          "end": 247.68,
+          "confidence": 0.988
+        },
+        {
+          "text": "yes,",
+          "start": 247.68,
+          "end": 247.7,
+          "confidence": 0.989
+        },
+        {
+          "text": "yes,",
+          "start": 247.7,
+          "end": 247.72,
+          "confidence": 0.988
+        },
+        {
+          "text": "yes,",
+          "start": 247.72,
+          "end": 247.74,
+          "confidence": 0.989
+        },
+        {
+          "text": "yes,",
+          "start": 247.74,
+          "end": 247.76,
+          "confidence": 0.989
+        },
+        {
+          "text": "yes,",
+          "start": 247.76,
+          "end": 247.78,
+          "confidence": 0.989
+        },
+        {
+          "text": "yes,",
+          "start": 247.78,
+          "end": 247.8,
+          "confidence": 0.989
+        },
+        {
+          "text": "yes,",
+          "start": 247.8,
+          "end": 247.82,
+          "confidence": 0.99
+        },
+        {
+          "text": "yes,",
+          "start": 247.82,
+          "end": 247.84,
+          "confidence": 0.989
+        },
+        {
+          "text": "yes,",
+          "start": 247.84,
+          "end": 247.86,
+          "confidence": 0.99
+        },
+        {
+          "text": "yes,",
+          "start": 247.86,
+          "end": 247.88,
+          "confidence": 0.99
+        },
+        {
+          "text": "yes,",
+          "start": 247.88,
+          "end": 247.9,
+          "confidence": 0.99
+        },
+        {
+          "text": "yes,",
+          "start": 247.9,
+          "end": 247.92,
+          "confidence": 0.99
+        },
+        {
+          "text": "yes,",
+          "start": 247.92,
+          "end": 247.94,
+          "confidence": 0.99
+        },
+        {
+          "text": "yes,",
+          "start": 247.94,
+          "end": 247.96,
+          "confidence": 0.99
+        },
+        {
+          "text": "yes,",
+          "start": 247.96,
+          "end": 247.98,
+          "confidence": 0.99
+        },
+        {
+          "text": "yes,",
+          "start": 247.98,
+          "end": 248.0,
+          "confidence": 0.99
+        },
+        {
+          "text": "yes,",
+          "start": 248.0,
+          "end": 248.02,
+          "confidence": 0.991
+        },
+        {
+          "text": "yes,",
+          "start": 248.02,
+          "end": 248.04,
+          "confidence": 0.991
+        },
+        {
+          "text": "yes,",
+          "start": 248.04,
+          "end": 248.06,
+          "confidence": 0.991
+        },
+        {
+          "text": "yes,",
+          "start": 248.06,
+          "end": 248.08,
+          "confidence": 0.991
+        },
+        {
+          "text": "yes,",
+          "start": 248.08,
+          "end": 248.1,
+          "confidence": 0.991
+        },
+        {
+          "text": "yes,",
+          "start": 248.1,
+          "end": 248.12,
+          "confidence": 0.992
+        },
+        {
+          "text": "yes,",
+          "start": 248.12,
+          "end": 248.14,
+          "confidence": 0.991
+        },
+        {
+          "text": "yes,",
+          "start": 248.14,
+          "end": 248.16,
+          "confidence": 0.992
+        },
+        {
+          "text": "yes,",
+          "start": 248.16,
+          "end": 248.18,
+          "confidence": 0.992
+        },
+        {
+          "text": "yes,",
+          "start": 248.18,
+          "end": 248.2,
+          "confidence": 0.992
+        },
+        {
+          "text": "yes,",
+          "start": 248.2,
+          "end": 248.22,
+          "confidence": 0.992
+        },
+        {
+          "text": "yes,",
+          "start": 248.22,
+          "end": 248.24,
+          "confidence": 0.992
+        },
+        {
+          "text": "yes,",
+          "start": 248.24,
+          "end": 248.26,
+          "confidence": 0.992
+        },
+        {
+          "text": "yes,",
+          "start": 248.26,
+          "end": 248.28,
+          "confidence": 0.992
+        },
+        {
+          "text": "yes,",
+          "start": 248.28,
+          "end": 248.3,
+          "confidence": 0.992
+        },
+        {
+          "text": "yes,",
+          "start": 248.3,
+          "end": 248.32,
+          "confidence": 0.992
+        },
+        {
+          "text": "yes,",
+          "start": 248.32,
+          "end": 248.34,
+          "confidence": 0.992
+        },
+        {
+          "text": "yes,",
+          "start": 248.34,
+          "end": 248.36,
+          "confidence": 0.992
+        },
+        {
+          "text": "yes,",
+          "start": 248.36,
+          "end": 248.38,
+          "confidence": 0.992
+        },
+        {
+          "text": "yes,",
+          "start": 248.38,
+          "end": 248.4,
+          "confidence": 0.992
+        },
+        {
+          "text": "yes,",
+          "start": 248.4,
+          "end": 248.42,
+          "confidence": 0.992
+        },
+        {
+          "text": "yes,",
+          "start": 248.42,
+          "end": 248.44,
+          "confidence": 0.992
+        },
+        {
+          "text": "yes,",
+          "start": 248.44,
+          "end": 248.46,
+          "confidence": 0.992
+        },
+        {
+          "text": "yes,",
+          "start": 248.46,
+          "end": 248.48,
+          "confidence": 0.992
+        },
+        {
+          "text": "yes,",
+          "start": 248.48,
+          "end": 248.5,
+          "confidence": 0.992
+        },
+        {
+          "text": "yes,",
+          "start": 248.5,
+          "end": 248.52,
+          "confidence": 0.992
+        },
+        {
+          "text": "yes,",
+          "start": 248.52,
+          "end": 248.54,
+          "confidence": 0.992
+        },
+        {
+          "text": "yes,",
+          "start": 248.54,
+          "end": 248.56,
+          "confidence": 0.992
+        },
+        {
+          "text": "yes,",
+          "start": 248.56,
+          "end": 248.58,
+          "confidence": 0.992
+        },
+        {
+          "text": "yes,",
+          "start": 248.58,
+          "end": 248.6,
+          "confidence": 0.992
+        },
+        {
+          "text": "yes,",
+          "start": 248.6,
+          "end": 254.28,
+          "confidence": 0.992
+        },
+        {
+          "text": "yes,",
+          "start": 260.29,
+          "end": 260.93,
+          "confidence": 0.992
+        },
+        {
+          "text": "yes,",
+          "start": 260.93,
+          "end": 260.95,
+          "confidence": 0.992
+        },
+        {
+          "text": "yes,",
+          "start": 261.37,
+          "end": 261.85,
+          "confidence": 0.992
+        },
+        {
+          "text": "yes,",
+          "start": 276.54,
+          "end": 276.56,
+          "confidence": 0.992
+        }
+      ]
+    }
+  ],
+  "language": "en",
+  "language_probs": {
+    "en": 0.6116323471069336,
+    "zh": 0.018907694146037102,
+    "de": 0.033970970660448074,
+    "es": 0.007404359523206949,
+    "ru": 0.021425221115350723,
+    "ko": 0.06151348352432251,
+    "fr": 0.015192758291959763,
+    "ja": 0.004855896346271038,
+    "pt": 0.013303223066031933,
+    "tr": 0.006235095206648111,
+    "pl": 0.00545963179320097,
+    "ca": 0.0009340328397229314,
+    "nl": 0.007579948753118515,
+    "ar": 0.01146809570491314,
+    "sv": 0.0028770240023732185,
+    "it": 0.0022937634494155645,
+    "id": 0.0004960611695423722,
+    "hi": 0.00046600631321780384,
+    "fi": 0.0003177886828780174,
+    "vi": 0.006382956635206938,
+    "he": 0.0006030569784343243,
+    "uk": 0.003135202918201685,
+    "el": 0.002171691507101059,
+    "ms": 0.006901621352881193,
+    "cs": 0.0002361605002079159,
+    "ro": 0.0012967762304469943,
+    "da": 0.006534323561936617,
+    "hu": 0.00017826328985393047,
+    "ta": 0.00041124908602796495,
+    "no": 0.0024608487728983164,
+    "th": 0.0004552112950477749,
+    "ur": 0.0019015965517610312,
+    "hr": 0.00017826328985393047,
+    "bg": 0.00019426032667979598,
+    "lt": 9.921845776261762e-05,
+    "la": 0.023166190832853317,
+    "mi": 0.021258492022752762,
+    "ml": 0.0001610474573681131,
+    "cy": 0.03093091957271099,
+    "sk": 4.071917646797374e-05,
+    "te": 0.00015979417366907,
+    "fa": 0.0004048732516821474,
+    "lv": 0.00034630647860467434,
+    "bn": 9.393814980285242e-05,
+    "sr": 3.5377433960093185e-05,
+    "az": 2.809538818837609e-05,
+    "sl": 0.0003253248578403145,
+    "kn": 3.1769384349900065e-06,
+    "et": 3.8854512240504846e-05,
+    "mk": 7.893772817624267e-06,
+    "br": 0.002329884795472026,
+    "eu": 0.00011242925393162295,
+    "is": 0.0013069469714537263,
+    "hy": 3.9466380258090794e-05,
+    "ne": 7.202487904578447e-05,
+    "mn": 0.00016358359425794333,
+    "bs": 0.00011509543401189148,
+    "kk": 0.00010398005542811006,
+    "sq": 9.393814980285242e-05,
+    "sw": 0.000265522365225479,
+    "gl": 0.003135202918201685,
+    "mr": 5.510740720637841e-06,
+    "pa": 5.685670657840092e-06,
+    "si": 0.0002398794749751687,
+    "km": 0.0051690759137272835,
+    "sn": 0.0027239113114774227,
+    "yo": 0.0007804136257618666,
+    "so": 3.3424337289034156e-06,
+    "af": 0.0006941143074072897,
+    "oc": 0.00029161927523091435,
+    "ka": 6.912018307048129e-06,
+    "be": 0.0002513915242161602,
+    "tg": 5.257601287667057e-07,
+    "sd": 0.00015609255933668464,
+    "gu": 5.819634338877222e-07,
+    "am": 2.8477891191869276e-06,
+    "yi": 0.003665423719212413,
+    "lo": 4.040229396196082e-05,
+    "uz": 1.2924122216873002e-08,
+    "fo": 0.0010666990419849753,
+    "ht": 0.000389362801797688,
+    "ps": 2.5882683985400945e-05,
+    "tk": 5.683973824943678e-08,
+    "nn": 0.009214873425662518,
+    "mt": 1.2036565749440342e-05,
+    "sa": 0.0003436115221120417,
+    "lb": 6.659224141003506e-07,
+    "my": 0.0006030569784343243,
+    "bo": 0.0002870981697924435,
+    "tl": 0.0015279758954420686,
+    "mg": 4.0621529251438915e-08,
+    "as": 4.825365977012552e-06,
+    "tt": 6.063293085389887e-07,
+    "haw": 0.014957215636968613,
+    "ln": 1.0705542990763206e-05,
+    "ha": 1.497527648552932e-07,
+    "ba": 7.14323817874174e-08,
+    "jw": 0.013303223066031933,
+    "su": 9.613712563805166e-07
+  },
+  "speech_activity": [
+    {
+      "start": 26.126,
+      "end": 27.634
+    },
+    {
+      "start": 28.366,
+      "end": 30.29
+    },
+    {
+      "start": 37.166,
+      "end": 38.898
+    },
+    {
+      "start": 39.054,
+      "end": 41.554
+    },
+    {
+      "start": 48.366,
+      "end": 61.234
+    },
+    {
+      "start": 61.262,
+      "end": 73.202
+    },
+    {
+      "start": 73.326,
+      "end": 78.002
+    },
+    {
+      "start": 86.638,
+      "end": 87.89
+    },
+    {
+      "start": 128.27,
+      "end": 129.554
+    },
+    {
+      "start": 129.806,
+      "end": 131.154
+    },
+    {
+      "start": 132.142,
+      "end": 133.65
+    },
+    {
+      "start": 137.422,
+      "end": 139.346
+    },
+    {
+      "start": 139.822,
+      "end": 145.778
+    },
+    {
+      "start": 146.19,
+      "end": 148.274
+    },
+    {
+      "start": 172.046,
+      "end": 186.322
+    },
+    {
+      "start": 188.27,
+      "end": 189.522
+    },
+    {
+      "start": 190.51,
+      "end": 194.866
+    },
+    {
+      "start": 207.598,
+      "end": 209.266
+    },
+    {
+      "start": 209.774,
+      "end": 212.338
+    },
+    {
+      "start": 214.638,
+      "end": 216.082
+    },
+    {
+      "start": 218.51,
+      "end": 219.858
+    },
+    {
+      "start": 221.838,
+      "end": 224.498
+    },
+    {
+      "start": 246.03,
+      "end": 254.546
+    },
+    {
+      "start": 258.382,
+      "end": 266.066
+    },
+    {
+      "start": 270.478,
+      "end": 271.762
+    },
+    {
+      "start": 272.174,
+      "end": 276.754
+    }
+  ]
+}

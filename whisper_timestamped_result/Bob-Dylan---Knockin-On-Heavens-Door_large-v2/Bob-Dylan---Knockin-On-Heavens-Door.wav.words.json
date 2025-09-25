@@ -1,393 +1,278 @@
 {
-  "text": " Mama take this badge off of me It's getting dark, too dark to see I feel I'm knocking on Heaven's door Knock knock knock knock knock Mama put my guns in the ground I can't shoot them anymore That long black cloud is coming down I feel I'm knocking on Heaven's door Knock knock knock knock Knock knock knock knock",
+  "text": "Mama, take this badge off of me. It's getting dark, too dark to see. I feel I'm knocking on heaven's door. Knock, knock, knockin'. Knock, knock, knockin'. Mama, put my guns in the ground. I can't shoot them anymore. That long black cloud is coming down. I feel I'm knocking on heaven's door. Knock, knock, knockin' on. Knock, knock, knockin' on.",
   "segments": [
     {
       "id": 0,
       "seek": 0,
       "start": 30.19,
-      "end": 32.63,
-      "text": " Mama take this badge off of me",
+      "end": 53.62,
+      "text": "Mama, take this badge off of me. It's getting dark, too dark to see. I feel I'm knocking on heaven's door.",
       "tokens": [
         50364,
-        17775,
-        747,
-        341,
+        44,
+        2404,
+        11,
+        220,
+        27612,
+        220,
+        11176,
         25797,
         766,
         295,
         385,
-        50532
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.3601937149510239,
-      "compression_ratio": 1.474025974025974,
-      "no_speech_prob": 0.01243116706609726,
-      "confidence": 0.837,
-      "words": [
-        {
-          "text": "Mama",
-          "start": 30.19,
-          "end": 30.45,
-          "confidence": 0.656
-        },
-        {
-          "text": "take",
-          "start": 30.45,
-          "end": 30.77,
-          "confidence": 0.768
-        },
-        {
-          "text": "this",
-          "start": 30.77,
-          "end": 31.09,
-          "confidence": 0.991
-        },
-        {
-          "text": "badge",
-          "start": 31.09,
-          "end": 31.63,
-          "confidence": 0.909
-        },
-        {
-          "text": "off",
-          "start": 31.63,
-          "end": 31.99,
-          "confidence": 0.977
-        },
-        {
-          "text": "of",
-          "start": 31.99,
-          "end": 32.25,
-          "confidence": 0.652
-        },
-        {
-          "text": "me",
-          "start": 32.25,
-          "end": 32.63,
-          "confidence": 0.996
-        }
-      ]
-    },
-    {
-      "id": 1,
-      "seek": 0,
-      "start": 43.77,
-      "end": 46.65,
-      "text": " It's getting dark, too dark to see",
-      "tokens": [
-        50532,
+        13,
         467,
         311,
         1242,
         2877,
         11,
-        886,
+        220,
+        32599,
         2877,
-        281,
+        220,
+        1353,
         536,
-        50708
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.3601937149510239,
-      "compression_ratio": 1.474025974025974,
-      "no_speech_prob": 0.01243116706609726,
-      "confidence": 0.937,
-      "words": [
-        {
-          "text": "It's",
-          "start": 43.77,
-          "end": 43.95,
-          "confidence": 0.912
-        },
-        {
-          "text": "getting",
-          "start": 43.95,
-          "end": 44.25,
-          "confidence": 0.789
-        },
-        {
-          "text": "dark,",
-          "start": 44.25,
-          "end": 44.83,
-          "confidence": 0.985
-        },
-        {
-          "text": "too",
-          "start": 45.19,
-          "end": 45.43,
-          "confidence": 0.929
-        },
-        {
-          "text": "dark",
-          "start": 45.43,
-          "end": 45.85,
-          "confidence": 0.998
-        },
-        {
-          "text": "to",
-          "start": 45.85,
-          "end": 46.13,
-          "confidence": 0.997
-        },
-        {
-          "text": "see",
-          "start": 46.13,
-          "end": 46.65,
-          "confidence": 0.998
-        }
-      ]
-    },
-    {
-      "id": 2,
-      "seek": 0,
-      "start": 50.67,
-      "end": 53.58,
-      "text": " I feel I'm knocking on Heaven's door",
-      "tokens": [
-        50708,
+        13,
         286,
         841,
         286,
         478,
         24085,
         322,
-        13676,
+        7162,
         311,
         2853,
-        50904
+        13,
+        50918
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.3601937149510239,
-      "compression_ratio": 1.474025974025974,
-      "no_speech_prob": 0.01243116706609726,
-      "confidence": 0.827,
+      "avg_logprob": -0.14777869968623905,
+      "compression_ratio": 1.7321428571428572,
+      "no_speech_prob": 0.0003391954815015197,
+      "confidence": 0.946,
       "words": [
         {
+          "text": "Mama,",
+          "start": 30.19,
+          "end": 30.53,
+          "confidence": 0.798
+        },
+        {
+          "text": "take",
+          "start": 30.87,
+          "end": 30.89,
+          "confidence": 0.996
+        },
+        {
+          "text": "this",
+          "start": 30.89,
+          "end": 31.21,
+          "confidence": 0.998
+        },
+        {
+          "text": "badge",
+          "start": 31.21,
+          "end": 31.75,
+          "confidence": 0.953
+        },
+        {
+          "text": "off",
+          "start": 31.75,
+          "end": 32.11,
+          "confidence": 0.996
+        },
+        {
+          "text": "of",
+          "start": 32.11,
+          "end": 32.41,
+          "confidence": 0.974
+        },
+        {
+          "text": "me.",
+          "start": 32.41,
+          "end": 33.05,
+          "confidence": 1.0
+        },
+        {
+          "text": "It's",
+          "start": 43.89,
+          "end": 44.07,
+          "confidence": 0.991
+        },
+        {
+          "text": "getting",
+          "start": 44.07,
+          "end": 44.35,
+          "confidence": 0.748
+        },
+        {
+          "text": "dark,",
+          "start": 44.35,
+          "end": 45.33,
+          "confidence": 0.978
+        },
+        {
+          "text": "too",
+          "start": 45.55,
+          "end": 45.57,
+          "confidence": 0.988
+        },
+        {
+          "text": "dark",
+          "start": 45.57,
+          "end": 46.05,
+          "confidence": 0.993
+        },
+        {
+          "text": "to",
+          "start": 46.05,
+          "end": 46.35,
+          "confidence": 0.999
+        },
+        {
+          "text": "see.",
+          "start": 46.35,
+          "end": 46.63,
+          "confidence": 0.996
+        },
+        {
           "text": "I",
-          "start": 50.67,
-          "end": 50.84,
-          "confidence": 0.9
+          "start": 50.82,
+          "end": 50.92,
+          "confidence": 0.79
         },
         {
           "text": "feel",
-          "start": 50.84,
-          "end": 51.06,
+          "start": 50.92,
+          "end": 51.18,
           "confidence": 0.991
         },
         {
           "text": "I'm",
-          "start": 51.06,
-          "end": 51.46,
-          "confidence": 0.94
+          "start": 51.18,
+          "end": 51.48,
+          "confidence": 0.964
         },
         {
           "text": "knocking",
-          "start": 51.46,
-          "end": 51.98,
-          "confidence": 0.63
+          "start": 51.48,
+          "end": 52.1,
+          "confidence": 0.737
         },
         {
           "text": "on",
-          "start": 51.98,
-          "end": 52.4,
-          "confidence": 0.994
+          "start": 52.1,
+          "end": 52.48,
+          "confidence": 0.997
         },
         {
-          "text": "Heaven's",
-          "start": 52.4,
+          "text": "heaven's",
+          "start": 52.48,
           "end": 53.34,
-          "confidence": 0.695
+          "confidence": 0.977
         },
         {
-          "text": "door",
+          "text": "door.",
           "start": 53.34,
-          "end": 53.58,
-          "confidence": 0.763
+          "end": 53.62,
+          "confidence": 0.983
         }
       ]
     },
     {
-      "id": 3,
+      "id": 1,
       "seek": 0,
-      "start": 57.57,
-      "end": 64.16,
-      "text": " Knock knock knock knock knock",
+      "start": 57.53,
+      "end": 65.86,
+      "text": " Knock, knock, knockin'. Knock, knock, knockin'.",
       "tokens": [
-        50904,
+        50918,
         34017,
+        11,
         6728,
+        11,
         6728,
+        259,
+        5004,
+        34017,
+        11,
         6728,
+        11,
         6728,
-        51084
+        259,
+        5004,
+        51096
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.3601937149510239,
-      "compression_ratio": 1.474025974025974,
-      "no_speech_prob": 0.01243116706609726,
-      "confidence": 0.669,
+      "avg_logprob": -0.14777869968623905,
+      "compression_ratio": 1.7321428571428572,
+      "no_speech_prob": 0.0003391954815015197,
+      "confidence": 0.916,
       "words": [
         {
-          "text": "Knock",
-          "start": 57.57,
-          "end": 58.01,
-          "confidence": 0.705
+          "text": "Knock,",
+          "start": 57.53,
+          "end": 58.17,
+          "confidence": 0.998
         },
         {
-          "text": "knock",
-          "start": 58.01,
-          "end": 58.41,
-          "confidence": 0.566
+          "text": "knock,",
+          "start": 58.57,
+          "end": 58.59,
+          "confidence": 0.99
         },
         {
-          "text": "knock",
-          "start": 58.41,
-          "end": 58.85,
-          "confidence": 0.915
+          "text": "knockin'.",
+          "start": 63.98,
+          "end": 64.66,
+          "confidence": 0.75
         },
         {
-          "text": "knock",
-          "start": 58.85,
-          "end": 59.06,
-          "confidence": 0.574
+          "text": "Knock,",
+          "start": 64.66,
+          "end": 65.0,
+          "confidence": 0.965
         },
         {
-          "text": "knock",
-          "start": 64.0,
-          "end": 64.16,
-          "confidence": 0.639
+          "text": "knock,",
+          "start": 65.46,
+          "end": 65.48,
+          "confidence": 0.991
+        },
+        {
+          "text": "knockin'.",
+          "start": 65.8,
+          "end": 65.86,
+          "confidence": 0.965
         }
       ]
     },
     {
-      "id": 4,
+      "id": 2,
       "seek": 0,
-      "start": 85.33,
-      "end": 87.85,
-      "text": " Mama put my guns in the ground",
+      "start": 85.26,
+      "end": 108.73,
+      "text": " Mama, put my guns in the ground. I can't shoot them anymore. That long black cloud is coming down. I feel I'm knocking on heaven's door.",
       "tokens": [
-        51084,
+        51096,
         17775,
+        11,
         829,
         452,
         10153,
         294,
-        264,
+        220,
+        3322,
         2727,
-        51276
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.3601937149510239,
-      "compression_ratio": 1.474025974025974,
-      "no_speech_prob": 0.01243116706609726,
-      "confidence": 0.936,
-      "words": [
-        {
-          "text": "Mama",
-          "start": 85.33,
-          "end": 85.59,
-          "confidence": 0.989
-        },
-        {
-          "text": "put",
-          "start": 85.59,
-          "end": 85.91,
-          "confidence": 0.954
-        },
-        {
-          "text": "my",
-          "start": 85.91,
-          "end": 86.17,
-          "confidence": 0.992
-        },
-        {
-          "text": "guns",
-          "start": 86.17,
-          "end": 86.81,
-          "confidence": 0.992
-        },
-        {
-          "text": "in",
-          "start": 86.81,
-          "end": 87.23,
-          "confidence": 0.681
-        },
-        {
-          "text": "the",
-          "start": 87.23,
-          "end": 87.37,
-          "confidence": 0.996
-        },
-        {
-          "text": "ground",
-          "start": 87.37,
-          "end": 87.85,
-          "confidence": 0.999
-        }
-      ]
-    },
-    {
-      "id": 5,
-      "seek": 0,
-      "start": 92.12,
-      "end": 94.72,
-      "text": " I can't shoot them anymore",
-      "tokens": [
-        51276,
+        13,
         286,
         393,
         380,
         3076,
-        552,
+        220,
+        47959,
         3602,
-        51464
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.3601937149510239,
-      "compression_ratio": 1.474025974025974,
-      "no_speech_prob": 0.01243116706609726,
-      "confidence": 0.974,
-      "words": [
-        {
-          "text": "I",
-          "start": 92.12,
-          "end": 92.32,
-          "confidence": 0.998
-        },
-        {
-          "text": "can't",
-          "start": 92.32,
-          "end": 92.72,
-          "confidence": 0.997
-        },
-        {
-          "text": "shoot",
-          "start": 92.72,
-          "end": 93.04,
-          "confidence": 0.998
-        },
-        {
-          "text": "them",
-          "start": 93.04,
-          "end": 93.48,
-          "confidence": 0.999
-        },
-        {
-          "text": "anymore",
-          "start": 93.48,
-          "end": 94.72,
-          "confidence": 0.865
-        }
-      ]
-    },
-    {
-      "id": 6,
-      "seek": 0,
-      "start": 98.68,
-      "end": 101.72,
-      "text": " That long black cloud is coming down",
-      "tokens": [
-        51464,
+        13,
         663,
         938,
         2211,
@@ -395,321 +280,369 @@
         307,
         1348,
         760,
-        51668
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.3601937149510239,
-      "compression_ratio": 1.474025974025974,
-      "no_speech_prob": 0.01243116706609726,
-      "confidence": 0.965,
-      "words": [
-        {
-          "text": "That",
-          "start": 98.68,
-          "end": 98.9,
-          "confidence": 0.969
-        },
-        {
-          "text": "long",
-          "start": 98.9,
-          "end": 99.34,
-          "confidence": 0.96
-        },
-        {
-          "text": "black",
-          "start": 99.34,
-          "end": 99.82,
-          "confidence": 0.918
-        },
-        {
-          "text": "cloud",
-          "start": 99.82,
-          "end": 100.4,
-          "confidence": 0.978
-        },
-        {
-          "text": "is",
-          "start": 100.4,
-          "end": 100.7,
-          "confidence": 0.985
-        },
-        {
-          "text": "coming",
-          "start": 100.7,
-          "end": 101.1,
-          "confidence": 0.95
-        },
-        {
-          "text": "down",
-          "start": 101.1,
-          "end": 101.72,
-          "confidence": 0.998
-        }
-      ]
-    },
-    {
-      "id": 7,
-      "seek": 2608,
-      "start": 105.55,
-      "end": 108.51,
-      "text": " I feel I'm knocking on Heaven's door",
-      "tokens": [
-        50364,
+        13,
         286,
         841,
         286,
         478,
         24085,
         322,
-        13676,
+        7162,
         311,
         2853,
-        50568
+        13,
+        51862
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.28412359952926636,
-      "compression_ratio": 1.5849056603773586,
-      "no_speech_prob": 0.06269247084856033,
-      "confidence": 0.99,
+      "avg_logprob": -0.14777869968623905,
+      "compression_ratio": 1.7321428571428572,
+      "no_speech_prob": 0.0003391954815015197,
+      "confidence": 0.959,
       "words": [
         {
-          "text": "I",
-          "start": 105.55,
-          "end": 105.69,
-          "confidence": 0.997
+          "text": "Mama,",
+          "start": 85.26,
+          "end": 85.67,
+          "confidence": 0.991
         },
         {
-          "text": "feel",
-          "start": 105.69,
-          "end": 106.01,
-          "confidence": 0.995
+          "text": "put",
+          "start": 86.03,
+          "end": 86.05,
+          "confidence": 0.996
         },
         {
-          "text": "I'm",
-          "start": 106.01,
-          "end": 106.39,
-          "confidence": 0.987
+          "text": "my",
+          "start": 86.05,
+          "end": 86.25,
+          "confidence": 0.998
         },
         {
-          "text": "knocking",
-          "start": 106.39,
-          "end": 106.91,
-          "confidence": 0.977
+          "text": "guns",
+          "start": 86.25,
+          "end": 87.27,
+          "confidence": 0.964
         },
         {
-          "text": "on",
-          "start": 106.91,
-          "end": 107.33,
+          "text": "in",
+          "start": 87.27,
+          "end": 87.29,
+          "confidence": 0.921
+        },
+        {
+          "text": "the",
+          "start": 87.29,
+          "end": 87.39,
+          "confidence": 1.0
+        },
+        {
+          "text": "ground.",
+          "start": 87.39,
+          "end": 88.11,
           "confidence": 0.999
         },
         {
-          "text": "Heaven's",
-          "start": 107.33,
-          "end": 108.25,
-          "confidence": 0.985
-        },
-        {
-          "text": "door",
-          "start": 108.25,
-          "end": 108.51,
+          "text": "I",
+          "start": 92.28,
+          "end": 92.3,
           "confidence": 0.998
-        }
-      ]
-    },
-    {
-      "id": 8,
-      "seek": 2608,
-      "start": 112.41,
-      "end": 114.05,
-      "text": " Knock knock knock knock",
-      "tokens": [
-        50568,
-        34017,
-        6728,
-        6728,
-        6728,
-        50668
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.28412359952926636,
-      "compression_ratio": 1.5849056603773586,
-      "no_speech_prob": 0.06269247084856033,
-      "confidence": 0.957,
-      "words": [
-        {
-          "text": "Knock",
-          "start": 112.41,
-          "end": 112.87,
-          "confidence": 0.933
         },
         {
-          "text": "knock",
-          "start": 112.87,
-          "end": 113.27,
-          "confidence": 0.976
+          "text": "can't",
+          "start": 92.3,
+          "end": 92.78,
+          "confidence": 0.998
         },
         {
-          "text": "knock",
-          "start": 113.27,
-          "end": 113.67,
-          "confidence": 0.96
+          "text": "shoot",
+          "start": 92.78,
+          "end": 93.18,
+          "confidence": 0.995
         },
         {
-          "text": "knock",
-          "start": 113.67,
-          "end": 114.05,
-          "confidence": 0.96
-        }
-      ]
-    },
-    {
-      "id": 9,
-      "seek": 2608,
-      "start": 132.93,
-      "end": 134.53,
-      "text": " Knock knock knock knock",
-      "tokens": [
-        50668,
-        34017,
-        6728,
-        6728,
-        6728,
-        50768
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.28412359952926636,
-      "compression_ratio": 1.5849056603773586,
-      "no_speech_prob": 0.06269247084856033,
-      "confidence": 0.946,
-      "words": [
-        {
-          "text": "Knock",
-          "start": 132.93,
-          "end": 133.37,
-          "confidence": 0.917
+          "text": "them",
+          "start": 93.18,
+          "end": 93.66,
+          "confidence": 0.996
         },
         {
-          "text": "knock",
-          "start": 133.37,
-          "end": 133.79,
+          "text": "anymore.",
+          "start": 93.66,
+          "end": 95.16,
+          "confidence": 0.952
+        },
+        {
+          "text": "That",
+          "start": 98.78,
+          "end": 98.9,
+          "confidence": 0.928
+        },
+        {
+          "text": "long",
+          "start": 98.9,
+          "end": 99.6,
           "confidence": 0.992
         },
         {
-          "text": "knock",
-          "start": 133.79,
-          "end": 134.19,
-          "confidence": 0.983
+          "text": "black",
+          "start": 99.6,
+          "end": 100.02,
+          "confidence": 0.536
         },
         {
-          "text": "knock",
-          "start": 134.19,
-          "end": 134.53,
-          "confidence": 0.895
+          "text": "cloud",
+          "start": 100.02,
+          "end": 100.52,
+          "confidence": 0.996
+        },
+        {
+          "text": "is",
+          "start": 100.52,
+          "end": 100.74,
+          "confidence": 0.776
+        },
+        {
+          "text": "coming",
+          "start": 100.74,
+          "end": 101.7,
+          "confidence": 0.933
+        },
+        {
+          "text": "down.",
+          "start": 101.7,
+          "end": 102.48,
+          "confidence": 0.997
+        },
+        {
+          "text": "I",
+          "start": 105.53,
+          "end": 105.83,
+          "confidence": 0.993
+        },
+        {
+          "text": "feel",
+          "start": 105.83,
+          "end": 106.33,
+          "confidence": 0.994
+        },
+        {
+          "text": "I'm",
+          "start": 106.33,
+          "end": 106.47,
+          "confidence": 0.996
+        },
+        {
+          "text": "knocking",
+          "start": 106.47,
+          "end": 107.09,
+          "confidence": 0.968
+        },
+        {
+          "text": "on",
+          "start": 107.09,
+          "end": 107.61,
+          "confidence": 0.997
+        },
+        {
+          "text": "heaven's",
+          "start": 107.61,
+          "end": 108.27,
+          "confidence": 0.996
+        },
+        {
+          "text": "door.",
+          "start": 108.27,
+          "end": 108.73,
+          "confidence": 0.994
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 3000,
+      "start": 112.37,
+      "end": 134.77,
+      "text": " Knock, knock, knockin' on. Knock, knock, knockin' on.",
+      "tokens": [
+        50370,
+        34017,
+        11,
+        6728,
+        11,
+        6728,
+        259,
+        6,
+        322,
+        13,
+        34017,
+        11,
+        6728,
+        11,
+        6728,
+        259,
+        6,
+        322,
+        13,
+        50572
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.29542041960216703,
+      "compression_ratio": 1.8275862068965518,
+      "no_speech_prob": 0.12830626964569092,
+      "confidence": 0.956,
+      "words": [
+        {
+          "text": "Knock,",
+          "start": 112.37,
+          "end": 112.83,
+          "confidence": 0.995
+        },
+        {
+          "text": "knock,",
+          "start": 113.29,
+          "end": 113.41,
+          "confidence": 0.984
+        },
+        {
+          "text": "knockin'",
+          "start": 113.63,
+          "end": 114.21,
+          "confidence": 0.896
+        },
+        {
+          "text": "on.",
+          "start": 114.21,
+          "end": 114.25,
+          "confidence": 0.994
+        },
+        {
+          "text": "Knock,",
+          "start": 132.79,
+          "end": 133.39,
+          "confidence": 0.9
+        },
+        {
+          "text": "knock,",
+          "start": 133.89,
+          "end": 133.97,
+          "confidence": 0.987
+        },
+        {
+          "text": "knockin'",
+          "start": 134.29,
+          "end": 134.75,
+          "confidence": 0.978
+        },
+        {
+          "text": "on.",
+          "start": 134.75,
+          "end": 134.77,
+          "confidence": 0.996
         }
       ]
     }
   ],
-  "language": "en",
+  "language": "no",
   "language_probs": {
-    "en": 0.9853917956352234,
-    "zh": 0.000291720061795786,
-    "de": 0.00037751378840766847,
-    "es": 0.0005282367928884923,
-    "ru": 0.00036022617132402956,
-    "ko": 0.00030571999377571046,
-    "fr": 0.0004553685721475631,
-    "ja": 0.00021011807257309556,
-    "pt": 0.0011811362346634269,
-    "tr": 8.037732914090157e-05,
-    "pl": 9.619906631996855e-05,
-    "ca": 3.909050974471029e-06,
-    "nl": 0.00013996880443301052,
-    "ar": 0.00015134236309677362,
-    "sv": 0.0001048317935783416,
-    "it": 0.00012352204066701233,
-    "id": 1.7247542928089388e-05,
-    "hi": 3.8867936382303014e-05,
-    "fi": 7.476255632354878e-06,
-    "vi": 0.00020049606973771006,
-    "he": 3.5389657568885013e-05,
-    "uk": 2.2146283299662173e-05,
-    "el": 0.00011423922114772722,
-    "ms": 4.9519032472744584e-05,
-    "cs": 1.3432399100565817e-05,
-    "ro": 2.0804505766136572e-05,
-    "da": 0.00010648265015333891,
-    "hu": 9.37732602324104e-06,
-    "ta": 7.774076038913336e-06,
-    "no": 3.566722443792969e-05,
-    "th": 2.4322931494680233e-05,
-    "ur": 1.3750938705925364e-05,
-    "hr": 9.450873221794609e-06,
-    "bg": 7.1898448368301615e-06,
-    "lt": 8.587045385866077e-07,
-    "la": 0.0014026339631527662,
-    "mi": 0.0007746079936623573,
-    "ml": 4.980260200682096e-06,
-    "cy": 0.0013701419811695814,
-    "sk": 2.1757145987066906e-06,
-    "te": 8.083760803856421e-06,
-    "fa": 1.9655942651297664e-06,
-    "lv": 7.896499482740182e-06,
-    "bn": 2.158782990591135e-06,
-    "sr": 8.520220831087499e-07,
-    "az": 1.6452806050892832e-07,
-    "sl": 1.4984922927396838e-05,
-    "kn": 6.392870943727758e-08,
-    "et": 1.3586679870059015e-07,
-    "mk": 5.04806394019397e-07,
-    "br": 0.0002594611723907292,
-    "eu": 1.7346308140986366e-06,
-    "is": 3.8867936382303014e-05,
-    "hy": 5.901784447814862e-07,
-    "ne": 8.193816256607533e-07,
-    "mn": 1.8902935607911786e-06,
-    "bs": 6.054456662241137e-06,
-    "kk": 3.233910774724791e-07,
-    "sq": 4.293252459319774e-06,
-    "sw": 1.3121237316227052e-05,
-    "gl": 9.98211089608958e-06,
-    "mr": 8.910360804748052e-08,
-    "pa": 3.4559539585643506e-07,
-    "si": 2.8215095881023444e-05,
-    "km": 0.0006371751660481095,
-    "sn": 0.00037166097899898887,
-    "yo": 3.7378926208475605e-05,
-    "so": 5.685937765065319e-08,
-    "af": 1.7113321518991143e-05,
-    "oc": 4.864893071498955e-06,
-    "ka": 5.532569247179708e-08,
-    "be": 9.069728434951685e-07,
-    "tg": 5.056422835991725e-09,
-    "sd": 2.7289574973110575e-06,
-    "gu": 1.667680216144163e-08,
-    "am": 2.582953584351344e-08,
-    "yi": 0.00018113310215994716,
-    "lo": 1.003927309284336e-06,
-    "uz": 7.354855613428413e-11,
-    "fo": 1.4523885511152912e-05,
-    "ht": 2.1973939510644414e-05,
-    "ps": 1.9614661539435474e-07,
-    "tk": 1.3769596574064735e-09,
-    "nn": 0.0008709152461960912,
-    "mt": 9.1408622893141e-07,
-    "sa": 1.4187440683599561e-05,
-    "lb": 7.42925010399631e-09,
-    "my": 1.3327866327017546e-05,
-    "bo": 2.9971733965794556e-06,
-    "tl": 3.350625411258079e-05,
-    "mg": 7.611724028855349e-10,
-    "as": 2.578298392563738e-07,
-    "tt": 4.453570401352636e-09,
-    "haw": 0.0029462683014571667,
-    "ln": 1.9310563459384866e-07,
-    "ha": 2.841941570963513e-09,
-    "ba": 2.116080421998845e-09,
-    "jw": 0.00033315474865958095,
-    "su": 6.672556285280962e-09
+    "en": 0.0011056318180635571,
+    "zh": 2.534628947614692e-06,
+    "de": 0.00011836786143248901,
+    "es": 2.923479951277841e-05,
+    "ru": 0.00015080456796567887,
+    "ko": 1.8438156985212117e-05,
+    "fr": 1.8510321751818992e-05,
+    "ja": 1.6592544852755964e-05,
+    "pt": 9.678346032160334e-06,
+    "tr": 3.5047412438871106e-07,
+    "pl": 7.746450137346983e-06,
+    "ca": 3.6165336041449336e-06,
+    "nl": 1.2695227269432507e-06,
+    "ar": 1.6493145267304499e-06,
+    "sv": 1.734972840949922e-07,
+    "it": 3.724609996424988e-05,
+    "id": 1.1926063052669633e-06,
+    "hi": 2.7463554943096824e-05,
+    "fi": 4.866577910433989e-06,
+    "vi": 4.62561683889362e-06,
+    "he": 1.7420234144083224e-06,
+    "uk": 3.1610357837053016e-05,
+    "el": 1.0182518053625245e-05,
+    "ms": 4.772450211021351e-06,
+    "cs": 2.44265902438201e-05,
+    "ro": 8.328218973474577e-05,
+    "da": 9.36087360514648e-07,
+    "hu": 9.417289220436942e-06,
+    "ta": 1.3228730495029595e-05,
+    "no": 0.9973527193069458,
+    "th": 5.417657575890189e-07,
+    "ur": 4.39658697359846e-06,
+    "hr": 8.474642527289689e-06,
+    "bg": 5.429060365713667e-06,
+    "lt": 1.458578208257677e-05,
+    "la": 0.00011294740397715941,
+    "mi": 4.857807289226912e-05,
+    "ml": 1.2945617982040858e-06,
+    "cy": 4.05884966312442e-05,
+    "sk": 2.4470689368172316e-06,
+    "te": 2.8781556466128677e-05,
+    "fa": 4.0103651599565637e-07,
+    "lv": 1.887540565803647e-05,
+    "bn": 3.491599045446492e-06,
+    "sr": 5.429060365713667e-06,
+    "az": 3.0212760293579777e-07,
+    "sl": 1.1448511941125616e-05,
+    "kn": 5.040711585024837e-06,
+    "et": 2.4566468255216023e-06,
+    "mk": 1.0943970210064435e-06,
+    "br": 1.614498978597112e-05,
+    "eu": 1.0200900533163804e-06,
+    "is": 4.7353096306324005e-06,
+    "hy": 1.7284667137573706e-06,
+    "ne": 4.362372237665113e-06,
+    "mn": 5.060440344095696e-06,
+    "bs": 2.1095054307807004e-06,
+    "kk": 1.279479761251423e-06,
+    "sq": 5.734230398957152e-06,
+    "sw": 1.333248565060785e-05,
+    "gl": 2.534628947614692e-06,
+    "mr": 7.290256007763674e-07,
+    "pa": 1.9781255105044693e-05,
+    "si": 5.547790351556614e-05,
+    "km": 0.0001438987092114985,
+    "sn": 4.52797430625651e-05,
+    "yo": 7.961190931382589e-06,
+    "so": 8.228735737247916e-07,
+    "af": 2.6827359761227854e-05,
+    "oc": 1.1926063052669633e-06,
+    "ka": 6.887779591124854e-08,
+    "be": 1.0816468147822889e-06,
+    "tg": 7.120313938457912e-08,
+    "sd": 1.0302546797902323e-05,
+    "gu": 8.118209734675474e-06,
+    "am": 3.86484725822811e-06,
+    "yi": 6.497733465948841e-06,
+    "lo": 8.325732778757811e-07,
+    "uz": 6.308248856612408e-08,
+    "fo": 2.21939535549609e-06,
+    "ht": 7.0808287091495e-06,
+    "ps": 2.5145291715489293e-07,
+    "tk": 7.170272375844888e-09,
+    "nn": 1.6884268916328438e-06,
+    "mt": 1.9739709387067705e-06,
+    "sa": 8.574540515837725e-06,
+    "lb": 2.0526051685010316e-06,
+    "my": 1.62081796588609e-05,
+    "bo": 6.703994131385116e-06,
+    "tl": 3.0454266379820183e-06,
+    "mg": 5.621641108177755e-08,
+    "as": 5.324052381183719e-06,
+    "tt": 1.2695227269432507e-06,
+    "haw": 0.00011562588042579591,
+    "ln": 3.651479403288249e-07,
+    "ha": 3.31871797243366e-06,
+    "ba": 2.65029402868322e-08,
+    "jw": 2.349082387809176e-05,
+    "su": 7.551112162218487e-07
   },
   "speech_activity": [
     {

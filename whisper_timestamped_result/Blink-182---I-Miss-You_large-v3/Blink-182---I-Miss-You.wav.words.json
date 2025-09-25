@@ -1,21 +1,21 @@
 {
-  "text": " Hello there, the angel from the nightmare, the shadow in the background of the morgue, the unsuspected victim of darkness in the valley. We can live like Jack and Sally if we want, where you can always find me. And we'll have Halloween on Christmas, and in the night we'll wish this never ends. We'll wish this never ends. I miss you, I miss you. Where are you? And I'm so sorry. I cannot sleep, I cannot dream tonight. I need somebody and always. This sick, strange darkness comes creeping on so hot in every time, and as I said I can't The webs from all the spiders, catching things and eating their insides like indecision to call you. And hear your voice of treason, will you come home and stop this pain tonight? Stop this pain tonight. Don't waste your time on me, you're already the voice inside my head. Don't waste your time on me, you're already the voice inside my head. And don't waste your time on me, you're already the voice inside my head. And don't waste your time on me, you're already the voice inside my head. Don't waste your time on me, you're already the voice inside my head. Don't waste your time on me, you're already the voice inside my head. I miss you, I miss you, I miss you, I miss you.",
+  "text": " Hello there, the angel from a nightmare, the shadow in the background of the morgue, the unsuspected victim of darkness in the valley. We can live like Jack and Sally if we want, where you can always find me. And we'll have Halloween on Christmas, and in the night, we'll wish this never ends, we'll wish this never ends. I miss you, I miss you. Where are you? And I'm so sorry. I cannot sleep, I cannot dream tonight. I need somebody and always. This sick, strange darkness comes creeping in. I'm so haughten every time, and as I stared, I counted. The webs from all the spiders, catching things and eating their insides, like indecision to call you. And hear your voice of treason. Will you come home and stop this pain tonight? Stop this pain tonight. Don't waste your time on me. You're already dead. You're already the voice inside my head. Don't waste your time on me. You're already the voice inside my head. And don't waste your time on me. You're already the voice inside my head. And don't waste your time on me. You're already the voice inside. My head. Don't waste your time on me. You're already the voice inside my head. Don't waste your time on me. You're already the voice inside my head. I miss you, miss you. I miss you, miss you. I miss you, miss you. I miss you, miss you. I miss you, miss you. I miss you, miss you. I miss you, miss you. I miss you, miss you. I miss you, miss you. I miss you, miss you. I miss you, miss you. I miss you, miss you. I miss you, miss you. I miss you, miss you. I miss you, miss you. I miss you, miss you. I miss you, miss you. I miss you, miss you. I miss you, miss you. I miss you. I miss you. I miss you. I miss you. I miss you. I miss you. I miss you. I miss you. I miss you. I miss you. I miss you. I miss you. I miss you. I miss you. I miss you. I miss you. I miss you. I miss you. I miss you. I miss you. I miss you. I miss you. I miss you. I miss you. I miss you. I miss you. I miss you. I miss you. I miss you. I miss you.",
   "segments": [
     {
       "id": 0,
       "seek": 0,
-      "start": 13.62,
-      "end": 22.34,
-      "text": " Hello there, the angel from the nightmare, the shadow in the background of the morgue,",
+      "start": 13.26,
+      "end": 35.97,
+      "text": " Hello there, the angel from a nightmare, the shadow in the background of the morgue, the unsuspected victim of darkness in the valley. We can live like Jack and Sally if we want, where you can always find me.",
       "tokens": [
-        50364,
+        50365,
         2425,
         456,
         11,
         264,
         14250,
         490,
-        264,
+        257,
         18724,
         11,
         264,
@@ -28,114 +28,6 @@
         1896,
         11929,
         11,
-        50820
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.20731970551726106,
-      "compression_ratio": 1.5233160621761659,
-      "no_speech_prob": 0.07869067043066025,
-      "confidence": 0.819,
-      "words": [
-        {
-          "text": "Hello",
-          "start": 13.62,
-          "end": 14.04,
-          "confidence": 0.605
-        },
-        {
-          "text": "there,",
-          "start": 14.04,
-          "end": 14.56,
-          "confidence": 0.795
-        },
-        {
-          "text": "the",
-          "start": 16.52,
-          "end": 16.66,
-          "confidence": 0.704
-        },
-        {
-          "text": "angel",
-          "start": 16.66,
-          "end": 17.14,
-          "confidence": 0.866
-        },
-        {
-          "text": "from",
-          "start": 17.14,
-          "end": 17.54,
-          "confidence": 0.992
-        },
-        {
-          "text": "the",
-          "start": 17.54,
-          "end": 17.84,
-          "confidence": 0.469
-        },
-        {
-          "text": "nightmare,",
-          "start": 17.84,
-          "end": 18.26,
-          "confidence": 0.84
-        },
-        {
-          "text": "the",
-          "start": 19.02,
-          "end": 19.38,
-          "confidence": 0.571
-        },
-        {
-          "text": "shadow",
-          "start": 19.38,
-          "end": 19.74,
-          "confidence": 0.989
-        },
-        {
-          "text": "in",
-          "start": 19.74,
-          "end": 20.5,
-          "confidence": 0.955
-        },
-        {
-          "text": "the",
-          "start": 20.5,
-          "end": 20.68,
-          "confidence": 0.997
-        },
-        {
-          "text": "background",
-          "start": 20.68,
-          "end": 21.22,
-          "confidence": 0.984
-        },
-        {
-          "text": "of",
-          "start": 21.22,
-          "end": 21.66,
-          "confidence": 0.975
-        },
-        {
-          "text": "the",
-          "start": 21.66,
-          "end": 21.8,
-          "confidence": 0.989
-        },
-        {
-          "text": "morgue,",
-          "start": 21.8,
-          "end": 22.34,
-          "confidence": 0.834
-        }
-      ]
-    },
-    {
-      "id": 1,
-      "seek": 0,
-      "start": 23.1,
-      "end": 29.05,
-      "text": " the unsuspected victim of darkness in the valley.",
-      "tokens": [
-        50820,
         264,
         2693,
         301,
@@ -147,72 +39,6 @@
         264,
         17636,
         13,
-        51111
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.20731970551726106,
-      "compression_ratio": 1.5233160621761659,
-      "no_speech_prob": 0.07869067043066025,
-      "confidence": 0.919,
-      "words": [
-        {
-          "text": "the",
-          "start": 23.1,
-          "end": 23.28,
-          "confidence": 0.953
-        },
-        {
-          "text": "unsuspected",
-          "start": 23.28,
-          "end": 24.38,
-          "confidence": 0.982
-        },
-        {
-          "text": "victim",
-          "start": 24.38,
-          "end": 25.12,
-          "confidence": 0.986
-        },
-        {
-          "text": "of",
-          "start": 25.12,
-          "end": 25.87,
-          "confidence": 0.512
-        },
-        {
-          "text": "darkness",
-          "start": 27.19,
-          "end": 27.77,
-          "confidence": 0.989
-        },
-        {
-          "text": "in",
-          "start": 27.77,
-          "end": 28.27,
-          "confidence": 0.991
-        },
-        {
-          "text": "the",
-          "start": 28.27,
-          "end": 28.51,
-          "confidence": 0.996
-        },
-        {
-          "text": "valley.",
-          "start": 28.51,
-          "end": 29.05,
-          "confidence": 0.966
-        }
-      ]
-    },
-    {
-      "id": 2,
-      "seek": 0,
-      "start": 29.55,
-      "end": 36.07,
-      "text": " We can live like Jack and Sally if we want, where you can always find me.",
-      "tokens": [
-        51111,
         492,
         393,
         1621,
@@ -231,120 +57,258 @@
         915,
         385,
         13,
-        51494
+        51448
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.20731970551726106,
-      "compression_ratio": 1.5233160621761659,
-      "no_speech_prob": 0.07869067043066025,
-      "confidence": 0.974,
+      "avg_logprob": -0.1524284161054171,
+      "compression_ratio": 1.4054054054054055,
+      "no_speech_prob": 0.02422214299440384,
+      "confidence": 0.948,
       "words": [
         {
+          "text": "Hello",
+          "start": 13.26,
+          "end": 13.9,
+          "confidence": 0.895
+        },
+        {
+          "text": "there,",
+          "start": 13.9,
+          "end": 14.46,
+          "confidence": 0.977
+        },
+        {
+          "text": "the",
+          "start": 14.64,
+          "end": 15.22,
+          "confidence": 0.973
+        },
+        {
+          "text": "angel",
+          "start": 16.52,
+          "end": 17.02,
+          "confidence": 0.989
+        },
+        {
+          "text": "from",
+          "start": 17.02,
+          "end": 17.46,
+          "confidence": 0.999
+        },
+        {
+          "text": "a",
+          "start": 17.46,
+          "end": 17.78,
+          "confidence": 0.5
+        },
+        {
+          "text": "nightmare,",
+          "start": 17.78,
+          "end": 18.18,
+          "confidence": 0.996
+        },
+        {
+          "text": "the",
+          "start": 18.66,
+          "end": 19.24,
+          "confidence": 0.788
+        },
+        {
+          "text": "shadow",
+          "start": 19.24,
+          "end": 19.68,
+          "confidence": 1.0
+        },
+        {
+          "text": "in",
+          "start": 19.68,
+          "end": 20.38,
+          "confidence": 0.998
+        },
+        {
+          "text": "the",
+          "start": 20.38,
+          "end": 20.54,
+          "confidence": 1.0
+        },
+        {
+          "text": "background",
+          "start": 20.54,
+          "end": 20.9,
+          "confidence": 0.995
+        },
+        {
+          "text": "of",
+          "start": 20.9,
+          "end": 21.6,
+          "confidence": 0.998
+        },
+        {
+          "text": "the",
+          "start": 21.6,
+          "end": 21.76,
+          "confidence": 0.997
+        },
+        {
+          "text": "morgue,",
+          "start": 21.76,
+          "end": 22.28,
+          "confidence": 0.986
+        },
+        {
+          "text": "the",
+          "start": 22.32,
+          "end": 23.18,
+          "confidence": 0.93
+        },
+        {
+          "text": "unsuspected",
+          "start": 23.18,
+          "end": 24.28,
+          "confidence": 0.928
+        },
+        {
+          "text": "victim",
+          "start": 24.28,
+          "end": 24.94,
+          "confidence": 0.997
+        },
+        {
+          "text": "of",
+          "start": 24.94,
+          "end": 25.87,
+          "confidence": 0.751
+        },
+        {
+          "text": "darkness",
+          "start": 26.81,
+          "end": 27.61,
+          "confidence": 0.998
+        },
+        {
+          "text": "in",
+          "start": 27.61,
+          "end": 28.11,
+          "confidence": 0.999
+        },
+        {
+          "text": "the",
+          "start": 28.11,
+          "end": 28.37,
+          "confidence": 1.0
+        },
+        {
+          "text": "valley.",
+          "start": 28.37,
+          "end": 28.93,
+          "confidence": 0.999
+        },
+        {
           "text": "We",
-          "start": 29.55,
-          "end": 29.71,
-          "confidence": 0.991
+          "start": 29.17,
+          "end": 29.59,
+          "confidence": 0.621
         },
         {
           "text": "can",
-          "start": 29.71,
-          "end": 29.89,
-          "confidence": 0.996
+          "start": 29.59,
+          "end": 29.83,
+          "confidence": 1.0
         },
         {
           "text": "live",
-          "start": 29.89,
-          "end": 30.23,
-          "confidence": 0.993
+          "start": 29.83,
+          "end": 30.07,
+          "confidence": 1.0
         },
         {
           "text": "like",
-          "start": 30.23,
-          "end": 30.59,
-          "confidence": 0.992
+          "start": 30.07,
+          "end": 30.53,
+          "confidence": 1.0
         },
         {
           "text": "Jack",
-          "start": 30.59,
-          "end": 30.93,
-          "confidence": 0.921
+          "start": 30.53,
+          "end": 30.87,
+          "confidence": 0.998
         },
         {
           "text": "and",
-          "start": 30.93,
-          "end": 31.17,
-          "confidence": 0.924
+          "start": 30.87,
+          "end": 31.05,
+          "confidence": 1.0
         },
         {
           "text": "Sally",
-          "start": 31.17,
-          "end": 31.71,
-          "confidence": 0.974
+          "start": 31.05,
+          "end": 31.65,
+          "confidence": 1.0
         },
         {
           "text": "if",
-          "start": 31.71,
-          "end": 32.09,
-          "confidence": 0.88
+          "start": 31.65,
+          "end": 31.97,
+          "confidence": 0.995
         },
         {
           "text": "we",
-          "start": 32.09,
-          "end": 32.31,
-          "confidence": 0.996
+          "start": 31.97,
+          "end": 32.21,
+          "confidence": 1.0
         },
         {
           "text": "want,",
-          "start": 32.31,
-          "end": 32.69,
-          "confidence": 0.994
+          "start": 32.21,
+          "end": 32.63,
+          "confidence": 1.0
         },
         {
           "text": "where",
-          "start": 33.71,
-          "end": 33.97,
-          "confidence": 0.968
+          "start": 32.87,
+          "end": 33.79,
+          "confidence": 0.992
         },
         {
           "text": "you",
-          "start": 33.97,
-          "end": 34.27,
-          "confidence": 0.995
+          "start": 33.79,
+          "end": 34.17,
+          "confidence": 1.0
         },
         {
           "text": "can",
-          "start": 34.27,
+          "start": 34.17,
           "end": 34.55,
-          "confidence": 0.995
+          "confidence": 1.0
         },
         {
           "text": "always",
           "start": 34.55,
-          "end": 35.15,
-          "confidence": 0.987
+          "end": 35.07,
+          "confidence": 0.999
         },
         {
           "text": "find",
-          "start": 35.15,
-          "end": 35.65,
-          "confidence": 0.998
+          "start": 35.07,
+          "end": 35.59,
+          "confidence": 1.0
         },
         {
           "text": "me.",
-          "start": 35.65,
-          "end": 36.07,
-          "confidence": 0.998
+          "start": 35.59,
+          "end": 35.97,
+          "confidence": 1.0
         }
       ]
     },
     {
-      "id": 3,
-      "seek": 0,
-      "start": 37.23,
-      "end": 43.61,
-      "text": " And we'll have Halloween on Christmas, and in the night we'll wish this never ends.",
+      "id": 1,
+      "seek": 2166,
+      "start": 36.75,
+      "end": 69.59,
+      "text": " And we'll have Halloween on Christmas, and in the night, we'll wish this never ends, we'll wish this never ends. I miss you, I miss you. Where are you? And I'm so sorry.",
       "tokens": [
-        51494,
+        50365,
         400,
         321,
         603,
@@ -357,6 +321,14 @@
         294,
         264,
         1818,
+        11,
+        321,
+        603,
+        3172,
+        341,
+        1128,
+        5314,
+        11,
         321,
         603,
         3172,
@@ -364,169 +336,6 @@
         1128,
         5314,
         13,
-        51862
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.20731970551726106,
-      "compression_ratio": 1.5233160621761659,
-      "no_speech_prob": 0.07869067043066025,
-      "confidence": 0.949,
-      "words": [
-        {
-          "text": "And",
-          "start": 37.23,
-          "end": 37.41,
-          "confidence": 0.783
-        },
-        {
-          "text": "we'll",
-          "start": 37.41,
-          "end": 37.81,
-          "confidence": 0.988
-        },
-        {
-          "text": "have",
-          "start": 37.81,
-          "end": 38.05,
-          "confidence": 0.995
-        },
-        {
-          "text": "Halloween",
-          "start": 38.05,
-          "end": 38.73,
-          "confidence": 0.919
-        },
-        {
-          "text": "on",
-          "start": 38.73,
-          "end": 39.23,
-          "confidence": 0.995
-        },
-        {
-          "text": "Christmas,",
-          "start": 39.23,
-          "end": 39.75,
-          "confidence": 0.996
-        },
-        {
-          "text": "and",
-          "start": 40.49,
-          "end": 40.61,
-          "confidence": 0.991
-        },
-        {
-          "text": "in",
-          "start": 40.61,
-          "end": 40.73,
-          "confidence": 0.986
-        },
-        {
-          "text": "the",
-          "start": 40.73,
-          "end": 40.87,
-          "confidence": 0.997
-        },
-        {
-          "text": "night",
-          "start": 40.87,
-          "end": 41.25,
-          "confidence": 0.996
-        },
-        {
-          "text": "we'll",
-          "start": 41.25,
-          "end": 42.19,
-          "confidence": 0.788
-        },
-        {
-          "text": "wish",
-          "start": 42.19,
-          "end": 42.45,
-          "confidence": 0.997
-        },
-        {
-          "text": "this",
-          "start": 42.45,
-          "end": 42.75,
-          "confidence": 0.993
-        },
-        {
-          "text": "never",
-          "start": 42.75,
-          "end": 43.09,
-          "confidence": 0.997
-        },
-        {
-          "text": "ends.",
-          "start": 43.09,
-          "end": 43.61,
-          "confidence": 0.99
-        }
-      ]
-    },
-    {
-      "id": 4,
-      "seek": 2996,
-      "start": 44.75,
-      "end": 46.37,
-      "text": " We'll wish this never ends.",
-      "tokens": [
-        50364,
-        492,
-        603,
-        3172,
-        341,
-        1128,
-        5314,
-        13,
-        50482
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.4399606283608969,
-      "compression_ratio": 1.4578313253012047,
-      "no_speech_prob": 0.007911386899650097,
-      "confidence": 0.854,
-      "words": [
-        {
-          "text": "We'll",
-          "start": 44.75,
-          "end": 44.93,
-          "confidence": 0.715
-        },
-        {
-          "text": "wish",
-          "start": 44.93,
-          "end": 45.11,
-          "confidence": 0.785
-        },
-        {
-          "text": "this",
-          "start": 45.11,
-          "end": 45.43,
-          "confidence": 0.992
-        },
-        {
-          "text": "never",
-          "start": 45.43,
-          "end": 45.83,
-          "confidence": 0.997
-        },
-        {
-          "text": "ends.",
-          "start": 45.83,
-          "end": 46.37,
-          "confidence": 0.977
-        }
-      ]
-    },
-    {
-      "id": 5,
-      "seek": 2996,
-      "start": 54.9,
-      "end": 57.12,
-      "text": " I miss you, I miss you.",
-      "tokens": [
-        50482,
         286,
         1713,
         291,
@@ -535,148 +344,232 @@
         1713,
         291,
         13,
-        50652
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.4399606283608969,
-      "compression_ratio": 1.4578313253012047,
-      "no_speech_prob": 0.007911386899650097,
-      "confidence": 0.766,
-      "words": [
-        {
-          "text": "I",
-          "start": 54.9,
-          "end": 54.96,
-          "confidence": 0.431
-        },
-        {
-          "text": "miss",
-          "start": 54.96,
-          "end": 55.46,
-          "confidence": 0.713
-        },
-        {
-          "text": "you,",
-          "start": 55.46,
-          "end": 55.76,
-          "confidence": 0.997
-        },
-        {
-          "text": "I",
-          "start": 56.16,
-          "end": 56.2,
-          "confidence": 0.662
-        },
-        {
-          "text": "miss",
-          "start": 56.2,
-          "end": 56.64,
-          "confidence": 0.994
-        },
-        {
-          "text": "you.",
-          "start": 56.64,
-          "end": 57.12,
-          "confidence": 0.999
-        }
-      ]
-    },
-    {
-      "id": 6,
-      "seek": 2996,
-      "start": 66.21,
-      "end": 67.25,
-      "text": " Where are you?",
-      "tokens": [
-        50652,
         2305,
         366,
         291,
         30,
-        50702
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.4399606283608969,
-      "compression_ratio": 1.4578313253012047,
-      "no_speech_prob": 0.007911386899650097,
-      "confidence": 0.998,
-      "words": [
-        {
-          "text": "Where",
-          "start": 66.21,
-          "end": 66.51,
-          "confidence": 0.997
-        },
-        {
-          "text": "are",
-          "start": 66.51,
-          "end": 66.83,
-          "confidence": 0.997
-        },
-        {
-          "text": "you?",
-          "start": 66.83,
-          "end": 67.25,
-          "confidence": 0.999
-        }
-      ]
-    },
-    {
-      "id": 7,
-      "seek": 2996,
-      "start": 67.31,
-      "end": 69.71,
-      "text": " And I'm so sorry.",
-      "tokens": [
-        50702,
         400,
         286,
         478,
         370,
         2597,
         13,
-        50884
+        51246
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.4399606283608969,
-      "compression_ratio": 1.4578313253012047,
-      "no_speech_prob": 0.007911386899650097,
-      "confidence": 0.976,
+      "avg_logprob": -0.1763196796565861,
+      "compression_ratio": 1.569060773480663,
+      "no_speech_prob": 0.00036241591442376375,
+      "confidence": 0.967,
       "words": [
         {
           "text": "And",
-          "start": 67.31,
-          "end": 68.57,
-          "confidence": 0.96
+          "start": 36.75,
+          "end": 37.25,
+          "confidence": 0.998
+        },
+        {
+          "text": "we'll",
+          "start": 37.25,
+          "end": 37.77,
+          "confidence": 1.0
+        },
+        {
+          "text": "have",
+          "start": 37.77,
+          "end": 37.99,
+          "confidence": 1.0
+        },
+        {
+          "text": "Halloween",
+          "start": 37.99,
+          "end": 38.43,
+          "confidence": 1.0
+        },
+        {
+          "text": "on",
+          "start": 38.43,
+          "end": 39.09,
+          "confidence": 0.998
+        },
+        {
+          "text": "Christmas,",
+          "start": 39.09,
+          "end": 39.73,
+          "confidence": 1.0
+        },
+        {
+          "text": "and",
+          "start": 39.93,
+          "end": 40.47,
+          "confidence": 1.0
+        },
+        {
+          "text": "in",
+          "start": 40.47,
+          "end": 40.61,
+          "confidence": 1.0
+        },
+        {
+          "text": "the",
+          "start": 40.61,
+          "end": 40.75,
+          "confidence": 1.0
+        },
+        {
+          "text": "night,",
+          "start": 40.75,
+          "end": 41.19,
+          "confidence": 1.0
+        },
+        {
+          "text": "we'll",
+          "start": 41.33,
+          "end": 42.11,
+          "confidence": 0.998
+        },
+        {
+          "text": "wish",
+          "start": 42.11,
+          "end": 42.39,
+          "confidence": 1.0
+        },
+        {
+          "text": "this",
+          "start": 42.39,
+          "end": 42.71,
+          "confidence": 1.0
+        },
+        {
+          "text": "never",
+          "start": 42.71,
+          "end": 43.05,
+          "confidence": 1.0
+        },
+        {
+          "text": "ends,",
+          "start": 43.05,
+          "end": 43.51,
+          "confidence": 1.0
+        },
+        {
+          "text": "we'll",
+          "start": 43.83,
+          "end": 44.85,
+          "confidence": 1.0
+        },
+        {
+          "text": "wish",
+          "start": 44.85,
+          "end": 45.07,
+          "confidence": 0.999
+        },
+        {
+          "text": "this",
+          "start": 45.07,
+          "end": 45.33,
+          "confidence": 1.0
+        },
+        {
+          "text": "never",
+          "start": 45.33,
+          "end": 45.77,
+          "confidence": 1.0
+        },
+        {
+          "text": "ends.",
+          "start": 45.77,
+          "end": 46.35,
+          "confidence": 1.0
+        },
+        {
+          "text": "I",
+          "start": 46.61,
+          "end": 46.99,
+          "confidence": 0.541
+        },
+        {
+          "text": "miss",
+          "start": 54.82,
+          "end": 55.12,
+          "confidence": 0.966
+        },
+        {
+          "text": "you,",
+          "start": 55.12,
+          "end": 55.7,
+          "confidence": 1.0
+        },
+        {
+          "text": "I",
+          "start": 55.74,
+          "end": 55.96,
+          "confidence": 0.566
+        },
+        {
+          "text": "miss",
+          "start": 55.96,
+          "end": 56.54,
+          "confidence": 1.0
+        },
+        {
+          "text": "you.",
+          "start": 56.54,
+          "end": 57.04,
+          "confidence": 1.0
+        },
+        {
+          "text": "Where",
+          "start": 57.12,
+          "end": 57.71,
+          "confidence": 0.985
+        },
+        {
+          "text": "are",
+          "start": 66.29,
+          "end": 66.79,
+          "confidence": 1.0
+        },
+        {
+          "text": "you?",
+          "start": 66.79,
+          "end": 67.19,
+          "confidence": 1.0
+        },
+        {
+          "text": "And",
+          "start": 67.25,
+          "end": 68.37,
+          "confidence": 0.997
         },
         {
           "text": "I'm",
-          "start": 68.57,
-          "end": 68.81,
-          "confidence": 0.964
+          "start": 68.37,
+          "end": 68.79,
+          "confidence": 1.0
         },
         {
           "text": "so",
-          "start": 68.81,
-          "end": 69.09,
-          "confidence": 0.996
+          "start": 68.79,
+          "end": 69.03,
+          "confidence": 1.0
         },
         {
           "text": "sorry.",
-          "start": 69.09,
-          "end": 69.71,
-          "confidence": 0.998
+          "start": 69.03,
+          "end": 69.59,
+          "confidence": 1.0
         }
       ]
     },
     {
-      "id": 8,
-      "seek": 2996,
-      "start": 71.54,
-      "end": 74.8,
-      "text": " I cannot sleep, I cannot dream tonight.",
+      "id": 2,
+      "seek": 2166,
+      "start": 69.59,
+      "end": 77.58,
+      "text": " I cannot sleep, I cannot dream tonight. I need somebody and always.",
       "tokens": [
-        50884,
+        51246,
         286,
         2644,
         2817,
@@ -686,120 +579,102 @@
         3055,
         4440,
         13,
-        51068
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.4399606283608969,
-      "compression_ratio": 1.4578313253012047,
-      "no_speech_prob": 0.007911386899650097,
-      "confidence": 0.966,
-      "words": [
-        {
-          "text": "I",
-          "start": 71.54,
-          "end": 71.82,
-          "confidence": 0.998
-        },
-        {
-          "text": "cannot",
-          "start": 71.82,
-          "end": 72.26,
-          "confidence": 0.943
-        },
-        {
-          "text": "sleep,",
-          "start": 72.26,
-          "end": 72.8,
-          "confidence": 0.999
-        },
-        {
-          "text": "I",
-          "start": 73.0,
-          "end": 73.16,
-          "confidence": 0.995
-        },
-        {
-          "text": "cannot",
-          "start": 73.16,
-          "end": 73.58,
-          "confidence": 0.991
-        },
-        {
-          "text": "dream",
-          "start": 73.58,
-          "end": 74.18,
-          "confidence": 0.998
-        },
-        {
-          "text": "tonight.",
-          "start": 74.18,
-          "end": 74.8,
-          "confidence": 0.847
-        }
-      ]
-    },
-    {
-      "id": 9,
-      "seek": 2996,
-      "start": 75.6,
-      "end": 77.82,
-      "text": " I need somebody and always.",
-      "tokens": [
-        51068,
         286,
         643,
         2618,
         293,
         1009,
         13,
-        51266
+        51636
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.4399606283608969,
-      "compression_ratio": 1.4578313253012047,
-      "no_speech_prob": 0.007911386899650097,
-      "confidence": 0.857,
+      "avg_logprob": -0.1763196796565861,
+      "compression_ratio": 1.569060773480663,
+      "no_speech_prob": 0.00036241591442376375,
+      "confidence": 0.994,
       "words": [
         {
           "text": "I",
-          "start": 75.6,
-          "end": 75.8,
-          "confidence": 0.996
+          "start": 69.59,
+          "end": 70.55,
+          "confidence": 0.992
+        },
+        {
+          "text": "cannot",
+          "start": 71.6,
+          "end": 71.9,
+          "confidence": 0.991
+        },
+        {
+          "text": "sleep,",
+          "start": 71.9,
+          "end": 72.74,
+          "confidence": 0.999
+        },
+        {
+          "text": "I",
+          "start": 72.82,
+          "end": 73.06,
+          "confidence": 1.0
+        },
+        {
+          "text": "cannot",
+          "start": 73.06,
+          "end": 73.46,
+          "confidence": 1.0
+        },
+        {
+          "text": "dream",
+          "start": 73.46,
+          "end": 74.1,
+          "confidence": 0.999
+        },
+        {
+          "text": "tonight.",
+          "start": 74.1,
+          "end": 74.7,
+          "confidence": 0.999
+        },
+        {
+          "text": "I",
+          "start": 74.94,
+          "end": 75.64,
+          "confidence": 0.999
         },
         {
           "text": "need",
-          "start": 75.8,
-          "end": 76.14,
-          "confidence": 0.993
+          "start": 75.64,
+          "end": 75.94,
+          "confidence": 1.0
         },
         {
           "text": "somebody",
-          "start": 76.14,
-          "end": 76.84,
-          "confidence": 0.889
+          "start": 75.94,
+          "end": 76.8,
+          "confidence": 0.999
         },
         {
           "text": "and",
-          "start": 76.84,
-          "end": 77.28,
-          "confidence": 0.535
+          "start": 76.8,
+          "end": 77.08,
+          "confidence": 0.948
         },
         {
           "text": "always.",
-          "start": 77.28,
-          "end": 77.82,
-          "confidence": 0.983
+          "start": 77.08,
+          "end": 77.58,
+          "confidence": 1.0
         }
       ]
     },
     {
-      "id": 10,
-      "seek": 2996,
-      "start": 79.21,
-      "end": 88.53,
-      "text": " This sick, strange darkness comes creeping on so hot in every time, and as I said I can't",
+      "id": 3,
+      "seek": 2166,
+      "start": 77.96,
+      "end": 83.05,
+      "text": " This sick, strange darkness comes creeping in.",
       "tokens": [
-        51266,
+        51636,
         639,
         4998,
         11,
@@ -807,146 +682,169 @@
         11262,
         1487,
         47753,
-        322,
-        370,
-        2368,
         294,
+        13,
+        51864
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1763196796565861,
+      "compression_ratio": 1.569060773480663,
+      "no_speech_prob": 0.00036241591442376375,
+      "confidence": 0.859,
+      "words": [
+        {
+          "text": "This",
+          "start": 77.96,
+          "end": 78.58,
+          "confidence": 0.707
+        },
+        {
+          "text": "sick,",
+          "start": 79.35,
+          "end": 79.79,
+          "confidence": 0.997
+        },
+        {
+          "text": "strange",
+          "start": 79.89,
+          "end": 80.63,
+          "confidence": 0.999
+        },
+        {
+          "text": "darkness",
+          "start": 80.63,
+          "end": 81.51,
+          "confidence": 0.998
+        },
+        {
+          "text": "comes",
+          "start": 81.51,
+          "end": 82.37,
+          "confidence": 0.881
+        },
+        {
+          "text": "creeping",
+          "start": 82.37,
+          "end": 82.85,
+          "confidence": 0.906
+        },
+        {
+          "text": "in.",
+          "start": 82.85,
+          "end": 83.05,
+          "confidence": 0.615
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 5164,
+      "start": 83.11,
+      "end": 88.27,
+      "text": " I'm so haughten every time, and as I stared, I counted.",
+      "tokens": [
+        50365,
+        286,
+        478,
+        370,
+        324,
+        1599,
+        268,
         633,
         565,
         11,
         293,
         382,
         286,
-        848,
+        44738,
+        11,
         286,
-        393,
-        380,
-        51746
+        20150,
+        13,
+        50637
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.4399606283608969,
-      "compression_ratio": 1.4578313253012047,
-      "no_speech_prob": 0.007911386899650097,
-      "confidence": 0.814,
+      "avg_logprob": -0.2548693295182853,
+      "compression_ratio": 1.5346534653465347,
+      "no_speech_prob": 0.008711461909115314,
+      "confidence": 0.793,
       "words": [
         {
-          "text": "This",
-          "start": 79.21,
-          "end": 79.55,
-          "confidence": 0.897
-        },
-        {
-          "text": "sick,",
-          "start": 79.55,
-          "end": 79.89,
-          "confidence": 0.938
-        },
-        {
-          "text": "strange",
-          "start": 79.99,
-          "end": 80.65,
-          "confidence": 0.999
-        },
-        {
-          "text": "darkness",
-          "start": 80.65,
-          "end": 81.61,
-          "confidence": 0.983
-        },
-        {
-          "text": "comes",
-          "start": 81.61,
-          "end": 82.41,
-          "confidence": 0.773
-        },
-        {
-          "text": "creeping",
-          "start": 82.41,
-          "end": 82.97,
-          "confidence": 0.693
-        },
-        {
-          "text": "on",
-          "start": 82.97,
-          "end": 83.41,
-          "confidence": 0.908
+          "text": "I'm",
+          "start": 83.11,
+          "end": 83.33,
+          "confidence": 0.61
         },
         {
           "text": "so",
-          "start": 83.41,
-          "end": 83.87,
-          "confidence": 0.821
+          "start": 83.33,
+          "end": 83.57,
+          "confidence": 0.715
         },
         {
-          "text": "hot",
-          "start": 83.87,
-          "end": 84.51,
-          "confidence": 0.955
-        },
-        {
-          "text": "in",
-          "start": 84.51,
-          "end": 84.81,
-          "confidence": 0.63
+          "text": "haughten",
+          "start": 83.57,
+          "end": 84.67,
+          "confidence": 0.548
         },
         {
           "text": "every",
-          "start": 84.81,
-          "end": 85.07,
-          "confidence": 0.992
+          "start": 84.67,
+          "end": 84.97,
+          "confidence": 0.996
         },
         {
           "text": "time,",
-          "start": 85.07,
-          "end": 85.65,
-          "confidence": 0.988
+          "start": 84.97,
+          "end": 85.57,
+          "confidence": 0.999
         },
         {
           "text": "and",
-          "start": 86.43,
-          "end": 86.65,
-          "confidence": 0.818
+          "start": 85.71,
+          "end": 86.45,
+          "confidence": 0.986
         },
         {
           "text": "as",
-          "start": 86.65,
-          "end": 86.97,
-          "confidence": 0.961
-        },
-        {
-          "text": "I",
-          "start": 86.97,
-          "end": 87.25,
+          "start": 86.45,
+          "end": 86.87,
           "confidence": 0.992
         },
         {
-          "text": "said",
-          "start": 87.25,
-          "end": 87.67,
-          "confidence": 0.595
+          "text": "I",
+          "start": 86.87,
+          "end": 87.15,
+          "confidence": 0.999
+        },
+        {
+          "text": "stared,",
+          "start": 87.15,
+          "end": 87.65,
+          "confidence": 0.926
         },
         {
           "text": "I",
           "start": 87.67,
-          "end": 87.97,
-          "confidence": 0.684
+          "end": 87.93,
+          "confidence": 0.999
         },
         {
-          "text": "can't",
-          "start": 87.97,
-          "end": 88.53,
-          "confidence": 0.567
+          "text": "counted.",
+          "start": 87.93,
+          "end": 88.27,
+          "confidence": 0.986
         }
       ]
     },
     {
-      "id": 11,
-      "seek": 5760,
+      "id": 5,
+      "seek": 5164,
       "start": 90.4,
-      "end": 99.28,
-      "text": " The webs from all the spiders, catching things and eating their insides like indecision to call you.",
+      "end": 99.22,
+      "text": " The webs from all the spiders, catching things and eating their insides, like indecision to call you.",
       "tokens": [
-        50402,
+        50696,
         440,
         2859,
         490,
@@ -961,6 +859,7 @@
         641,
         1028,
         1875,
+        11,
         411,
         1016,
         3045,
@@ -969,126 +868,126 @@
         818,
         291,
         13,
-        50852
+        51144
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.30923917558458114,
-      "compression_ratio": 1.5689655172413792,
-      "no_speech_prob": 0.10030581802129745,
-      "confidence": 0.834,
+      "avg_logprob": -0.2548693295182853,
+      "compression_ratio": 1.5346534653465347,
+      "no_speech_prob": 0.008711461909115314,
+      "confidence": 0.982,
       "words": [
         {
           "text": "The",
           "start": 90.4,
-          "end": 90.6,
-          "confidence": 0.507
+          "end": 90.62,
+          "confidence": 0.998
         },
         {
           "text": "webs",
-          "start": 90.6,
-          "end": 90.96,
-          "confidence": 0.788
+          "start": 90.62,
+          "end": 90.92,
+          "confidence": 0.942
         },
         {
           "text": "from",
-          "start": 90.96,
-          "end": 91.28,
-          "confidence": 0.988
+          "start": 90.92,
+          "end": 91.2,
+          "confidence": 1.0
         },
         {
           "text": "all",
-          "start": 91.28,
-          "end": 91.54,
-          "confidence": 0.992
+          "start": 91.2,
+          "end": 91.4,
+          "confidence": 1.0
         },
         {
           "text": "the",
-          "start": 91.54,
-          "end": 91.72,
-          "confidence": 0.992
+          "start": 91.4,
+          "end": 91.6,
+          "confidence": 1.0
         },
         {
           "text": "spiders,",
-          "start": 91.72,
-          "end": 92.36,
-          "confidence": 0.992
+          "start": 91.6,
+          "end": 92.22,
+          "confidence": 1.0
         },
         {
           "text": "catching",
-          "start": 92.86,
-          "end": 93.82,
-          "confidence": 0.906
+          "start": 92.58,
+          "end": 93.68,
+          "confidence": 0.999
         },
         {
           "text": "things",
-          "start": 93.82,
-          "end": 94.32,
-          "confidence": 0.991
+          "start": 93.68,
+          "end": 94.28,
+          "confidence": 1.0
         },
         {
           "text": "and",
-          "start": 94.32,
-          "end": 94.64,
-          "confidence": 0.944
+          "start": 94.28,
+          "end": 94.56,
+          "confidence": 0.998
         },
         {
           "text": "eating",
-          "start": 94.64,
-          "end": 95.08,
-          "confidence": 0.832
+          "start": 94.56,
+          "end": 94.86,
+          "confidence": 0.927
         },
         {
           "text": "their",
-          "start": 95.08,
-          "end": 95.62,
-          "confidence": 0.777
+          "start": 94.86,
+          "end": 95.52,
+          "confidence": 0.971
         },
         {
-          "text": "insides",
-          "start": 95.62,
-          "end": 96.48,
-          "confidence": 0.751
+          "text": "insides,",
+          "start": 95.52,
+          "end": 96.42,
+          "confidence": 0.912
         },
         {
           "text": "like",
-          "start": 96.48,
-          "end": 97.28,
-          "confidence": 0.459
+          "start": 96.56,
+          "end": 97.26,
+          "confidence": 0.999
         },
         {
           "text": "indecision",
-          "start": 97.28,
-          "end": 98.3,
-          "confidence": 0.96
+          "start": 97.26,
+          "end": 98.24,
+          "confidence": 0.999
         },
         {
           "text": "to",
-          "start": 98.3,
-          "end": 98.56,
-          "confidence": 0.673
+          "start": 98.24,
+          "end": 98.44,
+          "confidence": 0.998
         },
         {
           "text": "call",
-          "start": 98.56,
-          "end": 98.94,
-          "confidence": 0.843
+          "start": 98.44,
+          "end": 98.88,
+          "confidence": 1.0
         },
         {
           "text": "you.",
-          "start": 98.94,
-          "end": 99.28,
-          "confidence": 0.963
+          "start": 98.88,
+          "end": 99.22,
+          "confidence": 1.0
         }
       ]
     },
     {
-      "id": 12,
-      "seek": 5760,
-      "start": 101.03,
-      "end": 106.59,
-      "text": " And hear your voice of treason, will you come home and stop this pain tonight?",
+      "id": 6,
+      "seek": 5164,
+      "start": 100.56,
+      "end": 109.81,
+      "text": " And hear your voice of treason. Will you come home and stop this pain tonight? Stop this pain tonight.",
       "tokens": [
-        50852,
+        51167,
         400,
         1568,
         428,
@@ -1096,8 +995,8 @@
         295,
         2192,
         1258,
-        11,
-        486,
+        13,
+        3099,
         291,
         808,
         1280,
@@ -1107,636 +1006,804 @@
         1822,
         4440,
         30,
-        51164
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.30923917558458114,
-      "compression_ratio": 1.5689655172413792,
-      "no_speech_prob": 0.10030581802129745,
-      "confidence": 0.962,
-      "words": [
-        {
-          "text": "And",
-          "start": 101.03,
-          "end": 101.23,
-          "confidence": 0.946
-        },
-        {
-          "text": "hear",
-          "start": 101.23,
-          "end": 101.55,
-          "confidence": 0.857
-        },
-        {
-          "text": "your",
-          "start": 101.55,
-          "end": 101.89,
-          "confidence": 0.99
-        },
-        {
-          "text": "voice",
-          "start": 101.89,
-          "end": 102.19,
-          "confidence": 0.997
-        },
-        {
-          "text": "of",
-          "start": 102.19,
-          "end": 102.47,
-          "confidence": 0.912
-        },
-        {
-          "text": "treason,",
-          "start": 102.47,
-          "end": 103.05,
-          "confidence": 0.983
-        },
-        {
-          "text": "will",
-          "start": 103.31,
-          "end": 103.69,
-          "confidence": 0.861
-        },
-        {
-          "text": "you",
-          "start": 103.69,
-          "end": 103.85,
-          "confidence": 0.994
-        },
-        {
-          "text": "come",
-          "start": 103.85,
-          "end": 104.11,
-          "confidence": 0.993
-        },
-        {
-          "text": "home",
-          "start": 104.11,
-          "end": 104.59,
-          "confidence": 0.996
-        },
-        {
-          "text": "and",
-          "start": 104.59,
-          "end": 105.13,
-          "confidence": 0.915
-        },
-        {
-          "text": "stop",
-          "start": 105.13,
-          "end": 105.45,
-          "confidence": 0.997
-        },
-        {
-          "text": "this",
-          "start": 105.45,
-          "end": 105.77,
-          "confidence": 0.995
-        },
-        {
-          "text": "pain",
-          "start": 105.77,
-          "end": 106.13,
-          "confidence": 0.997
-        },
-        {
-          "text": "tonight?",
-          "start": 106.13,
-          "end": 106.59,
-          "confidence": 0.988
-        }
-      ]
-    },
-    {
-      "id": 13,
-      "seek": 5760,
-      "start": 107.71,
-      "end": 109.93,
-      "text": " Stop this pain tonight.",
-      "tokens": [
-        51164,
         5535,
         341,
         1822,
         4440,
         13,
-        51344
+        51618
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.30923917558458114,
-      "compression_ratio": 1.5689655172413792,
-      "no_speech_prob": 0.10030581802129745,
-      "confidence": 0.956,
+      "avg_logprob": -0.2548693295182853,
+      "compression_ratio": 1.5346534653465347,
+      "no_speech_prob": 0.008711461909115314,
+      "confidence": 0.975,
       "words": [
         {
-          "text": "Stop",
-          "start": 107.71,
-          "end": 108.05,
-          "confidence": 0.93
+          "text": "And",
+          "start": 100.56,
+          "end": 101.07,
+          "confidence": 1.0
+        },
+        {
+          "text": "hear",
+          "start": 101.07,
+          "end": 101.43,
+          "confidence": 0.985
+        },
+        {
+          "text": "your",
+          "start": 101.43,
+          "end": 101.71,
+          "confidence": 1.0
+        },
+        {
+          "text": "voice",
+          "start": 101.71,
+          "end": 102.15,
+          "confidence": 1.0
+        },
+        {
+          "text": "of",
+          "start": 102.15,
+          "end": 102.41,
+          "confidence": 1.0
+        },
+        {
+          "text": "treason.",
+          "start": 102.41,
+          "end": 102.97,
+          "confidence": 1.0
+        },
+        {
+          "text": "Will",
+          "start": 103.09,
+          "end": 103.57,
+          "confidence": 0.973
+        },
+        {
+          "text": "you",
+          "start": 103.57,
+          "end": 103.71,
+          "confidence": 1.0
+        },
+        {
+          "text": "come",
+          "start": 103.71,
+          "end": 104.05,
+          "confidence": 1.0
+        },
+        {
+          "text": "home",
+          "start": 104.05,
+          "end": 104.55,
+          "confidence": 1.0
+        },
+        {
+          "text": "and",
+          "start": 104.55,
+          "end": 104.99,
+          "confidence": 0.995
+        },
+        {
+          "text": "stop",
+          "start": 104.99,
+          "end": 105.43,
+          "confidence": 1.0
         },
         {
           "text": "this",
-          "start": 108.05,
-          "end": 108.41,
-          "confidence": 0.994
+          "start": 105.43,
+          "end": 105.67,
+          "confidence": 1.0
         },
         {
           "text": "pain",
-          "start": 108.41,
-          "end": 108.93,
-          "confidence": 0.998
+          "start": 105.67,
+          "end": 106.11,
+          "confidence": 1.0
+        },
+        {
+          "text": "tonight?",
+          "start": 106.11,
+          "end": 106.53,
+          "confidence": 1.0
+        },
+        {
+          "text": "Stop",
+          "start": 106.75,
+          "end": 107.87,
+          "confidence": 0.631
+        },
+        {
+          "text": "this",
+          "start": 107.87,
+          "end": 108.25,
+          "confidence": 1.0
+        },
+        {
+          "text": "pain",
+          "start": 108.25,
+          "end": 108.89,
+          "confidence": 1.0
         },
         {
           "text": "tonight.",
-          "start": 108.93,
-          "end": 109.93,
-          "confidence": 0.907
+          "start": 108.89,
+          "end": 109.81,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 5164,
+      "start": 119.53,
+      "end": 121.99,
+      "text": " Don't waste your time on me.",
+      "tokens": [
+        51630,
+        1468,
+        380,
+        5964,
+        428,
+        565,
+        322,
+        385,
+        13,
+        51793
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2548693295182853,
+      "compression_ratio": 1.5346534653465347,
+      "no_speech_prob": 0.008711461909115314,
+      "confidence": 1.0,
+      "words": [
+        {
+          "text": "Don't",
+          "start": 119.53,
+          "end": 119.95,
+          "confidence": 1.0
+        },
+        {
+          "text": "waste",
+          "start": 119.95,
+          "end": 120.25,
+          "confidence": 1.0
+        },
+        {
+          "text": "your",
+          "start": 120.25,
+          "end": 120.73,
+          "confidence": 1.0
+        },
+        {
+          "text": "time",
+          "start": 120.73,
+          "end": 121.19,
+          "confidence": 1.0
+        },
+        {
+          "text": "on",
+          "start": 121.19,
+          "end": 121.57,
+          "confidence": 1.0
+        },
+        {
+          "text": "me.",
+          "start": 121.57,
+          "end": 121.99,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seek": 5164,
+      "start": 122.89,
+      "end": 123.79,
+      "text": " You're already dead.",
+      "tokens": [
+        51807,
+        509,
+        434,
+        1217,
+        3116,
+        13,
+        51864
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2548693295182853,
+      "compression_ratio": 1.5346534653465347,
+      "no_speech_prob": 0.008711461909115314,
+      "confidence": 0.627,
+      "words": [
+        {
+          "text": "You're",
+          "start": 122.89,
+          "end": 123.29,
+          "confidence": 0.979
+        },
+        {
+          "text": "already",
+          "start": 123.29,
+          "end": 123.55,
+          "confidence": 0.519
+        },
+        {
+          "text": "dead.",
+          "start": 123.55,
+          "end": 123.79,
+          "confidence": 0.31
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "seek": 8164,
+      "start": 123.89,
+      "end": 127.81,
+      "text": " You're already the voice inside my head.",
+      "tokens": [
+        50365,
+        509,
+        434,
+        1217,
+        264,
+        3177,
+        1854,
+        452,
+        1378,
+        13,
+        50577
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3190874989827474,
+      "compression_ratio": 2.9411764705882355,
+      "no_speech_prob": 0.009751198813319206,
+      "confidence": 0.939,
+      "words": [
+        {
+          "text": "You're",
+          "start": 123.89,
+          "end": 123.97,
+          "confidence": 0.887
+        },
+        {
+          "text": "already",
+          "start": 123.97,
+          "end": 123.99,
+          "confidence": 0.987
+        },
+        {
+          "text": "the",
+          "start": 123.99,
+          "end": 124.31,
+          "confidence": 0.945
+        },
+        {
+          "text": "voice",
+          "start": 124.31,
+          "end": 124.91,
+          "confidence": 0.991
+        },
+        {
+          "text": "inside",
+          "start": 124.91,
+          "end": 126.05,
+          "confidence": 0.841
+        },
+        {
+          "text": "my",
+          "start": 126.05,
+          "end": 126.93,
+          "confidence": 0.994
+        },
+        {
+          "text": "head.",
+          "start": 126.93,
+          "end": 127.81,
+          "confidence": 0.996
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "seek": 8164,
+      "start": 130.07,
+      "end": 132.44,
+      "text": " Don't waste your time on me.",
+      "tokens": [
+        50598,
+        1468,
+        380,
+        5964,
+        428,
+        565,
+        322,
+        385,
+        13,
+        50731
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3190874989827474,
+      "compression_ratio": 2.9411764705882355,
+      "no_speech_prob": 0.009751198813319206,
+      "confidence": 0.996,
+      "words": [
+        {
+          "text": "Don't",
+          "start": 130.07,
+          "end": 130.45,
+          "confidence": 0.988
+        },
+        {
+          "text": "waste",
+          "start": 130.45,
+          "end": 130.63,
+          "confidence": 0.999
+        },
+        {
+          "text": "your",
+          "start": 130.63,
+          "end": 131.11,
+          "confidence": 0.999
+        },
+        {
+          "text": "time",
+          "start": 131.11,
+          "end": 131.43,
+          "confidence": 1.0
+        },
+        {
+          "text": "on",
+          "start": 131.43,
+          "end": 132.11,
+          "confidence": 1.0
+        },
+        {
+          "text": "me.",
+          "start": 132.11,
+          "end": 132.44,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "seek": 8164,
+      "start": 132.44,
+      "end": 138.19,
+      "text": " You're already the voice inside my head.",
+      "tokens": [
+        50742,
+        509,
+        434,
+        1217,
+        264,
+        3177,
+        1854,
+        452,
+        1378,
+        13,
+        51024
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3190874989827474,
+      "compression_ratio": 2.9411764705882355,
+      "no_speech_prob": 0.009751198813319206,
+      "confidence": 1.0,
+      "words": [
+        {
+          "text": "You're",
+          "start": 132.44,
+          "end": 133.67,
+          "confidence": 1.0
+        },
+        {
+          "text": "already",
+          "start": 133.67,
+          "end": 134.19,
+          "confidence": 1.0
+        },
+        {
+          "text": "the",
+          "start": 134.19,
+          "end": 134.65,
+          "confidence": 0.999
+        },
+        {
+          "text": "voice",
+          "start": 134.65,
+          "end": 135.33,
+          "confidence": 1.0
+        },
+        {
+          "text": "inside",
+          "start": 135.33,
+          "end": 136.75,
+          "confidence": 0.999
+        },
+        {
+          "text": "my",
+          "start": 136.75,
+          "end": 137.63,
+          "confidence": 1.0
+        },
+        {
+          "text": "head.",
+          "start": 137.63,
+          "end": 138.19,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "seek": 8164,
+      "start": 164.67,
+      "end": 167.11,
+      "text": " And don't waste your time on me.",
+      "tokens": [
+        51052,
+        400,
+        500,
+        380,
+        5964,
+        428,
+        565,
+        322,
+        385,
+        13,
+        51188
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3190874989827474,
+      "compression_ratio": 2.9411764705882355,
+      "no_speech_prob": 0.009751198813319206,
+      "confidence": 0.998,
+      "words": [
+        {
+          "text": "And",
+          "start": 164.67,
+          "end": 164.81,
+          "confidence": 0.986
+        },
+        {
+          "text": "don't",
+          "start": 164.81,
+          "end": 165.33,
+          "confidence": 1.0
+        },
+        {
+          "text": "waste",
+          "start": 165.33,
+          "end": 165.59,
+          "confidence": 1.0
+        },
+        {
+          "text": "your",
+          "start": 165.59,
+          "end": 165.91,
+          "confidence": 1.0
+        },
+        {
+          "text": "time",
+          "start": 165.91,
+          "end": 166.43,
+          "confidence": 1.0
+        },
+        {
+          "text": "on",
+          "start": 166.43,
+          "end": 166.83,
+          "confidence": 1.0
+        },
+        {
+          "text": "me.",
+          "start": 166.83,
+          "end": 167.11,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "seek": 8164,
+      "start": 168.07,
+      "end": 172.61,
+      "text": " You're already the voice inside my head.",
+      "tokens": [
+        51216,
+        509,
+        434,
+        1217,
+        264,
+        3177,
+        1854,
+        452,
+        1378,
+        13,
+        51469
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3190874989827474,
+      "compression_ratio": 2.9411764705882355,
+      "no_speech_prob": 0.009751198813319206,
+      "confidence": 1.0,
+      "words": [
+        {
+          "text": "You're",
+          "start": 168.07,
+          "end": 168.45,
+          "confidence": 1.0
+        },
+        {
+          "text": "already",
+          "start": 168.45,
+          "end": 169.03,
+          "confidence": 1.0
+        },
+        {
+          "text": "the",
+          "start": 169.03,
+          "end": 169.41,
+          "confidence": 1.0
+        },
+        {
+          "text": "voice",
+          "start": 169.41,
+          "end": 170.05,
+          "confidence": 1.0
+        },
+        {
+          "text": "inside",
+          "start": 170.05,
+          "end": 171.39,
+          "confidence": 1.0
+        },
+        {
+          "text": "my",
+          "start": 171.39,
+          "end": 171.87,
+          "confidence": 1.0
+        },
+        {
+          "text": "head.",
+          "start": 171.87,
+          "end": 172.61,
+          "confidence": 1.0
         }
       ]
     },
     {
       "id": 14,
-      "seek": 5760,
-      "start": 119.53,
-      "end": 127.97,
-      "text": " Don't waste your time on me, you're already the voice inside my head.",
+      "seek": 8164,
+      "start": 174.65,
+      "end": 177.17,
+      "text": " And don't waste your time on me.",
       "tokens": [
-        51344,
-        1468,
+        51498,
+        400,
+        500,
         380,
         5964,
         428,
         565,
         322,
         385,
-        11,
-        291,
-        434,
-        1217,
-        264,
-        3177,
-        1854,
-        452,
-        1378,
         13,
-        51794
+        51648
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.30923917558458114,
-      "compression_ratio": 1.5689655172413792,
-      "no_speech_prob": 0.10030581802129745,
-      "confidence": 0.982,
+      "avg_logprob": -0.3190874989827474,
+      "compression_ratio": 2.9411764705882355,
+      "no_speech_prob": 0.009751198813319206,
+      "confidence": 0.928,
       "words": [
         {
-          "text": "Don't",
-          "start": 119.53,
-          "end": 119.99,
-          "confidence": 0.953
+          "text": "And",
+          "start": 174.65,
+          "end": 174.73,
+          "confidence": 0.55
+        },
+        {
+          "text": "don't",
+          "start": 174.73,
+          "end": 175.29,
+          "confidence": 1.0
         },
         {
           "text": "waste",
-          "start": 119.99,
-          "end": 120.37,
-          "confidence": 0.998
+          "start": 175.29,
+          "end": 175.57,
+          "confidence": 1.0
         },
         {
           "text": "your",
-          "start": 120.37,
-          "end": 120.79,
-          "confidence": 0.994
+          "start": 175.57,
+          "end": 175.87,
+          "confidence": 1.0
         },
         {
           "text": "time",
-          "start": 120.79,
-          "end": 121.21,
-          "confidence": 0.998
+          "start": 175.87,
+          "end": 176.41,
+          "confidence": 1.0
         },
         {
           "text": "on",
-          "start": 121.21,
-          "end": 121.61,
-          "confidence": 0.997
+          "start": 176.41,
+          "end": 176.89,
+          "confidence": 1.0
         },
         {
-          "text": "me,",
-          "start": 121.61,
-          "end": 122.17,
-          "confidence": 0.999
-        },
-        {
-          "text": "you're",
-          "start": 122.77,
-          "end": 123.31,
-          "confidence": 0.961
-        },
-        {
-          "text": "already",
-          "start": 123.31,
-          "end": 124.01,
-          "confidence": 0.992
-        },
-        {
-          "text": "the",
-          "start": 124.01,
-          "end": 124.47,
-          "confidence": 0.994
-        },
-        {
-          "text": "voice",
-          "start": 124.47,
-          "end": 125.01,
-          "confidence": 0.998
-        },
-        {
-          "text": "inside",
-          "start": 125.01,
-          "end": 126.39,
-          "confidence": 0.948
-        },
-        {
-          "text": "my",
-          "start": 126.39,
-          "end": 127.17,
-          "confidence": 0.992
-        },
-        {
-          "text": "head.",
-          "start": 127.17,
-          "end": 127.97,
-          "confidence": 0.997
+          "text": "me.",
+          "start": 176.89,
+          "end": 177.17,
+          "confidence": 1.0
         }
       ]
     },
     {
       "id": 15,
-      "seek": 8620,
-      "start": 130.13,
-      "end": 138.41,
-      "text": " Don't waste your time on me, you're already the voice inside my head.",
+      "seek": 8164,
+      "start": 177.17,
+      "end": 181.31,
+      "text": " You're already the voice inside.",
       "tokens": [
-        50364,
-        1468,
-        380,
-        5964,
-        428,
-        565,
-        322,
-        385,
-        11,
-        291,
+        51648,
+        509,
         434,
         1217,
         264,
         3177,
         1854,
-        452,
-        1378,
         13,
-        50814
+        51855
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.07565659382304207,
-      "compression_ratio": 2.7125,
-      "no_speech_prob": 0.11784950643777847,
-      "confidence": 0.99,
+      "avg_logprob": -0.3190874989827474,
+      "compression_ratio": 2.9411764705882355,
+      "no_speech_prob": 0.009751198813319206,
+      "confidence": 0.999,
       "words": [
         {
-          "text": "Don't",
-          "start": 130.13,
-          "end": 130.55,
-          "confidence": 0.949
-        },
-        {
-          "text": "waste",
-          "start": 130.55,
-          "end": 130.83,
-          "confidence": 0.998
-        },
-        {
-          "text": "your",
-          "start": 130.83,
-          "end": 131.29,
-          "confidence": 0.997
-        },
-        {
-          "text": "time",
-          "start": 131.29,
-          "end": 131.73,
+          "text": "You're",
+          "start": 177.17,
+          "end": 178.21,
           "confidence": 0.999
-        },
-        {
-          "text": "on",
-          "start": 131.73,
-          "end": 132.11,
-          "confidence": 0.999
-        },
-        {
-          "text": "me,",
-          "start": 132.11,
-          "end": 132.63,
-          "confidence": 0.999
-        },
-        {
-          "text": "you're",
-          "start": 133.13,
-          "end": 133.71,
-          "confidence": 0.994
         },
         {
           "text": "already",
-          "start": 133.71,
-          "end": 134.37,
+          "start": 178.21,
+          "end": 178.87,
           "confidence": 1.0
         },
         {
           "text": "the",
-          "start": 134.37,
-          "end": 134.79,
-          "confidence": 0.998
+          "start": 178.87,
+          "end": 179.31,
+          "confidence": 1.0
         },
         {
           "text": "voice",
-          "start": 134.79,
-          "end": 135.45,
-          "confidence": 0.998
+          "start": 179.31,
+          "end": 180.01,
+          "confidence": 1.0
         },
         {
-          "text": "inside",
-          "start": 135.45,
-          "end": 136.77,
-          "confidence": 0.985
-        },
-        {
-          "text": "my",
-          "start": 136.77,
-          "end": 137.79,
-          "confidence": 0.996
-        },
-        {
-          "text": "head.",
-          "start": 137.79,
-          "end": 138.41,
-          "confidence": 0.997
+          "text": "inside.",
+          "start": 180.01,
+          "end": 181.31,
+          "confidence": 0.993
         }
       ]
     },
     {
       "id": 16,
-      "seek": 8620,
-      "start": 164.73,
-      "end": 172.85,
-      "text": " And don't waste your time on me, you're already the voice inside my head.",
+      "seek": 11164,
+      "start": 181.87,
+      "end": 182.55,
+      "text": " My head.",
       "tokens": [
-        50814,
-        400,
-        500,
-        380,
-        5964,
-        428,
-        565,
-        322,
-        385,
-        11,
-        291,
-        434,
-        1217,
-        264,
-        3177,
-        1854,
-        452,
+        50365,
+        1222,
         1378,
         13,
-        51264
+        50415
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.07565659382304207,
-      "compression_ratio": 2.7125,
-      "no_speech_prob": 0.11784950643777847,
-      "confidence": 0.994,
+      "avg_logprob": -0.12424069562835009,
+      "compression_ratio": 6.010416666666667,
+      "no_speech_prob": 0.0037826569750905037,
+      "confidence": 0.638,
       "words": [
         {
-          "text": "And",
-          "start": 164.73,
-          "end": 164.91,
-          "confidence": 0.938
-        },
-        {
-          "text": "don't",
-          "start": 164.91,
-          "end": 165.35,
-          "confidence": 0.998
-        },
-        {
-          "text": "waste",
-          "start": 165.35,
-          "end": 165.67,
-          "confidence": 0.998
-        },
-        {
-          "text": "your",
-          "start": 165.67,
-          "end": 166.09,
-          "confidence": 0.997
-        },
-        {
-          "text": "time",
-          "start": 166.09,
-          "end": 166.51,
-          "confidence": 0.999
-        },
-        {
-          "text": "on",
-          "start": 166.51,
-          "end": 166.87,
-          "confidence": 0.999
-        },
-        {
-          "text": "me,",
-          "start": 166.87,
-          "end": 167.23,
-          "confidence": 1.0
-        },
-        {
-          "text": "you're",
-          "start": 167.99,
-          "end": 168.53,
-          "confidence": 0.995
-        },
-        {
-          "text": "already",
-          "start": 168.53,
-          "end": 169.17,
-          "confidence": 1.0
-        },
-        {
-          "text": "the",
-          "start": 169.17,
-          "end": 169.57,
-          "confidence": 0.998
-        },
-        {
-          "text": "voice",
-          "start": 169.57,
-          "end": 170.15,
-          "confidence": 0.999
-        },
-        {
-          "text": "inside",
-          "start": 170.15,
-          "end": 171.39,
-          "confidence": 0.994
-        },
-        {
-          "text": "my",
-          "start": 171.39,
-          "end": 172.13,
-          "confidence": 0.998
+          "text": "My",
+          "start": 181.87,
+          "end": 182.03,
+          "confidence": 0.641
         },
         {
           "text": "head.",
-          "start": 172.13,
-          "end": 172.85,
-          "confidence": 0.999
+          "start": 182.03,
+          "end": 182.55,
+          "confidence": 0.636
         }
       ]
     },
     {
       "id": 17,
-      "seek": 8620,
-      "start": 174.69,
-      "end": 182.95,
-      "text": " And don't waste your time on me, you're already the voice inside my head.",
+      "seek": 11164,
+      "start": 182.63,
+      "end": 185.75,
+      "text": " Don't waste your time on me.",
       "tokens": [
-        51264,
-        400,
-        500,
+        50415,
+        1468,
         380,
         5964,
         428,
         565,
         322,
         385,
-        11,
-        291,
-        434,
-        1217,
-        264,
-        3177,
-        1854,
-        452,
-        1378,
         13,
-        51714
+        50465
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.07565659382304207,
-      "compression_ratio": 2.7125,
-      "no_speech_prob": 0.11784950643777847,
-      "confidence": 0.98,
+      "avg_logprob": -0.12424069562835009,
+      "compression_ratio": 6.010416666666667,
+      "no_speech_prob": 0.0037826569750905037,
+      "confidence": 0.939,
       "words": [
         {
-          "text": "And",
-          "start": 174.69,
-          "end": 174.87,
-          "confidence": 0.735
-        },
-        {
-          "text": "don't",
-          "start": 174.87,
-          "end": 175.29,
-          "confidence": 0.999
+          "text": "Don't",
+          "start": 182.63,
+          "end": 183.51,
+          "confidence": 0.821
         },
         {
           "text": "waste",
-          "start": 175.29,
-          "end": 175.65,
-          "confidence": 0.998
+          "start": 185.33,
+          "end": 185.49,
+          "confidence": 0.991
         },
         {
           "text": "your",
-          "start": 175.65,
-          "end": 176.05,
-          "confidence": 0.998
+          "start": 185.49,
+          "end": 185.69,
+          "confidence": 0.984
         },
         {
           "text": "time",
-          "start": 176.05,
-          "end": 176.51,
-          "confidence": 1.0
+          "start": 185.69,
+          "end": 185.71,
+          "confidence": 0.998
         },
         {
           "text": "on",
-          "start": 176.51,
-          "end": 176.91,
-          "confidence": 0.999
+          "start": 185.71,
+          "end": 185.73,
+          "confidence": 0.986
         },
         {
-          "text": "me,",
-          "start": 176.91,
-          "end": 177.45,
-          "confidence": 1.0
-        },
-        {
-          "text": "you're",
-          "start": 177.91,
-          "end": 178.39,
-          "confidence": 0.998
-        },
-        {
-          "text": "already",
-          "start": 178.39,
-          "end": 179.03,
-          "confidence": 1.0
-        },
-        {
-          "text": "the",
-          "start": 179.03,
-          "end": 179.51,
-          "confidence": 0.999
-        },
-        {
-          "text": "voice",
-          "start": 179.51,
-          "end": 180.19,
-          "confidence": 1.0
-        },
-        {
-          "text": "inside",
-          "start": 180.19,
-          "end": 181.45,
-          "confidence": 0.997
-        },
-        {
-          "text": "my",
-          "start": 181.45,
-          "end": 182.21,
-          "confidence": 0.999
-        },
-        {
-          "text": "head.",
-          "start": 182.21,
-          "end": 182.95,
-          "confidence": 0.998
+          "text": "me.",
+          "start": 185.73,
+          "end": 185.75,
+          "confidence": 0.996
         }
       ]
     },
     {
       "id": 18,
-      "seek": 11320,
-      "start": 184.85,
-      "end": 192.87,
-      "text": " Don't waste your time on me, you're already the voice inside my head.",
+      "seek": 11164,
+      "start": 185.75,
+      "end": 186.75,
+      "text": " You're already the voice inside my head.",
       "tokens": [
-        50364,
-        1468,
-        380,
-        5964,
-        428,
-        565,
-        322,
-        385,
-        11,
-        291,
+        50465,
+        509,
         434,
         1217,
         264,
@@ -1745,102 +1812,66 @@
         452,
         1378,
         13,
-        50764
+        50515
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.08689201923838832,
-      "compression_ratio": 2.125,
-      "no_speech_prob": 0.07559549063444138,
-      "confidence": 0.985,
+      "avg_logprob": -0.12424069562835009,
+      "compression_ratio": 6.010416666666667,
+      "no_speech_prob": 0.0037826569750905037,
+      "confidence": 0.955,
       "words": [
         {
-          "text": "Don't",
-          "start": 184.85,
-          "end": 185.57,
-          "confidence": 0.903
-        },
-        {
-          "text": "waste",
-          "start": 185.57,
-          "end": 185.87,
-          "confidence": 0.998
-        },
-        {
-          "text": "your",
-          "start": 185.87,
-          "end": 186.25,
-          "confidence": 0.996
-        },
-        {
-          "text": "time",
-          "start": 186.25,
-          "end": 186.67,
-          "confidence": 0.999
-        },
-        {
-          "text": "on",
-          "start": 186.67,
-          "end": 187.05,
-          "confidence": 0.999
-        },
-        {
-          "text": "me,",
-          "start": 187.05,
-          "end": 187.61,
-          "confidence": 1.0
-        },
-        {
-          "text": "you're",
-          "start": 188.23,
-          "end": 188.53,
-          "confidence": 0.997
+          "text": "You're",
+          "start": 185.75,
+          "end": 185.77,
+          "confidence": 0.95
         },
         {
           "text": "already",
-          "start": 188.53,
-          "end": 189.17,
-          "confidence": 0.999
+          "start": 185.77,
+          "end": 185.79,
+          "confidence": 0.995
         },
         {
           "text": "the",
-          "start": 189.17,
-          "end": 189.55,
-          "confidence": 0.998
+          "start": 185.79,
+          "end": 186.21,
+          "confidence": 0.981
         },
         {
           "text": "voice",
-          "start": 189.55,
-          "end": 190.21,
-          "confidence": 0.999
+          "start": 186.21,
+          "end": 186.69,
+          "confidence": 0.996
         },
         {
           "text": "inside",
-          "start": 190.21,
-          "end": 191.41,
-          "confidence": 0.994
+          "start": 186.69,
+          "end": 186.71,
+          "confidence": 0.907
         },
         {
           "text": "my",
-          "start": 191.41,
-          "end": 192.15,
-          "confidence": 0.997
+          "start": 186.71,
+          "end": 186.73,
+          "confidence": 0.877
         },
         {
           "text": "head.",
-          "start": 192.15,
-          "end": 192.87,
-          "confidence": 0.996
+          "start": 186.73,
+          "end": 186.75,
+          "confidence": 0.99
         }
       ]
     },
     {
       "id": 19,
-      "seek": 11320,
-      "start": 195.0,
-      "end": 203.08,
-      "text": " Don't waste your time on me, you're already the voice inside my head.",
+      "seek": 11164,
+      "start": 186.75,
+      "end": 186.98,
+      "text": " Don't waste your time on me.",
       "tokens": [
-        50764,
+        50515,
         1468,
         380,
         5964,
@@ -1848,8 +1879,62 @@
         565,
         322,
         385,
-        11,
-        291,
+        13,
+        50565
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.12424069562835009,
+      "compression_ratio": 6.010416666666667,
+      "no_speech_prob": 0.0037826569750905037,
+      "confidence": 0.934,
+      "words": [
+        {
+          "text": "Don't",
+          "start": 186.75,
+          "end": 186.77,
+          "confidence": 0.807
+        },
+        {
+          "text": "waste",
+          "start": 186.77,
+          "end": 186.79,
+          "confidence": 0.993
+        },
+        {
+          "text": "your",
+          "start": 186.79,
+          "end": 186.81,
+          "confidence": 0.992
+        },
+        {
+          "text": "time",
+          "start": 186.81,
+          "end": 186.83,
+          "confidence": 0.999
+        },
+        {
+          "text": "on",
+          "start": 186.83,
+          "end": 186.87,
+          "confidence": 0.972
+        },
+        {
+          "text": "me.",
+          "start": 186.87,
+          "end": 186.98,
+          "confidence": 0.997
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "seek": 11164,
+      "start": 186.98,
+      "end": 187.63,
+      "text": " You're already the voice inside my head.",
+      "tokens": [
+        50565,
+        509,
         434,
         1217,
         264,
@@ -1858,302 +1943,2406 @@
         452,
         1378,
         13,
-        51214
+        50615
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.08689201923838832,
-      "compression_ratio": 2.125,
-      "no_speech_prob": 0.07559549063444138,
-      "confidence": 0.998,
+      "avg_logprob": -0.12424069562835009,
+      "compression_ratio": 6.010416666666667,
+      "no_speech_prob": 0.0037826569750905037,
+      "confidence": 0.972,
       "words": [
         {
-          "text": "Don't",
-          "start": 195.0,
-          "end": 195.38,
-          "confidence": 0.996
-        },
-        {
-          "text": "waste",
-          "start": 195.38,
-          "end": 195.76,
-          "confidence": 0.998
-        },
-        {
-          "text": "your",
-          "start": 195.76,
-          "end": 196.12,
-          "confidence": 0.998
-        },
-        {
-          "text": "time",
-          "start": 196.12,
-          "end": 196.64,
-          "confidence": 0.999
-        },
-        {
-          "text": "on",
-          "start": 196.64,
-          "end": 197.44,
-          "confidence": 0.998
-        },
-        {
-          "text": "me,",
-          "start": 197.44,
-          "end": 197.86,
-          "confidence": 1.0
-        },
-        {
-          "text": "you're",
-          "start": 197.98,
-          "end": 198.52,
-          "confidence": 0.998
+          "text": "You're",
+          "start": 186.98,
+          "end": 187.0,
+          "confidence": 0.975
         },
         {
           "text": "already",
-          "start": 198.52,
-          "end": 199.28,
-          "confidence": 1.0
+          "start": 187.0,
+          "end": 187.02,
+          "confidence": 0.995
         },
         {
           "text": "the",
-          "start": 199.28,
-          "end": 199.98,
-          "confidence": 0.998
+          "start": 187.02,
+          "end": 187.04,
+          "confidence": 0.986
         },
         {
           "text": "voice",
-          "start": 199.98,
-          "end": 200.56,
-          "confidence": 0.999
-        },
-        {
-          "text": "inside",
-          "start": 200.56,
-          "end": 201.58,
-          "confidence": 0.996
-        },
-        {
-          "text": "my",
-          "start": 201.58,
-          "end": 202.58,
+          "start": 187.04,
+          "end": 187.06,
           "confidence": 0.998
         },
         {
+          "text": "inside",
+          "start": 187.06,
+          "end": 187.08,
+          "confidence": 0.968
+        },
+        {
+          "text": "my",
+          "start": 187.08,
+          "end": 187.13,
+          "confidence": 0.888
+        },
+        {
           "text": "head.",
-          "start": 202.58,
-          "end": 203.08,
+          "start": 187.13,
+          "end": 187.63,
+          "confidence": 0.996
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "seek": 11164,
+      "start": 187.71,
+      "end": 189.69,
+      "text": " I miss you, miss you.",
+      "tokens": [
+        50615,
+        286,
+        1713,
+        291,
+        11,
+        1713,
+        291,
+        13,
+        50665
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.12424069562835009,
+      "compression_ratio": 6.010416666666667,
+      "no_speech_prob": 0.0037826569750905037,
+      "confidence": 0.728,
+      "words": [
+        {
+          "text": "I",
+          "start": 187.71,
+          "end": 188.05,
+          "confidence": 0.386
+        },
+        {
+          "text": "miss",
+          "start": 188.05,
+          "end": 188.53,
+          "confidence": 0.946
+        },
+        {
+          "text": "you,",
+          "start": 188.53,
+          "end": 189.27,
+          "confidence": 0.997
+        },
+        {
+          "text": "miss",
+          "start": 189.35,
+          "end": 189.53,
+          "confidence": 0.563
+        },
+        {
+          "text": "you.",
+          "start": 189.53,
+          "end": 189.69,
+          "confidence": 0.997
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "seek": 11164,
+      "start": 189.69,
+      "end": 190.23,
+      "text": " I miss you, miss you.",
+      "tokens": [
+        50665,
+        286,
+        1713,
+        291,
+        11,
+        1713,
+        291,
+        13,
+        50715
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.12424069562835009,
+      "compression_ratio": 6.010416666666667,
+      "no_speech_prob": 0.0037826569750905037,
+      "confidence": 0.965,
+      "words": [
+        {
+          "text": "I",
+          "start": 189.69,
+          "end": 189.71,
+          "confidence": 0.874
+        },
+        {
+          "text": "miss",
+          "start": 189.71,
+          "end": 189.73,
+          "confidence": 0.986
+        },
+        {
+          "text": "you,",
+          "start": 189.73,
+          "end": 189.75,
+          "confidence": 0.998
+        },
+        {
+          "text": "miss",
+          "start": 189.75,
+          "end": 189.77,
+          "confidence": 0.977
+        },
+        {
+          "text": "you.",
+          "start": 189.77,
+          "end": 190.23,
+          "confidence": 0.999
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "seek": 11164,
+      "start": 190.23,
+      "end": 191.73,
+      "text": " I miss you, miss you.",
+      "tokens": [
+        50715,
+        286,
+        1713,
+        291,
+        11,
+        1713,
+        291,
+        13,
+        50765
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.12424069562835009,
+      "compression_ratio": 6.010416666666667,
+      "no_speech_prob": 0.0037826569750905037,
+      "confidence": 0.938,
+      "words": [
+        {
+          "text": "I",
+          "start": 190.23,
+          "end": 190.75,
+          "confidence": 0.757
+        },
+        {
+          "text": "miss",
+          "start": 190.75,
+          "end": 191.09,
+          "confidence": 0.981
+        },
+        {
+          "text": "you,",
+          "start": 191.09,
+          "end": 191.69,
+          "confidence": 0.992
+        },
+        {
+          "text": "miss",
+          "start": 191.69,
+          "end": 191.71,
+          "confidence": 0.984
+        },
+        {
+          "text": "you.",
+          "start": 191.71,
+          "end": 191.73,
+          "confidence": 0.999
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "seek": 11164,
+      "start": 191.73,
+      "end": 192.19,
+      "text": " I miss you, miss you.",
+      "tokens": [
+        50765,
+        286,
+        1713,
+        291,
+        11,
+        1713,
+        291,
+        13,
+        50815
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.12424069562835009,
+      "compression_ratio": 6.010416666666667,
+      "no_speech_prob": 0.0037826569750905037,
+      "confidence": 0.925,
+      "words": [
+        {
+          "text": "I",
+          "start": 191.73,
+          "end": 191.75,
+          "confidence": 0.713
+        },
+        {
+          "text": "miss",
+          "start": 191.75,
+          "end": 191.77,
+          "confidence": 0.979
+        },
+        {
+          "text": "you,",
+          "start": 191.77,
+          "end": 191.79,
+          "confidence": 0.995
+        },
+        {
+          "text": "miss",
+          "start": 191.79,
+          "end": 192.09,
+          "confidence": 0.976
+        },
+        {
+          "text": "you.",
+          "start": 192.09,
+          "end": 192.19,
+          "confidence": 0.997
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "seek": 11164,
+      "start": 192.19,
+      "end": 195.66,
+      "text": " I miss you, miss you.",
+      "tokens": [
+        50815,
+        286,
+        1713,
+        291,
+        11,
+        1713,
+        291,
+        13,
+        50865
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.12424069562835009,
+      "compression_ratio": 6.010416666666667,
+      "no_speech_prob": 0.0037826569750905037,
+      "confidence": 0.93,
+      "words": [
+        {
+          "text": "I",
+          "start": 192.19,
+          "end": 192.37,
+          "confidence": 0.744
+        },
+        {
+          "text": "miss",
+          "start": 192.37,
+          "end": 192.98,
+          "confidence": 0.97
+        },
+        {
+          "text": "you,",
+          "start": 195.28,
+          "end": 195.44,
+          "confidence": 0.993
+        },
+        {
+          "text": "miss",
+          "start": 195.46,
+          "end": 195.64,
+          "confidence": 0.973
+        },
+        {
+          "text": "you.",
+          "start": 195.64,
+          "end": 195.66,
+          "confidence": 0.997
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "seek": 11164,
+      "start": 195.66,
+      "end": 196.15,
+      "text": " I miss you, miss you.",
+      "tokens": [
+        50865,
+        286,
+        1713,
+        291,
+        11,
+        1713,
+        291,
+        13,
+        50915
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.12424069562835009,
+      "compression_ratio": 6.010416666666667,
+      "no_speech_prob": 0.0037826569750905037,
+      "confidence": 0.933,
+      "words": [
+        {
+          "text": "I",
+          "start": 195.66,
+          "end": 195.68,
+          "confidence": 0.762
+        },
+        {
+          "text": "miss",
+          "start": 195.68,
+          "end": 195.7,
+          "confidence": 0.969
+        },
+        {
+          "text": "you,",
+          "start": 195.7,
+          "end": 195.86,
+          "confidence": 0.992
+        },
+        {
+          "text": "miss",
+          "start": 196.0,
+          "end": 196.12,
+          "confidence": 0.971
+        },
+        {
+          "text": "you.",
+          "start": 196.12,
+          "end": 196.15,
+          "confidence": 0.996
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "seek": 11164,
+      "start": 196.15,
+      "end": 196.7,
+      "text": " I miss you, miss you.",
+      "tokens": [
+        50915,
+        286,
+        1713,
+        291,
+        11,
+        1713,
+        291,
+        13,
+        50965
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.12424069562835009,
+      "compression_ratio": 6.010416666666667,
+      "no_speech_prob": 0.0037826569750905037,
+      "confidence": 0.949,
+      "words": [
+        {
+          "text": "I",
+          "start": 196.15,
+          "end": 196.17,
+          "confidence": 0.817
+        },
+        {
+          "text": "miss",
+          "start": 196.17,
+          "end": 196.19,
+          "confidence": 0.974
+        },
+        {
+          "text": "you,",
+          "start": 196.19,
+          "end": 196.21,
+          "confidence": 0.993
+        },
+        {
+          "text": "miss",
+          "start": 196.34,
+          "end": 196.36,
+          "confidence": 0.976
+        },
+        {
+          "text": "you.",
+          "start": 196.36,
+          "end": 196.7,
+          "confidence": 0.996
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "seek": 11164,
+      "start": 197.22,
+      "end": 198.68,
+      "text": " I miss you, miss you.",
+      "tokens": [
+        50965,
+        286,
+        1713,
+        291,
+        11,
+        1713,
+        291,
+        13,
+        51015
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.12424069562835009,
+      "compression_ratio": 6.010416666666667,
+      "no_speech_prob": 0.0037826569750905037,
+      "confidence": 0.954,
+      "words": [
+        {
+          "text": "I",
+          "start": 197.22,
+          "end": 197.24,
+          "confidence": 0.834
+        },
+        {
+          "text": "miss",
+          "start": 197.24,
+          "end": 197.48,
+          "confidence": 0.978
+        },
+        {
+          "text": "you,",
+          "start": 197.48,
+          "end": 198.2,
+          "confidence": 0.993
+        },
+        {
+          "text": "miss",
+          "start": 198.64,
+          "end": 198.66,
+          "confidence": 0.979
+        },
+        {
+          "text": "you.",
+          "start": 198.66,
+          "end": 198.68,
+          "confidence": 0.996
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "seek": 11164,
+      "start": 198.68,
+      "end": 199.5,
+      "text": " I miss you, miss you.",
+      "tokens": [
+        51015,
+        286,
+        1713,
+        291,
+        11,
+        1713,
+        291,
+        13,
+        51065
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.12424069562835009,
+      "compression_ratio": 6.010416666666667,
+      "no_speech_prob": 0.0037826569750905037,
+      "confidence": 0.959,
+      "words": [
+        {
+          "text": "I",
+          "start": 198.68,
+          "end": 198.7,
+          "confidence": 0.85
+        },
+        {
+          "text": "miss",
+          "start": 198.7,
+          "end": 198.72,
+          "confidence": 0.981
+        },
+        {
+          "text": "you,",
+          "start": 198.72,
+          "end": 198.74,
+          "confidence": 0.993
+        },
+        {
+          "text": "miss",
+          "start": 198.98,
+          "end": 199.0,
+          "confidence": 0.983
+        },
+        {
+          "text": "you.",
+          "start": 199.0,
+          "end": 199.5,
+          "confidence": 0.996
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "seek": 11164,
+      "start": 199.5,
+      "end": 200.68,
+      "text": " I miss you, miss you.",
+      "tokens": [
+        51065,
+        286,
+        1713,
+        291,
+        11,
+        1713,
+        291,
+        13,
+        51115
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.12424069562835009,
+      "compression_ratio": 6.010416666666667,
+      "no_speech_prob": 0.0037826569750905037,
+      "confidence": 0.962,
+      "words": [
+        {
+          "text": "I",
+          "start": 199.5,
+          "end": 199.62,
+          "confidence": 0.861
+        },
+        {
+          "text": "miss",
+          "start": 199.62,
+          "end": 200.14,
+          "confidence": 0.983
+        },
+        {
+          "text": "you,",
+          "start": 200.14,
+          "end": 200.64,
+          "confidence": 0.993
+        },
+        {
+          "text": "miss",
+          "start": 200.64,
+          "end": 200.66,
+          "confidence": 0.985
+        },
+        {
+          "text": "you.",
+          "start": 200.66,
+          "end": 200.68,
+          "confidence": 0.996
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "seek": 11164,
+      "start": 200.68,
+      "end": 201.68,
+      "text": " I miss you, miss you.",
+      "tokens": [
+        51115,
+        286,
+        1713,
+        291,
+        11,
+        1713,
+        291,
+        13,
+        51165
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.12424069562835009,
+      "compression_ratio": 6.010416666666667,
+      "no_speech_prob": 0.0037826569750905037,
+      "confidence": 0.963,
+      "words": [
+        {
+          "text": "I",
+          "start": 200.68,
+          "end": 200.94,
+          "confidence": 0.863
+        },
+        {
+          "text": "miss",
+          "start": 200.94,
+          "end": 201.26,
+          "confidence": 0.983
+        },
+        {
+          "text": "you,",
+          "start": 201.26,
+          "end": 201.62,
+          "confidence": 0.993
+        },
+        {
+          "text": "miss",
+          "start": 201.64,
+          "end": 201.66,
+          "confidence": 0.986
+        },
+        {
+          "text": "you.",
+          "start": 201.66,
+          "end": 201.68,
+          "confidence": 0.996
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "seek": 11164,
+      "start": 201.68,
+      "end": 202.64,
+      "text": " I miss you, miss you.",
+      "tokens": [
+        51165,
+        286,
+        1713,
+        291,
+        11,
+        1713,
+        291,
+        13,
+        51215
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.12424069562835009,
+      "compression_ratio": 6.010416666666667,
+      "no_speech_prob": 0.0037826569750905037,
+      "confidence": 0.965,
+      "words": [
+        {
+          "text": "I",
+          "start": 201.68,
+          "end": 201.7,
+          "confidence": 0.872
+        },
+        {
+          "text": "miss",
+          "start": 201.7,
+          "end": 201.72,
+          "confidence": 0.984
+        },
+        {
+          "text": "you,",
+          "start": 201.72,
+          "end": 201.8,
+          "confidence": 0.993
+        },
+        {
+          "text": "miss",
+          "start": 201.92,
+          "end": 202.34,
+          "confidence": 0.986
+        },
+        {
+          "text": "you.",
+          "start": 202.34,
+          "end": 202.64,
+          "confidence": 0.996
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "seek": 11164,
+      "start": 202.64,
+      "end": 203.0,
+      "text": " I miss you, miss you.",
+      "tokens": [
+        51215,
+        286,
+        1713,
+        291,
+        11,
+        1713,
+        291,
+        13,
+        51265
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.12424069562835009,
+      "compression_ratio": 6.010416666666667,
+      "no_speech_prob": 0.0037826569750905037,
+      "confidence": 0.966,
+      "words": [
+        {
+          "text": "I",
+          "start": 202.64,
+          "end": 202.66,
+          "confidence": 0.873
+        },
+        {
+          "text": "miss",
+          "start": 202.66,
+          "end": 202.68,
+          "confidence": 0.985
+        },
+        {
+          "text": "you,",
+          "start": 202.68,
+          "end": 202.7,
+          "confidence": 0.993
+        },
+        {
+          "text": "miss",
+          "start": 202.7,
+          "end": 202.72,
+          "confidence": 0.987
+        },
+        {
+          "text": "you.",
+          "start": 202.72,
+          "end": 203.0,
+          "confidence": 0.996
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "seek": 11164,
+      "start": 203.62,
+      "end": 216.47,
+      "text": " I miss you, miss you.",
+      "tokens": [
+        51265,
+        286,
+        1713,
+        291,
+        11,
+        1713,
+        291,
+        13,
+        51315
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.12424069562835009,
+      "compression_ratio": 6.010416666666667,
+      "no_speech_prob": 0.0037826569750905037,
+      "confidence": 0.97,
+      "words": [
+        {
+          "text": "I",
+          "start": 203.62,
+          "end": 203.63,
+          "confidence": 0.89
+        },
+        {
+          "text": "miss",
+          "start": 215.45,
+          "end": 215.69,
+          "confidence": 0.987
+        },
+        {
+          "text": "you,",
+          "start": 215.69,
+          "end": 216.13,
+          "confidence": 0.993
+        },
+        {
+          "text": "miss",
+          "start": 216.37,
+          "end": 216.45,
+          "confidence": 0.987
+        },
+        {
+          "text": "you.",
+          "start": 216.45,
+          "end": 216.47,
+          "confidence": 0.997
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "seek": 11164,
+      "start": 216.47,
+      "end": 216.88,
+      "text": " I miss you, miss you.",
+      "tokens": [
+        51315,
+        286,
+        1713,
+        291,
+        11,
+        1713,
+        291,
+        13,
+        51365
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.12424069562835009,
+      "compression_ratio": 6.010416666666667,
+      "no_speech_prob": 0.0037826569750905037,
+      "confidence": 0.976,
+      "words": [
+        {
+          "text": "I",
+          "start": 216.47,
+          "end": 216.49,
+          "confidence": 0.913
+        },
+        {
+          "text": "miss",
+          "start": 216.49,
+          "end": 216.51,
+          "confidence": 0.99
+        },
+        {
+          "text": "you,",
+          "start": 216.51,
+          "end": 216.53,
+          "confidence": 0.993
+        },
+        {
+          "text": "miss",
+          "start": 216.53,
+          "end": 216.83,
+          "confidence": 0.988
+        },
+        {
+          "text": "you.",
+          "start": 216.83,
+          "end": 216.88,
+          "confidence": 0.997
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "seek": 11164,
+      "start": 216.88,
+      "end": 217.31,
+      "text": " I miss you, miss you.",
+      "tokens": [
+        51365,
+        286,
+        1713,
+        291,
+        11,
+        1713,
+        291,
+        13,
+        51415
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.12424069562835009,
+      "compression_ratio": 6.010416666666667,
+      "no_speech_prob": 0.0037826569750905037,
+      "confidence": 0.982,
+      "words": [
+        {
+          "text": "I",
+          "start": 216.88,
+          "end": 216.9,
+          "confidence": 0.934
+        },
+        {
+          "text": "miss",
+          "start": 216.9,
+          "end": 216.92,
+          "confidence": 0.993
+        },
+        {
+          "text": "you,",
+          "start": 216.92,
+          "end": 216.94,
+          "confidence": 0.994
+        },
+        {
+          "text": "miss",
+          "start": 216.94,
+          "end": 216.96,
+          "confidence": 0.991
+        },
+        {
+          "text": "you.",
+          "start": 216.96,
+          "end": 217.31,
           "confidence": 0.998
         }
       ]
     },
     {
-      "id": 20,
-      "seek": 11320,
-      "start": 215.44,
-      "end": 237.37,
-      "text": " I miss you, I miss you, I miss you, I miss you.",
+      "id": 37,
+      "seek": 11164,
+      "start": 225.19,
+      "end": 226.41,
+      "text": " I miss you, miss you.",
       "tokens": [
-        51214,
+        51415,
         286,
         1713,
         291,
         11,
-        286,
-        1713,
-        291,
-        11,
-        286,
-        1713,
-        291,
-        11,
-        286,
         1713,
         291,
         13,
-        51564
+        51465
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.08689201923838832,
-      "compression_ratio": 2.125,
-      "no_speech_prob": 0.07559549063444138,
-      "confidence": 0.954,
+      "avg_logprob": -0.12424069562835009,
+      "compression_ratio": 6.010416666666667,
+      "no_speech_prob": 0.0037826569750905037,
+      "confidence": 0.983,
       "words": [
         {
           "text": "I",
-          "start": 215.44,
-          "end": 215.59,
-          "confidence": 0.955
+          "start": 225.19,
+          "end": 225.23,
+          "confidence": 0.938
         },
         {
           "text": "miss",
-          "start": 215.59,
-          "end": 216.09,
-          "confidence": 0.965
+          "start": 225.23,
+          "end": 225.49,
+          "confidence": 0.993
         },
         {
           "text": "you,",
-          "start": 216.09,
-          "end": 216.47,
-          "confidence": 0.998
-        },
-        {
-          "text": "I",
-          "start": 216.69,
-          "end": 217.21,
-          "confidence": 0.727
+          "start": 225.49,
+          "end": 225.87,
+          "confidence": 0.995
         },
         {
           "text": "miss",
-          "start": 217.21,
-          "end": 217.23,
-          "confidence": 0.996
-        },
-        {
-          "text": "you,",
-          "start": 217.23,
-          "end": 217.83,
-          "confidence": 0.999
-        },
-        {
-          "text": "I",
-          "start": 225.29,
-          "end": 225.37,
-          "confidence": 0.98
-        },
-        {
-          "text": "miss",
-          "start": 225.37,
-          "end": 225.73,
-          "confidence": 0.994
-        },
-        {
-          "text": "you,",
-          "start": 225.73,
-          "end": 227.41,
-          "confidence": 0.998
-        },
-        {
-          "text": "I",
-          "start": 236.17,
-          "end": 236.37,
-          "confidence": 0.885
-        },
-        {
-          "text": "miss",
-          "start": 236.37,
-          "end": 236.85,
+          "start": 226.09,
+          "end": 226.39,
           "confidence": 0.991
         },
         {
           "text": "you.",
-          "start": 236.85,
-          "end": 237.37,
+          "start": 226.39,
+          "end": 226.41,
           "confidence": 0.998
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "seek": 11164,
+      "start": 226.41,
+      "end": 226.74,
+      "text": " I miss you, miss you.",
+      "tokens": [
+        51465,
+        286,
+        1713,
+        291,
+        11,
+        1713,
+        291,
+        13,
+        51515
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.12424069562835009,
+      "compression_ratio": 6.010416666666667,
+      "no_speech_prob": 0.0037826569750905037,
+      "confidence": 0.983,
+      "words": [
+        {
+          "text": "I",
+          "start": 226.41,
+          "end": 226.43,
+          "confidence": 0.938
+        },
+        {
+          "text": "miss",
+          "start": 226.43,
+          "end": 226.45,
+          "confidence": 0.994
+        },
+        {
+          "text": "you,",
+          "start": 226.45,
+          "end": 226.47,
+          "confidence": 0.995
+        },
+        {
+          "text": "miss",
+          "start": 226.47,
+          "end": 226.67,
+          "confidence": 0.992
+        },
+        {
+          "text": "you.",
+          "start": 226.67,
+          "end": 226.74,
+          "confidence": 0.998
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "seek": 11164,
+      "start": 226.74,
+      "end": 227.05,
+      "text": " I miss you, miss you.",
+      "tokens": [
+        51515,
+        286,
+        1713,
+        291,
+        11,
+        1713,
+        291,
+        13,
+        51565
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.12424069562835009,
+      "compression_ratio": 6.010416666666667,
+      "no_speech_prob": 0.0037826569750905037,
+      "confidence": 0.983,
+      "words": [
+        {
+          "text": "I",
+          "start": 226.74,
+          "end": 226.76,
+          "confidence": 0.938
+        },
+        {
+          "text": "miss",
+          "start": 226.76,
+          "end": 226.78,
+          "confidence": 0.994
+        },
+        {
+          "text": "you,",
+          "start": 226.78,
+          "end": 226.8,
+          "confidence": 0.995
+        },
+        {
+          "text": "miss",
+          "start": 226.8,
+          "end": 226.82,
+          "confidence": 0.992
+        },
+        {
+          "text": "you.",
+          "start": 226.82,
+          "end": 227.05,
+          "confidence": 0.998
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "seek": 13564,
+      "start": 227.91,
+      "end": 236.69,
+      "text": " I miss you.",
+      "tokens": [
+        50365,
+        286,
+        1713,
+        291,
+        13,
+        50415
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.05237424439488195,
+      "compression_ratio": 14.36,
+      "no_speech_prob": 0.034858763217926025,
+      "confidence": 0.949,
+      "words": [
+        {
+          "text": "I",
+          "start": 227.91,
+          "end": 228.08,
+          "confidence": 0.903
+        },
+        {
+          "text": "miss",
+          "start": 236.17,
+          "end": 236.59,
+          "confidence": 0.969
+        },
+        {
+          "text": "you.",
+          "start": 236.59,
+          "end": 236.69,
+          "confidence": 0.976
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "seek": 13564,
+      "start": 236.69,
+      "end": 236.91,
+      "text": " I miss you.",
+      "tokens": [
+        50415,
+        286,
+        1713,
+        291,
+        13,
+        50465
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.05237424439488195,
+      "compression_ratio": 14.36,
+      "no_speech_prob": 0.034858763217926025,
+      "confidence": 0.929,
+      "words": [
+        {
+          "text": "I",
+          "start": 236.69,
+          "end": 236.71,
+          "confidence": 0.831
+        },
+        {
+          "text": "miss",
+          "start": 236.71,
+          "end": 236.73,
+          "confidence": 0.979
+        },
+        {
+          "text": "you.",
+          "start": 236.73,
+          "end": 236.91,
+          "confidence": 0.984
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "seek": 13564,
+      "start": 237.47,
+      "end": 239.15,
+      "text": " I miss you.",
+      "tokens": [
+        50465,
+        286,
+        1713,
+        291,
+        13,
+        50515
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.05237424439488195,
+      "compression_ratio": 14.36,
+      "no_speech_prob": 0.034858763217926025,
+      "confidence": 0.934,
+      "words": [
+        {
+          "text": "I",
+          "start": 237.47,
+          "end": 237.84,
+          "confidence": 0.838
+        },
+        {
+          "text": "miss",
+          "start": 237.91,
+          "end": 238.23,
+          "confidence": 0.983
+        },
+        {
+          "text": "you.",
+          "start": 238.23,
+          "end": 239.15,
+          "confidence": 0.989
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "seek": 13564,
+      "start": 239.15,
+      "end": 239.81,
+      "text": " I miss you.",
+      "tokens": [
+        50515,
+        286,
+        1713,
+        291,
+        13,
+        50565
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.05237424439488195,
+      "compression_ratio": 14.36,
+      "no_speech_prob": 0.034858763217926025,
+      "confidence": 0.952,
+      "words": [
+        {
+          "text": "I",
+          "start": 239.15,
+          "end": 239.33,
+          "confidence": 0.881
+        },
+        {
+          "text": "miss",
+          "start": 239.33,
+          "end": 239.67,
+          "confidence": 0.986
+        },
+        {
+          "text": "you.",
+          "start": 239.67,
+          "end": 239.81,
+          "confidence": 0.992
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "seek": 13564,
+      "start": 239.81,
+      "end": 240.41,
+      "text": " I miss you.",
+      "tokens": [
+        50565,
+        286,
+        1713,
+        291,
+        13,
+        50615
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.05237424439488195,
+      "compression_ratio": 14.36,
+      "no_speech_prob": 0.034858763217926025,
+      "confidence": 0.954,
+      "words": [
+        {
+          "text": "I",
+          "start": 239.81,
+          "end": 240.21,
+          "confidence": 0.886
+        },
+        {
+          "text": "miss",
+          "start": 240.21,
+          "end": 240.35,
+          "confidence": 0.987
+        },
+        {
+          "text": "you.",
+          "start": 240.35,
+          "end": 240.41,
+          "confidence": 0.993
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "seek": 13564,
+      "start": 240.47,
+      "end": 241.33,
+      "text": " I miss you.",
+      "tokens": [
+        50615,
+        286,
+        1713,
+        291,
+        13,
+        50665
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.05237424439488195,
+      "compression_ratio": 14.36,
+      "no_speech_prob": 0.034858763217926025,
+      "confidence": 0.96,
+      "words": [
+        {
+          "text": "I",
+          "start": 240.47,
+          "end": 240.89,
+          "confidence": 0.903
+        },
+        {
+          "text": "miss",
+          "start": 240.89,
+          "end": 240.97,
+          "confidence": 0.987
+        },
+        {
+          "text": "you.",
+          "start": 240.97,
+          "end": 241.33,
+          "confidence": 0.993
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "seek": 13564,
+      "start": 241.61,
+      "end": 243.13,
+      "text": " I miss you.",
+      "tokens": [
+        50665,
+        286,
+        1713,
+        291,
+        13,
+        50715
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.05237424439488195,
+      "compression_ratio": 14.36,
+      "no_speech_prob": 0.034858763217926025,
+      "confidence": 0.958,
+      "words": [
+        {
+          "text": "I",
+          "start": 241.61,
+          "end": 241.79,
+          "confidence": 0.897
+        },
+        {
+          "text": "miss",
+          "start": 241.79,
+          "end": 243.09,
+          "confidence": 0.986
+        },
+        {
+          "text": "you.",
+          "start": 243.09,
+          "end": 243.13,
+          "confidence": 0.993
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "seek": 13564,
+      "start": 243.13,
+      "end": 243.65,
+      "text": " I miss you.",
+      "tokens": [
+        50715,
+        286,
+        1713,
+        291,
+        13,
+        50765
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.05237424439488195,
+      "compression_ratio": 14.36,
+      "no_speech_prob": 0.034858763217926025,
+      "confidence": 0.96,
+      "words": [
+        {
+          "text": "I",
+          "start": 243.13,
+          "end": 243.49,
+          "confidence": 0.904
+        },
+        {
+          "text": "miss",
+          "start": 243.49,
+          "end": 243.53,
+          "confidence": 0.987
+        },
+        {
+          "text": "you.",
+          "start": 243.53,
+          "end": 243.65,
+          "confidence": 0.993
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "seek": 13564,
+      "start": 243.77,
+      "end": 245.45,
+      "text": " I miss you.",
+      "tokens": [
+        50765,
+        286,
+        1713,
+        291,
+        13,
+        50815
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.05237424439488195,
+      "compression_ratio": 14.36,
+      "no_speech_prob": 0.034858763217926025,
+      "confidence": 0.959,
+      "words": [
+        {
+          "text": "I",
+          "start": 243.77,
+          "end": 244.93,
+          "confidence": 0.901
+        },
+        {
+          "text": "miss",
+          "start": 244.93,
+          "end": 245.39,
+          "confidence": 0.987
+        },
+        {
+          "text": "you.",
+          "start": 245.39,
+          "end": 245.45,
+          "confidence": 0.993
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "seek": 13564,
+      "start": 245.45,
+      "end": 245.59,
+      "text": " I miss you.",
+      "tokens": [
+        50815,
+        286,
+        1713,
+        291,
+        13,
+        50865
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.05237424439488195,
+      "compression_ratio": 14.36,
+      "no_speech_prob": 0.034858763217926025,
+      "confidence": 0.963,
+      "words": [
+        {
+          "text": "I",
+          "start": 245.45,
+          "end": 245.47,
+          "confidence": 0.908
+        },
+        {
+          "text": "miss",
+          "start": 245.47,
+          "end": 245.55,
+          "confidence": 0.988
+        },
+        {
+          "text": "you.",
+          "start": 245.55,
+          "end": 245.59,
+          "confidence": 0.994
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "seek": 13564,
+      "start": 245.99,
+      "end": 247.09,
+      "text": " I miss you.",
+      "tokens": [
+        50865,
+        286,
+        1713,
+        291,
+        13,
+        50915
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.05237424439488195,
+      "compression_ratio": 14.36,
+      "no_speech_prob": 0.034858763217926025,
+      "confidence": 0.961,
+      "words": [
+        {
+          "text": "I",
+          "start": 245.99,
+          "end": 246.93,
+          "confidence": 0.903
+        },
+        {
+          "text": "miss",
+          "start": 246.93,
+          "end": 247.07,
+          "confidence": 0.989
+        },
+        {
+          "text": "you.",
+          "start": 247.07,
+          "end": 247.09,
+          "confidence": 0.994
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "seek": 13564,
+      "start": 247.09,
+      "end": 247.15,
+      "text": " I miss you.",
+      "tokens": [
+        50915,
+        286,
+        1713,
+        291,
+        13,
+        50965
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.05237424439488195,
+      "compression_ratio": 14.36,
+      "no_speech_prob": 0.034858763217926025,
+      "confidence": 0.963,
+      "words": [
+        {
+          "text": "I",
+          "start": 247.09,
+          "end": 247.11,
+          "confidence": 0.909
+        },
+        {
+          "text": "miss",
+          "start": 247.11,
+          "end": 247.13,
+          "confidence": 0.989
+        },
+        {
+          "text": "you.",
+          "start": 247.13,
+          "end": 247.15,
+          "confidence": 0.994
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "seek": 13564,
+      "start": 247.47,
+      "end": 248.35,
+      "text": " I miss you.",
+      "tokens": [
+        50965,
+        286,
+        1713,
+        291,
+        13,
+        51015
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.05237424439488195,
+      "compression_ratio": 14.36,
+      "no_speech_prob": 0.034858763217926025,
+      "confidence": 0.964,
+      "words": [
+        {
+          "text": "I",
+          "start": 247.47,
+          "end": 247.75,
+          "confidence": 0.91
+        },
+        {
+          "text": "miss",
+          "start": 247.75,
+          "end": 247.77,
+          "confidence": 0.99
+        },
+        {
+          "text": "you.",
+          "start": 247.77,
+          "end": 248.35,
+          "confidence": 0.994
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "seek": 13564,
+      "start": 248.53,
+      "end": 250.05,
+      "text": " I miss you.",
+      "tokens": [
+        51015,
+        286,
+        1713,
+        291,
+        13,
+        51065
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.05237424439488195,
+      "compression_ratio": 14.36,
+      "no_speech_prob": 0.034858763217926025,
+      "confidence": 0.964,
+      "words": [
+        {
+          "text": "I",
+          "start": 248.53,
+          "end": 249.51,
+          "confidence": 0.908
+        },
+        {
+          "text": "miss",
+          "start": 249.51,
+          "end": 250.03,
+          "confidence": 0.991
+        },
+        {
+          "text": "you.",
+          "start": 250.03,
+          "end": 250.05,
+          "confidence": 0.994
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "seek": 13564,
+      "start": 250.05,
+      "end": 250.81,
+      "text": " I miss you.",
+      "tokens": [
+        51065,
+        286,
+        1713,
+        291,
+        13,
+        51115
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.05237424439488195,
+      "compression_ratio": 14.36,
+      "no_speech_prob": 0.034858763217926025,
+      "confidence": 0.965,
+      "words": [
+        {
+          "text": "I",
+          "start": 250.05,
+          "end": 250.29,
+          "confidence": 0.911
+        },
+        {
+          "text": "miss",
+          "start": 250.29,
+          "end": 250.79,
+          "confidence": 0.991
+        },
+        {
+          "text": "you.",
+          "start": 250.79,
+          "end": 250.81,
+          "confidence": 0.995
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "seek": 13564,
+      "start": 250.81,
+      "end": 251.33,
+      "text": " I miss you.",
+      "tokens": [
+        51115,
+        286,
+        1713,
+        291,
+        13,
+        51165
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.05237424439488195,
+      "compression_ratio": 14.36,
+      "no_speech_prob": 0.034858763217926025,
+      "confidence": 0.966,
+      "words": [
+        {
+          "text": "I",
+          "start": 250.81,
+          "end": 251.21,
+          "confidence": 0.912
+        },
+        {
+          "text": "miss",
+          "start": 251.21,
+          "end": 251.31,
+          "confidence": 0.992
+        },
+        {
+          "text": "you.",
+          "start": 251.31,
+          "end": 251.33,
+          "confidence": 0.995
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "seek": 13564,
+      "start": 252.01,
+      "end": 252.19,
+      "text": " I miss you.",
+      "tokens": [
+        51165,
+        286,
+        1713,
+        291,
+        13,
+        51215
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.05237424439488195,
+      "compression_ratio": 14.36,
+      "no_speech_prob": 0.034858763217926025,
+      "confidence": 0.966,
+      "words": [
+        {
+          "text": "I",
+          "start": 252.01,
+          "end": 252.09,
+          "confidence": 0.911
+        },
+        {
+          "text": "miss",
+          "start": 252.09,
+          "end": 252.17,
+          "confidence": 0.992
+        },
+        {
+          "text": "you.",
+          "start": 252.17,
+          "end": 252.19,
+          "confidence": 0.996
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "seek": 13564,
+      "start": 252.61,
+      "end": 254.17,
+      "text": " I miss you.",
+      "tokens": [
+        51215,
+        286,
+        1713,
+        291,
+        13,
+        51265
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.05237424439488195,
+      "compression_ratio": 14.36,
+      "no_speech_prob": 0.034858763217926025,
+      "confidence": 0.965,
+      "words": [
+        {
+          "text": "I",
+          "start": 252.61,
+          "end": 253.59,
+          "confidence": 0.908
+        },
+        {
+          "text": "miss",
+          "start": 253.59,
+          "end": 254.11,
+          "confidence": 0.993
+        },
+        {
+          "text": "you.",
+          "start": 254.11,
+          "end": 254.17,
+          "confidence": 0.996
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "seek": 13564,
+      "start": 254.17,
+      "end": 254.37,
+      "text": " I miss you.",
+      "tokens": [
+        51265,
+        286,
+        1713,
+        291,
+        13,
+        51315
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.05237424439488195,
+      "compression_ratio": 14.36,
+      "no_speech_prob": 0.034858763217926025,
+      "confidence": 0.968,
+      "words": [
+        {
+          "text": "I",
+          "start": 254.17,
+          "end": 254.19,
+          "confidence": 0.917
+        },
+        {
+          "text": "miss",
+          "start": 254.19,
+          "end": 254.21,
+          "confidence": 0.993
+        },
+        {
+          "text": "you.",
+          "start": 254.21,
+          "end": 254.37,
+          "confidence": 0.996
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "seek": 13564,
+      "start": 254.47,
+      "end": 255.75,
+      "text": " I miss you.",
+      "tokens": [
+        51315,
+        286,
+        1713,
+        291,
+        13,
+        51365
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.05237424439488195,
+      "compression_ratio": 14.36,
+      "no_speech_prob": 0.034858763217926025,
+      "confidence": 0.969,
+      "words": [
+        {
+          "text": "I",
+          "start": 254.47,
+          "end": 255.19,
+          "confidence": 0.921
+        },
+        {
+          "text": "miss",
+          "start": 255.19,
+          "end": 255.53,
+          "confidence": 0.993
+        },
+        {
+          "text": "you.",
+          "start": 255.53,
+          "end": 255.75,
+          "confidence": 0.996
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "seek": 13564,
+      "start": 255.75,
+      "end": 257.39,
+      "text": " I miss you.",
+      "tokens": [
+        51365,
+        286,
+        1713,
+        291,
+        13,
+        51415
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.05237424439488195,
+      "compression_ratio": 14.36,
+      "no_speech_prob": 0.034858763217926025,
+      "confidence": 0.968,
+      "words": [
+        {
+          "text": "I",
+          "start": 255.75,
+          "end": 256.65,
+          "confidence": 0.917
+        },
+        {
+          "text": "miss",
+          "start": 256.65,
+          "end": 256.97,
+          "confidence": 0.993
+        },
+        {
+          "text": "you.",
+          "start": 256.97,
+          "end": 257.39,
+          "confidence": 0.996
+        }
+      ]
+    },
+    {
+      "id": 61,
+      "seek": 13564,
+      "start": 257.39,
+      "end": 257.45,
+      "text": " I miss you.",
+      "tokens": [
+        51415,
+        286,
+        1713,
+        291,
+        13,
+        51465
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.05237424439488195,
+      "compression_ratio": 14.36,
+      "no_speech_prob": 0.034858763217926025,
+      "confidence": 0.967,
+      "words": [
+        {
+          "text": "I",
+          "start": 257.39,
+          "end": 257.41,
+          "confidence": 0.915
+        },
+        {
+          "text": "miss",
+          "start": 257.41,
+          "end": 257.43,
+          "confidence": 0.993
+        },
+        {
+          "text": "you.",
+          "start": 257.43,
+          "end": 257.45,
+          "confidence": 0.996
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "seek": 13564,
+      "start": 257.47,
+      "end": 258.61,
+      "text": " I miss you.",
+      "tokens": [
+        51465,
+        286,
+        1713,
+        291,
+        13,
+        51515
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.05237424439488195,
+      "compression_ratio": 14.36,
+      "no_speech_prob": 0.034858763217926025,
+      "confidence": 0.969,
+      "words": [
+        {
+          "text": "I",
+          "start": 257.47,
+          "end": 258.17,
+          "confidence": 0.92
+        },
+        {
+          "text": "miss",
+          "start": 258.17,
+          "end": 258.59,
+          "confidence": 0.992
+        },
+        {
+          "text": "you.",
+          "start": 258.59,
+          "end": 258.61,
+          "confidence": 0.996
+        }
+      ]
+    },
+    {
+      "id": 63,
+      "seek": 13564,
+      "start": 258.61,
+      "end": 259.57,
+      "text": " I miss you.",
+      "tokens": [
+        51515,
+        286,
+        1713,
+        291,
+        13,
+        51565
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.05237424439488195,
+      "compression_ratio": 14.36,
+      "no_speech_prob": 0.034858763217926025,
+      "confidence": 0.97,
+      "words": [
+        {
+          "text": "I",
+          "start": 258.61,
+          "end": 258.97,
+          "confidence": 0.923
+        },
+        {
+          "text": "miss",
+          "start": 258.97,
+          "end": 259.55,
+          "confidence": 0.993
+        },
+        {
+          "text": "you.",
+          "start": 259.55,
+          "end": 259.57,
+          "confidence": 0.996
+        }
+      ]
+    },
+    {
+      "id": 64,
+      "seek": 13564,
+      "start": 259.57,
+      "end": 259.63,
+      "text": " I miss you.",
+      "tokens": [
+        51565,
+        286,
+        1713,
+        291,
+        13,
+        51615
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.05237424439488195,
+      "compression_ratio": 14.36,
+      "no_speech_prob": 0.034858763217926025,
+      "confidence": 0.969,
+      "words": [
+        {
+          "text": "I",
+          "start": 259.57,
+          "end": 259.59,
+          "confidence": 0.92
+        },
+        {
+          "text": "miss",
+          "start": 259.59,
+          "end": 259.61,
+          "confidence": 0.993
+        },
+        {
+          "text": "you.",
+          "start": 259.61,
+          "end": 259.63,
+          "confidence": 0.996
+        }
+      ]
+    },
+    {
+      "id": 65,
+      "seek": 13564,
+      "start": 260.47,
+      "end": 262.0,
+      "text": " I miss you.",
+      "tokens": [
+        51615,
+        286,
+        1713,
+        291,
+        13,
+        51665
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.05237424439488195,
+      "compression_ratio": 14.36,
+      "no_speech_prob": 0.034858763217926025,
+      "confidence": 0.966,
+      "words": [
+        {
+          "text": "I",
+          "start": 260.47,
+          "end": 261.11,
+          "confidence": 0.912
+        },
+        {
+          "text": "miss",
+          "start": 261.11,
+          "end": 261.25,
+          "confidence": 0.992
+        },
+        {
+          "text": "you.",
+          "start": 261.25,
+          "end": 262.0,
+          "confidence": 0.996
+        }
+      ]
+    },
+    {
+      "id": 66,
+      "seek": 13564,
+      "start": 262.0,
+      "end": 262.5,
+      "text": " I miss you.",
+      "tokens": [
+        51665,
+        286,
+        1713,
+        291,
+        13,
+        51715
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.05237424439488195,
+      "compression_ratio": 14.36,
+      "no_speech_prob": 0.034858763217926025,
+      "confidence": 0.968,
+      "words": [
+        {
+          "text": "I",
+          "start": 262.0,
+          "end": 262.02,
+          "confidence": 0.917
+        },
+        {
+          "text": "miss",
+          "start": 262.02,
+          "end": 262.47,
+          "confidence": 0.993
+        },
+        {
+          "text": "you.",
+          "start": 262.47,
+          "end": 262.5,
+          "confidence": 0.996
+        }
+      ]
+    },
+    {
+      "id": 67,
+      "seek": 13564,
+      "start": 262.5,
+      "end": 263.41,
+      "text": " I miss you.",
+      "tokens": [
+        51715,
+        286,
+        1713,
+        291,
+        13,
+        51765
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.05237424439488195,
+      "compression_ratio": 14.36,
+      "no_speech_prob": 0.034858763217926025,
+      "confidence": 0.97,
+      "words": [
+        {
+          "text": "I",
+          "start": 262.5,
+          "end": 262.69,
+          "confidence": 0.923
+        },
+        {
+          "text": "miss",
+          "start": 262.69,
+          "end": 263.05,
+          "confidence": 0.993
+        },
+        {
+          "text": "you.",
+          "start": 263.05,
+          "end": 263.41,
+          "confidence": 0.996
+        }
+      ]
+    },
+    {
+      "id": 68,
+      "seek": 13564,
+      "start": 263.57,
+      "end": 264.7,
+      "text": " I miss you.",
+      "tokens": [
+        51765,
+        286,
+        1713,
+        291,
+        13,
+        51815
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.05237424439488195,
+      "compression_ratio": 14.36,
+      "no_speech_prob": 0.034858763217926025,
+      "confidence": 0.967,
+      "words": [
+        {
+          "text": "I",
+          "start": 263.57,
+          "end": 263.81,
+          "confidence": 0.912
+        },
+        {
+          "text": "miss",
+          "start": 263.81,
+          "end": 264.19,
+          "confidence": 0.994
+        },
+        {
+          "text": "you.",
+          "start": 264.19,
+          "end": 264.7,
+          "confidence": 0.997
+        }
+      ]
+    },
+    {
+      "id": 69,
+      "seek": 13564,
+      "start": 264.7,
+      "end": 265.49,
+      "text": " I miss you.",
+      "tokens": [
+        51815,
+        286,
+        1713,
+        291,
+        13,
+        51865
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.05237424439488195,
+      "compression_ratio": 14.36,
+      "no_speech_prob": 0.034858763217926025,
+      "confidence": 0.969,
+      "words": [
+        {
+          "text": "I",
+          "start": 264.7,
+          "end": 264.72,
+          "confidence": 0.918
+        },
+        {
+          "text": "miss",
+          "start": 264.72,
+          "end": 265.47,
+          "confidence": 0.995
+        },
+        {
+          "text": "you.",
+          "start": 265.47,
+          "end": 265.49,
+          "confidence": 0.997
         }
       ]
     }
   ],
   "language": "en",
   "language_probs": {
-    "en": 0.9776654243469238,
-    "zh": 3.483892578515224e-05,
-    "de": 0.0007507313275709748,
-    "es": 0.0001701487199170515,
-    "ru": 8.422972314292565e-05,
-    "ko": 2.214496817032341e-05,
-    "fr": 8.100293052848428e-05,
-    "ja": 2.5290348276030272e-05,
-    "pt": 0.00014105821901466697,
-    "tr": 0.000136718328576535,
-    "pl": 0.00010815310088219121,
-    "ca": 9.069189559340884e-07,
-    "nl": 0.00012644378875847906,
-    "ar": 0.00022896011068951339,
-    "sv": 2.4321490855072625e-05,
-    "it": 4.799264934263192e-05,
-    "id": 1.5793057173141278e-06,
-    "hi": 1.6456742741866037e-05,
-    "fi": 3.116382231382886e-06,
-    "vi": 3.62267492164392e-05,
-    "he": 8.604607501183636e-06,
-    "uk": 1.9050063428949215e-06,
-    "el": 5.3539664804702625e-05,
-    "ms": 2.8434702471713535e-05,
-    "cs": 3.3173719202750362e-06,
-    "ro": 2.227177901659161e-06,
-    "da": 2.032136580965016e-05,
-    "hu": 4.429272394190775e-06,
-    "ta": 1.1375311714800773e-06,
-    "no": 3.068067371714278e-06,
-    "th": 5.301144483382814e-06,
-    "ur": 0.00010320040746591985,
-    "hr": 6.481457148765912e-07,
-    "bg": 4.63208863266118e-07,
-    "lt": 1.0498348501641885e-07,
-    "la": 0.002172313164919615,
-    "mi": 0.00017554980877321213,
-    "ml": 3.449520590947941e-06,
-    "cy": 0.016821661964058876,
-    "sk": 3.085636421928939e-07,
-    "te": 6.532292218253133e-07,
-    "fa": 7.534446012869012e-06,
-    "lv": 6.63516061649716e-07,
-    "bn": 4.560274646792095e-07,
-    "sr": 9.785537002926503e-08,
-    "az": 1.237007865029227e-07,
-    "sl": 8.537645044270903e-06,
-    "kn": 4.910143402980793e-09,
-    "et": 9.337425410649303e-08,
-    "mk": 7.740997176597375e-08,
-    "br": 1.1853347132273484e-05,
-    "eu": 6.171661226517244e-08,
-    "is": 6.80680477671558e-06,
-    "hy": 1.0096163549633275e-07,
-    "ne": 2.007861894526286e-07,
-    "mn": 7.460112101398408e-07,
-    "bs": 2.644839241838781e-06,
-    "kk": 1.263683024887996e-08,
-    "sq": 5.764727575297002e-07,
-    "sw": 1.0708607078413479e-05,
-    "gl": 9.231396688846871e-06,
-    "mr": 2.2005735900165746e-08,
-    "pa": 1.71741532994929e-07,
-    "si": 2.4460766780975973e-06,
-    "km": 4.2023770220112056e-05,
-    "sn": 4.105028710910119e-05,
-    "yo": 4.064528184244409e-06,
-    "so": 4.558913690999589e-09,
-    "af": 0.00012644378875847906,
-    "oc": 6.136520482868946e-07,
-    "ka": 1.2735942078734297e-08,
-    "be": 2.40309589116805e-07,
-    "tg": 1.7714029132420706e-09,
-    "sd": 4.779126925313903e-07,
-    "gu": 1.6318928430791857e-09,
-    "am": 3.013257865447372e-09,
-    "yi": 3.403188384254463e-05,
-    "lo": 4.769090011791377e-08,
-    "uz": 2.3529102277652925e-11,
-    "fo": 6.701274742226815e-06,
-    "ht": 3.4765755572152557e-06,
-    "ps": 1.4462085573541117e-07,
-    "tk": 2.943016663703446e-10,
-    "nn": 0.00042112209484912455,
-    "mt": 1.29910131363431e-06,
-    "sa": 4.160915977990953e-06,
-    "lb": 4.68529126607109e-09,
-    "my": 3.362535778705933e-07,
-    "bo": 8.998613338917494e-07,
-    "tl": 2.0966434021829627e-05,
-    "mg": 1.2781972702491373e-10,
-    "as": 7.66462537882262e-09,
-    "tt": 1.7035414190402776e-09,
-    "haw": 9.32338007260114e-05,
-    "ln": 8.385126371024398e-09,
-    "ha": 7.500591814313395e-10,
-    "ba": 3.5430289258009395e-10,
-    "jw": 1.8941595044452697e-05,
-    "su": 1.203282362638447e-09
+    "en": 0.9917259216308594,
+    "zh": 0.00012726410932373255,
+    "de": 0.0006215410539880395,
+    "es": 0.0012264628894627094,
+    "ru": 0.0007098222267813981,
+    "ko": 0.00017125258455052972,
+    "fr": 0.0004955357871949673,
+    "ja": 8.611121302237734e-05,
+    "pt": 0.0009114298154599965,
+    "tr": 5.4309657571138814e-05,
+    "pl": 0.00010800765448948368,
+    "ca": 2.580097316240426e-06,
+    "nl": 8.544109005015343e-05,
+    "ar": 0.00013653446512762457,
+    "sv": 1.394787341268966e-05,
+    "it": 0.0002845622366294265,
+    "id": 2.2288639229373075e-05,
+    "hi": 2.263963506266009e-05,
+    "fi": 1.1930248547287192e-05,
+    "vi": 0.0002268728130729869,
+    "he": 6.562822818523273e-06,
+    "uk": 5.440771474241046e-06,
+    "el": 1.077808155969251e-05,
+    "ms": 3.398611443117261e-05,
+    "cs": 2.7522795789991505e-05,
+    "ro": 1.1120214367110748e-05,
+    "da": 7.70274709793739e-06,
+    "hu": 1.6563510143896565e-05,
+    "ta": 8.009589691937435e-06,
+    "no": 2.703918653423898e-06,
+    "th": 8.263841664302163e-06,
+    "ur": 1.997940671571996e-05,
+    "hr": 1.3229423529992346e-06,
+    "bg": 7.597018907290476e-07,
+    "lt": 5.345170279724698e-07,
+    "la": 0.0008043340058065951,
+    "mi": 5.736243474530056e-05,
+    "ml": 4.6987059931780095e-07,
+    "cy": 0.0014793967129662633,
+    "sk": 1.6400096001234488e-06,
+    "te": 2.5400963750144e-06,
+    "fa": 7.179749445640482e-06,
+    "lv": 2.0976042378606508e-06,
+    "bn": 1.1360014013916953e-06,
+    "sr": 5.8926183044150093e-08,
+    "az": 3.7169823485783127e-07,
+    "sl": 5.635450179397594e-06,
+    "kn": 1.1833871838007326e-07,
+    "et": 2.1936534722044598e-07,
+    "mk": 2.9804066770111604e-08,
+    "br": 1.7909422240336426e-05,
+    "eu": 1.287258214688336e-06,
+    "is": 2.2504007120005554e-06,
+    "hy": 1.9058792588566575e-07,
+    "ne": 5.66772143884009e-07,
+    "mn": 2.975035329200182e-07,
+    "bs": 1.018305169964151e-06,
+    "kk": 3.0455862543021794e-07,
+    "sq": 7.304890914383577e-08,
+    "sw": 4.237276698404457e-06,
+    "gl": 2.4909666080930037e-06,
+    "mr": 1.8044502780867333e-07,
+    "pa": 1.3810265500069363e-06,
+    "si": 5.440771474241046e-06,
+    "km": 2.372613198531326e-05,
+    "sn": 1.6434611097793095e-05,
+    "yo": 5.56979557586601e-06,
+    "so": 2.1074419986888415e-09,
+    "af": 5.211939424043521e-06,
+    "oc": 1.0882228025366203e-06,
+    "ka": 2.2541271960108133e-08,
+    "be": 1.2427893807398505e-06,
+    "tg": 2.210198468688418e-09,
+    "sd": 5.870521135875606e-07,
+    "gu": 1.53141698433501e-07,
+    "am": 6.7681171778133375e-09,
+    "yi": 2.9812968023179565e-06,
+    "lo": 2.0607467376976274e-07,
+    "uz": 4.2804831901221974e-10,
+    "fo": 7.686570597797981e-07,
+    "ht": 2.3127840904635377e-06,
+    "ps": 3.305952418486413e-07,
+    "tk": 8.512757165846097e-10,
+    "nn": 0.00012049124052282423,
+    "mt": 1.8836750825812487e-07,
+    "sa": 4.992732556274859e-06,
+    "lb": 4.308383427797935e-09,
+    "my": 1.2722613291771268e-06,
+    "bo": 3.6880564380226133e-07,
+    "tl": 1.9669654648168944e-05,
+    "mg": 1.1923126930213357e-09,
+    "as": 4.828238431286991e-08,
+    "tt": 2.849406266491883e-09,
+    "haw": 0.00016598368529230356,
+    "ln": 3.045131791168387e-08,
+    "ha": 3.2111129311118702e-09,
+    "ba": 1.049134112918182e-09,
+    "jw": 1.7770053091226146e-05,
+    "su": 5.3383586440247655e-09,
+    "yue": 2.5203294171660673e-06
   },
   "speech_activity": [
     {

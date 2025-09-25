@@ -1,108 +1,181 @@
 {
-  "text": " Life will come our way It has only just begun The world will die a lot The fray will fall below Time will take our place We will turn it back to one The code for the code The long and long road Look for the light that leads me Tide of a temple A world down Temple of a world down Of salient Drive the crowd away We will fall from last to none The dark will fall with a tongue The world will carry on Look for the light that leads me Tide of feeling lost Temple of a world down Temple of a world down Of stint, red, tidied Temple of a world down Temple of a world down Of salient Tide of a world down Temple of a world down Tide of wasted red, tidied Temple of a world down Temple of a world down The value of sunlight Will fail, will fail",
+  "text": " Life will come our way, it has only just begun The world will die along, the fray will fall below Time will take our place, we will turn it back to one The code before the code, the long and long road Look for the light that leads me home Tire the whole world down, tear the whole world down Tire the cloud away, we will fall from last to none The dark before the dawn, the war will carry on Look for the light that leads me home Tire the feeling lost, tear the whole world down Tear the whole world down I stand breath, tired, tear the whole world down Tear the whole world down Failure Failure Tire the world down Tire the whole world down, tear the whole world down Tire the whole world down Tire the whole world down Tire the whole world down Tire the whole world down Tire the whole world down Tire the whole world down Tire the whole world down Tire the whole world down Tire the whole world down Tire the whole world down Tire the whole world down Tire the whole world down Tire the whole world down Tire the whole world down Tire the whole world down Tire the whole world down Tire the whole world down Tire the whole world down Tire the whole world down Tire the whole world down Tire the whole world down Tire the whole world down",
   "segments": [
     {
       "id": 0,
       "seek": 0,
-      "start": 31.99,
-      "end": 34.67,
-      "text": " Life will come our way",
+      "start": 31.87,
+      "end": 37.59,
+      "text": " Life will come our way, it has only just begun",
       "tokens": [
-        50364,
+        50365,
         7720,
         486,
         808,
         527,
         636,
-        50528
+        11,
+        309,
+        575,
+        787,
+        445,
+        16009,
+        50677
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.38205074256574606,
-      "compression_ratio": 1.5586206896551724,
-      "no_speech_prob": 0.37385520339012146,
-      "confidence": 0.88,
+      "avg_logprob": -0.17597852673446923,
+      "compression_ratio": 1.5151515151515151,
+      "no_speech_prob": 0.27866366505622864,
+      "confidence": 0.977,
       "words": [
         {
           "text": "Life",
-          "start": 31.99,
-          "end": 32.43,
-          "confidence": 0.676
+          "start": 31.87,
+          "end": 32.17,
+          "confidence": 0.892
         },
         {
           "text": "will",
-          "start": 32.43,
-          "end": 32.85,
-          "confidence": 0.989
+          "start": 32.17,
+          "end": 32.63,
+          "confidence": 0.994
         },
         {
           "text": "come",
-          "start": 32.85,
-          "end": 33.41,
-          "confidence": 0.99
+          "start": 32.63,
+          "end": 33.15,
+          "confidence": 0.998
         },
         {
           "text": "our",
-          "start": 33.41,
-          "end": 33.99,
-          "confidence": 0.836
+          "start": 33.15,
+          "end": 33.87,
+          "confidence": 0.995
         },
         {
-          "text": "way",
-          "start": 33.99,
-          "end": 34.67,
-          "confidence": 0.956
+          "text": "way,",
+          "start": 33.87,
+          "end": 34.35,
+          "confidence": 0.973
+        },
+        {
+          "text": "it",
+          "start": 34.73,
+          "end": 35.35,
+          "confidence": 0.931
+        },
+        {
+          "text": "has",
+          "start": 35.35,
+          "end": 35.61,
+          "confidence": 0.996
+        },
+        {
+          "text": "only",
+          "start": 35.61,
+          "end": 36.45,
+          "confidence": 0.999
+        },
+        {
+          "text": "just",
+          "start": 36.45,
+          "end": 36.95,
+          "confidence": 0.999
+        },
+        {
+          "text": "begun",
+          "start": 36.95,
+          "end": 37.59,
+          "confidence": 0.998
         }
       ]
     },
     {
       "id": 1,
       "seek": 0,
-      "start": 35.31,
-      "end": 37.77,
-      "text": " It has only just begun",
+      "start": 38.61,
+      "end": 43.76,
+      "text": " The world will die along, the fray will fall below",
       "tokens": [
-        50528,
-        467,
-        575,
-        787,
-        445,
-        16009,
-        50694
+        50677,
+        440,
+        1002,
+        486,
+        978,
+        2051,
+        11,
+        264,
+        431,
+        320,
+        486,
+        2100,
+        2507,
+        50964
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.38205074256574606,
-      "compression_ratio": 1.5586206896551724,
-      "no_speech_prob": 0.37385520339012146,
-      "confidence": 0.972,
+      "avg_logprob": -0.17597852673446923,
+      "compression_ratio": 1.5151515151515151,
+      "no_speech_prob": 0.27866366505622864,
+      "confidence": 0.832,
       "words": [
         {
-          "text": "It",
-          "start": 35.31,
-          "end": 35.51,
-          "confidence": 0.886
+          "text": "The",
+          "start": 38.61,
+          "end": 38.79,
+          "confidence": 1.0
         },
         {
-          "text": "has",
-          "start": 35.51,
-          "end": 35.77,
-          "confidence": 0.99
+          "text": "world",
+          "start": 38.79,
+          "end": 39.29,
+          "confidence": 0.999
         },
         {
-          "text": "only",
-          "start": 35.77,
-          "end": 36.51,
-          "confidence": 0.995
+          "text": "will",
+          "start": 39.29,
+          "end": 39.67,
+          "confidence": 0.924
         },
         {
-          "text": "just",
-          "start": 36.51,
-          "end": 37.05,
-          "confidence": 0.996
+          "text": "die",
+          "start": 39.67,
+          "end": 40.05,
+          "confidence": 1.0
         },
         {
-          "text": "begun",
-          "start": 37.05,
-          "end": 37.77,
+          "text": "along,",
+          "start": 40.05,
+          "end": 40.69,
+          "confidence": 0.549
+        },
+        {
+          "text": "the",
+          "start": 41.42,
+          "end": 41.92,
+          "confidence": 0.998
+        },
+        {
+          "text": "fray",
+          "start": 41.92,
+          "end": 42.38,
+          "confidence": 0.514
+        },
+        {
+          "text": "will",
+          "start": 42.38,
+          "end": 42.66,
+          "confidence": 0.999
+        },
+        {
+          "text": "fall",
+          "start": 42.66,
+          "end": 43.08,
+          "confidence": 0.994
+        },
+        {
+          "text": "below",
+          "start": 43.08,
+          "end": 43.76,
           "confidence": 0.999
         }
       ]
@@ -110,351 +183,203 @@
     {
       "id": 2,
       "seek": 0,
-      "start": 38.75,
-      "end": 41.01,
-      "text": " The world will die a lot",
+      "start": 44.04,
+      "end": 50.12,
+      "text": " Time will take our place, we will turn it back to one",
       "tokens": [
-        50694,
-        440,
-        1002,
-        486,
-        978,
-        257,
-        688,
-        50836
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.38205074256574606,
-      "compression_ratio": 1.5586206896551724,
-      "no_speech_prob": 0.37385520339012146,
-      "confidence": 0.673,
-      "words": [
-        {
-          "text": "The",
-          "start": 38.75,
-          "end": 38.93,
-          "confidence": 0.987
-        },
-        {
-          "text": "world",
-          "start": 38.93,
-          "end": 39.41,
-          "confidence": 0.977
-        },
-        {
-          "text": "will",
-          "start": 39.41,
-          "end": 39.67,
-          "confidence": 0.579
-        },
-        {
-          "text": "die",
-          "start": 39.67,
-          "end": 40.27,
-          "confidence": 0.99
-        },
-        {
-          "text": "a",
-          "start": 40.27,
-          "end": 40.57,
-          "confidence": 0.36
-        },
-        {
-          "text": "lot",
-          "start": 40.57,
-          "end": 41.01,
-          "confidence": 0.468
-        }
-      ]
-    },
-    {
-      "id": 3,
-      "seek": 0,
-      "start": 41.84,
-      "end": 43.9,
-      "text": " The fray will fall below",
-      "tokens": [
-        50836,
-        440,
-        431,
-        320,
-        486,
-        2100,
-        2507,
-        50972
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.38205074256574606,
-      "compression_ratio": 1.5586206896551724,
-      "no_speech_prob": 0.37385520339012146,
-      "confidence": 0.781,
-      "words": [
-        {
-          "text": "The",
-          "start": 41.84,
-          "end": 42.02,
-          "confidence": 0.964
-        },
-        {
-          "text": "fray",
-          "start": 42.02,
-          "end": 42.56,
-          "confidence": 0.504
-        },
-        {
-          "text": "will",
-          "start": 42.56,
-          "end": 42.76,
-          "confidence": 0.986
-        },
-        {
-          "text": "fall",
-          "start": 42.76,
-          "end": 43.2,
-          "confidence": 0.992
-        },
-        {
-          "text": "below",
-          "start": 43.2,
-          "end": 43.9,
-          "confidence": 0.947
-        }
-      ]
-    },
-    {
-      "id": 4,
-      "seek": 0,
-      "start": 44.58,
-      "end": 47.12,
-      "text": " Time will take our place",
-      "tokens": [
-        50972,
+        50964,
         6161,
         486,
         747,
         527,
         1081,
-        51126
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.38205074256574606,
-      "compression_ratio": 1.5586206896551724,
-      "no_speech_prob": 0.37385520339012146,
-      "confidence": 0.993,
-      "words": [
-        {
-          "text": "Time",
-          "start": 44.58,
-          "end": 44.84,
-          "confidence": 0.984
-        },
-        {
-          "text": "will",
-          "start": 44.84,
-          "end": 45.24,
-          "confidence": 0.997
-        },
-        {
-          "text": "take",
-          "start": 45.24,
-          "end": 45.74,
-          "confidence": 0.999
-        },
-        {
-          "text": "our",
-          "start": 45.74,
-          "end": 46.26,
-          "confidence": 0.983
-        },
-        {
-          "text": "place",
-          "start": 46.26,
-          "end": 47.12,
-          "confidence": 0.999
-        }
-      ]
-    },
-    {
-      "id": 5,
-      "seek": 0,
-      "start": 47.64,
-      "end": 50.28,
-      "text": " We will turn it back to one",
-      "tokens": [
-        51126,
-        492,
+        11,
+        321,
         486,
         1261,
         309,
         646,
         281,
         472,
-        51300
+        51285
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.38205074256574606,
-      "compression_ratio": 1.5586206896551724,
-      "no_speech_prob": 0.37385520339012146,
-      "confidence": 0.977,
+      "avg_logprob": -0.17597852673446923,
+      "compression_ratio": 1.5151515151515151,
+      "no_speech_prob": 0.27866366505622864,
+      "confidence": 0.997,
       "words": [
         {
-          "text": "We",
-          "start": 47.64,
-          "end": 47.92,
-          "confidence": 0.976
+          "text": "Time",
+          "start": 44.04,
+          "end": 44.58,
+          "confidence": 1.0
         },
         {
           "text": "will",
-          "start": 47.92,
-          "end": 48.18,
-          "confidence": 0.946
+          "start": 44.58,
+          "end": 45.2,
+          "confidence": 1.0
         },
         {
-          "text": "turn",
-          "start": 48.18,
-          "end": 48.7,
-          "confidence": 0.995
+          "text": "take",
+          "start": 45.2,
+          "end": 45.6,
+          "confidence": 1.0
         },
         {
-          "text": "it",
-          "start": 48.7,
-          "end": 49.04,
-          "confidence": 0.987
+          "text": "our",
+          "start": 45.6,
+          "end": 46.14,
+          "confidence": 1.0
         },
         {
-          "text": "back",
-          "start": 49.04,
-          "end": 49.44,
+          "text": "place,",
+          "start": 46.14,
+          "end": 46.84,
+          "confidence": 1.0
+        },
+        {
+          "text": "we",
+          "start": 47.32,
+          "end": 47.74,
           "confidence": 0.999
         },
         {
+          "text": "will",
+          "start": 47.74,
+          "end": 48.02,
+          "confidence": 0.972
+        },
+        {
+          "text": "turn",
+          "start": 48.02,
+          "end": 48.48,
+          "confidence": 0.999
+        },
+        {
+          "text": "it",
+          "start": 48.48,
+          "end": 49.0,
+          "confidence": 1.0
+        },
+        {
+          "text": "back",
+          "start": 49.0,
+          "end": 49.3,
+          "confidence": 1.0
+        },
+        {
           "text": "to",
-          "start": 49.44,
-          "end": 49.86,
-          "confidence": 0.99
+          "start": 49.3,
+          "end": 49.64,
+          "confidence": 1.0
         },
         {
           "text": "one",
-          "start": 49.86,
-          "end": 50.28,
-          "confidence": 0.944
+          "start": 49.64,
+          "end": 50.12,
+          "confidence": 0.999
         }
       ]
     },
     {
-      "id": 6,
+      "id": 3,
       "seek": 0,
-      "start": 51.18,
-      "end": 53.48,
-      "text": " The code for the code",
+      "start": 51.12,
+      "end": 56.38,
+      "text": " The code before the code, the long and long road",
       "tokens": [
-        51300,
+        51285,
         440,
         3089,
-        337,
+        949,
         264,
         3089,
-        51456
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.38205074256574606,
-      "compression_ratio": 1.5586206896551724,
-      "no_speech_prob": 0.37385520339012146,
-      "confidence": 0.819,
-      "words": [
-        {
-          "text": "The",
-          "start": 51.18,
-          "end": 51.48,
-          "confidence": 0.766
-        },
-        {
-          "text": "code",
-          "start": 51.48,
-          "end": 51.82,
-          "confidence": 0.615
-        },
-        {
-          "text": "for",
-          "start": 51.82,
-          "end": 52.34,
-          "confidence": 0.794
-        },
-        {
-          "text": "the",
-          "start": 52.34,
-          "end": 52.86,
-          "confidence": 0.989
-        },
-        {
-          "text": "code",
-          "start": 52.86,
-          "end": 53.48,
-          "confidence": 0.993
-        }
-      ]
-    },
-    {
-      "id": 7,
-      "seek": 0,
-      "start": 54.24,
-      "end": 56.46,
-      "text": " The long and long road",
-      "tokens": [
-        51456,
-        440,
+        11,
+        264,
         938,
         293,
         938,
         3060,
-        51622
+        51609
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.38205074256574606,
-      "compression_ratio": 1.5586206896551724,
-      "no_speech_prob": 0.37385520339012146,
-      "confidence": 0.845,
+      "avg_logprob": -0.17597852673446923,
+      "compression_ratio": 1.5151515151515151,
+      "no_speech_prob": 0.27866366505622864,
+      "confidence": 0.894,
       "words": [
         {
           "text": "The",
-          "start": 54.24,
-          "end": 54.46,
-          "confidence": 0.966
+          "start": 51.12,
+          "end": 51.28,
+          "confidence": 0.606
+        },
+        {
+          "text": "code",
+          "start": 51.28,
+          "end": 51.7,
+          "confidence": 0.88
+        },
+        {
+          "text": "before",
+          "start": 51.7,
+          "end": 52.24,
+          "confidence": 0.985
+        },
+        {
+          "text": "the",
+          "start": 52.24,
+          "end": 52.72,
+          "confidence": 1.0
+        },
+        {
+          "text": "code,",
+          "start": 52.72,
+          "end": 53.34,
+          "confidence": 1.0
+        },
+        {
+          "text": "the",
+          "start": 53.76,
+          "end": 54.36,
+          "confidence": 0.999
         },
         {
           "text": "long",
-          "start": 54.46,
-          "end": 55.0,
-          "confidence": 0.924
+          "start": 54.36,
+          "end": 54.8,
+          "confidence": 0.977
         },
         {
           "text": "and",
-          "start": 55.0,
-          "end": 55.3,
-          "confidence": 0.769
+          "start": 54.8,
+          "end": 55.1,
+          "confidence": 0.974
         },
         {
           "text": "long",
-          "start": 55.3,
-          "end": 55.68,
-          "confidence": 0.63
+          "start": 55.1,
+          "end": 55.54,
+          "confidence": 0.657
         },
         {
           "text": "road",
-          "start": 55.68,
-          "end": 56.46,
-          "confidence": 0.994
+          "start": 55.54,
+          "end": 56.38,
+          "confidence": 1.0
         }
       ]
     },
     {
-      "id": 8,
-      "seek": 0,
-      "start": 57.56,
-      "end": 61.6,
-      "text": " Look for the light that leads me",
+      "id": 4,
+      "seek": 2488,
+      "start": 57.38,
+      "end": 62.28,
+      "text": " Look for the light that leads me home",
       "tokens": [
-        51622,
+        50365,
         2053,
         337,
         264,
@@ -462,471 +387,349 @@
         300,
         6689,
         385,
-        51850
+        1280,
+        50652
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.38205074256574606,
-      "compression_ratio": 1.5586206896551724,
-      "no_speech_prob": 0.37385520339012146,
-      "confidence": 0.887,
+      "avg_logprob": -0.25689362579921504,
+      "compression_ratio": 1.5447154471544715,
+      "no_speech_prob": 0.00105482735671103,
+      "confidence": 0.997,
       "words": [
         {
           "text": "Look",
-          "start": 57.56,
-          "end": 57.98,
-          "confidence": 0.836
+          "start": 57.38,
+          "end": 57.82,
+          "confidence": 0.996
         },
         {
           "text": "for",
-          "start": 57.98,
-          "end": 58.4,
-          "confidence": 0.995
+          "start": 57.82,
+          "end": 58.1,
+          "confidence": 1.0
         },
         {
           "text": "the",
-          "start": 58.4,
-          "end": 58.72,
-          "confidence": 0.994
+          "start": 58.1,
+          "end": 58.52,
+          "confidence": 1.0
         },
         {
           "text": "light",
-          "start": 58.72,
-          "end": 59.3,
-          "confidence": 0.998
+          "start": 58.52,
+          "end": 59.26,
+          "confidence": 1.0
         },
         {
           "text": "that",
-          "start": 59.3,
-          "end": 60.04,
-          "confidence": 0.537
+          "start": 59.26,
+          "end": 59.76,
+          "confidence": 0.997
         },
         {
           "text": "leads",
-          "start": 60.04,
-          "end": 60.8,
-          "confidence": 0.978
+          "start": 59.76,
+          "end": 60.76,
+          "confidence": 1.0
         },
         {
           "text": "me",
-          "start": 60.8,
-          "end": 61.6,
-          "confidence": 0.994
+          "start": 60.76,
+          "end": 61.4,
+          "confidence": 1.0
+        },
+        {
+          "text": "home",
+          "start": 61.4,
+          "end": 62.28,
+          "confidence": 0.988
         }
       ]
     },
     {
-      "id": 9,
-      "seek": 2972,
-      "start": 63.18,
-      "end": 69.77,
-      "text": " Tide of a temple",
+      "id": 5,
+      "seek": 2488,
+      "start": 62.36,
+      "end": 74.97,
+      "text": " Tire the whole world down, tear the whole world down",
       "tokens": [
-        50412,
+        50652,
         314,
-        482,
-        295,
-        257,
-        10184,
-        50530
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.7849881356222588,
-      "compression_ratio": 1.4453781512605042,
-      "no_speech_prob": 0.014116782695055008,
-      "confidence": 0.283,
-      "words": [
-        {
-          "text": "Tide",
-          "start": 63.18,
-          "end": 63.62,
-          "confidence": 0.604
-        },
-        {
-          "text": "of",
-          "start": 63.62,
-          "end": 63.9,
-          "confidence": 0.699
-        },
-        {
-          "text": "a",
-          "start": 68.91,
-          "end": 69.07,
-          "confidence": 0.052
-        },
-        {
-          "text": "temple",
-          "start": 69.07,
-          "end": 69.77,
-          "confidence": 0.136
-        }
-      ]
-    },
-    {
-      "id": 10,
-      "seek": 2972,
-      "start": 70.15,
-      "end": 71.73,
-      "text": " A world down",
-      "tokens": [
-        50530,
-        316,
-        1002,
-        760,
-        50638
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.7849881356222588,
-      "compression_ratio": 1.4453781512605042,
-      "no_speech_prob": 0.014116782695055008,
-      "confidence": 0.548,
-      "words": [
-        {
-          "text": "A",
-          "start": 70.15,
-          "end": 70.65,
-          "confidence": 0.205
-        },
-        {
-          "text": "world",
-          "start": 70.65,
-          "end": 71.03,
-          "confidence": 0.865
-        },
-        {
-          "text": "down",
-          "start": 71.03,
-          "end": 71.73,
-          "confidence": 0.927
-        }
-      ]
-    },
-    {
-      "id": 11,
-      "seek": 2972,
-      "start": 72.37,
-      "end": 75.23,
-      "text": " Temple of a world down",
-      "tokens": [
-        50638,
-        17642,
-        295,
-        257,
-        1002,
-        760,
-        50842
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.7849881356222588,
-      "compression_ratio": 1.4453781512605042,
-      "no_speech_prob": 0.014116782695055008,
-      "confidence": 0.445,
-      "words": [
-        {
-          "text": "Temple",
-          "start": 72.37,
-          "end": 72.91,
-          "confidence": 0.481
-        },
-        {
-          "text": "of",
-          "start": 72.91,
-          "end": 73.69,
-          "confidence": 0.27
-        },
-        {
-          "text": "a",
-          "start": 73.69,
-          "end": 73.71,
-          "confidence": 0.16
-        },
-        {
-          "text": "world",
-          "start": 73.71,
-          "end": 74.19,
-          "confidence": 0.91
-        },
-        {
-          "text": "down",
-          "start": 74.19,
-          "end": 75.23,
-          "confidence": 0.922
-        }
-      ]
-    },
-    {
-      "id": 12,
-      "seek": 2972,
-      "start": 77.7,
-      "end": 79.68,
-      "text": " Of salient",
-      "tokens": [
-        50842,
-        2720,
-        1845,
-        1196,
-        50992
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.7849881356222588,
-      "compression_ratio": 1.4453781512605042,
-      "no_speech_prob": 0.014116782695055008,
-      "confidence": 0.24,
-      "words": [
-        {
-          "text": "Of",
-          "start": 77.7,
-          "end": 77.86,
-          "confidence": 0.538
-        },
-        {
-          "text": "salient",
-          "start": 77.86,
-          "end": 79.68,
-          "confidence": 0.16
-        }
-      ]
-    },
-    {
-      "id": 13,
-      "seek": 2972,
-      "start": 87.73,
-      "end": 90.07,
-      "text": " Drive the crowd away",
-      "tokens": [
-        50992,
-        15622,
+        621,
         264,
-        6919,
-        1314,
-        51150
+        1379,
+        1002,
+        760,
+        11,
+        12556,
+        264,
+        1379,
+        1002,
+        760,
+        51067
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.7849881356222588,
-      "compression_ratio": 1.4453781512605042,
-      "no_speech_prob": 0.014116782695055008,
-      "confidence": 0.783,
+      "avg_logprob": -0.25689362579921504,
+      "compression_ratio": 1.5447154471544715,
+      "no_speech_prob": 0.00105482735671103,
+      "confidence": 0.847,
       "words": [
         {
-          "text": "Drive",
-          "start": 87.73,
-          "end": 88.15,
-          "confidence": 0.806
+          "text": "Tire",
+          "start": 62.36,
+          "end": 63.48,
+          "confidence": 0.487
         },
         {
           "text": "the",
-          "start": 88.15,
-          "end": 88.55,
-          "confidence": 0.973
+          "start": 63.48,
+          "end": 63.8,
+          "confidence": 0.977
         },
         {
-          "text": "crowd",
-          "start": 88.55,
-          "end": 89.15,
-          "confidence": 0.516
+          "text": "whole",
+          "start": 63.8,
+          "end": 64.02,
+          "confidence": 0.888
         },
         {
-          "text": "away",
-          "start": 89.15,
-          "end": 90.07,
-          "confidence": 0.93
+          "text": "world",
+          "start": 68.99,
+          "end": 70.71,
+          "confidence": 0.945
+        },
+        {
+          "text": "down,",
+          "start": 70.71,
+          "end": 71.75,
+          "confidence": 0.998
+        },
+        {
+          "text": "tear",
+          "start": 71.89,
+          "end": 72.59,
+          "confidence": 0.83
+        },
+        {
+          "text": "the",
+          "start": 72.59,
+          "end": 72.89,
+          "confidence": 1.0
+        },
+        {
+          "text": "whole",
+          "start": 72.89,
+          "end": 73.53,
+          "confidence": 0.999
+        },
+        {
+          "text": "world",
+          "start": 73.53,
+          "end": 74.13,
+          "confidence": 1.0
+        },
+        {
+          "text": "down",
+          "start": 74.13,
+          "end": 74.97,
+          "confidence": 1.0
         }
       ]
     },
     {
-      "id": 14,
-      "seek": 2972,
-      "start": 90.99,
-      "end": 93.69,
-      "text": " We will fall from last to none",
+      "id": 6,
+      "seek": 2488,
+      "start": 77.26,
+      "end": 93.53,
+      "text": " Tire the cloud away, we will fall from last to none",
       "tokens": [
-        51150,
-        492,
+        51067,
+        314,
+        621,
+        264,
+        4588,
+        1314,
+        11,
+        321,
         486,
         2100,
         490,
         1036,
         281,
         6022,
-        51322
+        51540
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.7849881356222588,
-      "compression_ratio": 1.4453781512605042,
-      "no_speech_prob": 0.014116782695055008,
-      "confidence": 0.902,
+      "avg_logprob": -0.25689362579921504,
+      "compression_ratio": 1.5447154471544715,
+      "no_speech_prob": 0.00105482735671103,
+      "confidence": 0.787,
       "words": [
         {
-          "text": "We",
-          "start": 90.99,
-          "end": 91.21,
-          "confidence": 0.977
+          "text": "Tire",
+          "start": 77.26,
+          "end": 78.32,
+          "confidence": 0.292
+        },
+        {
+          "text": "the",
+          "start": 78.32,
+          "end": 79.62,
+          "confidence": 0.946
+        },
+        {
+          "text": "cloud",
+          "start": 87.41,
+          "end": 88.65,
+          "confidence": 0.714
+        },
+        {
+          "text": "away,",
+          "start": 88.65,
+          "end": 89.77,
+          "confidence": 0.992
+        },
+        {
+          "text": "we",
+          "start": 90.64,
+          "end": 91.05,
+          "confidence": 0.997
         },
         {
           "text": "will",
-          "start": 91.21,
-          "end": 91.47,
-          "confidence": 0.988
+          "start": 91.05,
+          "end": 91.41,
+          "confidence": 0.999
         },
         {
           "text": "fall",
-          "start": 91.47,
-          "end": 91.93,
-          "confidence": 0.542
+          "start": 91.41,
+          "end": 91.61,
+          "confidence": 0.997
         },
         {
           "text": "from",
-          "start": 91.93,
-          "end": 92.39,
-          "confidence": 0.991
+          "start": 91.61,
+          "end": 92.25,
+          "confidence": 1.0
         },
         {
           "text": "last",
-          "start": 92.39,
-          "end": 92.81,
-          "confidence": 0.964
+          "start": 92.25,
+          "end": 92.73,
+          "confidence": 0.998
         },
         {
           "text": "to",
-          "start": 92.81,
-          "end": 93.19,
-          "confidence": 0.981
+          "start": 92.73,
+          "end": 92.99,
+          "confidence": 1.0
         },
         {
           "text": "none",
-          "start": 93.19,
-          "end": 93.69,
-          "confidence": 0.988
+          "start": 92.99,
+          "end": 93.53,
+          "confidence": 0.999
         }
       ]
     },
     {
-      "id": 15,
-      "seek": 2972,
-      "start": 94.51,
-      "end": 96.87,
-      "text": " The dark will fall with a tongue",
+      "id": 7,
+      "seek": 2488,
+      "start": 94.45,
+      "end": 99.77,
+      "text": " The dark before the dawn, the war will carry on",
       "tokens": [
-        51322,
+        51540,
         440,
         2877,
-        486,
-        2100,
-        365,
-        257,
-        10601,
-        51478
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.7849881356222588,
-      "compression_ratio": 1.4453781512605042,
-      "no_speech_prob": 0.014116782695055008,
-      "confidence": 0.484,
-      "words": [
-        {
-          "text": "The",
-          "start": 94.51,
-          "end": 94.69,
-          "confidence": 0.967
-        },
-        {
-          "text": "dark",
-          "start": 94.69,
-          "end": 95.19,
-          "confidence": 0.154
-        },
-        {
-          "text": "will",
-          "start": 95.19,
-          "end": 95.53,
-          "confidence": 0.576
-        },
-        {
-          "text": "fall",
-          "start": 95.53,
-          "end": 95.89,
-          "confidence": 0.9
-        },
-        {
-          "text": "with",
-          "start": 95.89,
-          "end": 96.17,
-          "confidence": 0.344
-        },
-        {
-          "text": "a",
-          "start": 96.17,
-          "end": 96.27,
-          "confidence": 0.59
-        },
-        {
-          "text": "tongue",
-          "start": 96.27,
-          "end": 96.87,
-          "confidence": 0.4
-        }
-      ]
-    },
-    {
-      "id": 16,
-      "seek": 2972,
-      "start": 97.59,
-      "end": 99.97,
-      "text": " The world will carry on",
-      "tokens": [
-        51478,
-        440,
-        1002,
+        949,
+        264,
+        18192,
+        11,
+        264,
+        1516,
         486,
         3985,
         322,
-        51642
+        51840
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.7849881356222588,
-      "compression_ratio": 1.4453781512605042,
-      "no_speech_prob": 0.014116782695055008,
-      "confidence": 0.8,
+      "avg_logprob": -0.25689362579921504,
+      "compression_ratio": 1.5447154471544715,
+      "no_speech_prob": 0.00105482735671103,
+      "confidence": 0.839,
       "words": [
         {
           "text": "The",
-          "start": 97.59,
-          "end": 97.81,
-          "confidence": 0.575
-        },
-        {
-          "text": "world",
-          "start": 97.81,
-          "end": 98.31,
-          "confidence": 0.658
-        },
-        {
-          "text": "will",
-          "start": 98.31,
-          "end": 98.97,
-          "confidence": 0.875
-        },
-        {
-          "text": "carry",
-          "start": 98.97,
-          "end": 99.27,
+          "start": 94.45,
+          "end": 94.53,
           "confidence": 0.988
         },
         {
+          "text": "dark",
+          "start": 94.53,
+          "end": 95.07,
+          "confidence": 0.32
+        },
+        {
+          "text": "before",
+          "start": 95.07,
+          "end": 95.53,
+          "confidence": 0.973
+        },
+        {
+          "text": "the",
+          "start": 95.53,
+          "end": 96.07,
+          "confidence": 1.0
+        },
+        {
+          "text": "dawn,",
+          "start": 96.07,
+          "end": 96.61,
+          "confidence": 0.986
+        },
+        {
+          "text": "the",
+          "start": 97.05,
+          "end": 97.61,
+          "confidence": 0.961
+        },
+        {
+          "text": "war",
+          "start": 97.61,
+          "end": 98.07,
+          "confidence": 0.612
+        },
+        {
+          "text": "will",
+          "start": 98.07,
+          "end": 98.45,
+          "confidence": 0.974
+        },
+        {
+          "text": "carry",
+          "start": 98.45,
+          "end": 99.01,
+          "confidence": 1.0
+        },
+        {
           "text": "on",
-          "start": 99.27,
-          "end": 99.97,
-          "confidence": 0.998
+          "start": 99.01,
+          "end": 99.77,
+          "confidence": 1.0
         }
       ]
     },
     {
-      "id": 17,
-      "seek": 5528,
-      "start": 100.93,
-      "end": 105.01,
-      "text": " Look for the light that leads me",
+      "id": 8,
+      "seek": 5488,
+      "start": 100.31,
+      "end": 105.35,
+      "text": " Look for the light that leads me home",
       "tokens": [
-        50372,
+        50365,
         2053,
         337,
         264,
@@ -934,864 +737,1819 @@
         300,
         6689,
         385,
-        50594
+        1280,
+        50615
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.504659496369909,
-      "compression_ratio": 1.8541666666666667,
-      "no_speech_prob": 0.27088022232055664,
-      "confidence": 0.972,
+      "avg_logprob": -0.36635271708170575,
+      "compression_ratio": 1.956140350877193,
+      "no_speech_prob": 0.003796178847551346,
+      "confidence": 1.0,
       "words": [
         {
           "text": "Look",
-          "start": 100.93,
-          "end": 101.31,
-          "confidence": 0.907
+          "start": 100.31,
+          "end": 101.15,
+          "confidence": 0.998
         },
         {
           "text": "for",
-          "start": 101.31,
-          "end": 101.81,
+          "start": 101.15,
+          "end": 101.45,
+          "confidence": 1.0
+        },
+        {
+          "text": "the",
+          "start": 101.45,
+          "end": 101.87,
+          "confidence": 1.0
+        },
+        {
+          "text": "light",
+          "start": 101.87,
+          "end": 102.47,
+          "confidence": 1.0
+        },
+        {
+          "text": "that",
+          "start": 102.47,
+          "end": 103.11,
+          "confidence": 1.0
+        },
+        {
+          "text": "leads",
+          "start": 103.11,
+          "end": 103.97,
+          "confidence": 1.0
+        },
+        {
+          "text": "me",
+          "start": 103.97,
+          "end": 104.73,
+          "confidence": 1.0
+        },
+        {
+          "text": "home",
+          "start": 104.73,
+          "end": 105.35,
+          "confidence": 0.999
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "seek": 5488,
+      "start": 106.23,
+      "end": 115.16,
+      "text": " Tire the feeling lost, tear the whole world down",
+      "tokens": [
+        50647,
+        314,
+        621,
+        264,
+        2633,
+        2731,
+        11,
+        12556,
+        264,
+        1379,
+        1002,
+        760,
+        50984
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.36635271708170575,
+      "compression_ratio": 1.956140350877193,
+      "no_speech_prob": 0.003796178847551346,
+      "confidence": 0.933,
+      "words": [
+        {
+          "text": "Tire",
+          "start": 106.23,
+          "end": 106.85,
+          "confidence": 0.725
+        },
+        {
+          "text": "the",
+          "start": 106.85,
+          "end": 107.15,
+          "confidence": 0.993
+        },
+        {
+          "text": "feeling",
+          "start": 107.15,
+          "end": 107.77,
+          "confidence": 0.994
+        },
+        {
+          "text": "lost,",
+          "start": 107.77,
+          "end": 108.77,
+          "confidence": 0.972
+        },
+        {
+          "text": "tear",
+          "start": 112.27,
+          "end": 112.66,
           "confidence": 0.998
         },
         {
           "text": "the",
-          "start": 101.81,
-          "end": 102.07,
+          "start": 112.66,
+          "end": 113.14,
+          "confidence": 1.0
+        },
+        {
+          "text": "whole",
+          "start": 113.14,
+          "end": 113.74,
+          "confidence": 0.999
+        },
+        {
+          "text": "world",
+          "start": 113.74,
+          "end": 114.4,
+          "confidence": 1.0
+        },
+        {
+          "text": "down",
+          "start": 114.4,
+          "end": 115.16,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "seek": 5488,
+      "start": 115.74,
+      "end": 118.04,
+      "text": " Tear the whole world down",
+      "tokens": [
+        50984,
+        1989,
+        289,
+        264,
+        1379,
+        1002,
+        760,
+        51115
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.36635271708170575,
+      "compression_ratio": 1.956140350877193,
+      "no_speech_prob": 0.003796178847551346,
+      "confidence": 0.926,
+      "words": [
+        {
+          "text": "Tear",
+          "start": 115.74,
+          "end": 115.96,
+          "confidence": 0.794
+        },
+        {
+          "text": "the",
+          "start": 115.96,
+          "end": 116.24,
+          "confidence": 1.0
+        },
+        {
+          "text": "whole",
+          "start": 116.24,
+          "end": 116.82,
+          "confidence": 0.998
+        },
+        {
+          "text": "world",
+          "start": 116.82,
+          "end": 117.34,
+          "confidence": 1.0
+        },
+        {
+          "text": "down",
+          "start": 117.34,
+          "end": 118.04,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "seek": 5488,
+      "start": 118.9,
+      "end": 127.5,
+      "text": " I stand breath, tired, tear the whole world down",
+      "tokens": [
+        51150,
+        286,
+        1463,
+        6045,
+        11,
+        5868,
+        11,
+        12556,
+        264,
+        1379,
+        1002,
+        760,
+        51472
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.36635271708170575,
+      "compression_ratio": 1.956140350877193,
+      "no_speech_prob": 0.003796178847551346,
+      "confidence": 0.711,
+      "words": [
+        {
+          "text": "I",
+          "start": 118.9,
+          "end": 119.08,
+          "confidence": 0.295
+        },
+        {
+          "text": "stand",
+          "start": 119.08,
+          "end": 119.41,
+          "confidence": 0.365
+        },
+        {
+          "text": "breath,",
+          "start": 120.23,
+          "end": 121.15,
+          "confidence": 0.921
+        },
+        {
+          "text": "tired,",
+          "start": 121.39,
+          "end": 122.27,
+          "confidence": 0.472
+        },
+        {
+          "text": "tear",
+          "start": 124.72,
+          "end": 125.16,
           "confidence": 0.99
         },
         {
-          "text": "light",
-          "start": 102.07,
-          "end": 102.65,
-          "confidence": 0.99
+          "text": "the",
+          "start": 125.16,
+          "end": 125.56,
+          "confidence": 1.0
         },
         {
-          "text": "that",
-          "start": 102.65,
-          "end": 103.35,
-          "confidence": 0.941
+          "text": "whole",
+          "start": 125.56,
+          "end": 126.14,
+          "confidence": 0.999
         },
         {
-          "text": "leads",
-          "start": 103.35,
-          "end": 104.21,
+          "text": "world",
+          "start": 126.14,
+          "end": 126.76,
+          "confidence": 1.0
+        },
+        {
+          "text": "down",
+          "start": 126.76,
+          "end": 127.5,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "seek": 5488,
+      "start": 128.1,
+      "end": 130.84,
+      "text": " Tear the whole world down",
+      "tokens": [
+        51472,
+        1989,
+        289,
+        264,
+        1379,
+        1002,
+        760,
+        51665
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.36635271708170575,
+      "compression_ratio": 1.956140350877193,
+      "no_speech_prob": 0.003796178847551346,
+      "confidence": 1.0,
+      "words": [
+        {
+          "text": "Tear",
+          "start": 128.1,
+          "end": 128.32,
+          "confidence": 1.0
+        },
+        {
+          "text": "the",
+          "start": 128.32,
+          "end": 128.64,
+          "confidence": 1.0
+        },
+        {
+          "text": "whole",
+          "start": 128.64,
+          "end": 129.22,
+          "confidence": 0.999
+        },
+        {
+          "text": "world",
+          "start": 129.22,
+          "end": 129.78,
+          "confidence": 1.0
+        },
+        {
+          "text": "down",
+          "start": 129.78,
+          "end": 130.84,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "seek": 5488,
+      "start": 133.45,
+      "end": 134.01,
+      "text": " Failure",
+      "tokens": [
+        51665,
+        39094,
+        540,
+        51765
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.36635271708170575,
+      "compression_ratio": 1.956140350877193,
+      "no_speech_prob": 0.003796178847551346,
+      "confidence": 0.443,
+      "words": [
+        {
+          "text": "Failure",
+          "start": 133.45,
+          "end": 134.01,
+          "confidence": 0.443
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "seek": 5488,
+      "start": 134.07,
+      "end": 135.17,
+      "text": " Failure",
+      "tokens": [
+        51765,
+        39094,
+        540,
+        51815
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.36635271708170575,
+      "compression_ratio": 1.956140350877193,
+      "no_speech_prob": 0.003796178847551346,
+      "confidence": 0.978,
+      "words": [
+        {
+          "text": "Failure",
+          "start": 134.07,
+          "end": 135.17,
+          "confidence": 0.978
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "seek": 5488,
+      "start": 155.6,
+      "end": 156.73,
+      "text": " Tire the world down",
+      "tokens": [
+        51815,
+        314,
+        621,
+        264,
+        1002,
+        760,
+        51864
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.36635271708170575,
+      "compression_ratio": 1.956140350877193,
+      "no_speech_prob": 0.003796178847551346,
+      "confidence": 0.725,
+      "words": [
+        {
+          "text": "Tire",
+          "start": 155.6,
+          "end": 156.37,
+          "confidence": 0.781
+        },
+        {
+          "text": "the",
+          "start": 156.37,
+          "end": 156.55,
+          "confidence": 0.95
+        },
+        {
+          "text": "world",
+          "start": 156.55,
+          "end": 156.67,
+          "confidence": 0.456
+        },
+        {
+          "text": "down",
+          "start": 156.67,
+          "end": 156.73,
+          "confidence": 0.76
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "seek": 8486,
+      "start": 158.7,
+      "end": 164.57,
+      "text": " Tire the whole world down, tear the whole world down",
+      "tokens": [
+        50365,
+        314,
+        621,
+        264,
+        1379,
+        1002,
+        760,
+        11,
+        12556,
+        264,
+        1379,
+        1002,
+        760,
+        50665
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1944910418924861,
+      "compression_ratio": 12.48,
+      "no_speech_prob": 0.009868226945400238,
+      "confidence": 0.899,
+      "words": [
+        {
+          "text": "Tire",
+          "start": 158.7,
+          "end": 159.39,
+          "confidence": 0.616
+        },
+        {
+          "text": "the",
+          "start": 159.39,
+          "end": 159.53,
+          "confidence": 0.996
+        },
+        {
+          "text": "whole",
+          "start": 159.53,
+          "end": 160.13,
+          "confidence": 0.853
+        },
+        {
+          "text": "world",
+          "start": 160.13,
+          "end": 160.81,
+          "confidence": 0.998
+        },
+        {
+          "text": "down,",
+          "start": 160.81,
+          "end": 161.53,
+          "confidence": 0.996
+        },
+        {
+          "text": "tear",
+          "start": 161.71,
+          "end": 162.29,
+          "confidence": 0.986
+        },
+        {
+          "text": "the",
+          "start": 162.29,
+          "end": 162.67,
+          "confidence": 0.998
+        },
+        {
+          "text": "whole",
+          "start": 162.67,
+          "end": 163.29,
           "confidence": 0.985
         },
         {
-          "text": "me",
-          "start": 104.21,
-          "end": 105.01,
+          "text": "world",
+          "start": 163.29,
+          "end": 163.93,
           "confidence": 0.998
+        },
+        {
+          "text": "down",
+          "start": 163.93,
+          "end": 164.57,
+          "confidence": 0.998
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "seek": 8486,
+      "start": 165.39,
+      "end": 166.05,
+      "text": " Tire the whole world down",
+      "tokens": [
+        50665,
+        314,
+        621,
+        264,
+        1379,
+        1002,
+        760,
+        50715
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1944910418924861,
+      "compression_ratio": 12.48,
+      "no_speech_prob": 0.009868226945400238,
+      "confidence": 0.607,
+      "words": [
+        {
+          "text": "Tire",
+          "start": 165.39,
+          "end": 165.61,
+          "confidence": 0.395
+        },
+        {
+          "text": "the",
+          "start": 165.61,
+          "end": 165.77,
+          "confidence": 0.927
+        },
+        {
+          "text": "whole",
+          "start": 165.77,
+          "end": 165.95,
+          "confidence": 0.348
+        },
+        {
+          "text": "world",
+          "start": 165.95,
+          "end": 166.03,
+          "confidence": 0.997
+        },
+        {
+          "text": "down",
+          "start": 166.03,
+          "end": 166.05,
+          "confidence": 0.994
         }
       ]
     },
     {
       "id": 18,
-      "seek": 5528,
-      "start": 105.39,
-      "end": 108.93,
-      "text": " Tide of feeling lost",
+      "seek": 8486,
+      "start": 166.05,
+      "end": 166.83,
+      "text": " Tire the whole world down",
       "tokens": [
-        50594,
+        50715,
         314,
-        482,
-        295,
-        2633,
-        2731,
-        50798
+        621,
+        264,
+        1379,
+        1002,
+        760,
+        50765
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.504659496369909,
-      "compression_ratio": 1.8541666666666667,
-      "no_speech_prob": 0.27088022232055664,
-      "confidence": 0.869,
+      "avg_logprob": -0.1944910418924861,
+      "compression_ratio": 12.48,
+      "no_speech_prob": 0.009868226945400238,
+      "confidence": 0.676,
       "words": [
         {
-          "text": "Tide",
-          "start": 105.39,
-          "end": 106.91,
-          "confidence": 0.806
+          "text": "Tire",
+          "start": 166.05,
+          "end": 166.07,
+          "confidence": 0.425
         },
         {
-          "text": "of",
-          "start": 106.91,
-          "end": 107.19,
-          "confidence": 0.994
+          "text": "the",
+          "start": 166.07,
+          "end": 166.09,
+          "confidence": 0.966
         },
         {
-          "text": "feeling",
-          "start": 107.19,
-          "end": 107.97,
-          "confidence": 0.913
+          "text": "whole",
+          "start": 166.09,
+          "end": 166.11,
+          "confidence": 0.554
         },
         {
-          "text": "lost",
-          "start": 107.97,
-          "end": 108.93,
-          "confidence": 0.838
+          "text": "world",
+          "start": 166.11,
+          "end": 166.63,
+          "confidence": 0.997
+        },
+        {
+          "text": "down",
+          "start": 166.63,
+          "end": 166.83,
+          "confidence": 0.991
         }
       ]
     },
     {
       "id": 19,
-      "seek": 5528,
-      "start": 112.78,
-      "end": 115.2,
-      "text": " Temple of a world down",
+      "seek": 8486,
+      "start": 166.83,
+      "end": 167.69,
+      "text": " Tire the whole world down",
       "tokens": [
-        50798,
-        17642,
-        295,
-        257,
+        50765,
+        314,
+        621,
+        264,
+        1379,
         1002,
         760,
-        50976
+        50815
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.504659496369909,
-      "compression_ratio": 1.8541666666666667,
-      "no_speech_prob": 0.27088022232055664,
-      "confidence": 0.901,
+      "avg_logprob": -0.1944910418924861,
+      "compression_ratio": 12.48,
+      "no_speech_prob": 0.009868226945400238,
+      "confidence": 0.736,
       "words": [
         {
-          "text": "Temple",
-          "start": 112.78,
-          "end": 113.12,
-          "confidence": 0.706
+          "text": "Tire",
+          "start": 166.83,
+          "end": 166.89,
+          "confidence": 0.492
         },
         {
-          "text": "of",
-          "start": 113.12,
-          "end": 114.06,
-          "confidence": 0.925
-        },
-        {
-          "text": "a",
-          "start": 114.06,
-          "end": 114.5,
-          "confidence": 0.923
-        },
-        {
-          "text": "world",
-          "start": 114.5,
-          "end": 114.52,
-          "confidence": 0.988
-        },
-        {
-          "text": "down",
-          "start": 114.52,
-          "end": 115.2,
-          "confidence": 0.998
-        }
-      ]
-    },
-    {
-      "id": 20,
-      "seek": 5528,
-      "start": 115.8,
-      "end": 118.36,
-      "text": " Temple of a world down",
-      "tokens": [
-        50976,
-        17642,
-        295,
-        257,
-        1002,
-        760,
-        51138
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.504659496369909,
-      "compression_ratio": 1.8541666666666667,
-      "no_speech_prob": 0.27088022232055664,
-      "confidence": 0.994,
-      "words": [
-        {
-          "text": "Temple",
-          "start": 115.8,
-          "end": 116.24,
-          "confidence": 0.998
-        },
-        {
-          "text": "of",
-          "start": 116.24,
-          "end": 117.24,
-          "confidence": 0.986
-        },
-        {
-          "text": "a",
-          "start": 117.24,
-          "end": 117.64,
-          "confidence": 0.995
-        },
-        {
-          "text": "world",
-          "start": 117.64,
-          "end": 117.66,
-          "confidence": 0.995
-        },
-        {
-          "text": "down",
-          "start": 117.66,
-          "end": 118.36,
-          "confidence": 0.997
-        }
-      ]
-    },
-    {
-      "id": 21,
-      "seek": 5528,
-      "start": 119.02,
-      "end": 122.71,
-      "text": " Of stint, red, tidied",
-      "tokens": [
-        51138,
-        2720,
-        342,
-        686,
-        11,
-        2182,
-        11,
-        9422,
-        1091,
-        51304
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.504659496369909,
-      "compression_ratio": 1.8541666666666667,
-      "no_speech_prob": 0.27088022232055664,
-      "confidence": 0.303,
-      "words": [
-        {
-          "text": "Of",
-          "start": 119.02,
-          "end": 119.34,
-          "confidence": 0.499
-        },
-        {
-          "text": "stint,",
-          "start": 120.08,
-          "end": 120.69,
-          "confidence": 0.238
-        },
-        {
-          "text": "red,",
-          "start": 120.79,
-          "end": 121.37,
-          "confidence": 0.363
-        },
-        {
-          "text": "tidied",
-          "start": 121.59,
-          "end": 122.71,
-          "confidence": 0.273
-        }
-      ]
-    },
-    {
-      "id": 22,
-      "seek": 5528,
-      "start": 125.22,
-      "end": 127.56,
-      "text": " Temple of a world down",
-      "tokens": [
-        51304,
-        17642,
-        295,
-        257,
-        1002,
-        760,
-        51466
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.504659496369909,
-      "compression_ratio": 1.8541666666666667,
-      "no_speech_prob": 0.27088022232055664,
-      "confidence": 0.996,
-      "words": [
-        {
-          "text": "Temple",
-          "start": 125.22,
-          "end": 125.52,
-          "confidence": 0.998
-        },
-        {
-          "text": "of",
-          "start": 125.52,
-          "end": 126.34,
-          "confidence": 0.991
-        },
-        {
-          "text": "a",
-          "start": 126.34,
-          "end": 126.88,
-          "confidence": 0.995
-        },
-        {
-          "text": "world",
-          "start": 126.88,
-          "end": 126.9,
-          "confidence": 0.998
-        },
-        {
-          "text": "down",
-          "start": 126.9,
-          "end": 127.56,
-          "confidence": 0.998
-        }
-      ]
-    },
-    {
-      "id": 23,
-      "seek": 5528,
-      "start": 128.16,
-      "end": 131.02,
-      "text": " Temple of a world down",
-      "tokens": [
-        51466,
-        17642,
-        295,
-        257,
-        1002,
-        760,
-        51664
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.504659496369909,
-      "compression_ratio": 1.8541666666666667,
-      "no_speech_prob": 0.27088022232055664,
-      "confidence": 0.996,
-      "words": [
-        {
-          "text": "Temple",
-          "start": 128.16,
-          "end": 128.64,
-          "confidence": 0.999
-        },
-        {
-          "text": "of",
-          "start": 128.64,
-          "end": 129.52,
-          "confidence": 0.992
-        },
-        {
-          "text": "a",
-          "start": 129.52,
-          "end": 129.98,
-          "confidence": 0.997
-        },
-        {
-          "text": "world",
-          "start": 129.98,
-          "end": 130.0,
-          "confidence": 0.997
-        },
-        {
-          "text": "down",
-          "start": 130.0,
-          "end": 131.02,
-          "confidence": 0.995
-        }
-      ]
-    },
-    {
-      "id": 24,
-      "seek": 5528,
-      "start": 133.45,
-      "end": 135.37,
-      "text": " Of salient",
-      "tokens": [
-        51664,
-        2720,
-        1845,
-        1196,
-        51802
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.504659496369909,
-      "compression_ratio": 1.8541666666666667,
-      "no_speech_prob": 0.27088022232055664,
-      "confidence": 0.964,
-      "words": [
-        {
-          "text": "Of",
-          "start": 133.45,
-          "end": 133.57,
-          "confidence": 0.925
-        },
-        {
-          "text": "salient",
-          "start": 133.57,
-          "end": 135.37,
+          "text": "the",
+          "start": 166.89,
+          "end": 167.05,
           "confidence": 0.985
-        }
-      ]
-    },
-    {
-      "id": 25,
-      "seek": 8404,
-      "start": 156.05,
-      "end": 161.37,
-      "text": " Tide of a world down",
-      "tokens": [
-        50364,
-        314,
-        482,
-        295,
-        257,
-        1002,
-        760,
-        50580
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.1790023634168837,
-      "compression_ratio": 5.142857142857143,
-      "no_speech_prob": 0.07750064879655838,
-      "confidence": 0.641,
-      "words": [
-        {
-          "text": "Tide",
-          "start": 156.05,
-          "end": 156.59,
-          "confidence": 0.899
         },
         {
-          "text": "of",
-          "start": 156.59,
-          "end": 156.83,
-          "confidence": 0.991
-        },
-        {
-          "text": "a",
-          "start": 158.7,
-          "end": 158.81,
-          "confidence": 0.459
+          "text": "whole",
+          "start": 167.05,
+          "end": 167.07,
+          "confidence": 0.677
         },
         {
           "text": "world",
-          "start": 158.81,
-          "end": 160.31,
-          "confidence": 0.537
-        },
-        {
-          "text": "down",
-          "start": 160.31,
-          "end": 161.37,
-          "confidence": 0.351
-        }
-      ]
-    },
-    {
-      "id": 26,
-      "seek": 8404,
-      "start": 162.25,
-      "end": 164.77,
-      "text": " Temple of a world down",
-      "tokens": [
-        50580,
-        17642,
-        295,
-        257,
-        1002,
-        760,
-        50742
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.1790023634168837,
-      "compression_ratio": 5.142857142857143,
-      "no_speech_prob": 0.07750064879655838,
-      "confidence": 0.995,
-      "words": [
-        {
-          "text": "Temple",
-          "start": 162.25,
-          "end": 162.69,
-          "confidence": 0.995
-        },
-        {
-          "text": "of",
-          "start": 162.69,
-          "end": 163.61,
-          "confidence": 0.989
-        },
-        {
-          "text": "a",
-          "start": 163.61,
-          "end": 164.05,
-          "confidence": 0.998
-        },
-        {
-          "text": "world",
-          "start": 164.05,
-          "end": 164.07,
-          "confidence": 0.996
-        },
-        {
-          "text": "down",
-          "start": 164.07,
-          "end": 164.77,
-          "confidence": 0.997
-        }
-      ]
-    },
-    {
-      "id": 27,
-      "seek": 8404,
-      "start": 165.41,
-      "end": 169.19,
-      "text": " Tide of wasted red, tidied",
-      "tokens": [
-        50742,
-        314,
-        482,
-        295,
-        19496,
-        2182,
-        11,
-        9422,
-        1091,
-        50954
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.1790023634168837,
-      "compression_ratio": 5.142857142857143,
-      "no_speech_prob": 0.07750064879655838,
-      "confidence": 0.723,
-      "words": [
-        {
-          "text": "Tide",
-          "start": 165.41,
-          "end": 165.77,
-          "confidence": 0.972
-        },
-        {
-          "text": "of",
-          "start": 165.77,
-          "end": 165.99,
-          "confidence": 0.998
-        },
-        {
-          "text": "wasted",
-          "start": 165.99,
-          "end": 166.73,
-          "confidence": 0.337
-        },
-        {
-          "text": "red,",
-          "start": 166.73,
-          "end": 167.75,
-          "confidence": 0.344
-        },
-        {
-          "text": "tidied",
-          "start": 168.03,
-          "end": 169.19,
-          "confidence": 0.972
-        }
-      ]
-    },
-    {
-      "id": 28,
-      "seek": 8404,
-      "start": 171.42,
-      "end": 174.0,
-      "text": " Temple of a world down",
-      "tokens": [
-        50954,
-        17642,
-        295,
-        257,
-        1002,
-        760,
-        51114
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.1790023634168837,
-      "compression_ratio": 5.142857142857143,
-      "no_speech_prob": 0.07750064879655838,
-      "confidence": 0.996,
-      "words": [
-        {
-          "text": "Temple",
-          "start": 171.42,
-          "end": 172.0,
-          "confidence": 0.997
-        },
-        {
-          "text": "of",
-          "start": 172.0,
-          "end": 172.88,
-          "confidence": 0.992
-        },
-        {
-          "text": "a",
-          "start": 172.88,
-          "end": 173.34,
-          "confidence": 0.998
-        },
-        {
-          "text": "world",
-          "start": 173.34,
-          "end": 173.44,
+          "start": 167.07,
+          "end": 167.09,
           "confidence": 0.997
         },
         {
           "text": "down",
-          "start": 173.44,
-          "end": 174.0,
-          "confidence": 0.998
-        }
-      ]
-    },
-    {
-      "id": 29,
-      "seek": 8404,
-      "start": 174.6,
-      "end": 176.69,
-      "text": " Temple of a world down",
-      "tokens": [
-        51114,
-        17642,
-        295,
-        257,
-        1002,
-        760,
-        51236
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.1790023634168837,
-      "compression_ratio": 5.142857142857143,
-      "no_speech_prob": 0.07750064879655838,
-      "confidence": 0.991,
-      "words": [
-        {
-          "text": "Temple",
-          "start": 174.6,
-          "end": 175.08,
-          "confidence": 0.998
-        },
-        {
-          "text": "of",
-          "start": 175.08,
-          "end": 175.96,
-          "confidence": 0.994
-        },
-        {
-          "text": "a",
-          "start": 175.96,
-          "end": 176.46,
-          "confidence": 0.996
-        },
-        {
-          "text": "world",
-          "start": 176.46,
-          "end": 176.5,
-          "confidence": 0.98
-        },
-        {
-          "text": "down",
-          "start": 176.5,
-          "end": 176.69,
+          "start": 167.09,
+          "end": 167.69,
           "confidence": 0.987
         }
       ]
     },
     {
-      "id": 30,
-      "seek": 8404,
-      "start": 176.69,
-      "end": 179.16,
-      "text": " The value of sunlight",
+      "id": 20,
+      "seek": 8486,
+      "start": 168.33,
+      "end": 169.07,
+      "text": " Tire the whole world down",
       "tokens": [
-        51236,
-        440,
-        2158,
-        295,
-        18379,
-        51352
+        50815,
+        314,
+        621,
+        264,
+        1379,
+        1002,
+        760,
+        50865
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.1790023634168837,
-      "compression_ratio": 5.142857142857143,
-      "no_speech_prob": 0.07750064879655838,
-      "confidence": 0.416,
+      "avg_logprob": -0.1944910418924861,
+      "compression_ratio": 12.48,
+      "no_speech_prob": 0.009868226945400238,
+      "confidence": 0.804,
       "words": [
         {
-          "text": "The",
-          "start": 176.69,
-          "end": 177.1,
-          "confidence": 0.132
+          "text": "Tire",
+          "start": 168.33,
+          "end": 168.67,
+          "confidence": 0.631
         },
         {
-          "text": "value",
-          "start": 177.1,
-          "end": 177.72,
-          "confidence": 0.238
+          "text": "the",
+          "start": 168.67,
+          "end": 168.91,
+          "confidence": 0.989
         },
         {
-          "text": "of",
-          "start": 177.72,
-          "end": 177.96,
-          "confidence": 0.974
+          "text": "whole",
+          "start": 168.91,
+          "end": 169.03,
+          "confidence": 0.705
         },
         {
-          "text": "sunlight",
-          "start": 177.96,
-          "end": 179.16,
-          "confidence": 0.979
+          "text": "world",
+          "start": 169.03,
+          "end": 169.05,
+          "confidence": 0.997
+        },
+        {
+          "text": "down",
+          "start": 169.05,
+          "end": 169.07,
+          "confidence": 0.975
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "seek": 8486,
+      "start": 169.07,
+      "end": 171.18,
+      "text": " Tire the whole world down",
+      "tokens": [
+        50865,
+        314,
+        621,
+        264,
+        1379,
+        1002,
+        760,
+        50915
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1944910418924861,
+      "compression_ratio": 12.48,
+      "no_speech_prob": 0.009868226945400238,
+      "confidence": 0.812,
+      "words": [
+        {
+          "text": "Tire",
+          "start": 169.07,
+          "end": 169.09,
+          "confidence": 0.682
+        },
+        {
+          "text": "the",
+          "start": 169.09,
+          "end": 169.11,
+          "confidence": 0.982
+        },
+        {
+          "text": "whole",
+          "start": 169.11,
+          "end": 169.27,
+          "confidence": 0.649
+        },
+        {
+          "text": "world",
+          "start": 171.02,
+          "end": 171.06,
+          "confidence": 0.997
+        },
+        {
+          "text": "down",
+          "start": 171.06,
+          "end": 171.18,
+          "confidence": 0.973
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "seek": 8486,
+      "start": 171.18,
+      "end": 172.78,
+      "text": " Tire the whole world down",
+      "tokens": [
+        50915,
+        314,
+        621,
+        264,
+        1379,
+        1002,
+        760,
+        50965
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1944910418924861,
+      "compression_ratio": 12.48,
+      "no_speech_prob": 0.009868226945400238,
+      "confidence": 0.735,
+      "words": [
+        {
+          "text": "Tire",
+          "start": 171.18,
+          "end": 171.68,
+          "confidence": 0.638
+        },
+        {
+          "text": "the",
+          "start": 171.68,
+          "end": 171.94,
+          "confidence": 0.964
+        },
+        {
+          "text": "whole",
+          "start": 171.94,
+          "end": 172.24,
+          "confidence": 0.409
+        },
+        {
+          "text": "world",
+          "start": 172.24,
+          "end": 172.76,
+          "confidence": 0.997
+        },
+        {
+          "text": "down",
+          "start": 172.76,
+          "end": 172.78,
+          "confidence": 0.985
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "seek": 8486,
+      "start": 172.78,
+      "end": 173.13,
+      "text": " Tire the whole world down",
+      "tokens": [
+        50965,
+        314,
+        621,
+        264,
+        1379,
+        1002,
+        760,
+        51015
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1944910418924861,
+      "compression_ratio": 12.48,
+      "no_speech_prob": 0.009868226945400238,
+      "confidence": 0.738,
+      "words": [
+        {
+          "text": "Tire",
+          "start": 172.78,
+          "end": 172.8,
+          "confidence": 0.67
+        },
+        {
+          "text": "the",
+          "start": 172.8,
+          "end": 172.82,
+          "confidence": 0.981
+        },
+        {
+          "text": "whole",
+          "start": 172.82,
+          "end": 172.84,
+          "confidence": 0.373
+        },
+        {
+          "text": "world",
+          "start": 172.84,
+          "end": 172.9,
+          "confidence": 0.996
+        },
+        {
+          "text": "down",
+          "start": 172.9,
+          "end": 173.13,
+          "confidence": 0.984
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "seek": 8486,
+      "start": 173.13,
+      "end": 173.5,
+      "text": " Tire the whole world down",
+      "tokens": [
+        51015,
+        314,
+        621,
+        264,
+        1379,
+        1002,
+        760,
+        51065
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1944910418924861,
+      "compression_ratio": 12.48,
+      "no_speech_prob": 0.009868226945400238,
+      "confidence": 0.835,
+      "words": [
+        {
+          "text": "Tire",
+          "start": 173.13,
+          "end": 173.15,
+          "confidence": 0.749
+        },
+        {
+          "text": "the",
+          "start": 173.15,
+          "end": 173.17,
+          "confidence": 0.985
+        },
+        {
+          "text": "whole",
+          "start": 173.17,
+          "end": 173.19,
+          "confidence": 0.625
+        },
+        {
+          "text": "world",
+          "start": 173.19,
+          "end": 173.24,
+          "confidence": 0.996
+        },
+        {
+          "text": "down",
+          "start": 173.24,
+          "end": 173.5,
+          "confidence": 0.984
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "seek": 8486,
+      "start": 174.58,
+      "end": 175.78,
+      "text": " Tire the whole world down",
+      "tokens": [
+        51065,
+        314,
+        621,
+        264,
+        1379,
+        1002,
+        760,
+        51115
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1944910418924861,
+      "compression_ratio": 12.48,
+      "no_speech_prob": 0.009868226945400238,
+      "confidence": 0.904,
+      "words": [
+        {
+          "text": "Tire",
+          "start": 174.58,
+          "end": 174.86,
+          "confidence": 0.834
+        },
+        {
+          "text": "the",
+          "start": 174.86,
+          "end": 175.08,
+          "confidence": 0.989
+        },
+        {
+          "text": "whole",
+          "start": 175.08,
+          "end": 175.34,
+          "confidence": 0.806
+        },
+        {
+          "text": "world",
+          "start": 175.34,
+          "end": 175.76,
+          "confidence": 0.996
+        },
+        {
+          "text": "down",
+          "start": 175.76,
+          "end": 175.78,
+          "confidence": 0.985
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "seek": 8486,
+      "start": 175.78,
+      "end": 176.14,
+      "text": " Tire the whole world down",
+      "tokens": [
+        51115,
+        314,
+        621,
+        264,
+        1379,
+        1002,
+        760,
+        51165
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1944910418924861,
+      "compression_ratio": 12.48,
+      "no_speech_prob": 0.009868226945400238,
+      "confidence": 0.895,
+      "words": [
+        {
+          "text": "Tire",
+          "start": 175.78,
+          "end": 175.8,
+          "confidence": 0.794
+        },
+        {
+          "text": "the",
+          "start": 175.8,
+          "end": 175.82,
+          "confidence": 0.989
+        },
+        {
+          "text": "whole",
+          "start": 175.82,
+          "end": 175.84,
+          "confidence": 0.839
+        },
+        {
+          "text": "world",
+          "start": 175.84,
+          "end": 176.02,
+          "confidence": 0.996
+        },
+        {
+          "text": "down",
+          "start": 176.02,
+          "end": 176.14,
+          "confidence": 0.989
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "seek": 8486,
+      "start": 176.14,
+      "end": 176.52,
+      "text": " Tire the whole world down",
+      "tokens": [
+        51165,
+        314,
+        621,
+        264,
+        1379,
+        1002,
+        760,
+        51215
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1944910418924861,
+      "compression_ratio": 12.48,
+      "no_speech_prob": 0.009868226945400238,
+      "confidence": 0.892,
+      "words": [
+        {
+          "text": "Tire",
+          "start": 176.14,
+          "end": 176.16,
+          "confidence": 0.774
+        },
+        {
+          "text": "the",
+          "start": 176.16,
+          "end": 176.18,
+          "confidence": 0.988
+        },
+        {
+          "text": "whole",
+          "start": 176.18,
+          "end": 176.2,
+          "confidence": 0.861
+        },
+        {
+          "text": "world",
+          "start": 176.2,
+          "end": 176.22,
+          "confidence": 0.996
+        },
+        {
+          "text": "down",
+          "start": 176.22,
+          "end": 176.52,
+          "confidence": 0.989
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "seek": 8486,
+      "start": 176.78,
+      "end": 178.27,
+      "text": " Tire the whole world down",
+      "tokens": [
+        51215,
+        314,
+        621,
+        264,
+        1379,
+        1002,
+        760,
+        51265
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1944910418924861,
+      "compression_ratio": 12.48,
+      "no_speech_prob": 0.009868226945400238,
+      "confidence": 0.883,
+      "words": [
+        {
+          "text": "Tire",
+          "start": 176.78,
+          "end": 177.22,
+          "confidence": 0.743
+        },
+        {
+          "text": "the",
+          "start": 177.22,
+          "end": 177.56,
+          "confidence": 0.988
+        },
+        {
+          "text": "whole",
+          "start": 177.56,
+          "end": 177.58,
+          "confidence": 0.88
+        },
+        {
+          "text": "world",
+          "start": 177.58,
+          "end": 177.98,
+          "confidence": 0.997
+        },
+        {
+          "text": "down",
+          "start": 177.98,
+          "end": 178.27,
+          "confidence": 0.99
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "seek": 8486,
+      "start": 178.27,
+      "end": 179.29,
+      "text": " Tire the whole world down",
+      "tokens": [
+        51265,
+        314,
+        621,
+        264,
+        1379,
+        1002,
+        760,
+        51315
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1944910418924861,
+      "compression_ratio": 12.48,
+      "no_speech_prob": 0.009868226945400238,
+      "confidence": 0.902,
+      "words": [
+        {
+          "text": "Tire",
+          "start": 178.27,
+          "end": 178.29,
+          "confidence": 0.778
+        },
+        {
+          "text": "the",
+          "start": 178.29,
+          "end": 178.31,
+          "confidence": 0.991
+        },
+        {
+          "text": "whole",
+          "start": 178.31,
+          "end": 178.33,
+          "confidence": 0.91
+        },
+        {
+          "text": "world",
+          "start": 178.33,
+          "end": 178.35,
+          "confidence": 0.997
+        },
+        {
+          "text": "down",
+          "start": 178.35,
+          "end": 179.29,
+          "confidence": 0.988
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "seek": 8486,
+      "start": 182.7,
+      "end": 184.07,
+      "text": " Tire the whole world down",
+      "tokens": [
+        51315,
+        314,
+        621,
+        264,
+        1379,
+        1002,
+        760,
+        51365
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1944910418924861,
+      "compression_ratio": 12.48,
+      "no_speech_prob": 0.009868226945400238,
+      "confidence": 0.932,
+      "words": [
+        {
+          "text": "Tire",
+          "start": 182.7,
+          "end": 183.25,
+          "confidence": 0.846
+        },
+        {
+          "text": "the",
+          "start": 183.25,
+          "end": 183.47,
+          "confidence": 0.992
+        },
+        {
+          "text": "whole",
+          "start": 183.47,
+          "end": 183.85,
+          "confidence": 0.94
+        },
+        {
+          "text": "world",
+          "start": 183.85,
+          "end": 184.05,
+          "confidence": 0.997
+        },
+        {
+          "text": "down",
+          "start": 184.05,
+          "end": 184.07,
+          "confidence": 0.986
         }
       ]
     },
     {
       "id": 31,
-      "seek": 8404,
-      "start": 182.71,
-      "end": 199.19,
-      "text": " Will fail, will fail",
+      "seek": 8486,
+      "start": 184.07,
+      "end": 184.59,
+      "text": " Tire the whole world down",
       "tokens": [
-        51352,
-        3099,
-        3061,
-        11,
-        486,
-        3061,
-        51536
+        51365,
+        314,
+        621,
+        264,
+        1379,
+        1002,
+        760,
+        51415
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.1790023634168837,
-      "compression_ratio": 5.142857142857143,
-      "no_speech_prob": 0.07750064879655838,
-      "confidence": 0.412,
+      "avg_logprob": -0.1944910418924861,
+      "compression_ratio": 12.48,
+      "no_speech_prob": 0.009868226945400238,
+      "confidence": 0.929,
       "words": [
         {
-          "text": "Will",
-          "start": 182.71,
-          "end": 182.89,
-          "confidence": 0.139
+          "text": "Tire",
+          "start": 184.07,
+          "end": 184.09,
+          "confidence": 0.83
         },
         {
-          "text": "fail,",
-          "start": 182.89,
-          "end": 183.75,
-          "confidence": 0.515
+          "text": "the",
+          "start": 184.09,
+          "end": 184.11,
+          "confidence": 0.993
         },
         {
-          "text": "will",
+          "text": "whole",
           "start": 184.11,
-          "end": 184.59,
-          "confidence": 0.429
+          "end": 184.13,
+          "confidence": 0.952
         },
         {
-          "text": "fail",
-          "start": 198.21,
-          "end": 199.19,
-          "confidence": 0.936
+          "text": "world",
+          "start": 184.13,
+          "end": 184.21,
+          "confidence": 0.997
+        },
+        {
+          "text": "down",
+          "start": 184.21,
+          "end": 184.59,
+          "confidence": 0.988
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "seek": 8486,
+      "start": 198.46,
+      "end": 199.63,
+      "text": " Tire the whole world down",
+      "tokens": [
+        51415,
+        314,
+        621,
+        264,
+        1379,
+        1002,
+        760,
+        51465
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1944910418924861,
+      "compression_ratio": 12.48,
+      "no_speech_prob": 0.009868226945400238,
+      "confidence": 0.951,
+      "words": [
+        {
+          "text": "Tire",
+          "start": 198.46,
+          "end": 198.85,
+          "confidence": 0.888
+        },
+        {
+          "text": "the",
+          "start": 198.85,
+          "end": 199.13,
+          "confidence": 0.993
+        },
+        {
+          "text": "whole",
+          "start": 199.13,
+          "end": 199.17,
+          "confidence": 0.962
+        },
+        {
+          "text": "world",
+          "start": 199.17,
+          "end": 199.61,
+          "confidence": 0.997
+        },
+        {
+          "text": "down",
+          "start": 199.61,
+          "end": 199.63,
+          "confidence": 0.984
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "seek": 8486,
+      "start": 204.41,
+      "end": 204.86,
+      "text": " Tire the whole world down",
+      "tokens": [
+        51465,
+        314,
+        621,
+        264,
+        1379,
+        1002,
+        760,
+        51515
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1944910418924861,
+      "compression_ratio": 12.48,
+      "no_speech_prob": 0.009868226945400238,
+      "confidence": 0.943,
+      "words": [
+        {
+          "text": "Tire",
+          "start": 204.41,
+          "end": 204.43,
+          "confidence": 0.869
+        },
+        {
+          "text": "the",
+          "start": 204.43,
+          "end": 204.45,
+          "confidence": 0.992
+        },
+        {
+          "text": "whole",
+          "start": 204.45,
+          "end": 204.47,
+          "confidence": 0.955
+        },
+        {
+          "text": "world",
+          "start": 204.47,
+          "end": 204.53,
+          "confidence": 0.997
+        },
+        {
+          "text": "down",
+          "start": 204.53,
+          "end": 204.86,
+          "confidence": 0.986
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "seek": 8486,
+      "start": 204.86,
+      "end": 205.83,
+      "text": " Tire the whole world down",
+      "tokens": [
+        51515,
+        314,
+        621,
+        264,
+        1379,
+        1002,
+        760,
+        51565
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1944910418924861,
+      "compression_ratio": 12.48,
+      "no_speech_prob": 0.009868226945400238,
+      "confidence": 0.934,
+      "words": [
+        {
+          "text": "Tire",
+          "start": 204.86,
+          "end": 205.05,
+          "confidence": 0.854
+        },
+        {
+          "text": "the",
+          "start": 205.05,
+          "end": 205.19,
+          "confidence": 0.988
+        },
+        {
+          "text": "whole",
+          "start": 205.19,
+          "end": 205.79,
+          "confidence": 0.945
+        },
+        {
+          "text": "world",
+          "start": 205.79,
+          "end": 205.81,
+          "confidence": 0.995
+        },
+        {
+          "text": "down",
+          "start": 205.81,
+          "end": 205.83,
+          "confidence": 0.978
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "seek": 8486,
+      "start": 206.33,
+      "end": 207.43,
+      "text": " Tire the whole world down",
+      "tokens": [
+        51565,
+        314,
+        621,
+        264,
+        1379,
+        1002,
+        760,
+        51615
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1944910418924861,
+      "compression_ratio": 12.48,
+      "no_speech_prob": 0.009868226945400238,
+      "confidence": 0.93,
+      "words": [
+        {
+          "text": "Tire",
+          "start": 206.33,
+          "end": 206.51,
+          "confidence": 0.843
+        },
+        {
+          "text": "the",
+          "start": 206.51,
+          "end": 206.53,
+          "confidence": 0.985
+        },
+        {
+          "text": "whole",
+          "start": 206.53,
+          "end": 206.75,
+          "confidence": 0.945
+        },
+        {
+          "text": "world",
+          "start": 206.75,
+          "end": 207.41,
+          "confidence": 0.994
+        },
+        {
+          "text": "down",
+          "start": 207.41,
+          "end": 207.43,
+          "confidence": 0.982
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "seek": 8486,
+      "start": 207.43,
+      "end": 208.29,
+      "text": " Tire the whole world down",
+      "tokens": [
+        51615,
+        314,
+        621,
+        264,
+        1379,
+        1002,
+        760,
+        51665
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1944910418924861,
+      "compression_ratio": 12.48,
+      "no_speech_prob": 0.009868226945400238,
+      "confidence": 0.955,
+      "words": [
+        {
+          "text": "Tire",
+          "start": 207.43,
+          "end": 207.85,
+          "confidence": 0.901
+        },
+        {
+          "text": "the",
+          "start": 207.85,
+          "end": 207.91,
+          "confidence": 0.99
+        },
+        {
+          "text": "whole",
+          "start": 207.91,
+          "end": 207.95,
+          "confidence": 0.969
+        },
+        {
+          "text": "world",
+          "start": 207.95,
+          "end": 208.27,
+          "confidence": 0.994
+        },
+        {
+          "text": "down",
+          "start": 208.27,
+          "end": 208.29,
+          "confidence": 0.979
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "seek": 8486,
+      "start": 208.29,
+      "end": 209.49,
+      "text": " Tire the whole world down",
+      "tokens": [
+        51665,
+        314,
+        621,
+        264,
+        1379,
+        1002,
+        760,
+        51715
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1944910418924861,
+      "compression_ratio": 12.48,
+      "no_speech_prob": 0.009868226945400238,
+      "confidence": 0.963,
+      "words": [
+        {
+          "text": "Tire",
+          "start": 208.29,
+          "end": 209.41,
+          "confidence": 0.922
+        },
+        {
+          "text": "the",
+          "start": 209.41,
+          "end": 209.43,
+          "confidence": 0.991
+        },
+        {
+          "text": "whole",
+          "start": 209.43,
+          "end": 209.45,
+          "confidence": 0.972
+        },
+        {
+          "text": "world",
+          "start": 209.45,
+          "end": 209.47,
+          "confidence": 0.995
+        },
+        {
+          "text": "down",
+          "start": 209.47,
+          "end": 209.49,
+          "confidence": 0.982
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "seek": 8486,
+      "start": 209.55,
+      "end": 210.45,
+      "text": " Tire the whole world down",
+      "tokens": [
+        51715,
+        314,
+        621,
+        264,
+        1379,
+        1002,
+        760,
+        51765
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1944910418924861,
+      "compression_ratio": 12.48,
+      "no_speech_prob": 0.009868226945400238,
+      "confidence": 0.967,
+      "words": [
+        {
+          "text": "Tire",
+          "start": 209.55,
+          "end": 210.05,
+          "confidence": 0.932
+        },
+        {
+          "text": "the",
+          "start": 210.05,
+          "end": 210.35,
+          "confidence": 0.989
+        },
+        {
+          "text": "whole",
+          "start": 210.35,
+          "end": 210.41,
+          "confidence": 0.977
+        },
+        {
+          "text": "world",
+          "start": 210.41,
+          "end": 210.43,
+          "confidence": 0.994
+        },
+        {
+          "text": "down",
+          "start": 210.43,
+          "end": 210.45,
+          "confidence": 0.978
         }
       ]
     }
   ],
   "language": "en",
   "language_probs": {
-    "en": 0.9552145004272461,
-    "zh": 0.0022242858540266752,
-    "de": 0.004188104998320341,
-    "es": 0.0021898015402257442,
-    "ru": 0.003016579197719693,
-    "ko": 0.001413842081092298,
-    "fr": 0.005505160894244909,
-    "ja": 0.001787264016456902,
-    "pt": 0.005335784982889891,
-    "tr": 0.0006422667065635324,
-    "pl": 0.001801281818188727,
-    "ca": 0.00015136455476749688,
-    "nl": 0.0015407177852466702,
-    "ar": 0.0009418220142833889,
-    "sv": 0.0008916991064324975,
-    "it": 0.0019629253074526787,
-    "id": 0.00021179710165597498,
-    "hi": 8.557376713724807e-05,
-    "fi": 0.00018985368660651147,
-    "vi": 0.00041793094715103507,
-    "he": 8.359144703717902e-05,
-    "uk": 0.00011160923168063164,
-    "el": 0.0003033853427041322,
-    "ms": 0.0002594992402009666,
-    "cs": 0.00011515208461787552,
-    "ro": 0.00013048440450802445,
-    "da": 0.00026153450016863644,
-    "hu": 0.00015862869622651488,
-    "ta": 2.6717430955613963e-05,
-    "no": 0.00033845080179162323,
-    "th": 0.00021345823188312352,
-    "ur": 3.7093483115313575e-05,
-    "hr": 3.827095133601688e-05,
-    "bg": 1.6078833141364157e-05,
-    "lt": 5.099111149320379e-06,
-    "la": 0.0021224285010248423,
-    "mi": 0.0004448851977940649,
-    "ml": 2.1977160940878093e-05,
-    "cy": 0.0016400855965912342,
-    "sk": 1.0627460142131895e-05,
-    "te": 1.5104666999832261e-05,
-    "fa": 1.9546891053323634e-05,
-    "lv": 2.735101770667825e-05,
-    "bn": 7.535997156082885e-06,
-    "sr": 5.2200330173945986e-06,
-    "az": 1.8324039956496563e-06,
-    "sl": 4.725831968244165e-05,
-    "kn": 2.876721509892377e-07,
-    "et": 2.1256257696222747e-06,
-    "mk": 1.1114091194031062e-06,
-    "br": 0.0003130158002022654,
-    "eu": 2.097075412166305e-05,
-    "is": 3.948580342694186e-05,
-    "hy": 2.645384029165143e-06,
-    "ne": 3.759848823392531e-06,
-    "mn": 6.861604106234154e-06,
-    "bs": 2.3762977434671484e-05,
-    "kk": 1.8110557675754535e-06,
-    "sq": 7.419162557198433e-06,
-    "sw": 1.6332038285327144e-05,
-    "gl": 6.876044790260494e-05,
-    "mr": 3.376391646270349e-07,
-    "pa": 4.931848138767236e-07,
-    "si": 2.756553476501722e-05,
-    "km": 0.000612855248618871,
-    "sn": 0.00020528078312054276,
-    "yo": 3.827095133601688e-05,
-    "so": 9.194554451141812e-08,
-    "af": 7.535997156082885e-06,
-    "oc": 1.8651773643796332e-05,
-    "ka": 3.209215151400713e-07,
-    "be": 7.959600225149188e-06,
-    "tg": 7.459420636735103e-09,
-    "sd": 3.021123575308593e-06,
-    "gu": 6.64850929865679e-08,
-    "am": 6.57105161394611e-08,
-    "yi": 7.852690032450482e-05,
-    "lo": 2.3899053758213995e-06,
-    "uz": 1.4758164135209029e-10,
-    "fo": 1.242475991602987e-05,
-    "ht": 2.3578049876959994e-05,
-    "ps": 6.982242553021933e-07,
-    "tk": 1.5303451839088211e-09,
-    "nn": 0.0007221199339255691,
-    "mt": 1.4839259847576614e-06,
-    "sa": 2.2852629626868293e-05,
-    "lb": 1.1110773634470661e-08,
-    "my": 3.1235838832799345e-05,
-    "bo": 5.961464921711013e-06,
-    "tl": 0.00010004586511058733,
-    "mg": 6.196754775977809e-10,
-    "as": 6.533637701977568e-07,
-    "tt": 5.652704082592663e-09,
-    "haw": 0.0008376737241633236,
-    "ln": 3.947401694404107e-07,
-    "ha": 1.334790722395951e-09,
-    "ba": 2.1729362753575288e-09,
-    "jw": 0.0005536685930565,
-    "su": 1.0116474769006345e-08
+    "en": 0.942891001701355,
+    "zh": 0.0021785034332424402,
+    "de": 0.0018202078063040972,
+    "es": 0.0038233925588428974,
+    "ru": 0.0082860691472888,
+    "ko": 0.001657318091019988,
+    "fr": 0.002607327187433839,
+    "ja": 0.001520840567536652,
+    "pt": 0.004758289083838463,
+    "tr": 0.0003163046785630286,
+    "pl": 0.0009742870461195707,
+    "ca": 0.00017130142077803612,
+    "nl": 0.001520840567536652,
+    "ar": 0.00042232219129800797,
+    "sv": 0.0005422724061645567,
+    "it": 0.0008940560510382056,
+    "id": 0.0002444213314447552,
+    "hi": 2.8515732992673293e-05,
+    "fi": 0.0006241516675800085,
+    "vi": 0.00028132720035500824,
+    "he": 7.113065657904372e-05,
+    "uk": 0.00017812529404181987,
+    "el": 0.00021739282237831503,
+    "ms": 0.0001186570298159495,
+    "cs": 0.00014368788106366992,
+    "ro": 0.00018887416808865964,
+    "da": 8.09170669526793e-05,
+    "hu": 0.0002726716920733452,
+    "ta": 5.6489214330213144e-05,
+    "no": 7.781718159094453e-05,
+    "th": 0.0002463383134454489,
+    "ur": 1.0207392733718734e-05,
+    "hr": 2.8404559998307377e-05,
+    "bg": 1.1702833035087679e-05,
+    "lt": 3.412886508158408e-05,
+    "la": 0.011685230769217014,
+    "mi": 0.00047855376033112407,
+    "ml": 1.0823351658473257e-05,
+    "cy": 0.002283052308484912,
+    "sk": 3.18115962727461e-05,
+    "te": 1.5203866496449336e-05,
+    "fa": 2.4106637283694e-05,
+    "lv": 0.00012630975106731057,
+    "bn": 6.412623861251632e-06,
+    "sr": 1.3155885199012118e-06,
+    "az": 1.0009964171331376e-05,
+    "sl": 3.974512219429016e-05,
+    "kn": 2.041606876446167e-06,
+    "et": 1.0207392733718734e-05,
+    "mk": 4.0596140138404735e-07,
+    "br": 0.0003367045719642192,
+    "eu": 6.813900108681992e-05,
+    "is": 0.00010070292046293616,
+    "hy": 1.0287450095347594e-05,
+    "ne": 5.44232261745492e-06,
+    "mn": 8.528596481482964e-06,
+    "bs": 8.73084627528442e-06,
+    "kk": 1.0247343197988812e-05,
+    "sq": 1.367995650980447e-06,
+    "sw": 1.1210628144908696e-05,
+    "gl": 8.09170669526793e-05,
+    "mr": 2.9763280053884955e-06,
+    "pa": 1.7531136791149038e-06,
+    "si": 1.8774268028209917e-05,
+    "km": 0.0012907206546515226,
+    "sn": 0.0001535535993753001,
+    "yo": 1.967526441148948e-05,
+    "so": 1.402755689383639e-08,
+    "af": 1.0327714335289784e-05,
+    "oc": 2.354820753680542e-05,
+    "ka": 1.061242414834851e-06,
+    "be": 2.220807618869003e-05,
+    "tg": 2.628381778890798e-08,
+    "sd": 4.012917088402901e-06,
+    "gu": 5.988013640489953e-07,
+    "am": 6.894077841934632e-08,
+    "yi": 4.0846898627933115e-05,
+    "lo": 4.529503257799661e-06,
+    "uz": 6.743654079599537e-09,
+    "fo": 1.5026736946310848e-05,
+    "ht": 1.833936221373733e-05,
+    "ps": 1.5838062381590134e-06,
+    "tk": 8.855713495847795e-09,
+    "nn": 0.0008598053245805204,
+    "mt": 7.809842372807907e-07,
+    "sa": 5.583109305007383e-05,
+    "lb": 7.208633689970156e-08,
+    "my": 2.8627340725506656e-05,
+    "bo": 3.281650833741878e-06,
+    "tl": 0.000334084325004369,
+    "mg": 1.2139838467817299e-08,
+    "as": 4.385204874779447e-07,
+    "tt": 4.179683443794602e-08,
+    "haw": 0.0018779875244945288,
+    "ln": 3.568629836081527e-07,
+    "ha": 2.3138825966384502e-08,
+    "ba": 1.1053448822906375e-08,
+    "jw": 0.002527108183130622,
+    "su": 7.307865956818205e-08,
+    "yue": 1.4968151845096145e-05
   },
   "speech_activity": [
     {

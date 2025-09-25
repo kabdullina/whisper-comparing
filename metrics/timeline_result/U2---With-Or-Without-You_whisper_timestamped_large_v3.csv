@@ -1,0 +1,67 @@
+lyric_word,time,ref_word,start,end
+ see,28.23,See,28.0,28.28
+stone,29.23,stone,28.64,29.16
+eyes ,31.41,eyes,30.78,31.4
+thorn,33.59,thorn,32.98,33.74
+side ,35.77,side,35.1,35.64
+wait ,37.95,wait,37.4,37.82
+you ,40.12,you,39.44,40.06
+sleight,45.7,Sleight,45.57,46.03
+hand ,46.66,hand,46.23,46.61
+fate ,48.83,fate,48.25,48.75
+nails ,51.01,nails,50.49,50.97
+wait,53.19,wait,52.55,52.99
+wait ,55.37,wait,54.93,55.43
+without  ,57.55,without,55.43,57.15
+ with,60.81,With,60.55,60.87
+without  ,61.91,without,61.19,61.65
+ with,65.26,With,64.9,65.24
+without,66.26,without,65.62,66.22
+ through,71.76,Through,71.72,71.88
+ storm,72.8,storm,72.16,72.72
+shore ,74.97,shore,74.12,74.8
+all ,77.15,all,76.64,77.14
+more ,79.33,more,78.72,79.28
+waiting,81.51,waiting,81.2,81.66
+for ,83.68,for,81.66,83.26
+ with,86.98,With,86.7,86.88
+without  ,88.05,without,87.24,87.74
+ with,91.29,With,90.84,91.24
+without,92.4,without,91.94,92.5
+live,96.76,,,
+ with,100.13,,,
+without,101.11,,,
+give,114.15,,,
+away ,116.33,,,
+give,118.49,give,117.93,118.43
+away ,120.67,away,119.47,120.51
+give ,122.85,give,122.25,122.71
+give ,125.04,,,
+give,127.21,,,
+away ,129.4,away,128.19,129.01
+bruised ,138.11,bruised,137.27,138.29
+with ,140.28,with,139.37,140.09
+win ,142.46,win,141.53,142.33
+nothing,144.63,nothing,143.29,144.79
+lose ,146.83,lose,146.25,146.87
+give,148.99,give,148.43,148.89
+away ,151.18,away,150.17,151.03
+give,153.36,give,152.87,153.23
+away ,155.53,away,154.31,155.39
+give ,157.7,give,157.17,157.59
+give ,159.89,,,
+give,162.06,,,
+away ,164.24,away,161.87,163.87
+without ,166.43,without,165.63,166.11
+ with,169.68,,,
+without,170.78,,,
+live ,175.13,,,
+ with,178.48,,,
+without,179.49,,,
+ with,200.25,Without,200.56,200.91
+without,201.27,Without,200.56,200.91
+ with,204.55,,,
+without,205.62,,,
+live ,209.99,,,
+ with,213.31,,,
+without,214.34,,,

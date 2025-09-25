@@ -1,233 +1,180 @@
 {
-  "text": " See the stone set in your eyes, see the thorn twist in your side. I'll wait for you, slide of hand and twist of fate. On the bed of nails she makes me wait. And I wait without you, with or without you, with or without you. Through the storm we reach the shore, you give it all but I want more. And I'm waiting for you, with or without you, with or without you. My hands are tied, my body bruised, she got me with. Nothing went and nothing left to lose. And you give yourself away, and you give yourself away. And you give yourself away, with or without you.",
+  "text": "See the stone set in your eyes. See the phone twist in your side. I'll wait for you. Sleight of hand and twist of fate. On a bed of nails she makes me wait. And I'll wait without you. With or without you. With or without you. Through the storm we reached the shore. You gave it all, but I want more. And I'm waiting for you. And you give yourself away. And you give yourself away. With or without you. Without you. Without you. Without you. Without you. Without you. Without you. Without you. Without you. Without you. Without you. Without you. Without you. Without you. Without you. Without you. Without you. Without you. Without you. Without you. Without you. Without you. Without you. Without you. Without you. Without you. Without you. Without you. Without you. Without you. Without you. Without you. Without you. Without you. Without you. Without you. Without you. Without you. Without you. Without you. Without you. Without you. Without you. Without you. Without you. Without you. Without you. Without you. Without you. Without you. Without you. Without you. Without you. Without you. Without you. Without you. Without you. Without you. Without you. Without you. Without you. Without you. Without you. Without you. Without you. Without you. Without you. Without you. Without you. Without you. Without you. Without you. Without you. Without you",
   "segments": [
     {
       "id": 0,
       "seek": 0,
-      "start": 28.1,
-      "end": 35.92,
-      "text": " See the stone set in your eyes, see the thorn twist in your side.",
+      "start": 27.92,
+      "end": 40.46,
+      "text": "See the stone set in your eyes. See the phone twist in your side. I'll wait for you.",
       "tokens": [
         50364,
-        3008,
-        264,
+        26869,
+        220,
+        3322,
         7581,
         992,
         294,
         428,
         2575,
-        11,
-        536,
-        264,
-        258,
-        1865,
-        8203,
+        13,
+        3008,
+        220,
+        3322,
+        2593,
+        220,
+        20270,
+        468,
         294,
         428,
         1252,
         13,
-        50814
+        286,
+        603,
+        1699,
+        337,
+        291,
+        13,
+        51014
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.29408112350775273,
-      "compression_ratio": 1.368421052631579,
-      "no_speech_prob": 0.5620400309562683,
-      "confidence": 0.843,
+      "avg_logprob": -0.20197114788117956,
+      "compression_ratio": 1.4296875,
+      "no_speech_prob": 3.3994561817962676e-05,
+      "confidence": 0.896,
       "words": [
         {
           "text": "See",
-          "start": 28.1,
-          "end": 28.5,
-          "confidence": 0.431
+          "start": 27.92,
+          "end": 28.56,
+          "confidence": 0.814
         },
         {
           "text": "the",
-          "start": 28.5,
-          "end": 28.74,
-          "confidence": 0.952
+          "start": 28.56,
+          "end": 28.8,
+          "confidence": 0.997
         },
         {
           "text": "stone",
-          "start": 28.74,
-          "end": 29.26,
-          "confidence": 0.934
-        },
-        {
-          "text": "set",
-          "start": 29.26,
-          "end": 30.02,
-          "confidence": 0.64
-        },
-        {
-          "text": "in",
-          "start": 30.02,
-          "end": 30.46,
-          "confidence": 0.985
-        },
-        {
-          "text": "your",
-          "start": 30.46,
-          "end": 30.84,
-          "confidence": 0.97
-        },
-        {
-          "text": "eyes,",
-          "start": 30.84,
-          "end": 31.76,
-          "confidence": 0.982
-        },
-        {
-          "text": "see",
-          "start": 32.34,
-          "end": 32.88,
-          "confidence": 0.674
-        },
-        {
-          "text": "the",
-          "start": 32.88,
-          "end": 33.14,
-          "confidence": 0.993
-        },
-        {
-          "text": "thorn",
-          "start": 33.14,
-          "end": 33.78,
-          "confidence": 0.796
-        },
-        {
-          "text": "twist",
-          "start": 33.78,
-          "end": 34.3,
-          "confidence": 0.906
-        },
-        {
-          "text": "in",
-          "start": 34.3,
-          "end": 34.82,
+          "start": 28.8,
+          "end": 29.5,
           "confidence": 0.962
         },
         {
+          "text": "set",
+          "start": 29.5,
+          "end": 30.26,
+          "confidence": 0.726
+        },
+        {
+          "text": "in",
+          "start": 30.26,
+          "end": 30.58,
+          "confidence": 0.993
+        },
+        {
           "text": "your",
-          "start": 34.82,
-          "end": 35.18,
-          "confidence": 0.991
+          "start": 30.58,
+          "end": 31.04,
+          "confidence": 0.996
+        },
+        {
+          "text": "eyes.",
+          "start": 31.04,
+          "end": 32.12,
+          "confidence": 0.99
+        },
+        {
+          "text": "See",
+          "start": 32.6,
+          "end": 32.94,
+          "confidence": 0.966
+        },
+        {
+          "text": "the",
+          "start": 32.94,
+          "end": 33.28,
+          "confidence": 0.999
+        },
+        {
+          "text": "phone",
+          "start": 33.28,
+          "end": 33.88,
+          "confidence": 0.382
+        },
+        {
+          "text": "twist",
+          "start": 33.88,
+          "end": 34.84,
+          "confidence": 0.981
+        },
+        {
+          "text": "in",
+          "start": 34.84,
+          "end": 35.12,
+          "confidence": 0.958
+        },
+        {
+          "text": "your",
+          "start": 35.12,
+          "end": 35.28,
+          "confidence": 0.996
         },
         {
           "text": "side.",
-          "start": 35.18,
-          "end": 35.92,
-          "confidence": 0.918
+          "start": 35.28,
+          "end": 36.38,
+          "confidence": 0.947
+        },
+        {
+          "text": "I'll",
+          "start": 37.08,
+          "end": 37.74,
+          "confidence": 0.707
+        },
+        {
+          "text": "wait",
+          "start": 37.74,
+          "end": 38.8,
+          "confidence": 0.974
+        },
+        {
+          "text": "for",
+          "start": 38.8,
+          "end": 39.72,
+          "confidence": 0.948
+        },
+        {
+          "text": "you.",
+          "start": 39.72,
+          "end": 40.46,
+          "confidence": 0.998
         }
       ]
     },
     {
       "id": 1,
       "seek": 0,
-      "start": 37.08,
-      "end": 48.89,
-      "text": " I'll wait for you, slide of hand and twist of fate.",
+      "start": 45.73,
+      "end": 58.33,
+      "text": " Sleight of hand and twist of fate. On a bed of nails she makes me wait. And I'll wait without you.",
       "tokens": [
-        50814,
-        286,
-        603,
-        1699,
-        337,
-        291,
-        11,
-        4137,
+        51064,
+        318,
+        306,
+        397,
         295,
         1011,
         293,
-        8203,
+        220,
+        20270,
+        468,
         295,
         12738,
         13,
-        51214
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.29408112350775273,
-      "compression_ratio": 1.368421052631579,
-      "no_speech_prob": 0.5620400309562683,
-      "confidence": 0.885,
-      "words": [
-        {
-          "text": "I'll",
-          "start": 37.08,
-          "end": 37.56,
-          "confidence": 0.87
-        },
-        {
-          "text": "wait",
-          "start": 37.56,
-          "end": 38.1,
-          "confidence": 0.975
-        },
-        {
-          "text": "for",
-          "start": 38.1,
-          "end": 39.72,
-          "confidence": 0.97
-        },
-        {
-          "text": "you,",
-          "start": 39.72,
-          "end": 40.26,
-          "confidence": 0.96
-        },
-        {
-          "text": "slide",
-          "start": 45.33,
-          "end": 46.01,
-          "confidence": 0.657
-        },
-        {
-          "text": "of",
-          "start": 46.01,
-          "end": 46.33,
-          "confidence": 0.808
-        },
-        {
-          "text": "hand",
-          "start": 46.33,
-          "end": 46.93,
-          "confidence": 0.986
-        },
-        {
-          "text": "and",
-          "start": 46.93,
-          "end": 47.41,
-          "confidence": 0.931
-        },
-        {
-          "text": "twist",
-          "start": 47.41,
-          "end": 47.81,
-          "confidence": 0.96
-        },
-        {
-          "text": "of",
-          "start": 47.81,
-          "end": 48.29,
-          "confidence": 0.885
-        },
-        {
-          "text": "fate.",
-          "start": 48.29,
-          "end": 48.89,
-          "confidence": 0.809
-        }
-      ]
-    },
-    {
-      "id": 2,
-      "seek": 0,
-      "start": 49.57,
-      "end": 53.17,
-      "text": " On the bed of nails she makes me wait.",
-      "tokens": [
-        51214,
         1282,
-        264,
+        257,
         2901,
         295,
         15394,
@@ -236,862 +183,1704 @@
         385,
         1699,
         13,
-        51464
+        400,
+        286,
+        603,
+        1699,
+        1553,
+        291,
+        13,
+        51714
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.29408112350775273,
-      "compression_ratio": 1.368421052631579,
-      "no_speech_prob": 0.5620400309562683,
-      "confidence": 0.83,
+      "avg_logprob": -0.20197114788117956,
+      "compression_ratio": 1.4296875,
+      "no_speech_prob": 3.3994561817962676e-05,
+      "confidence": 0.921,
       "words": [
         {
-          "text": "On",
-          "start": 49.57,
-          "end": 49.69,
-          "confidence": 0.808
-        },
-        {
-          "text": "the",
-          "start": 49.69,
-          "end": 49.81,
-          "confidence": 0.567
-        },
-        {
-          "text": "bed",
-          "start": 49.81,
-          "end": 50.13,
-          "confidence": 0.998
+          "text": "Sleight",
+          "start": 45.73,
+          "end": 46.35,
+          "confidence": 0.761
         },
         {
           "text": "of",
-          "start": 50.13,
+          "start": 46.35,
+          "end": 46.55,
+          "confidence": 0.99
+        },
+        {
+          "text": "hand",
+          "start": 46.55,
+          "end": 47.07,
+          "confidence": 0.994
+        },
+        {
+          "text": "and",
+          "start": 47.07,
+          "end": 47.57,
+          "confidence": 0.872
+        },
+        {
+          "text": "twist",
+          "start": 47.57,
+          "end": 48.13,
+          "confidence": 0.962
+        },
+        {
+          "text": "of",
+          "start": 48.13,
+          "end": 48.41,
+          "confidence": 0.996
+        },
+        {
+          "text": "fate.",
+          "start": 48.41,
+          "end": 49.47,
+          "confidence": 0.876
+        },
+        {
+          "text": "On",
+          "start": 49.61,
+          "end": 49.73,
+          "confidence": 0.971
+        },
+        {
+          "text": "a",
+          "start": 49.73,
+          "end": 49.97,
+          "confidence": 0.99
+        },
+        {
+          "text": "bed",
+          "start": 49.97,
           "end": 50.55,
-          "confidence": 0.993
+          "confidence": 0.996
+        },
+        {
+          "text": "of",
+          "start": 50.55,
+          "end": 50.81,
+          "confidence": 0.997
         },
         {
           "text": "nails",
-          "start": 50.55,
-          "end": 51.11,
-          "confidence": 0.694
+          "start": 50.81,
+          "end": 51.39,
+          "confidence": 0.827
         },
         {
           "text": "she",
-          "start": 51.11,
-          "end": 51.75,
-          "confidence": 0.788
+          "start": 51.39,
+          "end": 51.85,
+          "confidence": 0.939
         },
         {
           "text": "makes",
-          "start": 51.75,
-          "end": 52.23,
-          "confidence": 0.975
+          "start": 51.85,
+          "end": 52.35,
+          "confidence": 0.972
         },
         {
           "text": "me",
-          "start": 52.23,
-          "end": 52.63,
-          "confidence": 0.981
+          "start": 52.35,
+          "end": 52.71,
+          "confidence": 0.997
         },
         {
           "text": "wait.",
-          "start": 52.63,
-          "end": 53.17,
-          "confidence": 0.792
+          "start": 52.71,
+          "end": 53.75,
+          "confidence": 0.987
+        },
+        {
+          "text": "And",
+          "start": 54.51,
+          "end": 54.81,
+          "confidence": 0.848
+        },
+        {
+          "text": "I'll",
+          "start": 54.81,
+          "end": 55.21,
+          "confidence": 0.874
+        },
+        {
+          "text": "wait",
+          "start": 55.21,
+          "end": 56.37,
+          "confidence": 0.992
+        },
+        {
+          "text": "without",
+          "start": 56.37,
+          "end": 57.65,
+          "confidence": 0.879
+        },
+        {
+          "text": "you.",
+          "start": 57.65,
+          "end": 58.33,
+          "confidence": 0.999
         }
       ]
     },
     {
-      "id": 3,
-      "seek": 2200,
-      "start": 54.47,
-      "end": 67.94,
-      "text": " And I wait without you, with or without you, with or without you.",
+      "id": 2,
+      "seek": 2700,
+      "start": 60.61,
+      "end": 84.6,
+      "text": " With or without you. With or without you. Through the storm we reached the shore. You gave it all, but I want more. And I'm waiting for you.",
       "tokens": [
-        50364,
-        400,
-        286,
-        1699,
-        1553,
-        291,
-        11,
-        365,
-        420,
-        1553,
-        291,
-        11,
-        365,
+        50414,
+        2022,
         420,
         1553,
         291,
         13,
-        51064
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.15091551267183745,
-      "compression_ratio": 1.4623655913978495,
-      "no_speech_prob": 0.602285623550415,
-      "confidence": 0.897,
-      "words": [
-        {
-          "text": "And",
-          "start": 54.47,
-          "end": 54.75,
-          "confidence": 0.903
-        },
-        {
-          "text": "I",
-          "start": 54.75,
-          "end": 55.01,
-          "confidence": 0.975
-        },
-        {
-          "text": "wait",
-          "start": 55.01,
-          "end": 55.57,
-          "confidence": 0.923
-        },
-        {
-          "text": "without",
-          "start": 55.57,
-          "end": 57.47,
-          "confidence": 0.889
-        },
-        {
-          "text": "you,",
-          "start": 57.47,
-          "end": 58.15,
-          "confidence": 0.994
-        },
-        {
-          "text": "with",
-          "start": 60.41,
-          "end": 60.97,
-          "confidence": 0.478
-        },
-        {
-          "text": "or",
-          "start": 60.97,
-          "end": 61.31,
-          "confidence": 0.928
-        },
-        {
-          "text": "without",
-          "start": 61.31,
-          "end": 61.89,
-          "confidence": 0.998
-        },
-        {
-          "text": "you,",
-          "start": 61.89,
-          "end": 62.59,
-          "confidence": 0.998
-        },
-        {
-          "text": "with",
-          "start": 64.68,
-          "end": 65.34,
-          "confidence": 0.769
-        },
-        {
-          "text": "or",
-          "start": 65.34,
-          "end": 65.76,
-          "confidence": 0.997
-        },
-        {
-          "text": "without",
-          "start": 65.76,
-          "end": 66.76,
-          "confidence": 0.998
-        },
-        {
-          "text": "you.",
-          "start": 66.76,
-          "end": 67.94,
-          "confidence": 0.998
-        }
-      ]
-    },
-    {
-      "id": 4,
-      "seek": 2200,
-      "start": 71.72,
-      "end": 79.48,
-      "text": " Through the storm we reach the shore, you give it all but I want more.",
-      "tokens": [
-        51064,
+        2022,
+        420,
+        1553,
+        291,
+        13,
         8927,
-        264,
+        220,
+        3322,
         7679,
         321,
-        2524,
-        264,
+        6488,
+        220,
+        3322,
         17805,
-        11,
-        291,
-        976,
+        13,
+        509,
+        2729,
         309,
         439,
+        11,
         457,
         286,
         528,
         544,
         13,
-        51514
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.15091551267183745,
-      "compression_ratio": 1.4623655913978495,
-      "no_speech_prob": 0.602285623550415,
-      "confidence": 0.892,
-      "words": [
-        {
-          "text": "Through",
-          "start": 71.72,
-          "end": 72.08,
-          "confidence": 0.814
-        },
-        {
-          "text": "the",
-          "start": 72.08,
-          "end": 72.34,
-          "confidence": 0.995
-        },
-        {
-          "text": "storm",
-          "start": 72.34,
-          "end": 72.94,
-          "confidence": 0.898
-        },
-        {
-          "text": "we",
-          "start": 72.94,
-          "end": 73.62,
-          "confidence": 0.51
-        },
-        {
-          "text": "reach",
-          "start": 73.62,
-          "end": 74.0,
-          "confidence": 0.969
-        },
-        {
-          "text": "the",
-          "start": 74.0,
-          "end": 74.4,
-          "confidence": 0.985
-        },
-        {
-          "text": "shore,",
-          "start": 74.4,
-          "end": 75.12,
-          "confidence": 0.999
-        },
-        {
-          "text": "you",
-          "start": 75.76,
-          "end": 75.92,
-          "confidence": 0.919
-        },
-        {
-          "text": "give",
-          "start": 75.92,
-          "end": 76.3,
-          "confidence": 0.893
-        },
-        {
-          "text": "it",
-          "start": 76.3,
-          "end": 76.7,
-          "confidence": 0.995
-        },
-        {
-          "text": "all",
-          "start": 76.7,
-          "end": 77.32,
-          "confidence": 0.99
-        },
-        {
-          "text": "but",
-          "start": 77.32,
-          "end": 77.84,
-          "confidence": 0.704
-        },
-        {
-          "text": "I",
-          "start": 77.84,
-          "end": 78.26,
-          "confidence": 0.985
-        },
-        {
-          "text": "want",
-          "start": 78.26,
-          "end": 78.78,
-          "confidence": 0.917
-        },
-        {
-          "text": "more.",
-          "start": 78.78,
-          "end": 79.48,
-          "confidence": 0.994
-        }
-      ]
-    },
-    {
-      "id": 5,
-      "seek": 4500,
-      "start": 80.64,
-      "end": 122.96,
-      "text": " And I'm waiting for you, with or without you, with or without you.",
-      "tokens": [
-        50364,
         400,
         286,
         478,
         3806,
         337,
         291,
-        11,
-        365,
-        420,
-        1553,
-        291,
-        11,
-        365,
-        420,
-        1553,
-        291,
         13,
         51464
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.1440861565726144,
-      "compression_ratio": 1.4042553191489362,
-      "no_speech_prob": 0.24652403593063354,
-      "confidence": 0.957,
+      "avg_logprob": -0.10672217607498169,
+      "compression_ratio": 1.2962962962962963,
+      "no_speech_prob": 0.029936261475086212,
+      "confidence": 0.93,
       "words": [
         {
+          "text": "With",
+          "start": 60.61,
+          "end": 61.15,
+          "confidence": 0.585
+        },
+        {
+          "text": "or",
+          "start": 61.15,
+          "end": 61.43,
+          "confidence": 0.996
+        },
+        {
+          "text": "without",
+          "start": 61.43,
+          "end": 62.01,
+          "confidence": 0.995
+        },
+        {
+          "text": "you.",
+          "start": 62.01,
+          "end": 63.29,
+          "confidence": 0.998
+        },
+        {
+          "text": "With",
+          "start": 65.08,
+          "end": 65.48,
+          "confidence": 0.9
+        },
+        {
+          "text": "or",
+          "start": 65.48,
+          "end": 65.9,
+          "confidence": 0.998
+        },
+        {
+          "text": "without",
+          "start": 65.9,
+          "end": 67.38,
+          "confidence": 0.993
+        },
+        {
+          "text": "you.",
+          "start": 67.38,
+          "end": 67.98,
+          "confidence": 0.997
+        },
+        {
+          "text": "Through",
+          "start": 71.92,
+          "end": 72.48,
+          "confidence": 0.667
+        },
+        {
+          "text": "the",
+          "start": 72.48,
+          "end": 72.5,
+          "confidence": 0.999
+        },
+        {
+          "text": "storm",
+          "start": 72.5,
+          "end": 73.2,
+          "confidence": 0.998
+        },
+        {
+          "text": "we",
+          "start": 73.2,
+          "end": 73.66,
+          "confidence": 0.878
+        },
+        {
+          "text": "reached",
+          "start": 73.66,
+          "end": 74.14,
+          "confidence": 0.506
+        },
+        {
+          "text": "the",
+          "start": 74.14,
+          "end": 74.6,
+          "confidence": 0.999
+        },
+        {
+          "text": "shore.",
+          "start": 74.6,
+          "end": 75.18,
+          "confidence": 0.997
+        },
+        {
+          "text": "You",
+          "start": 76.02,
+          "end": 76.04,
+          "confidence": 0.956
+        },
+        {
+          "text": "gave",
+          "start": 76.04,
+          "end": 76.46,
+          "confidence": 0.961
+        },
+        {
+          "text": "it",
+          "start": 76.46,
+          "end": 76.84,
+          "confidence": 0.987
+        },
+        {
+          "text": "all,",
+          "start": 76.84,
+          "end": 77.84,
+          "confidence": 0.995
+        },
+        {
+          "text": "but",
+          "start": 77.92,
+          "end": 77.94,
+          "confidence": 0.979
+        },
+        {
+          "text": "I",
+          "start": 77.94,
+          "end": 78.48,
+          "confidence": 0.997
+        },
+        {
+          "text": "want",
+          "start": 78.48,
+          "end": 79.54,
+          "confidence": 0.986
+        },
+        {
+          "text": "more.",
+          "start": 79.54,
+          "end": 79.56,
+          "confidence": 0.994
+        },
+        {
           "text": "And",
-          "start": 80.64,
-          "end": 80.94,
-          "confidence": 0.955
+          "start": 80.6,
+          "end": 80.98,
+          "confidence": 0.921
         },
         {
           "text": "I'm",
-          "start": 80.94,
+          "start": 80.98,
           "end": 81.22,
-          "confidence": 0.846
+          "confidence": 0.966
         },
         {
           "text": "waiting",
           "start": 81.22,
-          "end": 81.88,
-          "confidence": 0.944
+          "end": 83.0,
+          "confidence": 0.993
         },
         {
           "text": "for",
-          "start": 81.88,
-          "end": 83.6,
-          "confidence": 0.987
-        },
-        {
-          "text": "you,",
-          "start": 83.6,
-          "end": 84.24,
-          "confidence": 0.998
-        },
-        {
-          "text": "with",
-          "start": 86.7,
-          "end": 87.12,
-          "confidence": 0.956
-        },
-        {
-          "text": "or",
-          "start": 87.12,
-          "end": 87.48,
-          "confidence": 0.999
-        },
-        {
-          "text": "without",
-          "start": 87.48,
-          "end": 88.1,
-          "confidence": 0.999
-        },
-        {
-          "text": "you,",
-          "start": 88.1,
-          "end": 88.82,
-          "confidence": 0.999
-        },
-        {
-          "text": "with",
-          "start": 91.04,
-          "end": 91.46,
-          "confidence": 0.982
-        },
-        {
-          "text": "or",
-          "start": 91.46,
-          "end": 91.96,
-          "confidence": 0.997
-        },
-        {
-          "text": "without",
-          "start": 91.96,
-          "end": 92.66,
-          "confidence": 0.98
+          "start": 83.0,
+          "end": 83.88,
+          "confidence": 0.973
         },
         {
           "text": "you.",
-          "start": 114.73,
-          "end": 122.96,
-          "confidence": 0.928
+          "start": 83.88,
+          "end": 84.6,
+          "confidence": 0.992
         }
       ]
     },
     {
-      "id": 6,
-      "seek": 6700,
-      "start": 132.27,
-      "end": 140.31,
-      "text": " My hands are tied, my body bruised, she got me with.",
+      "id": 3,
+      "seek": 5700,
+      "start": 117.69,
+      "end": 129.35,
+      "text": " And you give yourself away. And you give yourself away.",
       "tokens": [
-        50364,
-        1222,
-        2377,
-        366,
-        9601,
-        11,
-        452,
-        1772,
-        25267,
-        2640,
-        11,
-        750,
-        658,
-        385,
-        365,
-        13,
-        50764
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.22301117209501045,
-      "compression_ratio": 1.3867924528301887,
-      "no_speech_prob": 0.6051956415176392,
-      "confidence": 0.847,
-      "words": [
-        {
-          "text": "My",
-          "start": 132.27,
-          "end": 132.53,
-          "confidence": 0.874
-        },
-        {
-          "text": "hands",
-          "start": 132.53,
-          "end": 132.83,
-          "confidence": 0.989
-        },
-        {
-          "text": "are",
-          "start": 132.83,
-          "end": 133.21,
-          "confidence": 0.974
-        },
-        {
-          "text": "tied,",
-          "start": 133.21,
-          "end": 133.95,
-          "confidence": 0.824
-        },
-        {
-          "text": "my",
-          "start": 136.57,
-          "end": 136.79,
-          "confidence": 0.482
-        },
-        {
-          "text": "body",
-          "start": 136.79,
-          "end": 137.39,
-          "confidence": 0.997
-        },
-        {
-          "text": "bruised,",
-          "start": 137.39,
-          "end": 138.39,
-          "confidence": 0.849
-        },
-        {
-          "text": "she",
-          "start": 138.51,
-          "end": 138.73,
-          "confidence": 0.976
-        },
-        {
-          "text": "got",
-          "start": 138.73,
-          "end": 139.15,
-          "confidence": 0.981
-        },
-        {
-          "text": "me",
-          "start": 139.15,
-          "end": 139.65,
-          "confidence": 0.995
-        },
-        {
-          "text": "with.",
-          "start": 139.65,
-          "end": 140.31,
-          "confidence": 0.592
-        }
-      ]
-    },
-    {
-      "id": 7,
-      "seek": 6700,
-      "start": 141.03,
-      "end": 147.47,
-      "text": " Nothing went and nothing left to lose.",
-      "tokens": [
-        50764,
-        6693,
-        1437,
-        293,
-        1825,
-        1411,
-        281,
-        3624,
-        13,
-        51114
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.22301117209501045,
-      "compression_ratio": 1.3867924528301887,
-      "no_speech_prob": 0.6051956415176392,
-      "confidence": 0.838,
-      "words": [
-        {
-          "text": "Nothing",
-          "start": 141.03,
-          "end": 141.67,
-          "confidence": 0.859
-        },
-        {
-          "text": "went",
-          "start": 141.67,
-          "end": 142.49,
-          "confidence": 0.535
-        },
-        {
-          "text": "and",
-          "start": 142.49,
-          "end": 143.61,
-          "confidence": 0.721
-        },
-        {
-          "text": "nothing",
-          "start": 143.61,
-          "end": 145.01,
-          "confidence": 0.895
-        },
-        {
-          "text": "left",
-          "start": 145.01,
-          "end": 145.99,
-          "confidence": 0.996
-        },
-        {
-          "text": "to",
-          "start": 145.99,
-          "end": 146.53,
-          "confidence": 0.998
-        },
-        {
-          "text": "lose.",
-          "start": 146.53,
-          "end": 147.47,
-          "confidence": 0.98
-        }
-      ]
-    },
-    {
-      "id": 8,
-      "seek": 6700,
-      "start": 148.11,
-      "end": 155.75,
-      "text": " And you give yourself away, and you give yourself away.",
-      "tokens": [
-        51114,
+        50414,
         400,
         291,
         976,
         1803,
         1314,
-        11,
-        293,
+        13,
+        400,
         291,
         976,
         1803,
         1314,
         13,
-        51514
+        50814
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.22301117209501045,
-      "compression_ratio": 1.3867924528301887,
-      "no_speech_prob": 0.6051956415176392,
-      "confidence": 0.891,
+      "avg_logprob": -0.0888416608174642,
+      "compression_ratio": 1.4864864864864864,
+      "no_speech_prob": 0.060045287013053894,
+      "confidence": 0.976,
       "words": [
         {
           "text": "And",
-          "start": 148.11,
-          "end": 148.39,
-          "confidence": 0.744
+          "start": 117.69,
+          "end": 118.01,
+          "confidence": 0.901
         },
         {
           "text": "you",
-          "start": 148.39,
-          "end": 148.67,
-          "confidence": 0.991
+          "start": 118.01,
+          "end": 118.17,
+          "confidence": 0.989
         },
         {
           "text": "give",
-          "start": 148.67,
-          "end": 149.35,
-          "confidence": 0.512
+          "start": 118.17,
+          "end": 119.21,
+          "confidence": 0.981
         },
         {
           "text": "yourself",
-          "start": 149.35,
-          "end": 150.37,
-          "confidence": 0.987
-        },
-        {
-          "text": "away,",
-          "start": 150.37,
-          "end": 151.23,
-          "confidence": 0.94
-        },
-        {
-          "text": "and",
-          "start": 152.37,
-          "end": 152.75,
-          "confidence": 0.936
-        },
-        {
-          "text": "you",
-          "start": 152.75,
-          "end": 152.99,
-          "confidence": 0.992
-        },
-        {
-          "text": "give",
-          "start": 152.99,
-          "end": 153.69,
-          "confidence": 0.997
-        },
-        {
-          "text": "yourself",
-          "start": 153.69,
-          "end": 154.69,
-          "confidence": 0.991
+          "start": 119.21,
+          "end": 120.17,
+          "confidence": 0.976
         },
         {
           "text": "away.",
-          "start": 154.69,
-          "end": 155.75,
-          "confidence": 0.986
+          "start": 120.17,
+          "end": 120.59,
+          "confidence": 0.996
+        },
+        {
+          "text": "And",
+          "start": 121.53,
+          "end": 122.25,
+          "confidence": 0.958
+        },
+        {
+          "text": "you",
+          "start": 122.25,
+          "end": 122.49,
+          "confidence": 0.997
+        },
+        {
+          "text": "give",
+          "start": 122.49,
+          "end": 122.96,
+          "confidence": 0.99
+        },
+        {
+          "text": "yourself",
+          "start": 127.95,
+          "end": 128.81,
+          "confidence": 0.982
+        },
+        {
+          "text": "away.",
+          "start": 128.81,
+          "end": 129.35,
+          "confidence": 0.999
         }
       ]
     },
     {
-      "id": 9,
-      "seek": 9000,
-      "start": 156.85,
-      "end": 201.89,
-      "text": " And you give yourself away, with or without you.",
+      "id": 4,
+      "seek": 8700,
+      "start": 161.55,
+      "end": 232.04,
+      "text": " With or without you. Without you. Without you. Without you. Without you. Without you. Without you. Without you. Without you. Without you. Without you. Without you. Without you. Without you. Without you. Without you. Without you. Without you. Without you. Without you. Without you. Without you. Without you. Without you. Without you. Without you. Without you. Without you. Without you. Without you. Without you. Without you. Without you. Without you. Without you. Without you. Without you. Without you. Without you. Without you. Without you. Without you. Without you. Without you. Without you. Without you. Without you. Without you. Without you. Without you. Without you. Without you. Without you. Without you. Without you. Without you. Without you. Without you. Without you. Without you. Without you. Without you. Without you. Without you. Without you. Without you. Without you. Without you. Without you. Without you. Without you. Without you. Without you. Without you",
       "tokens": [
-        50364,
-        400,
-        291,
-        976,
-        1803,
-        1314,
-        11,
-        365,
+        50414,
+        2022,
         420,
         1553,
         291,
         13,
-        50914
+        9129,
+        291,
+        13,
+        9129,
+        291,
+        13,
+        9129,
+        291,
+        13,
+        9129,
+        291,
+        13,
+        9129,
+        291,
+        13,
+        9129,
+        291,
+        13,
+        9129,
+        291,
+        13,
+        9129,
+        291,
+        13,
+        9129,
+        291,
+        13,
+        9129,
+        291,
+        13,
+        9129,
+        291,
+        13,
+        9129,
+        291,
+        13,
+        9129,
+        291,
+        13,
+        9129,
+        291,
+        13,
+        9129,
+        291,
+        13,
+        9129,
+        291,
+        13,
+        9129,
+        291,
+        13,
+        9129,
+        291,
+        13,
+        9129,
+        291,
+        13,
+        9129,
+        291,
+        13,
+        9129,
+        291,
+        13,
+        9129,
+        291,
+        13,
+        9129,
+        291,
+        13,
+        9129,
+        291,
+        13,
+        9129,
+        291,
+        13,
+        9129,
+        291,
+        13,
+        9129,
+        291,
+        13,
+        9129,
+        291,
+        13,
+        9129,
+        291,
+        13,
+        9129,
+        291,
+        13,
+        9129,
+        291,
+        13,
+        9129,
+        291,
+        13,
+        9129,
+        291,
+        13,
+        9129,
+        291,
+        13,
+        9129,
+        291,
+        13,
+        9129,
+        291,
+        13,
+        9129,
+        291,
+        13,
+        9129,
+        291,
+        13,
+        9129,
+        291,
+        13,
+        9129,
+        291,
+        13,
+        9129,
+        291,
+        13,
+        9129,
+        291,
+        13,
+        9129,
+        291,
+        13,
+        9129,
+        291,
+        13,
+        9129,
+        291,
+        13,
+        9129,
+        291,
+        13,
+        9129,
+        291,
+        13,
+        9129,
+        291,
+        13,
+        9129,
+        291,
+        13,
+        9129,
+        291,
+        13,
+        9129,
+        291,
+        13,
+        9129,
+        291,
+        13,
+        9129,
+        291,
+        13,
+        9129,
+        291,
+        13,
+        9129,
+        291,
+        13,
+        9129,
+        291,
+        13,
+        9129,
+        291,
+        13,
+        9129,
+        291,
+        13,
+        9129,
+        291,
+        13,
+        9129,
+        291,
+        13,
+        9129,
+        291,
+        13,
+        9129,
+        291,
+        13,
+        9129,
+        291,
+        13,
+        9129,
+        291,
+        13,
+        9129,
+        291,
+        13,
+        9129,
+        291,
+        13,
+        9129,
+        291,
+        13,
+        9129,
+        291,
+        13,
+        9129,
+        291,
+        13,
+        9129,
+        291,
+        13,
+        9129,
+        291,
+        13,
+        9129,
+        291,
+        13,
+        9129,
+        291
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.16171586513519287,
-      "compression_ratio": 1.0,
-      "no_speech_prob": 0.5891926884651184,
-      "confidence": 0.936,
+      "avg_logprob": -0.04242301093207465,
+      "compression_ratio": 26.88888888888889,
+      "no_speech_prob": 0.01114500593394041,
+      "confidence": 0.943,
       "words": [
         {
-          "text": "And",
-          "start": 156.85,
-          "end": 157.11,
-          "confidence": 0.966
-        },
-        {
-          "text": "you",
-          "start": 157.11,
-          "end": 157.35,
-          "confidence": 0.997
-        },
-        {
-          "text": "give",
-          "start": 157.35,
-          "end": 157.73,
-          "confidence": 0.992
-        },
-        {
-          "text": "yourself",
+          "text": "With",
           "start": 161.55,
-          "end": 163.23,
-          "confidence": 0.713
-        },
-        {
-          "text": "away,",
-          "start": 163.23,
-          "end": 164.41,
-          "confidence": 0.993
-        },
-        {
-          "text": "with",
-          "start": 165.27,
-          "end": 165.53,
-          "confidence": 0.823
+          "end": 165.61,
+          "confidence": 0.66
         },
         {
           "text": "or",
-          "start": 165.53,
-          "end": 165.93,
-          "confidence": 0.997
+          "start": 165.61,
+          "end": 166.27,
+          "confidence": 0.993
         },
         {
           "text": "without",
-          "start": 165.93,
-          "end": 166.35,
-          "confidence": 0.999
+          "start": 166.27,
+          "end": 166.45,
+          "confidence": 0.996
         },
         {
           "text": "you.",
-          "start": 200.56,
-          "end": 201.89,
-          "confidence": 0.999
+          "start": 166.45,
+          "end": 167.06,
+          "confidence": 0.995
+        },
+        {
+          "text": "Without",
+          "start": 201.57,
+          "end": 202.48,
+          "confidence": 0.657
+        },
+        {
+          "text": "you.",
+          "start": 215.7,
+          "end": 215.72,
+          "confidence": 0.996
+        },
+        {
+          "text": "Without",
+          "start": 215.72,
+          "end": 216.28,
+          "confidence": 0.8
+        },
+        {
+          "text": "you.",
+          "start": 216.28,
+          "end": 216.32,
+          "confidence": 0.987
+        },
+        {
+          "text": "Without",
+          "start": 216.68,
+          "end": 217.08,
+          "confidence": 0.532
+        },
+        {
+          "text": "you.",
+          "start": 217.08,
+          "end": 217.1,
+          "confidence": 0.974
+        },
+        {
+          "text": "Without",
+          "start": 217.1,
+          "end": 217.12,
+          "confidence": 0.648
+        },
+        {
+          "text": "you.",
+          "start": 217.12,
+          "end": 217.14,
+          "confidence": 0.983
+        },
+        {
+          "text": "Without",
+          "start": 217.14,
+          "end": 217.16,
+          "confidence": 0.675
+        },
+        {
+          "text": "you.",
+          "start": 217.16,
+          "end": 217.18,
+          "confidence": 0.987
+        },
+        {
+          "text": "Without",
+          "start": 217.18,
+          "end": 217.2,
+          "confidence": 0.705
+        },
+        {
+          "text": "you.",
+          "start": 217.2,
+          "end": 217.22,
+          "confidence": 0.988
+        },
+        {
+          "text": "Without",
+          "start": 217.22,
+          "end": 217.24,
+          "confidence": 0.758
+        },
+        {
+          "text": "you.",
+          "start": 217.24,
+          "end": 217.26,
+          "confidence": 0.989
+        },
+        {
+          "text": "Without",
+          "start": 217.26,
+          "end": 217.28,
+          "confidence": 0.782
+        },
+        {
+          "text": "you.",
+          "start": 217.28,
+          "end": 217.3,
+          "confidence": 0.99
+        },
+        {
+          "text": "Without",
+          "start": 217.3,
+          "end": 217.32,
+          "confidence": 0.797
+        },
+        {
+          "text": "you.",
+          "start": 217.32,
+          "end": 217.34,
+          "confidence": 0.99
+        },
+        {
+          "text": "Without",
+          "start": 217.34,
+          "end": 217.36,
+          "confidence": 0.814
+        },
+        {
+          "text": "you.",
+          "start": 217.36,
+          "end": 217.38,
+          "confidence": 0.991
+        },
+        {
+          "text": "Without",
+          "start": 217.38,
+          "end": 217.4,
+          "confidence": 0.829
+        },
+        {
+          "text": "you.",
+          "start": 217.4,
+          "end": 217.42,
+          "confidence": 0.991
+        },
+        {
+          "text": "Without",
+          "start": 217.42,
+          "end": 217.44,
+          "confidence": 0.843
+        },
+        {
+          "text": "you.",
+          "start": 217.44,
+          "end": 217.46,
+          "confidence": 0.991
+        },
+        {
+          "text": "Without",
+          "start": 217.46,
+          "end": 217.48,
+          "confidence": 0.857
+        },
+        {
+          "text": "you.",
+          "start": 217.48,
+          "end": 217.5,
+          "confidence": 0.992
+        },
+        {
+          "text": "Without",
+          "start": 217.5,
+          "end": 217.52,
+          "confidence": 0.868
+        },
+        {
+          "text": "you.",
+          "start": 217.52,
+          "end": 217.54,
+          "confidence": 0.992
+        },
+        {
+          "text": "Without",
+          "start": 217.54,
+          "end": 217.56,
+          "confidence": 0.875
+        },
+        {
+          "text": "you.",
+          "start": 217.56,
+          "end": 217.58,
+          "confidence": 0.993
+        },
+        {
+          "text": "Without",
+          "start": 217.58,
+          "end": 217.6,
+          "confidence": 0.883
+        },
+        {
+          "text": "you.",
+          "start": 217.6,
+          "end": 217.62,
+          "confidence": 0.993
+        },
+        {
+          "text": "Without",
+          "start": 217.62,
+          "end": 217.64,
+          "confidence": 0.887
+        },
+        {
+          "text": "you.",
+          "start": 217.64,
+          "end": 217.66,
+          "confidence": 0.994
+        },
+        {
+          "text": "Without",
+          "start": 217.66,
+          "end": 217.68,
+          "confidence": 0.889
+        },
+        {
+          "text": "you.",
+          "start": 217.68,
+          "end": 217.7,
+          "confidence": 0.994
+        },
+        {
+          "text": "Without",
+          "start": 217.7,
+          "end": 217.72,
+          "confidence": 0.893
+        },
+        {
+          "text": "you.",
+          "start": 217.72,
+          "end": 217.74,
+          "confidence": 0.994
+        },
+        {
+          "text": "Without",
+          "start": 217.74,
+          "end": 217.76,
+          "confidence": 0.896
+        },
+        {
+          "text": "you.",
+          "start": 217.76,
+          "end": 217.78,
+          "confidence": 0.995
+        },
+        {
+          "text": "Without",
+          "start": 217.78,
+          "end": 217.8,
+          "confidence": 0.898
+        },
+        {
+          "text": "you.",
+          "start": 217.8,
+          "end": 217.82,
+          "confidence": 0.995
+        },
+        {
+          "text": "Without",
+          "start": 217.82,
+          "end": 217.84,
+          "confidence": 0.904
+        },
+        {
+          "text": "you.",
+          "start": 217.84,
+          "end": 217.86,
+          "confidence": 0.995
+        },
+        {
+          "text": "Without",
+          "start": 217.86,
+          "end": 217.88,
+          "confidence": 0.905
+        },
+        {
+          "text": "you.",
+          "start": 217.88,
+          "end": 217.9,
+          "confidence": 0.995
+        },
+        {
+          "text": "Without",
+          "start": 217.9,
+          "end": 217.92,
+          "confidence": 0.908
+        },
+        {
+          "text": "you.",
+          "start": 217.92,
+          "end": 217.94,
+          "confidence": 0.995
+        },
+        {
+          "text": "Without",
+          "start": 217.94,
+          "end": 217.96,
+          "confidence": 0.912
+        },
+        {
+          "text": "you.",
+          "start": 217.96,
+          "end": 217.98,
+          "confidence": 0.995
+        },
+        {
+          "text": "Without",
+          "start": 217.98,
+          "end": 218.0,
+          "confidence": 0.915
+        },
+        {
+          "text": "you.",
+          "start": 218.0,
+          "end": 218.02,
+          "confidence": 0.996
+        },
+        {
+          "text": "Without",
+          "start": 218.02,
+          "end": 218.04,
+          "confidence": 0.92
+        },
+        {
+          "text": "you.",
+          "start": 218.04,
+          "end": 218.06,
+          "confidence": 0.996
+        },
+        {
+          "text": "Without",
+          "start": 218.06,
+          "end": 218.08,
+          "confidence": 0.924
+        },
+        {
+          "text": "you.",
+          "start": 218.08,
+          "end": 218.1,
+          "confidence": 0.996
+        },
+        {
+          "text": "Without",
+          "start": 218.1,
+          "end": 218.12,
+          "confidence": 0.927
+        },
+        {
+          "text": "you.",
+          "start": 218.12,
+          "end": 218.14,
+          "confidence": 0.996
+        },
+        {
+          "text": "Without",
+          "start": 218.14,
+          "end": 218.16,
+          "confidence": 0.929
+        },
+        {
+          "text": "you.",
+          "start": 218.16,
+          "end": 218.18,
+          "confidence": 0.996
+        },
+        {
+          "text": "Without",
+          "start": 218.18,
+          "end": 218.2,
+          "confidence": 0.931
+        },
+        {
+          "text": "you.",
+          "start": 218.2,
+          "end": 218.22,
+          "confidence": 0.996
+        },
+        {
+          "text": "Without",
+          "start": 218.22,
+          "end": 218.24,
+          "confidence": 0.935
+        },
+        {
+          "text": "you.",
+          "start": 218.24,
+          "end": 218.26,
+          "confidence": 0.996
+        },
+        {
+          "text": "Without",
+          "start": 218.26,
+          "end": 218.28,
+          "confidence": 0.937
+        },
+        {
+          "text": "you.",
+          "start": 218.28,
+          "end": 218.3,
+          "confidence": 0.996
+        },
+        {
+          "text": "Without",
+          "start": 218.3,
+          "end": 218.32,
+          "confidence": 0.938
+        },
+        {
+          "text": "you.",
+          "start": 218.32,
+          "end": 218.34,
+          "confidence": 0.996
+        },
+        {
+          "text": "Without",
+          "start": 218.34,
+          "end": 218.36,
+          "confidence": 0.936
+        },
+        {
+          "text": "you.",
+          "start": 218.36,
+          "end": 218.38,
+          "confidence": 0.997
+        },
+        {
+          "text": "Without",
+          "start": 218.38,
+          "end": 218.4,
+          "confidence": 0.94
+        },
+        {
+          "text": "you.",
+          "start": 218.4,
+          "end": 218.42,
+          "confidence": 0.997
+        },
+        {
+          "text": "Without",
+          "start": 218.42,
+          "end": 218.44,
+          "confidence": 0.942
+        },
+        {
+          "text": "you.",
+          "start": 218.44,
+          "end": 218.46,
+          "confidence": 0.997
+        },
+        {
+          "text": "Without",
+          "start": 218.46,
+          "end": 218.48,
+          "confidence": 0.94
+        },
+        {
+          "text": "you.",
+          "start": 218.48,
+          "end": 218.5,
+          "confidence": 0.997
+        },
+        {
+          "text": "Without",
+          "start": 218.5,
+          "end": 218.52,
+          "confidence": 0.94
+        },
+        {
+          "text": "you.",
+          "start": 218.52,
+          "end": 218.54,
+          "confidence": 0.997
+        },
+        {
+          "text": "Without",
+          "start": 218.54,
+          "end": 218.56,
+          "confidence": 0.941
+        },
+        {
+          "text": "you.",
+          "start": 218.56,
+          "end": 218.58,
+          "confidence": 0.997
+        },
+        {
+          "text": "Without",
+          "start": 218.58,
+          "end": 218.6,
+          "confidence": 0.942
+        },
+        {
+          "text": "you.",
+          "start": 218.6,
+          "end": 218.62,
+          "confidence": 0.997
+        },
+        {
+          "text": "Without",
+          "start": 218.62,
+          "end": 218.64,
+          "confidence": 0.942
+        },
+        {
+          "text": "you.",
+          "start": 218.64,
+          "end": 218.66,
+          "confidence": 0.997
+        },
+        {
+          "text": "Without",
+          "start": 218.66,
+          "end": 218.68,
+          "confidence": 0.942
+        },
+        {
+          "text": "you.",
+          "start": 218.68,
+          "end": 218.7,
+          "confidence": 0.997
+        },
+        {
+          "text": "Without",
+          "start": 218.7,
+          "end": 218.72,
+          "confidence": 0.942
+        },
+        {
+          "text": "you.",
+          "start": 218.72,
+          "end": 218.74,
+          "confidence": 0.997
+        },
+        {
+          "text": "Without",
+          "start": 218.74,
+          "end": 218.76,
+          "confidence": 0.942
+        },
+        {
+          "text": "you.",
+          "start": 218.76,
+          "end": 218.78,
+          "confidence": 0.997
+        },
+        {
+          "text": "Without",
+          "start": 218.78,
+          "end": 218.8,
+          "confidence": 0.941
+        },
+        {
+          "text": "you.",
+          "start": 218.8,
+          "end": 218.82,
+          "confidence": 0.997
+        },
+        {
+          "text": "Without",
+          "start": 218.82,
+          "end": 218.84,
+          "confidence": 0.94
+        },
+        {
+          "text": "you.",
+          "start": 218.84,
+          "end": 218.86,
+          "confidence": 0.997
+        },
+        {
+          "text": "Without",
+          "start": 218.86,
+          "end": 218.88,
+          "confidence": 0.94
+        },
+        {
+          "text": "you.",
+          "start": 218.88,
+          "end": 218.9,
+          "confidence": 0.997
+        },
+        {
+          "text": "Without",
+          "start": 218.9,
+          "end": 218.92,
+          "confidence": 0.939
+        },
+        {
+          "text": "you.",
+          "start": 218.92,
+          "end": 218.94,
+          "confidence": 0.997
+        },
+        {
+          "text": "Without",
+          "start": 218.94,
+          "end": 218.96,
+          "confidence": 0.939
+        },
+        {
+          "text": "you.",
+          "start": 218.96,
+          "end": 218.98,
+          "confidence": 0.997
+        },
+        {
+          "text": "Without",
+          "start": 218.98,
+          "end": 219.0,
+          "confidence": 0.939
+        },
+        {
+          "text": "you.",
+          "start": 219.0,
+          "end": 219.02,
+          "confidence": 0.997
+        },
+        {
+          "text": "Without",
+          "start": 219.02,
+          "end": 219.04,
+          "confidence": 0.94
+        },
+        {
+          "text": "you.",
+          "start": 219.04,
+          "end": 219.06,
+          "confidence": 0.997
+        },
+        {
+          "text": "Without",
+          "start": 219.06,
+          "end": 219.08,
+          "confidence": 0.94
+        },
+        {
+          "text": "you.",
+          "start": 219.08,
+          "end": 219.1,
+          "confidence": 0.997
+        },
+        {
+          "text": "Without",
+          "start": 219.1,
+          "end": 219.12,
+          "confidence": 0.94
+        },
+        {
+          "text": "you.",
+          "start": 219.12,
+          "end": 219.14,
+          "confidence": 0.997
+        },
+        {
+          "text": "Without",
+          "start": 219.14,
+          "end": 219.16,
+          "confidence": 0.942
+        },
+        {
+          "text": "you.",
+          "start": 219.16,
+          "end": 219.18,
+          "confidence": 0.997
+        },
+        {
+          "text": "Without",
+          "start": 219.18,
+          "end": 219.2,
+          "confidence": 0.943
+        },
+        {
+          "text": "you.",
+          "start": 219.2,
+          "end": 219.22,
+          "confidence": 0.997
+        },
+        {
+          "text": "Without",
+          "start": 219.22,
+          "end": 219.24,
+          "confidence": 0.944
+        },
+        {
+          "text": "you.",
+          "start": 219.24,
+          "end": 219.26,
+          "confidence": 0.997
+        },
+        {
+          "text": "Without",
+          "start": 219.26,
+          "end": 219.28,
+          "confidence": 0.945
+        },
+        {
+          "text": "you.",
+          "start": 219.28,
+          "end": 219.3,
+          "confidence": 0.997
+        },
+        {
+          "text": "Without",
+          "start": 219.3,
+          "end": 219.32,
+          "confidence": 0.946
+        },
+        {
+          "text": "you.",
+          "start": 219.32,
+          "end": 219.34,
+          "confidence": 0.997
+        },
+        {
+          "text": "Without",
+          "start": 219.34,
+          "end": 219.36,
+          "confidence": 0.947
+        },
+        {
+          "text": "you.",
+          "start": 219.36,
+          "end": 219.38,
+          "confidence": 0.997
+        },
+        {
+          "text": "Without",
+          "start": 219.38,
+          "end": 219.4,
+          "confidence": 0.949
+        },
+        {
+          "text": "you.",
+          "start": 219.4,
+          "end": 219.42,
+          "confidence": 0.997
+        },
+        {
+          "text": "Without",
+          "start": 219.42,
+          "end": 219.44,
+          "confidence": 0.95
+        },
+        {
+          "text": "you.",
+          "start": 219.44,
+          "end": 219.46,
+          "confidence": 0.997
+        },
+        {
+          "text": "Without",
+          "start": 219.46,
+          "end": 219.48,
+          "confidence": 0.952
+        },
+        {
+          "text": "you.",
+          "start": 219.48,
+          "end": 219.5,
+          "confidence": 0.997
+        },
+        {
+          "text": "Without",
+          "start": 219.5,
+          "end": 219.52,
+          "confidence": 0.953
+        },
+        {
+          "text": "you.",
+          "start": 219.52,
+          "end": 219.54,
+          "confidence": 0.997
+        },
+        {
+          "text": "Without",
+          "start": 219.54,
+          "end": 219.56,
+          "confidence": 0.955
+        },
+        {
+          "text": "you.",
+          "start": 219.56,
+          "end": 219.58,
+          "confidence": 0.997
+        },
+        {
+          "text": "Without",
+          "start": 219.58,
+          "end": 219.6,
+          "confidence": 0.956
+        },
+        {
+          "text": "you.",
+          "start": 219.6,
+          "end": 219.62,
+          "confidence": 0.997
+        },
+        {
+          "text": "Without",
+          "start": 219.62,
+          "end": 219.64,
+          "confidence": 0.957
+        },
+        {
+          "text": "you.",
+          "start": 219.64,
+          "end": 219.66,
+          "confidence": 0.997
+        },
+        {
+          "text": "Without",
+          "start": 219.66,
+          "end": 219.68,
+          "confidence": 0.959
+        },
+        {
+          "text": "you.",
+          "start": 219.68,
+          "end": 219.7,
+          "confidence": 0.997
+        },
+        {
+          "text": "Without",
+          "start": 219.7,
+          "end": 219.72,
+          "confidence": 0.96
+        },
+        {
+          "text": "you.",
+          "start": 219.72,
+          "end": 219.74,
+          "confidence": 0.997
+        },
+        {
+          "text": "Without",
+          "start": 219.74,
+          "end": 219.76,
+          "confidence": 0.962
+        },
+        {
+          "text": "you.",
+          "start": 219.76,
+          "end": 219.78,
+          "confidence": 0.997
+        },
+        {
+          "text": "Without",
+          "start": 219.78,
+          "end": 219.8,
+          "confidence": 0.964
+        },
+        {
+          "text": "you.",
+          "start": 219.8,
+          "end": 219.82,
+          "confidence": 0.997
+        },
+        {
+          "text": "Without",
+          "start": 219.82,
+          "end": 219.84,
+          "confidence": 0.966
+        },
+        {
+          "text": "you.",
+          "start": 219.84,
+          "end": 219.86,
+          "confidence": 0.997
+        },
+        {
+          "text": "Without",
+          "start": 219.86,
+          "end": 219.88,
+          "confidence": 0.967
+        },
+        {
+          "text": "you",
+          "start": 219.88,
+          "end": 232.04,
+          "confidence": 0.996
         }
       ]
     }
   ],
-  "language": "en",
+  "language": "no",
   "language_probs": {
-    "en": 0.7591688632965088,
-    "zh": 0.00843360461294651,
-    "de": 0.01480143703520298,
-    "es": 0.010252656415104866,
-    "ru": 0.005115239415317774,
-    "ko": 0.010913894511759281,
-    "fr": 0.009937213733792305,
-    "ja": 0.0021157553419470787,
-    "pt": 0.02087337151169777,
-    "tr": 0.0018965506460517645,
-    "pl": 0.00750100240111351,
-    "ca": 0.0013660341501235962,
-    "nl": 0.00631647789850831,
-    "ar": 0.0018817916279658675,
-    "sv": 0.008701317012310028,
-    "it": 0.005487850867211819,
-    "id": 0.0004986251005902886,
-    "hi": 0.00032446158002130687,
-    "fi": 0.0006303212139755487,
-    "vi": 0.001852617016993463,
-    "he": 0.0001764066837495193,
-    "uk": 0.0003676631022244692,
-    "el": 0.004805322736501694,
-    "ms": 0.001253543421626091,
-    "cs": 0.0007485249661840498,
-    "ro": 0.0005433708429336548,
-    "da": 0.0026537515223026276,
-    "hu": 0.0003219365607947111,
-    "ta": 0.00011039248056476936,
-    "no": 0.0032261412125080824,
-    "th": 0.00020304284407757223,
-    "ur": 0.0002507244353182614,
-    "hr": 0.0002507244353182614,
-    "bg": 0.00014285848010331392,
-    "lt": 3.041632407985162e-05,
-    "la": 0.02853051759302616,
-    "mi": 0.0028249036986380816,
-    "ml": 9.591064736014232e-05,
-    "cy": 0.042496077716350555,
-    "sk": 7.016972813289613e-05,
-    "te": 3.162797656841576e-05,
-    "fa": 3.8449841667898e-05,
-    "lv": 0.00018200642080046237,
-    "bn": 3.755914804060012e-05,
-    "sr": 2.3321006665355526e-05,
-    "az": 9.991135812015273e-06,
-    "sl": 0.0003823091392405331,
-    "kn": 1.8481742927178857e-06,
-    "et": 2.2427593648899347e-05,
-    "mk": 8.446309038845357e-06,
-    "br": 0.0022522094659507275,
-    "eu": 6.643536471528932e-05,
-    "is": 0.001609581639058888,
-    "hy": 5.285564839141443e-06,
-    "ne": 1.781112587195821e-05,
-    "mn": 2.190805935242679e-05,
-    "bs": 9.223636880051345e-05,
-    "kk": 1.4881752576911822e-05,
-    "sq": 0.00010953339369734749,
-    "sw": 8.398217323701829e-05,
-    "gl": 0.0014204507460817695,
-    "mr": 1.8772788052956457e-06,
-    "pa": 2.382390903221676e-06,
-    "si": 0.0001221933343913406,
-    "km": 0.0024162682238966227,
-    "sn": 0.0006303212139755487,
-    "yo": 0.0002487732854206115,
-    "so": 8.01124258487107e-07,
-    "af": 0.00016964864335022867,
-    "oc": 0.0002648178196977824,
-    "ka": 1.5994614841474686e-06,
-    "be": 3.967036900576204e-05,
-    "tg": 5.66889077902033e-08,
-    "sd": 1.6929236153373495e-05,
-    "gu": 2.3773873181198724e-07,
-    "am": 4.0047711991064716e-07,
-    "yi": 0.0008285415824502707,
-    "lo": 6.97493715051678e-06,
-    "uz": 1.580119368682631e-09,
-    "fo": 0.00029774263384751976,
-    "ht": 0.00015326477296184748,
-    "ps": 3.466358066361863e-06,
-    "tk": 1.2075658695209768e-08,
-    "nn": 0.005360725335776806,
-    "mt": 1.3871317605662625e-05,
-    "sa": 0.00017779025074560195,
-    "lb": 1.662928639234451e-07,
-    "my": 0.00013007412781007588,
-    "bo": 4.6379358536796644e-05,
-    "tl": 0.0005875239730812609,
-    "mg": 7.68325580935425e-09,
-    "as": 2.118942120432621e-06,
-    "tt": 1.3180566327264387e-07,
-    "haw": 0.01066107489168644,
-    "ln": 2.5459676180616952e-06,
-    "ha": 1.2008043448474837e-08,
-    "ba": 1.701278762311631e-08,
-    "jw": 0.004207680933177471,
-    "su": 1.4561089756170986e-07
+    "en": 1.045035332936095e-05,
+    "zh": 1.49649736158608e-07,
+    "de": 4.747286766360048e-06,
+    "es": 4.682125620547595e-07,
+    "ru": 8.331749086210039e-06,
+    "ko": 2.647034023084416e-07,
+    "fr": 3.143430546970194e-07,
+    "ja": 3.5342537785254535e-07,
+    "pt": 2.6264345365234476e-07,
+    "tr": 4.654076946053465e-08,
+    "pl": 2.7204120556234557e-07,
+    "ca": 8.679289749125019e-07,
+    "nl": 3.011221849646972e-07,
+    "ar": 2.9877884344386985e-07,
+    "sv": 9.814268508989699e-08,
+    "it": 1.2144510037614964e-06,
+    "id": 6.771642091507601e-08,
+    "hi": 7.028702952993626e-07,
+    "fi": 1.6694632165581424e-07,
+    "vi": 3.198697129391803e-08,
+    "he": 1.1770862329285592e-06,
+    "uk": 4.2554406718409155e-06,
+    "el": 3.473189508440555e-06,
+    "ms": 3.7917007489340904e-07,
+    "cs": 5.560161184803292e-07,
+    "ro": 1.7638312783674337e-05,
+    "da": 5.581923687714152e-07,
+    "hu": 2.8733276735692925e-07,
+    "ta": 2.525817421883403e-07,
+    "no": 0.9998753070831299,
+    "th": 3.980843032991288e-08,
+    "ur": 1.131992803493631e-06,
+    "hr": 2.6677949449549487e-07,
+    "bg": 8.379460041396669e-07,
+    "lt": 3.288349944341462e-06,
+    "la": 8.869100383890327e-06,
+    "mi": 3.7917007489340904e-07,
+    "ml": 1.0905922920301236e-07,
+    "cy": 9.894196409732103e-06,
+    "sk": 3.82833889034373e-08,
+    "te": 7.056212893985503e-07,
+    "fa": 1.6694632165581424e-07,
+    "lv": 8.815968612907454e-07,
+    "bn": 5.305543595568452e-07,
+    "sr": 1.5055163657962112e-06,
+    "az": 1.2309850205838302e-07,
+    "sl": 1.22876656405424e-06,
+    "kn": 1.2024693774037587e-07,
+    "et": 1.7980828204144927e-07,
+    "mk": 2.6161947630498616e-07,
+    "br": 8.089987773018947e-07,
+    "eu": 1.036593388903384e-07,
+    "is": 2.0101279005757533e-06,
+    "hy": 3.8363964449672494e-07,
+    "ne": 3.333118741011276e-07,
+    "mn": 2.5357033450745803e-07,
+    "bs": 2.4481062155246036e-07,
+    "kk": 1.6957535819983605e-07,
+    "sq": 6.095637672842713e-06,
+    "sw": 2.850967462109111e-07,
+    "gl": 1.8697100756526197e-07,
+    "mr": 2.110399321963996e-07,
+    "pa": 5.692016884495388e-07,
+    "si": 1.7601267927602748e-06,
+    "km": 1.4996469417383196e-06,
+    "sn": 1.190961484098807e-06,
+    "yo": 6.130543397375732e-07,
+    "so": 5.191998297959799e-08,
+    "af": 1.844597136368975e-06,
+    "oc": 7.978944438491453e-08,
+    "ka": 2.7790759915546914e-08,
+    "be": 5.941927270214364e-07,
+    "tg": 1.151723072467803e-08,
+    "sd": 7.482015575988044e-07,
+    "gu": 4.246503806371038e-07,
+    "am": 5.45261855222634e-07,
+    "yi": 2.924718955910066e-06,
+    "lo": 3.249068925015308e-08,
+    "uz": 1.0925613302958936e-08,
+    "fo": 6.202808435773477e-07,
+    "ht": 7.511299031648377e-07,
+    "ps": 1.310376660512702e-07,
+    "tk": 6.289985199359194e-10,
+    "nn": 6.537712238241511e-08,
+    "mt": 1.2335758583503775e-06,
+    "sa": 8.217386380238167e-07,
+    "lb": 2.752479701939592e-07,
+    "my": 6.70683562020713e-07,
+    "bo": 9.532335525364033e-07,
+    "tl": 8.728991218731608e-08,
+    "mg": 4.422977095686065e-09,
+    "as": 9.64469904829457e-07,
+    "tt": 3.143430546970194e-07,
+    "haw": 4.1245148167945445e-06,
+    "ln": 1.0124296068170224e-08,
+    "ha": 1.0948608775152024e-07,
+    "ba": 3.0398648043217236e-09,
+    "jw": 9.131417755270377e-07,
+    "su": 2.9124468170493856e-08
   },
   "speech_activity": [
     {

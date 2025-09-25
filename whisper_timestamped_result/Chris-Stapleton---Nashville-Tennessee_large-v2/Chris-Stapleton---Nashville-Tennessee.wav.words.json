@@ -1,15 +1,15 @@
 {
-  "text": " I met you when I had a dream Not so long ago it seems We closed down a million bars Yeah, you and me, we've come so far You showed me how to write a song We wrote some rite, we wrote some wrong I was down and out, you let me in The time she was my only friend So long nights we were in Tennessee You can't have what's left of me And as far as I can tell That's how time I wish you were You built me up, you set me free You tore down my memories So you be you, now be me So long nights we were in Tennessee Now you won't miss me when I'm gone Your custom made for moving on And time to time I'll pass you by A face that I don't recognize And who knows, maybe it's from now You'll be the one I think about But I just can't imagine that Cause I'm not one for looking back So long nights we were in Tennessee You can't have what's left of me And as far as I can tell That's how time I wish you were You built me up, you set me free You tore down my memories So you be you, now be me So long nights we were in Tennessee So long nights we were in Tennessee You can't have what's left of me And as far as I can tell That's how time I wish you were You built me up, you set me free You tore down my memories You're not who you used to be So long nights we were in Tennessee",
+  "text": "I met you when I had a dream not so long ago it seems. We closed down a million bars. Yeah, you and me, we've come so far. You showed me how to write a song. We wrote some right, we wrote some wrong. I was down and out, you let me in. In time you were my only friend. You let me have what's left of me. And as far as I can tell, it's high time I wish you well. You built me up, you set me free. You tore down my memories. So you be you and I'll be me. So long, Nashville, Tennessee. I see you by a face that I don't recognize. Who knows, maybe years from now you'll be the one I think about. I just can't imagine that, I'm not one for looking back. You built me up, you set me free. You tore down my memories. So you be you and I'll be me. So long, Nashville, Tennessee. You tore down my memories. You're not who you used to be. So long, Nashville, Tennessee.",
   "segments": [
     {
       "id": 0,
       "seek": 0,
       "start": 24.49,
-      "end": 27.19,
-      "text": " I met you when I had a dream",
+      "end": 49.79,
+      "text": "I met you when I had a dream not so long ago it seems. We closed down a million bars. Yeah, you and me, we've come so far. You showed me how to write a song. We wrote some right, we wrote some wrong. I was down and out, you let me in. In time you were my only friend.",
       "tokens": [
         50364,
-        286,
+        40,
         1131,
         291,
         562,
@@ -17,192 +17,20 @@
         632,
         257,
         3055,
-        50536
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.321766596968456,
-      "compression_ratio": 1.5775401069518717,
-      "no_speech_prob": 0.22282344102859497,
-      "confidence": 0.974,
-      "words": [
-        {
-          "text": "I",
-          "start": 24.49,
-          "end": 24.83,
-          "confidence": 0.934
-        },
-        {
-          "text": "met",
-          "start": 24.83,
-          "end": 25.17,
-          "confidence": 0.983
-        },
-        {
-          "text": "you",
-          "start": 25.17,
-          "end": 25.67,
-          "confidence": 0.994
-        },
-        {
-          "text": "when",
-          "start": 25.67,
-          "end": 26.11,
-          "confidence": 0.921
-        },
-        {
-          "text": "I",
-          "start": 26.11,
-          "end": 26.39,
-          "confidence": 0.985
-        },
-        {
-          "text": "had",
-          "start": 26.39,
-          "end": 26.69,
-          "confidence": 0.996
-        },
-        {
-          "text": "a",
-          "start": 26.69,
-          "end": 26.81,
-          "confidence": 0.995
-        },
-        {
-          "text": "dream",
-          "start": 26.81,
-          "end": 27.19,
-          "confidence": 0.987
-        }
-      ]
-    },
-    {
-      "id": 1,
-      "seek": 0,
-      "start": 28.09,
-      "end": 30.53,
-      "text": " Not so long ago it seems",
-      "tokens": [
-        50536,
-        1726,
+        406,
         370,
         938,
         2057,
         309,
         2544,
-        50688
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.321766596968456,
-      "compression_ratio": 1.5775401069518717,
-      "no_speech_prob": 0.22282344102859497,
-      "confidence": 0.886,
-      "words": [
-        {
-          "text": "Not",
-          "start": 28.09,
-          "end": 28.37,
-          "confidence": 0.75
-        },
-        {
-          "text": "so",
-          "start": 28.37,
-          "end": 28.65,
-          "confidence": 0.983
-        },
-        {
-          "text": "long",
-          "start": 28.65,
-          "end": 29.13,
-          "confidence": 0.999
-        },
-        {
-          "text": "ago",
-          "start": 29.13,
-          "end": 29.81,
-          "confidence": 0.976
-        },
-        {
-          "text": "it",
-          "start": 29.81,
-          "end": 30.01,
-          "confidence": 0.792
-        },
-        {
-          "text": "seems",
-          "start": 30.01,
-          "end": 30.53,
-          "confidence": 0.851
-        }
-      ]
-    },
-    {
-      "id": 2,
-      "seek": 0,
-      "start": 31.07,
-      "end": 33.61,
-      "text": " We closed down a million bars",
-      "tokens": [
-        50688,
+        13,
         492,
         5395,
         760,
         257,
         2459,
         10228,
-        50844
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.321766596968456,
-      "compression_ratio": 1.5775401069518717,
-      "no_speech_prob": 0.22282344102859497,
-      "confidence": 0.755,
-      "words": [
-        {
-          "text": "We",
-          "start": 31.07,
-          "end": 31.43,
-          "confidence": 0.499
-        },
-        {
-          "text": "closed",
-          "start": 31.43,
-          "end": 31.87,
-          "confidence": 0.881
-        },
-        {
-          "text": "down",
-          "start": 31.87,
-          "end": 32.43,
-          "confidence": 0.988
-        },
-        {
-          "text": "a",
-          "start": 32.43,
-          "end": 32.79,
-          "confidence": 0.464
-        },
-        {
-          "text": "million",
-          "start": 32.79,
-          "end": 33.11,
-          "confidence": 0.994
-        },
-        {
-          "text": "bars",
-          "start": 33.11,
-          "end": 33.61,
-          "confidence": 0.928
-        }
-      ]
-    },
-    {
-      "id": 3,
-      "seek": 0,
-      "start": 34.23,
-      "end": 36.77,
-      "text": " Yeah, you and me, we've come so far",
-      "tokens": [
-        50844,
+        13,
         865,
         11,
         291,
@@ -214,222 +42,27 @@
         808,
         370,
         1400,
-        51004
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.321766596968456,
-      "compression_ratio": 1.5775401069518717,
-      "no_speech_prob": 0.22282344102859497,
-      "confidence": 0.966,
-      "words": [
-        {
-          "text": "Yeah,",
-          "start": 34.23,
-          "end": 34.49,
-          "confidence": 0.959
-        },
-        {
-          "text": "you",
-          "start": 34.55,
-          "end": 34.77,
-          "confidence": 0.99
-        },
-        {
-          "text": "and",
-          "start": 34.77,
-          "end": 34.93,
-          "confidence": 0.976
-        },
-        {
-          "text": "me,",
-          "start": 34.93,
-          "end": 35.31,
-          "confidence": 0.99
-        },
-        {
-          "text": "we've",
-          "start": 35.71,
-          "end": 35.95,
-          "confidence": 0.901
-        },
-        {
-          "text": "come",
-          "start": 35.95,
-          "end": 36.15,
-          "confidence": 0.985
-        },
-        {
-          "text": "so",
-          "start": 36.15,
-          "end": 36.43,
-          "confidence": 0.999
-        },
-        {
-          "text": "far",
-          "start": 36.43,
-          "end": 36.77,
-          "confidence": 0.999
-        }
-      ]
-    },
-    {
-      "id": 4,
-      "seek": 0,
-      "start": 37.37,
-      "end": 39.99,
-      "text": " You showed me how to write a song",
-      "tokens": [
-        51004,
+        13,
         509,
         4712,
         385,
         577,
-        281,
+        220,
+        1353,
         2464,
         257,
         2153,
-        51160
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.321766596968456,
-      "compression_ratio": 1.5775401069518717,
-      "no_speech_prob": 0.22282344102859497,
-      "confidence": 0.988,
-      "words": [
-        {
-          "text": "You",
-          "start": 37.37,
-          "end": 37.51,
-          "confidence": 0.959
-        },
-        {
-          "text": "showed",
-          "start": 37.51,
-          "end": 37.83,
-          "confidence": 0.972
-        },
-        {
-          "text": "me",
-          "start": 37.83,
-          "end": 38.15,
-          "confidence": 0.997
-        },
-        {
-          "text": "how",
-          "start": 38.15,
-          "end": 38.69,
-          "confidence": 0.998
-        },
-        {
-          "text": "to",
-          "start": 38.69,
-          "end": 39.03,
-          "confidence": 0.988
-        },
-        {
-          "text": "write",
-          "start": 39.03,
-          "end": 39.33,
-          "confidence": 0.997
-        },
-        {
-          "text": "a",
-          "start": 39.33,
-          "end": 39.49,
-          "confidence": 0.996
-        },
-        {
-          "text": "song",
-          "start": 39.49,
-          "end": 39.99,
-          "confidence": 0.999
-        }
-      ]
-    },
-    {
-      "id": 5,
-      "seek": 0,
-      "start": 40.55,
-      "end": 43.15,
-      "text": " We wrote some rite, we wrote some wrong",
-      "tokens": [
-        51160,
+        13,
         492,
         4114,
         512,
-        367,
-        642,
+        558,
         11,
         321,
         4114,
         512,
         2085,
-        51312
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.321766596968456,
-      "compression_ratio": 1.5775401069518717,
-      "no_speech_prob": 0.22282344102859497,
-      "confidence": 0.708,
-      "words": [
-        {
-          "text": "We",
-          "start": 40.55,
-          "end": 40.67,
-          "confidence": 0.532
-        },
-        {
-          "text": "wrote",
-          "start": 40.67,
-          "end": 40.89,
-          "confidence": 0.985
-        },
-        {
-          "text": "some",
-          "start": 40.89,
-          "end": 41.19,
-          "confidence": 0.948
-        },
-        {
-          "text": "rite,",
-          "start": 41.19,
-          "end": 41.87,
-          "confidence": 0.404
-        },
-        {
-          "text": "we",
-          "start": 42.09,
-          "end": 42.19,
-          "confidence": 0.796
-        },
-        {
-          "text": "wrote",
-          "start": 42.19,
-          "end": 42.49,
-          "confidence": 0.998
-        },
-        {
-          "text": "some",
-          "start": 42.49,
-          "end": 42.77,
-          "confidence": 0.929
-        },
-        {
-          "text": "wrong",
-          "start": 42.77,
-          "end": 43.15,
-          "confidence": 0.742
-        }
-      ]
-    },
-    {
-      "id": 6,
-      "seek": 0,
-      "start": 43.45,
-      "end": 46.25,
-      "text": " I was down and out, you let me in",
-      "tokens": [
-        51312,
+        13,
         286,
         390,
         760,
@@ -440,416 +73,424 @@
         718,
         385,
         294,
-        51476
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.321766596968456,
-      "compression_ratio": 1.5775401069518717,
-      "no_speech_prob": 0.22282344102859497,
-      "confidence": 0.795,
-      "words": [
-        {
-          "text": "I",
-          "start": 43.45,
-          "end": 43.67,
-          "confidence": 0.969
-        },
-        {
-          "text": "was",
-          "start": 43.67,
-          "end": 43.81,
-          "confidence": 0.999
-        },
-        {
-          "text": "down",
-          "start": 43.81,
-          "end": 44.29,
-          "confidence": 0.914
-        },
-        {
-          "text": "and",
-          "start": 44.29,
-          "end": 44.69,
-          "confidence": 0.475
-        },
-        {
-          "text": "out,",
-          "start": 44.69,
-          "end": 45.07,
-          "confidence": 0.766
-        },
-        {
-          "text": "you",
-          "start": 45.25,
-          "end": 45.43,
-          "confidence": 0.859
-        },
-        {
-          "text": "let",
-          "start": 45.43,
-          "end": 45.63,
-          "confidence": 0.472
-        },
-        {
-          "text": "me",
-          "start": 45.63,
-          "end": 45.91,
-          "confidence": 0.998
-        },
-        {
-          "text": "in",
-          "start": 45.91,
-          "end": 46.25,
-          "confidence": 0.978
-        }
-      ]
-    },
-    {
-      "id": 7,
-      "seek": 0,
-      "start": 46.81,
-      "end": 49.59,
-      "text": " The time she was my only friend",
-      "tokens": [
-        51476,
-        440,
-        565,
-        750,
-        390,
+        13,
+        682,
+        220,
+        3766,
+        291,
+        645,
         452,
         787,
         1277,
-        51668
+        13,
+        51664
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.321766596968456,
-      "compression_ratio": 1.5775401069518717,
-      "no_speech_prob": 0.22282344102859497,
-      "confidence": 0.606,
+      "avg_logprob": -0.16364554615763874,
+      "compression_ratio": 1.5433526011560694,
+      "no_speech_prob": 0.0006289408192969859,
+      "confidence": 0.904,
       "words": [
         {
-          "text": "The",
-          "start": 46.81,
-          "end": 46.97,
-          "confidence": 0.37
+          "text": "I",
+          "start": 24.49,
+          "end": 24.91,
+          "confidence": 0.99
         },
         {
-          "text": "time",
-          "start": 46.97,
-          "end": 47.39,
-          "confidence": 0.527
+          "text": "met",
+          "start": 24.91,
+          "end": 25.27,
+          "confidence": 0.985
         },
         {
-          "text": "she",
-          "start": 47.39,
-          "end": 47.77,
-          "confidence": 0.28
+          "text": "you",
+          "start": 25.27,
+          "end": 25.93,
+          "confidence": 0.995
         },
         {
-          "text": "was",
-          "start": 47.77,
-          "end": 48.05,
-          "confidence": 0.575
+          "text": "when",
+          "start": 25.93,
+          "end": 26.29,
+          "confidence": 0.97
         },
         {
-          "text": "my",
-          "start": 48.05,
-          "end": 48.41,
-          "confidence": 0.978
+          "text": "I",
+          "start": 26.29,
+          "end": 26.45,
+          "confidence": 0.997
         },
         {
-          "text": "only",
-          "start": 48.41,
-          "end": 48.99,
-          "confidence": 0.979
+          "text": "had",
+          "start": 26.45,
+          "end": 26.73,
+          "confidence": 0.99
         },
         {
-          "text": "friend",
-          "start": 48.99,
-          "end": 49.59,
-          "confidence": 0.998
-        }
-      ]
-    },
-    {
-      "id": 8,
-      "seek": 0,
-      "start": 52.59,
-      "end": 54.91,
-      "text": " So long nights we were in Tennessee",
-      "tokens": [
-        51668,
-        407,
-        938,
-        13249,
-        321,
-        645,
-        294,
-        21127,
-        51832
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.321766596968456,
-      "compression_ratio": 1.5775401069518717,
-      "no_speech_prob": 0.22282344102859497,
-      "confidence": 0.632,
-      "words": [
+          "text": "a",
+          "start": 26.73,
+          "end": 27.01,
+          "confidence": 0.996
+        },
         {
-          "text": "So",
-          "start": 52.59,
-          "end": 52.87,
-          "confidence": 0.791
+          "text": "dream",
+          "start": 27.01,
+          "end": 28.03,
+          "confidence": 0.995
+        },
+        {
+          "text": "not",
+          "start": 28.03,
+          "end": 28.41,
+          "confidence": 0.497
+        },
+        {
+          "text": "so",
+          "start": 28.41,
+          "end": 28.65,
+          "confidence": 0.963
         },
         {
           "text": "long",
-          "start": 52.87,
-          "end": 53.25,
-          "confidence": 0.986
+          "start": 28.65,
+          "end": 29.49,
+          "confidence": 0.999
         },
         {
-          "text": "nights",
-          "start": 53.25,
-          "end": 53.63,
-          "confidence": 0.849
+          "text": "ago",
+          "start": 29.49,
+          "end": 29.87,
+          "confidence": 0.982
+        },
+        {
+          "text": "it",
+          "start": 29.87,
+          "end": 30.03,
+          "confidence": 0.596
+        },
+        {
+          "text": "seems.",
+          "start": 30.03,
+          "end": 30.77,
+          "confidence": 0.915
+        },
+        {
+          "text": "We",
+          "start": 31.07,
+          "end": 31.37,
+          "confidence": 0.499
+        },
+        {
+          "text": "closed",
+          "start": 31.37,
+          "end": 32.13,
+          "confidence": 0.863
+        },
+        {
+          "text": "down",
+          "start": 32.13,
+          "end": 32.71,
+          "confidence": 0.99
+        },
+        {
+          "text": "a",
+          "start": 32.71,
+          "end": 33.31,
+          "confidence": 0.934
+        },
+        {
+          "text": "million",
+          "start": 33.31,
+          "end": 33.33,
+          "confidence": 0.994
+        },
+        {
+          "text": "bars.",
+          "start": 33.33,
+          "end": 33.81,
+          "confidence": 0.966
+        },
+        {
+          "text": "Yeah,",
+          "start": 34.35,
+          "end": 34.55,
+          "confidence": 0.515
+        },
+        {
+          "text": "you",
+          "start": 34.73,
+          "end": 34.83,
+          "confidence": 0.991
+        },
+        {
+          "text": "and",
+          "start": 34.83,
+          "end": 35.05,
+          "confidence": 0.981
+        },
+        {
+          "text": "me,",
+          "start": 35.05,
+          "end": 35.71,
+          "confidence": 0.993
+        },
+        {
+          "text": "we've",
+          "start": 36.25,
+          "end": 36.27,
+          "confidence": 0.732
+        },
+        {
+          "text": "come",
+          "start": 36.27,
+          "end": 36.29,
+          "confidence": 0.996
+        },
+        {
+          "text": "so",
+          "start": 36.29,
+          "end": 36.47,
+          "confidence": 0.968
+        },
+        {
+          "text": "far.",
+          "start": 36.47,
+          "end": 36.83,
+          "confidence": 0.992
+        },
+        {
+          "text": "You",
+          "start": 37.37,
+          "end": 37.63,
+          "confidence": 0.699
+        },
+        {
+          "text": "showed",
+          "start": 37.63,
+          "end": 37.91,
+          "confidence": 0.921
+        },
+        {
+          "text": "me",
+          "start": 37.91,
+          "end": 38.31,
+          "confidence": 0.982
+        },
+        {
+          "text": "how",
+          "start": 38.31,
+          "end": 38.79,
+          "confidence": 0.994
+        },
+        {
+          "text": "to",
+          "start": 38.79,
+          "end": 39.11,
+          "confidence": 0.997
+        },
+        {
+          "text": "write",
+          "start": 39.11,
+          "end": 39.43,
+          "confidence": 0.995
+        },
+        {
+          "text": "a",
+          "start": 39.43,
+          "end": 40.43,
+          "confidence": 0.997
+        },
+        {
+          "text": "song.",
+          "start": 40.43,
+          "end": 40.45,
+          "confidence": 0.989
+        },
+        {
+          "text": "We",
+          "start": 41.03,
+          "end": 41.05,
+          "confidence": 0.899
+        },
+        {
+          "text": "wrote",
+          "start": 41.05,
+          "end": 41.07,
+          "confidence": 0.99
+        },
+        {
+          "text": "some",
+          "start": 41.07,
+          "end": 41.39,
+          "confidence": 0.948
+        },
+        {
+          "text": "right,",
+          "start": 41.39,
+          "end": 41.93,
+          "confidence": 0.98
         },
         {
           "text": "we",
-          "start": 53.63,
-          "end": 53.93,
-          "confidence": 0.384
+          "start": 41.93,
+          "end": 42.25,
+          "confidence": 0.858
+        },
+        {
+          "text": "wrote",
+          "start": 42.25,
+          "end": 42.55,
+          "confidence": 0.999
+        },
+        {
+          "text": "some",
+          "start": 42.55,
+          "end": 42.83,
+          "confidence": 0.935
+        },
+        {
+          "text": "wrong.",
+          "start": 42.83,
+          "end": 43.45,
+          "confidence": 0.998
+        },
+        {
+          "text": "I",
+          "start": 43.51,
+          "end": 43.71,
+          "confidence": 0.963
+        },
+        {
+          "text": "was",
+          "start": 43.71,
+          "end": 44.47,
+          "confidence": 0.994
+        },
+        {
+          "text": "down",
+          "start": 44.47,
+          "end": 44.51,
+          "confidence": 0.994
+        },
+        {
+          "text": "and",
+          "start": 44.51,
+          "end": 45.13,
+          "confidence": 0.939
+        },
+        {
+          "text": "out,",
+          "start": 45.13,
+          "end": 45.19,
+          "confidence": 0.996
+        },
+        {
+          "text": "you",
+          "start": 45.19,
+          "end": 45.81,
+          "confidence": 0.809
+        },
+        {
+          "text": "let",
+          "start": 45.81,
+          "end": 45.83,
+          "confidence": 0.978
+        },
+        {
+          "text": "me",
+          "start": 45.83,
+          "end": 46.21,
+          "confidence": 0.996
+        },
+        {
+          "text": "in.",
+          "start": 46.21,
+          "end": 46.33,
+          "confidence": 0.993
+        },
+        {
+          "text": "In",
+          "start": 46.93,
+          "end": 47.33,
+          "confidence": 0.46
+        },
+        {
+          "text": "time",
+          "start": 47.33,
+          "end": 47.41,
+          "confidence": 0.825
+        },
+        {
+          "text": "you",
+          "start": 47.41,
+          "end": 47.81,
+          "confidence": 0.917
         },
         {
           "text": "were",
-          "start": 53.93,
-          "end": 54.25,
-          "confidence": 0.323
+          "start": 47.81,
+          "end": 48.25,
+          "confidence": 0.967
         },
         {
-          "text": "in",
-          "start": 54.25,
-          "end": 54.43,
-          "confidence": 0.493
+          "text": "my",
+          "start": 48.25,
+          "end": 48.53,
+          "confidence": 0.998
         },
         {
-          "text": "Tennessee",
-          "start": 54.43,
-          "end": 54.91,
-          "confidence": 0.997
+          "text": "only",
+          "start": 48.53,
+          "end": 49.29,
+          "confidence": 0.996
+        },
+        {
+          "text": "friend.",
+          "start": 49.29,
+          "end": 49.79,
+          "confidence": 0.991
         }
       ]
     },
     {
-      "id": 9,
-      "seek": 2936,
-      "start": 55.93,
-      "end": 58.41,
-      "text": " You can't have what's left of me",
+      "id": 1,
+      "seek": 3000,
+      "start": 56.47,
+      "end": 77.09,
+      "text": " You let me have what's left of me. And as far as I can tell, it's high time I wish you well. You built me up, you set me free. You tore down my memories. So you be you and I'll be me. So long, Nashville, Tennessee.",
       "tokens": [
-        50364,
+        50380,
         509,
-        393,
-        380,
+        718,
+        385,
         362,
         437,
         311,
         1411,
         295,
         385,
-        50520
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.18748898452587343,
-      "compression_ratio": 1.5164835164835164,
-      "no_speech_prob": 0.007431561592966318,
-      "confidence": 0.978,
-      "words": [
-        {
-          "text": "You",
-          "start": 55.93,
-          "end": 56.07,
-          "confidence": 0.987
-        },
-        {
-          "text": "can't",
-          "start": 56.07,
-          "end": 56.51,
-          "confidence": 0.993
-        },
-        {
-          "text": "have",
-          "start": 56.51,
-          "end": 56.91,
-          "confidence": 0.991
-        },
-        {
-          "text": "what's",
-          "start": 56.91,
-          "end": 57.41,
-          "confidence": 0.992
-        },
-        {
-          "text": "left",
-          "start": 57.41,
-          "end": 57.73,
-          "confidence": 1.0
-        },
-        {
-          "text": "of",
-          "start": 57.73,
-          "end": 58.05,
-          "confidence": 0.862
-        },
-        {
-          "text": "me",
-          "start": 58.05,
-          "end": 58.41,
-          "confidence": 0.998
-        }
-      ]
-    },
-    {
-      "id": 10,
-      "seek": 2936,
-      "start": 59.07,
-      "end": 61.21,
-      "text": " And as far as I can tell",
-      "tokens": [
-        50520,
+        13,
         400,
         382,
         1400,
         382,
         286,
         393,
-        980,
-        50676
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.18748898452587343,
-      "compression_ratio": 1.5164835164835164,
-      "no_speech_prob": 0.007431561592966318,
-      "confidence": 0.943,
-      "words": [
-        {
-          "text": "And",
-          "start": 59.07,
-          "end": 59.27,
-          "confidence": 0.73
-        },
-        {
-          "text": "as",
-          "start": 59.27,
-          "end": 59.43,
-          "confidence": 0.946
-        },
-        {
-          "text": "far",
-          "start": 59.43,
-          "end": 59.85,
-          "confidence": 0.986
-        },
-        {
-          "text": "as",
-          "start": 59.85,
-          "end": 60.45,
-          "confidence": 0.993
-        },
-        {
-          "text": "I",
-          "start": 60.45,
-          "end": 60.67,
-          "confidence": 0.991
-        },
-        {
-          "text": "can",
-          "start": 60.67,
-          "end": 60.83,
-          "confidence": 0.995
-        },
-        {
-          "text": "tell",
-          "start": 60.83,
-          "end": 61.21,
-          "confidence": 0.998
-        }
-      ]
-    },
-    {
-      "id": 11,
-      "seek": 2936,
-      "start": 62.21,
-      "end": 64.71,
-      "text": " That's how time I wish you were",
-      "tokens": [
-        50676,
-        663,
+        220,
+        83,
+        898,
+        11,
+        309,
         311,
-        577,
-        565,
+        1090,
+        220,
+        3766,
         286,
         3172,
         291,
-        645,
-        50816
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.18748898452587343,
-      "compression_ratio": 1.5164835164835164,
-      "no_speech_prob": 0.007431561592966318,
-      "confidence": 0.699,
-      "words": [
-        {
-          "text": "That's",
-          "start": 62.21,
-          "end": 62.57,
-          "confidence": 0.629
-        },
-        {
-          "text": "how",
-          "start": 62.57,
-          "end": 62.73,
-          "confidence": 0.423
-        },
-        {
-          "text": "time",
-          "start": 62.73,
-          "end": 63.15,
-          "confidence": 0.736
-        },
-        {
-          "text": "I",
-          "start": 63.15,
-          "end": 63.61,
-          "confidence": 0.664
-        },
-        {
-          "text": "wish",
-          "start": 63.61,
-          "end": 63.91,
-          "confidence": 0.95
-        },
-        {
-          "text": "you",
-          "start": 63.91,
-          "end": 64.27,
-          "confidence": 0.997
-        },
-        {
-          "text": "were",
-          "start": 64.27,
-          "end": 64.71,
-          "confidence": 0.735
-        }
-      ]
-    },
-    {
-      "id": 12,
-      "seek": 2936,
-      "start": 64.99,
-      "end": 67.67,
-      "text": " You built me up, you set me free",
-      "tokens": [
-        50816,
+        731,
+        13,
         509,
         3094,
         385,
@@ -859,731 +500,371 @@
         992,
         385,
         1737,
-        50988
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.18748898452587343,
-      "compression_ratio": 1.5164835164835164,
-      "no_speech_prob": 0.007431561592966318,
-      "confidence": 0.944,
-      "words": [
-        {
-          "text": "You",
-          "start": 64.99,
-          "end": 65.13,
-          "confidence": 0.987
-        },
-        {
-          "text": "built",
-          "start": 65.13,
-          "end": 65.49,
-          "confidence": 0.681
-        },
-        {
-          "text": "me",
-          "start": 65.49,
-          "end": 65.83,
-          "confidence": 0.998
-        },
-        {
-          "text": "up,",
-          "start": 65.83,
-          "end": 66.31,
-          "confidence": 0.998
-        },
-        {
-          "text": "you",
-          "start": 66.63,
-          "end": 66.73,
-          "confidence": 0.976
-        },
-        {
-          "text": "set",
-          "start": 66.73,
-          "end": 67.01,
-          "confidence": 0.963
-        },
-        {
-          "text": "me",
-          "start": 67.01,
-          "end": 67.21,
-          "confidence": 0.999
-        },
-        {
-          "text": "free",
-          "start": 67.21,
-          "end": 67.67,
-          "confidence": 1.0
-        }
-      ]
-    },
-    {
-      "id": 13,
-      "seek": 2936,
-      "start": 68.41,
-      "end": 70.73,
-      "text": " You tore down my memories",
-      "tokens": [
-        50988,
+        13,
         509,
-        37341,
+        220,
+        83,
+        418,
         760,
         452,
         8495,
-        51132
+        13,
+        407,
+        291,
+        312,
+        291,
+        293,
+        286,
+        603,
+        312,
+        385,
+        13,
+        407,
+        938,
+        11,
+        36370,
+        11,
+        21127,
+        13,
+        51480
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.18748898452587343,
-      "compression_ratio": 1.5164835164835164,
-      "no_speech_prob": 0.007431561592966318,
-      "confidence": 0.862,
+      "avg_logprob": -0.21490885229671702,
+      "compression_ratio": 1.3896103896103895,
+      "no_speech_prob": 0.7068556547164917,
+      "confidence": 0.87,
       "words": [
         {
           "text": "You",
-          "start": 68.41,
-          "end": 68.69,
-          "confidence": 0.515
+          "start": 56.47,
+          "end": 56.51,
+          "confidence": 0.204
         },
         {
-          "text": "tore",
-          "start": 68.69,
-          "end": 69.01,
-          "confidence": 0.934
+          "text": "let",
+          "start": 56.51,
+          "end": 56.53,
+          "confidence": 0.136
         },
         {
-          "text": "down",
-          "start": 69.01,
-          "end": 69.49,
-          "confidence": 0.998
-        },
-        {
-          "text": "my",
-          "start": 69.49,
-          "end": 69.97,
-          "confidence": 0.996
-        },
-        {
-          "text": "memories",
-          "start": 69.97,
-          "end": 70.73,
-          "confidence": 0.993
-        }
-      ]
-    },
-    {
-      "id": 14,
-      "seek": 2936,
-      "start": 71.33,
-      "end": 74.13,
-      "text": " So you be you, now be me",
-      "tokens": [
-        51132,
-        407,
-        291,
-        312,
-        291,
-        11,
-        586,
-        312,
-        385,
-        51304
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.18748898452587343,
-      "compression_ratio": 1.5164835164835164,
-      "no_speech_prob": 0.007431561592966318,
-      "confidence": 0.862,
-      "words": [
-        {
-          "text": "So",
-          "start": 71.33,
-          "end": 71.47,
-          "confidence": 0.994
-        },
-        {
-          "text": "you",
-          "start": 71.47,
-          "end": 71.81,
+          "text": "me",
+          "start": 56.53,
+          "end": 56.55,
           "confidence": 0.991
         },
         {
-          "text": "be",
-          "start": 71.81,
-          "end": 72.15,
-          "confidence": 0.605
+          "text": "have",
+          "start": 56.55,
+          "end": 57.15,
+          "confidence": 0.955
         },
         {
-          "text": "you,",
-          "start": 72.15,
-          "end": 72.69,
-          "confidence": 0.968
+          "text": "what's",
+          "start": 57.15,
+          "end": 57.35,
+          "confidence": 0.988
         },
         {
-          "text": "now",
-          "start": 73.13,
-          "end": 73.37,
-          "confidence": 0.637
+          "text": "left",
+          "start": 57.35,
+          "end": 57.97,
+          "confidence": 0.996
         },
         {
-          "text": "be",
-          "start": 73.37,
-          "end": 73.77,
-          "confidence": 0.961
+          "text": "of",
+          "start": 57.97,
+          "end": 57.99,
+          "confidence": 0.982
         },
         {
-          "text": "me",
-          "start": 73.77,
-          "end": 74.13,
-          "confidence": 0.998
-        }
-      ]
-    },
-    {
-      "id": 15,
-      "seek": 2936,
-      "start": 74.77,
-      "end": 77.01,
-      "text": " So long nights we were in Tennessee",
-      "tokens": [
-        51304,
-        407,
-        938,
-        13249,
-        321,
-        645,
-        294,
-        21127,
-        51460
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.18748898452587343,
-      "compression_ratio": 1.5164835164835164,
-      "no_speech_prob": 0.007431561592966318,
-      "confidence": 0.951,
-      "words": [
-        {
-          "text": "So",
-          "start": 74.77,
-          "end": 74.99,
-          "confidence": 0.837
+          "text": "me.",
+          "start": 57.99,
+          "end": 58.49,
+          "confidence": 0.999
         },
         {
-          "text": "long",
-          "start": 74.99,
-          "end": 75.43,
-          "confidence": 0.997
+          "text": "And",
+          "start": 58.55,
+          "end": 59.31,
+          "confidence": 0.785
         },
         {
-          "text": "nights",
-          "start": 75.43,
-          "end": 75.77,
-          "confidence": 0.978
+          "text": "as",
+          "start": 59.31,
+          "end": 59.59,
+          "confidence": 0.97
         },
         {
-          "text": "we",
-          "start": 75.77,
-          "end": 76.09,
-          "confidence": 0.941
+          "text": "far",
+          "start": 59.59,
+          "end": 60.19,
+          "confidence": 0.986
         },
         {
-          "text": "were",
-          "start": 76.09,
-          "end": 76.33,
-          "confidence": 0.927
-        },
-        {
-          "text": "in",
-          "start": 76.33,
-          "end": 76.59,
+          "text": "as",
+          "start": 60.19,
+          "end": 60.89,
           "confidence": 0.987
         },
         {
-          "text": "Tennessee",
-          "start": 76.59,
-          "end": 77.01,
-          "confidence": 1.0
-        }
-      ]
-    },
-    {
-      "id": 16,
-      "seek": 2936,
-      "start": 90.77,
-      "end": 93.47,
-      "text": " Now you won't miss me when I'm gone",
-      "tokens": [
-        51460,
-        823,
-        291,
-        1582,
-        380,
-        1713,
-        385,
-        562,
-        286,
-        478,
-        2780,
-        51616
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.18748898452587343,
-      "compression_ratio": 1.5164835164835164,
-      "no_speech_prob": 0.007431561592966318,
-      "confidence": 0.98,
-      "words": [
+          "text": "I",
+          "start": 60.89,
+          "end": 60.91,
+          "confidence": 0.995
+        },
         {
-          "text": "Now",
-          "start": 90.77,
-          "end": 91.03,
-          "confidence": 0.997
+          "text": "can",
+          "start": 60.91,
+          "end": 60.93,
+          "confidence": 0.987
+        },
+        {
+          "text": "tell,",
+          "start": 60.93,
+          "end": 61.35,
+          "confidence": 0.996
+        },
+        {
+          "text": "it's",
+          "start": 62.13,
+          "end": 62.47,
+          "confidence": 0.84
+        },
+        {
+          "text": "high",
+          "start": 62.47,
+          "end": 62.85,
+          "confidence": 0.924
+        },
+        {
+          "text": "time",
+          "start": 62.85,
+          "end": 63.47,
+          "confidence": 0.996
+        },
+        {
+          "text": "I",
+          "start": 63.47,
+          "end": 63.67,
+          "confidence": 0.984
+        },
+        {
+          "text": "wish",
+          "start": 63.67,
+          "end": 63.99,
+          "confidence": 0.816
         },
         {
           "text": "you",
-          "start": 91.03,
-          "end": 91.39,
-          "confidence": 0.975
+          "start": 63.99,
+          "end": 64.37,
+          "confidence": 0.995
         },
         {
-          "text": "won't",
-          "start": 91.39,
-          "end": 91.87,
-          "confidence": 0.971
+          "text": "well.",
+          "start": 64.37,
+          "end": 64.93,
+          "confidence": 0.995
         },
         {
-          "text": "miss",
-          "start": 91.87,
-          "end": 92.21,
-          "confidence": 0.953
+          "text": "You",
+          "start": 65.17,
+          "end": 65.19,
+          "confidence": 0.835
+        },
+        {
+          "text": "built",
+          "start": 65.19,
+          "end": 65.63,
+          "confidence": 0.664
         },
         {
           "text": "me",
-          "start": 92.21,
-          "end": 92.55,
-          "confidence": 0.998
+          "start": 65.63,
+          "end": 66.33,
+          "confidence": 0.994
         },
         {
-          "text": "when",
-          "start": 92.55,
-          "end": 92.87,
-          "confidence": 0.95
-        },
-        {
-          "text": "I'm",
-          "start": 92.87,
-          "end": 93.19,
-          "confidence": 0.992
-        },
-        {
-          "text": "gone",
-          "start": 93.19,
-          "end": 93.47,
-          "confidence": 0.999
-        }
-      ]
-    },
-    {
-      "id": 17,
-      "seek": 2936,
-      "start": 93.91,
-      "end": 96.61,
-      "text": " Your custom made for moving on",
-      "tokens": [
-        51616,
-        2260,
-        2375,
-        1027,
-        337,
-        2684,
-        322,
-        51784
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.18748898452587343,
-      "compression_ratio": 1.5164835164835164,
-      "no_speech_prob": 0.007431561592966318,
-      "confidence": 0.739,
-      "words": [
-        {
-          "text": "Your",
-          "start": 93.91,
-          "end": 94.11,
-          "confidence": 0.776
-        },
-        {
-          "text": "custom",
-          "start": 94.11,
-          "end": 94.57,
-          "confidence": 0.661
-        },
-        {
-          "text": "made",
-          "start": 94.57,
-          "end": 95.25,
-          "confidence": 0.452
-        },
-        {
-          "text": "for",
-          "start": 95.25,
-          "end": 95.77,
-          "confidence": 0.904
-        },
-        {
-          "text": "moving",
-          "start": 95.77,
-          "end": 96.13,
-          "confidence": 0.778
-        },
-        {
-          "text": "on",
-          "start": 96.13,
-          "end": 96.61,
-          "confidence": 0.999
-        }
-      ]
-    },
-    {
-      "id": 18,
-      "seek": 5776,
-      "start": 97.21,
-      "end": 99.81,
-      "text": " And time to time I'll pass you by",
-      "tokens": [
-        50364,
-        400,
-        565,
-        281,
-        565,
-        286,
-        603,
-        1320,
-        291,
-        538,
-        50524
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.15620369963593536,
-      "compression_ratio": 1.4820512820512821,
-      "no_speech_prob": 0.0073443567380309105,
-      "confidence": 0.946,
-      "words": [
-        {
-          "text": "And",
-          "start": 97.21,
-          "end": 97.35,
-          "confidence": 0.719
-        },
-        {
-          "text": "time",
-          "start": 97.35,
-          "end": 97.87,
-          "confidence": 0.99
-        },
-        {
-          "text": "to",
-          "start": 97.87,
-          "end": 98.15,
-          "confidence": 0.93
-        },
-        {
-          "text": "time",
-          "start": 98.15,
-          "end": 98.49,
-          "confidence": 1.0
-        },
-        {
-          "text": "I'll",
-          "start": 98.49,
-          "end": 98.93,
-          "confidence": 0.967
-        },
-        {
-          "text": "pass",
-          "start": 98.93,
-          "end": 99.21,
-          "confidence": 0.997
+          "text": "up,",
+          "start": 66.33,
+          "end": 66.41,
+          "confidence": 0.995
         },
         {
           "text": "you",
-          "start": 99.21,
-          "end": 99.45,
+          "start": 66.41,
+          "end": 67.47,
+          "confidence": 0.938
+        },
+        {
+          "text": "set",
+          "start": 67.47,
+          "end": 67.49,
+          "confidence": 0.989
+        },
+        {
+          "text": "me",
+          "start": 67.49,
+          "end": 67.51,
+          "confidence": 0.995
+        },
+        {
+          "text": "free.",
+          "start": 67.51,
+          "end": 67.81,
+          "confidence": 0.972
+        },
+        {
+          "text": "You",
+          "start": 67.81,
+          "end": 68.77,
+          "confidence": 0.628
+        },
+        {
+          "text": "tore",
+          "start": 68.77,
+          "end": 69.19,
+          "confidence": 0.978
+        },
+        {
+          "text": "down",
+          "start": 69.19,
+          "end": 69.77,
           "confidence": 0.992
         },
         {
-          "text": "by",
-          "start": 99.45,
-          "end": 99.81,
-          "confidence": 0.99
+          "text": "my",
+          "start": 69.77,
+          "end": 70.03,
+          "confidence": 0.987
+        },
+        {
+          "text": "memories.",
+          "start": 70.03,
+          "end": 71.01,
+          "confidence": 0.958
+        },
+        {
+          "text": "So",
+          "start": 71.01,
+          "end": 71.51,
+          "confidence": 0.663
+        },
+        {
+          "text": "you",
+          "start": 71.51,
+          "end": 71.91,
+          "confidence": 0.977
+        },
+        {
+          "text": "be",
+          "start": 71.91,
+          "end": 72.45,
+          "confidence": 0.778
+        },
+        {
+          "text": "you",
+          "start": 72.45,
+          "end": 72.71,
+          "confidence": 0.996
+        },
+        {
+          "text": "and",
+          "start": 72.71,
+          "end": 73.31,
+          "confidence": 0.504
+        },
+        {
+          "text": "I'll",
+          "start": 73.31,
+          "end": 73.71,
+          "confidence": 0.975
+        },
+        {
+          "text": "be",
+          "start": 73.71,
+          "end": 73.79,
+          "confidence": 0.994
+        },
+        {
+          "text": "me.",
+          "start": 73.79,
+          "end": 74.57,
+          "confidence": 0.998
+        },
+        {
+          "text": "So",
+          "start": 76.27,
+          "end": 76.45,
+          "confidence": 0.885
+        },
+        {
+          "text": "long,",
+          "start": 76.45,
+          "end": 76.47,
+          "confidence": 0.979
+        },
+        {
+          "text": "Nashville,",
+          "start": 76.47,
+          "end": 76.49,
+          "confidence": 0.985
+        },
+        {
+          "text": "Tennessee.",
+          "start": 76.67,
+          "end": 77.09,
+          "confidence": 0.954
         }
       ]
     },
     {
-      "id": 19,
-      "seek": 5776,
-      "start": 100.35,
-      "end": 102.79,
-      "text": " A face that I don't recognize",
+      "id": 2,
+      "seek": 6000,
+      "start": 99.37,
+      "end": 115.67,
+      "text": " I see you by a face that I don't recognize. Who knows, maybe years from now you'll be the one I think about. I just can't imagine that, I'm not one for looking back.",
       "tokens": [
-        50524,
-        316,
+        50380,
+        286,
+        536,
+        291,
+        538,
+        257,
         1851,
-        300,
+        220,
+        6780,
         286,
         500,
         380,
         5521,
-        50680
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.15620369963593536,
-      "compression_ratio": 1.4820512820512821,
-      "no_speech_prob": 0.0073443567380309105,
-      "confidence": 0.96,
-      "words": [
-        {
-          "text": "A",
-          "start": 100.35,
-          "end": 100.45,
-          "confidence": 0.836
-        },
-        {
-          "text": "face",
-          "start": 100.45,
-          "end": 100.95,
-          "confidence": 0.954
-        },
-        {
-          "text": "that",
-          "start": 100.95,
-          "end": 101.37,
-          "confidence": 0.988
-        },
-        {
-          "text": "I",
-          "start": 101.37,
-          "end": 101.63,
-          "confidence": 0.998
-        },
-        {
-          "text": "don't",
-          "start": 101.63,
-          "end": 102.09,
-          "confidence": 0.999
-        },
-        {
-          "text": "recognize",
-          "start": 102.09,
-          "end": 102.79,
-          "confidence": 0.96
-        }
-      ]
-    },
-    {
-      "id": 20,
-      "seek": 5776,
-      "start": 103.53,
-      "end": 106.29,
-      "text": " And who knows, maybe it's from now",
-      "tokens": [
-        50680,
-        400,
-        567,
+        13,
+        2102,
         3255,
         11,
         1310,
-        309,
-        311,
+        924,
         490,
         586,
-        50824
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.15620369963593536,
-      "compression_ratio": 1.4820512820512821,
-      "no_speech_prob": 0.0073443567380309105,
-      "confidence": 0.877,
-      "words": [
-        {
-          "text": "And",
-          "start": 103.53,
-          "end": 103.65,
-          "confidence": 0.672
-        },
-        {
-          "text": "who",
-          "start": 103.65,
-          "end": 103.95,
-          "confidence": 0.996
-        },
-        {
-          "text": "knows,",
-          "start": 103.95,
-          "end": 104.35,
-          "confidence": 0.995
-        },
-        {
-          "text": "maybe",
-          "start": 104.57,
-          "end": 104.85,
-          "confidence": 0.991
-        },
-        {
-          "text": "it's",
-          "start": 104.85,
-          "end": 105.83,
-          "confidence": 0.96
-        },
-        {
-          "text": "from",
-          "start": 105.83,
-          "end": 105.99,
-          "confidence": 0.578
-        },
-        {
-          "text": "now",
-          "start": 105.99,
-          "end": 106.29,
-          "confidence": 0.996
-        }
-      ]
-    },
-    {
-      "id": 21,
-      "seek": 5776,
-      "start": 106.29,
-      "end": 109.17,
-      "text": " You'll be the one I think about",
-      "tokens": [
-        50824,
-        509,
+        291,
         603,
         312,
-        264,
+        220,
+        3322,
         472,
         286,
-        519,
+        220,
+        21074,
         466,
-        50988
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.15620369963593536,
-      "compression_ratio": 1.4820512820512821,
-      "no_speech_prob": 0.0073443567380309105,
-      "confidence": 0.979,
-      "words": [
-        {
-          "text": "You'll",
-          "start": 106.29,
-          "end": 106.75,
-          "confidence": 0.982
-        },
-        {
-          "text": "be",
-          "start": 106.75,
-          "end": 107.01,
-          "confidence": 0.998
-        },
-        {
-          "text": "the",
-          "start": 107.01,
-          "end": 107.21,
-          "confidence": 0.999
-        },
-        {
-          "text": "one",
-          "start": 107.21,
-          "end": 107.63,
-          "confidence": 0.999
-        },
-        {
-          "text": "I",
-          "start": 107.63,
-          "end": 108.35,
-          "confidence": 0.911
-        },
-        {
-          "text": "think",
-          "start": 108.35,
-          "end": 108.59,
-          "confidence": 0.974
-        },
-        {
-          "text": "about",
-          "start": 108.59,
-          "end": 109.17,
-          "confidence": 0.989
-        }
-      ]
-    },
-    {
-      "id": 22,
-      "seek": 5776,
-      "start": 109.81,
-      "end": 112.29,
-      "text": " But I just can't imagine that",
-      "tokens": [
-        50988,
-        583,
+        13,
         286,
         445,
         393,
         380,
         3811,
-        300,
-        51144
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.15620369963593536,
-      "compression_ratio": 1.4820512820512821,
-      "no_speech_prob": 0.0073443567380309105,
-      "confidence": 0.952,
-      "words": [
-        {
-          "text": "But",
-          "start": 109.81,
-          "end": 109.95,
-          "confidence": 0.729
-        },
-        {
-          "text": "I",
-          "start": 109.95,
-          "end": 110.27,
-          "confidence": 0.997
-        },
-        {
-          "text": "just",
-          "start": 110.27,
-          "end": 110.61,
-          "confidence": 0.997
-        },
-        {
-          "text": "can't",
-          "start": 110.61,
-          "end": 111.31,
-          "confidence": 0.999
-        },
-        {
-          "text": "imagine",
-          "start": 111.31,
-          "end": 111.87,
-          "confidence": 0.995
-        },
-        {
-          "text": "that",
-          "start": 111.87,
-          "end": 112.29,
-          "confidence": 0.981
-        }
-      ]
-    },
-    {
-      "id": 23,
-      "seek": 5776,
-      "start": 112.91,
-      "end": 115.57,
-      "text": " Cause I'm not one for looking back",
-      "tokens": [
-        51144,
-        10865,
+        220,
+        6780,
+        11,
         286,
         478,
         406,
@@ -1591,871 +872,229 @@
         337,
         1237,
         646,
-        51340
+        13,
+        51180
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.15620369963593536,
-      "compression_ratio": 1.4820512820512821,
-      "no_speech_prob": 0.0073443567380309105,
-      "confidence": 0.907,
+      "avg_logprob": -0.25799394607543946,
+      "compression_ratio": 1.2890625,
+      "no_speech_prob": 0.8803609013557434,
+      "confidence": 0.833,
       "words": [
         {
-          "text": "Cause",
-          "start": 112.91,
-          "end": 113.11,
-          "confidence": 0.507
+          "text": "I",
+          "start": 99.37,
+          "end": 99.39,
+          "confidence": 0.306
         },
         {
-          "text": "I'm",
-          "start": 113.11,
-          "end": 113.55,
-          "confidence": 0.992
+          "text": "see",
+          "start": 99.39,
+          "end": 99.41,
+          "confidence": 0.117
         },
         {
-          "text": "not",
-          "start": 113.55,
-          "end": 113.75,
-          "confidence": 0.999
+          "text": "you",
+          "start": 99.41,
+          "end": 99.43,
+          "confidence": 0.72
         },
         {
-          "text": "one",
-          "start": 113.75,
-          "end": 114.15,
-          "confidence": 0.959
+          "text": "by",
+          "start": 99.43,
+          "end": 100.15,
+          "confidence": 0.81
         },
         {
-          "text": "for",
-          "start": 114.15,
-          "end": 114.81,
-          "confidence": 0.994
+          "text": "a",
+          "start": 100.15,
+          "end": 100.57,
+          "confidence": 0.522
         },
         {
-          "text": "looking",
-          "start": 114.81,
-          "end": 115.11,
-          "confidence": 0.962
+          "text": "face",
+          "start": 100.57,
+          "end": 101.05,
+          "confidence": 0.993
         },
         {
-          "text": "back",
-          "start": 115.11,
-          "end": 115.57,
-          "confidence": 0.999
-        }
-      ]
-    },
-    {
-      "id": 24,
-      "seek": 5776,
-      "start": 118.65,
-      "end": 120.93,
-      "text": " So long nights we were in Tennessee",
-      "tokens": [
-        51340,
-        407,
-        938,
-        13249,
-        321,
-        645,
-        294,
-        21127,
-        51500
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.15620369963593536,
-      "compression_ratio": 1.4820512820512821,
-      "no_speech_prob": 0.0073443567380309105,
-      "confidence": 0.976,
-      "words": [
-        {
-          "text": "So",
-          "start": 118.65,
-          "end": 118.91,
-          "confidence": 0.998
-        },
-        {
-          "text": "long",
-          "start": 118.91,
-          "end": 119.31,
-          "confidence": 0.999
-        },
-        {
-          "text": "nights",
-          "start": 119.31,
-          "end": 119.67,
-          "confidence": 0.998
-        },
-        {
-          "text": "we",
-          "start": 119.67,
-          "end": 120.01,
-          "confidence": 0.986
-        },
-        {
-          "text": "were",
-          "start": 120.01,
-          "end": 120.31,
-          "confidence": 0.91
-        },
-        {
-          "text": "in",
-          "start": 120.31,
-          "end": 120.51,
-          "confidence": 0.947
-        },
-        {
-          "text": "Tennessee",
-          "start": 120.51,
-          "end": 120.93,
-          "confidence": 1.0
-        }
-      ]
-    },
-    {
-      "id": 25,
-      "seek": 5776,
-      "start": 121.83,
-      "end": 124.41,
-      "text": " You can't have what's left of me",
-      "tokens": [
-        51500,
-        509,
-        393,
-        380,
-        362,
-        437,
-        311,
-        1411,
-        295,
-        385,
-        51656
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.15620369963593536,
-      "compression_ratio": 1.4820512820512821,
-      "no_speech_prob": 0.0073443567380309105,
-      "confidence": 0.998,
-      "words": [
-        {
-          "text": "You",
-          "start": 121.83,
-          "end": 122.09,
-          "confidence": 0.994
-        },
-        {
-          "text": "can't",
-          "start": 122.09,
-          "end": 122.51,
-          "confidence": 0.999
-        },
-        {
-          "text": "have",
-          "start": 122.51,
-          "end": 122.87,
-          "confidence": 0.998
-        },
-        {
-          "text": "what's",
-          "start": 122.87,
-          "end": 123.39,
-          "confidence": 0.999
-        },
-        {
-          "text": "left",
-          "start": 123.39,
-          "end": 123.71,
-          "confidence": 1.0
-        },
-        {
-          "text": "of",
-          "start": 123.71,
-          "end": 124.03,
-          "confidence": 0.991
-        },
-        {
-          "text": "me",
-          "start": 124.03,
-          "end": 124.41,
-          "confidence": 1.0
-        }
-      ]
-    },
-    {
-      "id": 26,
-      "seek": 5776,
-      "start": 124.99,
-      "end": 127.21,
-      "text": " And as far as I can tell",
-      "tokens": [
-        51656,
-        400,
-        382,
-        1400,
-        382,
-        286,
-        393,
-        980,
-        51812
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.15620369963593536,
-      "compression_ratio": 1.4820512820512821,
-      "no_speech_prob": 0.0073443567380309105,
-      "confidence": 0.991,
-      "words": [
-        {
-          "text": "And",
-          "start": 124.99,
-          "end": 125.23,
-          "confidence": 0.946
-        },
-        {
-          "text": "as",
-          "start": 125.23,
-          "end": 125.39,
-          "confidence": 0.996
-        },
-        {
-          "text": "far",
-          "start": 125.39,
-          "end": 125.89,
-          "confidence": 0.999
-        },
-        {
-          "text": "as",
-          "start": 125.89,
-          "end": 126.43,
-          "confidence": 0.997
+          "text": "that",
+          "start": 101.05,
+          "end": 101.57,
+          "confidence": 0.89
         },
         {
           "text": "I",
-          "start": 126.43,
-          "end": 126.63,
-          "confidence": 0.999
+          "start": 101.57,
+          "end": 101.69,
+          "confidence": 0.998
         },
         {
-          "text": "can",
-          "start": 126.63,
-          "end": 126.81,
-          "confidence": 0.999
-        },
-        {
-          "text": "tell",
-          "start": 126.81,
-          "end": 127.21,
-          "confidence": 0.999
-        }
-      ]
-    },
-    {
-      "id": 27,
-      "seek": 8672,
-      "start": 128.21,
-      "end": 130.59,
-      "text": " That's how time I wish you were",
-      "tokens": [
-        50368,
-        663,
-        311,
-        577,
-        565,
-        286,
-        3172,
-        291,
-        645,
-        50504
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.11226866462013939,
-      "compression_ratio": 1.8223684210526316,
-      "no_speech_prob": 0.004741148091852665,
-      "confidence": 0.99,
-      "words": [
-        {
-          "text": "That's",
-          "start": 128.21,
-          "end": 128.49,
-          "confidence": 0.988
-        },
-        {
-          "text": "how",
-          "start": 128.49,
-          "end": 128.69,
-          "confidence": 0.99
-        },
-        {
-          "text": "time",
-          "start": 128.69,
-          "end": 129.17,
-          "confidence": 0.995
-        },
-        {
-          "text": "I",
-          "start": 129.17,
-          "end": 129.57,
-          "confidence": 0.983
-        },
-        {
-          "text": "wish",
-          "start": 129.57,
-          "end": 129.85,
-          "confidence": 0.995
-        },
-        {
-          "text": "you",
-          "start": 129.85,
-          "end": 130.25,
-          "confidence": 0.999
-        },
-        {
-          "text": "were",
-          "start": 130.25,
-          "end": 130.59,
-          "confidence": 0.985
-        }
-      ]
-    },
-    {
-      "id": 28,
-      "seek": 8672,
-      "start": 130.59,
-      "end": 133.61,
-      "text": " You built me up, you set me free",
-      "tokens": [
-        50504,
-        509,
-        3094,
-        385,
-        493,
-        11,
-        291,
-        992,
-        385,
-        1737,
-        50676
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.11226866462013939,
-      "compression_ratio": 1.8223684210526316,
-      "no_speech_prob": 0.004741148091852665,
-      "confidence": 0.992,
-      "words": [
-        {
-          "text": "You",
-          "start": 130.59,
-          "end": 131.09,
-          "confidence": 0.984
-        },
-        {
-          "text": "built",
-          "start": 131.09,
-          "end": 131.41,
-          "confidence": 0.962
-        },
-        {
-          "text": "me",
-          "start": 131.41,
-          "end": 131.81,
-          "confidence": 0.999
-        },
-        {
-          "text": "up,",
-          "start": 131.81,
-          "end": 132.29,
-          "confidence": 0.999
-        },
-        {
-          "text": "you",
-          "start": 132.63,
-          "end": 132.69,
-          "confidence": 0.995
-        },
-        {
-          "text": "set",
-          "start": 132.69,
-          "end": 132.97,
-          "confidence": 0.999
-        },
-        {
-          "text": "me",
-          "start": 132.97,
-          "end": 133.17,
-          "confidence": 0.999
-        },
-        {
-          "text": "free",
-          "start": 133.17,
-          "end": 133.61,
-          "confidence": 0.999
-        }
-      ]
-    },
-    {
-      "id": 29,
-      "seek": 8672,
-      "start": 134.31,
-      "end": 136.63,
-      "text": " You tore down my memories",
-      "tokens": [
-        50676,
-        509,
-        37341,
-        760,
-        452,
-        8495,
-        50816
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.11226866462013939,
-      "compression_ratio": 1.8223684210526316,
-      "no_speech_prob": 0.004741148091852665,
-      "confidence": 0.988,
-      "words": [
-        {
-          "text": "You",
-          "start": 134.31,
-          "end": 134.63,
-          "confidence": 0.948
-        },
-        {
-          "text": "tore",
-          "start": 134.63,
-          "end": 134.93,
+          "text": "don't",
+          "start": 101.69,
+          "end": 102.13,
           "confidence": 0.996
         },
         {
-          "text": "down",
-          "start": 134.93,
-          "end": 135.39,
-          "confidence": 0.999
+          "text": "recognize.",
+          "start": 102.13,
+          "end": 103.27,
+          "confidence": 0.939
         },
         {
-          "text": "my",
-          "start": 135.39,
-          "end": 135.87,
-          "confidence": 0.998
+          "text": "Who",
+          "start": 103.85,
+          "end": 103.99,
+          "confidence": 0.534
         },
         {
-          "text": "memories",
-          "start": 135.87,
-          "end": 136.63,
-          "confidence": 0.997
-        }
-      ]
-    },
-    {
-      "id": 30,
-      "seek": 8672,
-      "start": 137.23,
-      "end": 140.03,
-      "text": " So you be you, now be me",
-      "tokens": [
-        50816,
-        407,
-        291,
-        312,
-        291,
-        11,
-        586,
-        312,
-        385,
-        50992
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.11226866462013939,
-      "compression_ratio": 1.8223684210526316,
-      "no_speech_prob": 0.004741148091852665,
-      "confidence": 0.997,
-      "words": [
-        {
-          "text": "So",
-          "start": 137.23,
-          "end": 137.37,
-          "confidence": 0.997
-        },
-        {
-          "text": "you",
-          "start": 137.37,
-          "end": 137.69,
-          "confidence": 0.998
-        },
-        {
-          "text": "be",
-          "start": 137.69,
-          "end": 138.05,
-          "confidence": 0.998
-        },
-        {
-          "text": "you,",
-          "start": 138.05,
-          "end": 138.65,
-          "confidence": 0.998
-        },
-        {
-          "text": "now",
-          "start": 139.01,
-          "end": 139.21,
-          "confidence": 0.989
-        },
-        {
-          "text": "be",
-          "start": 139.21,
-          "end": 139.63,
-          "confidence": 0.998
-        },
-        {
-          "text": "me",
-          "start": 139.63,
-          "end": 140.03,
-          "confidence": 0.999
-        }
-      ]
-    },
-    {
-      "id": 31,
-      "seek": 8672,
-      "start": 140.61,
-      "end": 142.85,
-      "text": " So long nights we were in Tennessee",
-      "tokens": [
-        50992,
-        407,
-        938,
-        13249,
-        321,
-        645,
-        294,
-        21127,
-        51156
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.11226866462013939,
-      "compression_ratio": 1.8223684210526316,
-      "no_speech_prob": 0.004741148091852665,
-      "confidence": 0.994,
-      "words": [
-        {
-          "text": "So",
-          "start": 140.61,
-          "end": 140.89,
-          "confidence": 0.992
-        },
-        {
-          "text": "long",
-          "start": 140.89,
-          "end": 141.23,
-          "confidence": 1.0
-        },
-        {
-          "text": "nights",
-          "start": 141.23,
-          "end": 141.59,
-          "confidence": 0.997
-        },
-        {
-          "text": "we",
-          "start": 141.59,
-          "end": 141.93,
-          "confidence": 0.99
-        },
-        {
-          "text": "were",
-          "start": 141.93,
-          "end": 142.19,
+          "text": "knows,",
+          "start": 103.99,
+          "end": 104.47,
           "confidence": 0.979
         },
         {
-          "text": "in",
-          "start": 142.19,
-          "end": 142.37,
-          "confidence": 0.996
+          "text": "maybe",
+          "start": 104.77,
+          "end": 104.97,
+          "confidence": 0.974
         },
         {
-          "text": "Tennessee",
-          "start": 142.37,
-          "end": 142.85,
-          "confidence": 1.0
-        }
-      ]
-    },
-    {
-      "id": 32,
-      "seek": 8672,
-      "start": 156.19,
-      "end": 158.53,
-      "text": " So long nights we were in Tennessee",
-      "tokens": [
-        51156,
-        407,
-        938,
-        13249,
-        321,
-        645,
-        294,
-        21127,
-        51316
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.11226866462013939,
-      "compression_ratio": 1.8223684210526316,
-      "no_speech_prob": 0.004741148091852665,
-      "confidence": 0.996,
-      "words": [
-        {
-          "text": "So",
-          "start": 156.19,
-          "end": 156.53,
-          "confidence": 0.996
+          "text": "years",
+          "start": 104.97,
+          "end": 105.85,
+          "confidence": 0.938
         },
         {
-          "text": "long",
-          "start": 156.53,
-          "end": 156.85,
-          "confidence": 1.0
+          "text": "from",
+          "start": 105.85,
+          "end": 106.19,
+          "confidence": 0.991
         },
         {
-          "text": "nights",
-          "start": 156.85,
-          "end": 157.29,
-          "confidence": 0.998
+          "text": "now",
+          "start": 106.19,
+          "end": 106.47,
+          "confidence": 0.988
         },
         {
-          "text": "we",
-          "start": 157.29,
-          "end": 157.59,
-          "confidence": 0.992
+          "text": "you'll",
+          "start": 106.47,
+          "end": 106.93,
+          "confidence": 0.928
         },
         {
-          "text": "were",
-          "start": 157.59,
-          "end": 157.87,
-          "confidence": 0.99
+          "text": "be",
+          "start": 106.93,
+          "end": 107.09,
+          "confidence": 0.985
         },
         {
-          "text": "in",
-          "start": 157.87,
-          "end": 158.09,
+          "text": "the",
+          "start": 107.09,
+          "end": 107.37,
+          "confidence": 0.993
+        },
+        {
+          "text": "one",
+          "start": 107.37,
+          "end": 108.01,
+          "confidence": 0.994
+        },
+        {
+          "text": "I",
+          "start": 108.01,
+          "end": 108.31,
+          "confidence": 0.843
+        },
+        {
+          "text": "think",
+          "start": 108.31,
+          "end": 108.75,
           "confidence": 0.997
         },
         {
-          "text": "Tennessee",
-          "start": 158.09,
-          "end": 158.53,
-          "confidence": 1.0
-        }
-      ]
-    },
-    {
-      "id": 33,
-      "seek": 8672,
-      "start": 159.43,
-      "end": 162.03,
-      "text": " You can't have what's left of me",
-      "tokens": [
-        51316,
-        509,
-        393,
-        380,
-        362,
-        437,
-        311,
-        1411,
-        295,
-        385,
-        51472
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.11226866462013939,
-      "compression_ratio": 1.8223684210526316,
-      "no_speech_prob": 0.004741148091852665,
-      "confidence": 0.998,
-      "words": [
+          "text": "about.",
+          "start": 108.75,
+          "end": 109.27,
+          "confidence": 0.989
+        },
         {
-          "text": "You",
-          "start": 159.43,
-          "end": 159.67,
-          "confidence": 0.996
+          "text": "I",
+          "start": 109.87,
+          "end": 110.15,
+          "confidence": 0.53
+        },
+        {
+          "text": "just",
+          "start": 110.15,
+          "end": 110.69,
+          "confidence": 0.932
         },
         {
           "text": "can't",
-          "start": 159.67,
-          "end": 160.11,
-          "confidence": 0.999
-        },
-        {
-          "text": "have",
-          "start": 160.11,
-          "end": 160.55,
+          "start": 110.69,
+          "end": 111.43,
           "confidence": 0.995
         },
         {
-          "text": "what's",
-          "start": 160.55,
-          "end": 161.01,
-          "confidence": 0.998
+          "text": "imagine",
+          "start": 111.43,
+          "end": 112.07,
+          "confidence": 0.974
         },
         {
-          "text": "left",
-          "start": 161.01,
-          "end": 161.35,
-          "confidence": 1.0
+          "text": "that,",
+          "start": 112.07,
+          "end": 113.07,
+          "confidence": 0.982
         },
         {
-          "text": "of",
-          "start": 161.35,
-          "end": 161.67,
-          "confidence": 0.998
+          "text": "I'm",
+          "start": 113.07,
+          "end": 113.65,
+          "confidence": 0.7
         },
         {
-          "text": "me",
-          "start": 161.67,
-          "end": 162.03,
-          "confidence": 1.0
-        }
-      ]
-    },
-    {
-      "id": 34,
-      "seek": 8672,
-      "start": 162.65,
-      "end": 164.79,
-      "text": " And as far as I can tell",
-      "tokens": [
-        51472,
-        400,
-        382,
-        1400,
-        382,
-        286,
-        393,
-        980,
-        51628
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.11226866462013939,
-      "compression_ratio": 1.8223684210526316,
-      "no_speech_prob": 0.004741148091852665,
-      "confidence": 0.998,
-      "words": [
-        {
-          "text": "And",
-          "start": 162.65,
-          "end": 162.89,
-          "confidence": 0.996
+          "text": "not",
+          "start": 113.65,
+          "end": 113.85,
+          "confidence": 0.983
         },
         {
-          "text": "as",
-          "start": 162.89,
-          "end": 163.05,
-          "confidence": 0.997
+          "text": "one",
+          "start": 113.85,
+          "end": 114.59,
+          "confidence": 0.984
         },
         {
-          "text": "far",
-          "start": 163.05,
-          "end": 163.51,
-          "confidence": 1.0
-        },
-        {
-          "text": "as",
-          "start": 163.51,
-          "end": 164.05,
-          "confidence": 0.996
-        },
-        {
-          "text": "I",
-          "start": 164.05,
-          "end": 164.23,
-          "confidence": 0.999
-        },
-        {
-          "text": "can",
-          "start": 164.23,
-          "end": 164.41,
-          "confidence": 0.999
-        },
-        {
-          "text": "tell",
-          "start": 164.41,
-          "end": 164.79,
-          "confidence": 0.999
-        }
-      ]
-    },
-    {
-      "id": 35,
-      "seek": 8672,
-      "start": 165.75,
-      "end": 168.27,
-      "text": " That's how time I wish you were",
-      "tokens": [
-        51628,
-        663,
-        311,
-        577,
-        565,
-        286,
-        3172,
-        291,
-        645,
-        51768
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.11226866462013939,
-      "compression_ratio": 1.8223684210526316,
-      "no_speech_prob": 0.004741148091852665,
-      "confidence": 0.997,
-      "words": [
-        {
-          "text": "That's",
-          "start": 165.75,
-          "end": 166.07,
+          "text": "for",
+          "start": 114.59,
+          "end": 114.93,
           "confidence": 0.995
         },
         {
-          "text": "how",
-          "start": 166.07,
-          "end": 166.27,
-          "confidence": 0.998
+          "text": "looking",
+          "start": 114.93,
+          "end": 115.27,
+          "confidence": 0.863
         },
         {
-          "text": "time",
-          "start": 166.27,
-          "end": 166.73,
-          "confidence": 0.999
-        },
-        {
-          "text": "I",
-          "start": 166.73,
-          "end": 167.15,
-          "confidence": 0.997
-        },
-        {
-          "text": "wish",
-          "start": 167.15,
-          "end": 167.45,
-          "confidence": 0.997
-        },
-        {
-          "text": "you",
-          "start": 167.45,
-          "end": 167.85,
-          "confidence": 0.999
-        },
-        {
-          "text": "were",
-          "start": 167.85,
-          "end": 168.27,
-          "confidence": 0.994
+          "text": "back.",
+          "start": 115.27,
+          "end": 115.67,
+          "confidence": 0.965
         }
       ]
     },
     {
-      "id": 36,
-      "seek": 11480,
-      "start": 168.69,
-      "end": 171.21,
-      "text": " You built me up, you set me free",
+      "id": 3,
+      "seek": 9000,
+      "start": 131.35,
+      "end": 142.93,
+      "text": " You built me up, you set me free. You tore down my memories. So you be you and I'll be me. So long, Nashville, Tennessee.",
       "tokens": [
-        50368,
+        50380,
         509,
         3094,
         385,
@@ -2465,354 +1104,433 @@
         992,
         385,
         1737,
-        50532
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.18185463704560934,
-      "compression_ratio": 1.2653061224489797,
-      "no_speech_prob": 0.03983789682388306,
-      "confidence": 0.98,
-      "words": [
-        {
-          "text": "You",
-          "start": 168.69,
-          "end": 168.71,
-          "confidence": 0.913
-        },
-        {
-          "text": "built",
-          "start": 168.71,
-          "end": 169.01,
-          "confidence": 0.953
-        },
-        {
-          "text": "me",
-          "start": 169.01,
-          "end": 169.35,
-          "confidence": 0.999
-        },
-        {
-          "text": "up,",
-          "start": 169.35,
-          "end": 169.87,
-          "confidence": 0.997
-        },
-        {
-          "text": "you",
-          "start": 169.95,
-          "end": 170.27,
-          "confidence": 0.987
-        },
-        {
-          "text": "set",
-          "start": 170.27,
-          "end": 170.53,
-          "confidence": 0.999
-        },
-        {
-          "text": "me",
-          "start": 170.53,
-          "end": 170.73,
-          "confidence": 0.999
-        },
-        {
-          "text": "free",
-          "start": 170.73,
-          "end": 171.21,
-          "confidence": 0.999
-        }
-      ]
-    },
-    {
-      "id": 37,
-      "seek": 11480,
-      "start": 171.93,
-      "end": 174.27,
-      "text": " You tore down my memories",
-      "tokens": [
-        50532,
+        13,
         509,
-        37341,
+        220,
+        83,
+        418,
         760,
         452,
         8495,
-        50688
+        13,
+        407,
+        291,
+        312,
+        291,
+        293,
+        286,
+        603,
+        312,
+        385,
+        13,
+        407,
+        938,
+        11,
+        36370,
+        11,
+        21127,
+        13,
+        50980
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.18185463704560934,
-      "compression_ratio": 1.2653061224489797,
-      "no_speech_prob": 0.03983789682388306,
-      "confidence": 0.959,
+      "avg_logprob": -0.15417988676773875,
+      "compression_ratio": 1.174757281553398,
+      "no_speech_prob": 0.926172137260437,
+      "confidence": 0.953,
       "words": [
         {
           "text": "You",
-          "start": 171.93,
-          "end": 172.19,
-          "confidence": 0.828
+          "start": 131.35,
+          "end": 131.37,
+          "confidence": 0.684
         },
         {
-          "text": "tore",
-          "start": 172.19,
-          "end": 172.49,
-          "confidence": 0.992
+          "text": "built",
+          "start": 131.37,
+          "end": 131.61,
+          "confidence": 0.711
         },
         {
-          "text": "down",
-          "start": 172.49,
-          "end": 172.99,
-          "confidence": 0.999
+          "text": "me",
+          "start": 131.61,
+          "end": 132.05,
+          "confidence": 0.994
         },
         {
-          "text": "my",
-          "start": 172.99,
-          "end": 173.47,
+          "text": "up,",
+          "start": 132.05,
+          "end": 132.45,
           "confidence": 0.995
         },
         {
-          "text": "memories",
-          "start": 173.47,
-          "end": 174.27,
-          "confidence": 0.993
+          "text": "you",
+          "start": 132.75,
+          "end": 132.79,
+          "confidence": 0.977
+        },
+        {
+          "text": "set",
+          "start": 132.79,
+          "end": 133.05,
+          "confidence": 0.994
+        },
+        {
+          "text": "me",
+          "start": 133.05,
+          "end": 133.37,
+          "confidence": 0.996
+        },
+        {
+          "text": "free.",
+          "start": 133.37,
+          "end": 134.27,
+          "confidence": 0.964
+        },
+        {
+          "text": "You",
+          "start": 134.29,
+          "end": 134.57,
+          "confidence": 0.894
+        },
+        {
+          "text": "tore",
+          "start": 134.57,
+          "end": 135.07,
+          "confidence": 0.996
+        },
+        {
+          "text": "down",
+          "start": 135.07,
+          "end": 135.65,
+          "confidence": 0.995
+        },
+        {
+          "text": "my",
+          "start": 135.65,
+          "end": 135.97,
+          "confidence": 0.997
+        },
+        {
+          "text": "memories.",
+          "start": 135.97,
+          "end": 136.75,
+          "confidence": 0.96
+        },
+        {
+          "text": "So",
+          "start": 136.91,
+          "end": 137.41,
+          "confidence": 0.877
+        },
+        {
+          "text": "you",
+          "start": 137.41,
+          "end": 137.81,
+          "confidence": 0.995
+        },
+        {
+          "text": "be",
+          "start": 137.81,
+          "end": 138.13,
+          "confidence": 0.991
+        },
+        {
+          "text": "you",
+          "start": 138.13,
+          "end": 138.83,
+          "confidence": 0.998
+        },
+        {
+          "text": "and",
+          "start": 138.83,
+          "end": 139.13,
+          "confidence": 0.89
+        },
+        {
+          "text": "I'll",
+          "start": 139.13,
+          "end": 139.41,
+          "confidence": 0.996
+        },
+        {
+          "text": "be",
+          "start": 139.41,
+          "end": 139.77,
+          "confidence": 0.996
+        },
+        {
+          "text": "me.",
+          "start": 139.77,
+          "end": 140.37,
+          "confidence": 0.999
+        },
+        {
+          "text": "So",
+          "start": 140.71,
+          "end": 140.95,
+          "confidence": 0.966
+        },
+        {
+          "text": "long,",
+          "start": 140.95,
+          "end": 141.33,
+          "confidence": 0.999
+        },
+        {
+          "text": "Nashville,",
+          "start": 141.81,
+          "end": 142.19,
+          "confidence": 0.996
+        },
+        {
+          "text": "Tennessee.",
+          "start": 142.77,
+          "end": 142.93,
+          "confidence": 0.955
         }
       ]
     },
     {
-      "id": 38,
-      "seek": 11480,
-      "start": 175.03,
-      "end": 177.55,
-      "text": " You're not who you used to be",
+      "id": 4,
+      "seek": 12000,
+      "start": 173.69,
+      "end": 180.57,
+      "text": " You tore down my memories. You're not who you used to be. So long, Nashville, Tennessee.",
       "tokens": [
-        50688,
+        50388,
+        509,
+        220,
+        83,
+        418,
+        760,
+        452,
+        8495,
+        13,
         509,
         434,
         406,
         567,
         291,
         1143,
-        281,
+        220,
+        1353,
         312,
-        50852
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.18185463704560934,
-      "compression_ratio": 1.2653061224489797,
-      "no_speech_prob": 0.03983789682388306,
-      "confidence": 0.982,
-      "words": [
-        {
-          "text": "You're",
-          "start": 175.03,
-          "end": 175.37,
-          "confidence": 0.944
-        },
-        {
-          "text": "not",
-          "start": 175.37,
-          "end": 175.73,
-          "confidence": 0.997
-        },
-        {
-          "text": "who",
-          "start": 175.73,
-          "end": 176.17,
-          "confidence": 0.996
-        },
-        {
-          "text": "you",
-          "start": 176.17,
-          "end": 176.57,
-          "confidence": 0.987
-        },
-        {
-          "text": "used",
-          "start": 176.57,
-          "end": 176.93,
-          "confidence": 0.991
-        },
-        {
-          "text": "to",
-          "start": 176.93,
-          "end": 177.17,
-          "confidence": 0.999
-        },
-        {
-          "text": "be",
-          "start": 177.17,
-          "end": 177.55,
-          "confidence": 0.999
-        }
-      ]
-    },
-    {
-      "id": 39,
-      "seek": 11480,
-      "start": 178.29,
-      "end": 180.47,
-      "text": " So long nights we were in Tennessee",
-      "tokens": [
-        50852,
+        13,
         407,
         938,
-        13249,
-        321,
-        645,
-        294,
+        11,
+        36370,
+        11,
         21127,
-        50992
+        13,
+        50688
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.18185463704560934,
-      "compression_ratio": 1.2653061224489797,
-      "no_speech_prob": 0.03983789682388306,
-      "confidence": 0.982,
+      "avg_logprob": -0.19096483503069198,
+      "compression_ratio": 1.0602409638554218,
+      "no_speech_prob": 0.8893300294876099,
+      "confidence": 0.915,
       "words": [
         {
-          "text": "So",
-          "start": 178.29,
-          "end": 178.51,
-          "confidence": 0.994
+          "text": "You",
+          "start": 173.69,
+          "end": 173.71,
+          "confidence": 0.449
         },
         {
-          "text": "long",
-          "start": 178.51,
-          "end": 178.89,
-          "confidence": 0.999
+          "text": "tore",
+          "start": 173.71,
+          "end": 173.73,
+          "confidence": 0.949
         },
         {
-          "text": "nights",
-          "start": 178.89,
-          "end": 179.21,
-          "confidence": 0.998
-        },
-        {
-          "text": "we",
-          "start": 179.21,
-          "end": 179.51,
-          "confidence": 0.903
-        },
-        {
-          "text": "were",
-          "start": 179.51,
-          "end": 179.79,
-          "confidence": 0.991
-        },
-        {
-          "text": "in",
-          "start": 179.79,
-          "end": 180.01,
+          "text": "down",
+          "start": 173.73,
+          "end": 173.75,
           "confidence": 0.993
         },
         {
-          "text": "Tennessee",
-          "start": 180.01,
-          "end": 180.47,
-          "confidence": 0.999
+          "text": "my",
+          "start": 173.75,
+          "end": 173.77,
+          "confidence": 0.995
+        },
+        {
+          "text": "memories.",
+          "start": 173.77,
+          "end": 174.55,
+          "confidence": 0.973
+        },
+        {
+          "text": "You're",
+          "start": 175.07,
+          "end": 175.63,
+          "confidence": 0.949
+        },
+        {
+          "text": "not",
+          "start": 175.63,
+          "end": 175.85,
+          "confidence": 0.99
+        },
+        {
+          "text": "who",
+          "start": 175.85,
+          "end": 176.31,
+          "confidence": 0.991
+        },
+        {
+          "text": "you",
+          "start": 176.31,
+          "end": 176.73,
+          "confidence": 0.976
+        },
+        {
+          "text": "used",
+          "start": 176.73,
+          "end": 177.03,
+          "confidence": 0.98
+        },
+        {
+          "text": "to",
+          "start": 177.03,
+          "end": 177.49,
+          "confidence": 0.995
+        },
+        {
+          "text": "be.",
+          "start": 177.49,
+          "end": 177.63,
+          "confidence": 0.997
+        },
+        {
+          "text": "So",
+          "start": 177.63,
+          "end": 178.51,
+          "confidence": 0.573
+        },
+        {
+          "text": "long,",
+          "start": 178.51,
+          "end": 178.95,
+          "confidence": 0.996
+        },
+        {
+          "text": "Nashville,",
+          "start": 179.07,
+          "end": 179.85,
+          "confidence": 0.998
+        },
+        {
+          "text": "Tennessee.",
+          "start": 180.31,
+          "end": 180.57,
+          "confidence": 0.96
         }
       ]
     }
   ],
-  "language": "en",
+  "language": "no",
   "language_probs": {
-    "en": 0.9423593878746033,
-    "zh": 0.0010948027484118938,
-    "de": 0.0017632112139835954,
-    "es": 0.001044668024405837,
-    "ru": 0.0008526332094334066,
-    "ko": 0.00046356863458640873,
-    "fr": 0.004131742287427187,
-    "ja": 0.0006797784590162337,
-    "pt": 0.00923856720328331,
-    "tr": 0.0006692394963465631,
-    "pl": 0.001847829669713974,
-    "ca": 3.254762486903928e-05,
-    "nl": 0.0007124017574824393,
-    "ar": 0.0013103074161335826,
-    "sv": 0.0005548190092667937,
-    "it": 0.0006958989542908967,
-    "id": 0.00018439485575072467,
-    "hi": 2.3627044356544502e-05,
-    "fi": 3.306018334114924e-05,
-    "vi": 0.0005679761525243521,
-    "he": 0.00026620508288033307,
-    "uk": 0.00011905427527381107,
-    "el": 0.00036671297857537866,
-    "ms": 0.0001277265982935205,
-    "cs": 5.324436642695218e-05,
-    "ro": 0.00020570734341163188,
-    "da": 0.00019475979206617922,
-    "hu": 8.246648940257728e-05,
-    "ta": 7.149764769565081e-06,
-    "no": 0.00010755658149719238,
-    "th": 5.2830015192739666e-05,
-    "ur": 6.0806974943261594e-05,
-    "hr": 1.8400760382064618e-05,
-    "bg": 2.236963700852357e-05,
-    "lt": 4.404842457006453e-06,
-    "la": 0.0068655190989375114,
-    "mi": 0.0041968077421188354,
-    "ml": 7.492889835702954e-06,
-    "cy": 0.0035617847461253405,
-    "sk": 1.0004319847212173e-05,
-    "te": 8.490555046591908e-06,
-    "fa": 6.574801227543503e-05,
-    "lv": 9.325051905761939e-06,
-    "bn": 8.967814210336655e-06,
-    "sr": 4.404842457006453e-06,
-    "az": 1.7936758922587615e-06,
-    "sl": 6.4728686993476e-05,
-    "kn": 2.2016251932654995e-07,
-    "et": 3.141387310279242e-07,
-    "mk": 1.7936758922587615e-06,
-    "br": 0.001556028495542705,
-    "eu": 2.3260739908437245e-05,
-    "is": 2.917550409620162e-05,
-    "hy": 2.5894732971210033e-06,
-    "ne": 1.5891085922703496e-06,
-    "mn": 6.509935246867826e-06,
-    "bs": 4.0190952859120443e-05,
-    "kk": 2.2148940388433402e-06,
-    "sq": 1.3781532288703602e-05,
-    "sw": 6.678339559584856e-05,
-    "gl": 0.0001136023856815882,
-    "mr": 2.9975328175169125e-07,
-    "pa": 1.0964519105982617e-06,
-    "si": 2.2721906134393066e-05,
-    "km": 0.0003391540376469493,
-    "sn": 0.0005051684565842152,
-    "yo": 0.00031122524524107575,
-    "so": 4.5351222865974705e-07,
-    "af": 1.3048093023826368e-05,
-    "oc": 4.1466755646979436e-05,
-    "ka": 9.8285318017588e-07,
-    "be": 2.5348117560497485e-05,
-    "tg": 8.588075672832929e-08,
-    "sd": 1.0987596397171728e-05,
-    "gu": 3.580042573503306e-08,
-    "am": 1.8039472138298152e-07,
-    "yi": 0.0016434936551377177,
-    "lo": 3.1975728234101553e-06,
-    "uz": 6.359993087734495e-10,
-    "fo": 8.710196561878547e-05,
-    "ht": 0.0001118411382776685,
-    "ps": 2.113466507580597e-06,
-    "tk": 7.301764970435443e-09,
-    "nn": 0.0008728528628125787,
-    "mt": 5.97385223954916e-06,
-    "sa": 4.448733670869842e-05,
-    "lb": 4.2183209814083966e-08,
-    "my": 5.98642545810435e-05,
-    "bo": 2.2721906134393066e-05,
-    "tl": 6.128389213699847e-05,
-    "mg": 7.273297519816424e-09,
-    "as": 5.138966798767797e-07,
-    "tt": 2.681327870845962e-08,
-    "haw": 0.008544276468455791,
-    "ln": 1.2089301435480593e-06,
-    "ha": 2.1045982734335666e-08,
-    "ba": 1.1828807267022512e-08,
-    "jw": 0.0006537366425618529,
-    "su": 7.638392673925409e-08
+    "en": 0.001038872404024005,
+    "zh": 5.160608225196484e-07,
+    "de": 6.745874270563945e-05,
+    "es": 7.027264018688584e-06,
+    "ru": 5.33642596565187e-05,
+    "ko": 5.022159257350722e-06,
+    "fr": 8.08833101473283e-06,
+    "ja": 5.294897346175276e-05,
+    "pt": 3.86569354304811e-06,
+    "tr": 1.0923376692062448e-07,
+    "pl": 3.4651855003176024e-06,
+    "ca": 3.1183294595393818e-06,
+    "nl": 5.334832735570672e-07,
+    "ar": 1.6240996956184972e-06,
+    "sv": 8.725901068373787e-08,
+    "it": 1.4532099157804623e-05,
+    "id": 1.0005787771660835e-06,
+    "hi": 2.3909062747407006e-06,
+    "fi": 5.547347541323688e-07,
+    "vi": 7.193910732894437e-06,
+    "he": 2.2507756511913612e-05,
+    "uk": 1.7805101379053667e-05,
+    "el": 1.6756541754148202e-06,
+    "ms": 1.7629436115385033e-06,
+    "cs": 2.9179789180489024e-06,
+    "ro": 9.365718869958073e-05,
+    "da": 1.0692792784539051e-06,
+    "hu": 8.377744052268099e-06,
+    "ta": 1.040437382471282e-06,
+    "no": 0.9975710511207581,
+    "th": 2.7519163268152624e-06,
+    "ur": 1.6240996956184972e-06,
+    "hr": 2.4861490146577125e-06,
+    "bg": 8.312547834066208e-06,
+    "lt": 8.576417712902185e-06,
+    "la": 3.6964338505640626e-05,
+    "mi": 8.93683172762394e-05,
+    "ml": 1.1471693142084405e-06,
+    "cy": 5.378279456635937e-05,
+    "sk": 7.915229502941656e-07,
+    "te": 1.4251022548705805e-05,
+    "fa": 1.118575528380461e-05,
+    "lv": 4.5371425585472025e-06,
+    "bn": 6.8110580286884215e-06,
+    "sr": 1.4195462426869199e-05,
+    "az": 5.634706212731544e-07,
+    "sl": 5.8714986153063364e-06,
+    "kn": 1.0609580840537092e-06,
+    "et": 3.9336589452432236e-07,
+    "mk": 1.8839886024579755e-06,
+    "br": 8.137078111758456e-05,
+    "eu": 4.484283181227511e-06,
+    "is": 5.355712460186624e-07,
+    "hy": 1.2000564311165363e-05,
+    "ne": 2.4476048565702513e-06,
+    "mn": 7.027264018688584e-06,
+    "bs": 4.098966655874392e-06,
+    "kk": 6.335270086310629e-07,
+    "sq": 1.5774445273564197e-05,
+    "sw": 2.286220114910975e-05,
+    "gl": 3.86569354304811e-06,
+    "mr": 1.411042262589035e-06,
+    "pa": 5.041815256845439e-06,
+    "si": 2.4719935026951134e-05,
+    "km": 5.725149094359949e-05,
+    "sn": 6.693376781186089e-05,
+    "yo": 1.030480234476272e-05,
+    "so": 4.5899398060100793e-07,
+    "af": 3.3981627893808763e-06,
+    "oc": 1.9136571154376725e-06,
+    "ka": 3.2995586707329494e-07,
+    "be": 6.499156370409764e-06,
+    "tg": 4.6804677822365193e-07,
+    "sd": 8.609983524365816e-06,
+    "gu": 6.499156370409764e-06,
+    "am": 1.2381502529024146e-05,
+    "yi": 0.00011565119348233566,
+    "lo": 3.880823896906804e-06,
+    "uz": 5.6228721234674595e-08,
+    "fo": 4.8297633838956244e-06,
+    "ht": 1.0426269909658004e-05,
+    "ps": 1.6756541754148202e-06,
+    "tk": 4.374169471077494e-09,
+    "nn": 4.320279174407915e-07,
+    "mt": 1.3255514659249457e-06,
+    "sa": 9.530383977107704e-06,
+    "lb": 7.687850484217051e-06,
+    "my": 6.852106162114069e-05,
+    "bo": 3.445455149631016e-05,
+    "tl": 1.1118746670035762e-06,
+    "mg": 3.8872499885656e-08,
+    "as": 1.1055438335461076e-05,
+    "tt": 2.101741074511665e-06,
+    "haw": 9.587820386514068e-05,
+    "ln": 1.0063085653655435e-07,
+    "ha": 2.5751071461854735e-06,
+    "ba": 4.154151511670534e-08,
+    "jw": 6.837715318397386e-06,
+    "su": 3.652278621757432e-07
   },
   "speech_activity": [
     {

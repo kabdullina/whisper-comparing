@@ -1,0 +1,2037 @@
+{
+  "text": " Dê-me um! Nossa, nossa, assim você me mata! Ai, se eu te pego, ai, ai, se eu te pego, vai! Delicia, delicia, assim você me mata! Ai, se eu te pego, ai, ai, se eu te pego, hein! Um saudado na balada! A galera começou a dança, e passou a menina mais linda! Tomei coragem e comecei a falar! Como é que é? Vai! Nossa, nossa, assim você me mata! Ai, se eu te pego, ai, ai, se eu te pego, Delicia, delicia, assim você me mata! Ai, se eu te pego, ai, ai, se eu te pego, hein! Vai! Um saudado na balada! A galera começou a dança, e passou a menina mais linda! Tomei coragem e comecei a falar! Nossa, nossa, assim você me mata! Ai, se eu te pego, ai, ai, se eu te pego, Delicia, delicia, assim você me mata! Ai, se eu te pego, ai, ai, se eu te pego, hein! Eu quero ver só vocês agora! Nossa, ai, se eu te pego, ai, delicia, delicia, assim você me mata! Ai, se eu te pego, ai, ai, se eu te pego, hein! Que delicia, hein! Ai, se eu te pego!",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 5.5,
+      "text": " Dê-me um! Nossa, nossa, assim você me mata!",
+      "tokens": [
+        50364,
+        413,
+        1307,
+        12,
+        1398,
+        1105,
+        0,
+        18749,
+        5790,
+        11,
+        15821,
+        11,
+        8249,
+        371,
+        905,
+        1307,
+        385,
+        46106,
+        0,
+        50671
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3990153048900848,
+      "compression_ratio": 1.8108108108108107,
+      "no_speech_prob": 0.002578065264970064,
+      "confidence": 0.559,
+      "words": [
+        {
+          "text": "Dê-me",
+          "start": 0.0,
+          "end": 0.44,
+          "confidence": 0.35
+        },
+        {
+          "text": "um!",
+          "start": 0.44,
+          "end": 0.74,
+          "confidence": 0.44
+        },
+        {
+          "text": "Nossa,",
+          "start": 0.86,
+          "end": 1.74,
+          "confidence": 0.5
+        },
+        {
+          "text": "nossa,",
+          "start": 2.12,
+          "end": 2.84,
+          "confidence": 0.492
+        },
+        {
+          "text": "assim",
+          "start": 3.38,
+          "end": 3.82,
+          "confidence": 0.939
+        },
+        {
+          "text": "você",
+          "start": 3.82,
+          "end": 4.54,
+          "confidence": 0.729
+        },
+        {
+          "text": "me",
+          "start": 4.54,
+          "end": 4.8,
+          "confidence": 0.998
+        },
+        {
+          "text": "mata!",
+          "start": 4.8,
+          "end": 5.5,
+          "confidence": 0.986
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 6.26,
+      "end": 10.44,
+      "text": " Ai, se eu te pego, ai, ai, se eu te pego, vai!",
+      "tokens": [
+        50671,
+        16993,
+        11,
+        369,
+        2228,
+        220,
+        975,
+        520,
+        1571,
+        11,
+        9783,
+        11,
+        9783,
+        11,
+        369,
+        2228,
+        220,
+        975,
+        520,
+        1571,
+        11,
+        4405,
+        0,
+        50905
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3990153048900848,
+      "compression_ratio": 1.8108108108108107,
+      "no_speech_prob": 0.002578065264970064,
+      "confidence": 0.927,
+      "words": [
+        {
+          "text": "Ai,",
+          "start": 6.26,
+          "end": 6.48,
+          "confidence": 0.978
+        },
+        {
+          "text": "se",
+          "start": 6.82,
+          "end": 6.86,
+          "confidence": 0.997
+        },
+        {
+          "text": "eu",
+          "start": 6.86,
+          "end": 7.02,
+          "confidence": 0.981
+        },
+        {
+          "text": "te",
+          "start": 7.02,
+          "end": 7.42,
+          "confidence": 0.999
+        },
+        {
+          "text": "pego,",
+          "start": 7.42,
+          "end": 7.94,
+          "confidence": 0.964
+        },
+        {
+          "text": "ai,",
+          "start": 8.2,
+          "end": 8.38,
+          "confidence": 0.94
+        },
+        {
+          "text": "ai,",
+          "start": 8.72,
+          "end": 9.0,
+          "confidence": 0.987
+        },
+        {
+          "text": "se",
+          "start": 9.18,
+          "end": 9.38,
+          "confidence": 0.996
+        },
+        {
+          "text": "eu",
+          "start": 9.38,
+          "end": 9.58,
+          "confidence": 0.97
+        },
+        {
+          "text": "te",
+          "start": 9.58,
+          "end": 9.94,
+          "confidence": 1.0
+        },
+        {
+          "text": "pego,",
+          "start": 9.94,
+          "end": 10.28,
+          "confidence": 0.993
+        },
+        {
+          "text": "vai!",
+          "start": 10.3,
+          "end": 10.44,
+          "confidence": 0.382
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 10.78,
+      "end": 15.54,
+      "text": " Delicia, delicia, assim você me mata!",
+      "tokens": [
+        50905,
+        5831,
+        15341,
+        11,
+        1103,
+        15341,
+        11,
+        8249,
+        371,
+        905,
+        1307,
+        385,
+        46106,
+        0,
+        51173
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3990153048900848,
+      "compression_ratio": 1.8108108108108107,
+      "no_speech_prob": 0.002578065264970064,
+      "confidence": 0.887,
+      "words": [
+        {
+          "text": "Delicia,",
+          "start": 10.78,
+          "end": 11.64,
+          "confidence": 0.688
+        },
+        {
+          "text": "delicia,",
+          "start": 12.14,
+          "end": 12.9,
+          "confidence": 0.951
+        },
+        {
+          "text": "assim",
+          "start": 13.38,
+          "end": 13.74,
+          "confidence": 0.898
+        },
+        {
+          "text": "você",
+          "start": 13.74,
+          "end": 14.64,
+          "confidence": 0.924
+        },
+        {
+          "text": "me",
+          "start": 14.64,
+          "end": 14.82,
+          "confidence": 0.996
+        },
+        {
+          "text": "mata!",
+          "start": 14.82,
+          "end": 15.54,
+          "confidence": 0.996
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 16.24,
+      "end": 20.86,
+      "text": " Ai, se eu te pego, ai, ai, se eu te pego, hein!",
+      "tokens": [
+        51173,
+        16993,
+        11,
+        369,
+        2228,
+        220,
+        975,
+        520,
+        1571,
+        11,
+        9783,
+        11,
+        9783,
+        11,
+        369,
+        2228,
+        220,
+        975,
+        520,
+        1571,
+        11,
+        16464,
+        0,
+        51443
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3990153048900848,
+      "compression_ratio": 1.8108108108108107,
+      "no_speech_prob": 0.002578065264970064,
+      "confidence": 0.95,
+      "words": [
+        {
+          "text": "Ai,",
+          "start": 16.24,
+          "end": 16.5,
+          "confidence": 0.998
+        },
+        {
+          "text": "se",
+          "start": 16.68,
+          "end": 16.88,
+          "confidence": 0.999
+        },
+        {
+          "text": "eu",
+          "start": 16.88,
+          "end": 17.02,
+          "confidence": 0.988
+        },
+        {
+          "text": "te",
+          "start": 17.02,
+          "end": 17.5,
+          "confidence": 0.999
+        },
+        {
+          "text": "pego,",
+          "start": 17.5,
+          "end": 17.8,
+          "confidence": 0.996
+        },
+        {
+          "text": "ai,",
+          "start": 18.14,
+          "end": 18.4,
+          "confidence": 0.996
+        },
+        {
+          "text": "ai,",
+          "start": 18.7,
+          "end": 18.92,
+          "confidence": 0.998
+        },
+        {
+          "text": "se",
+          "start": 19.38,
+          "end": 19.5,
+          "confidence": 0.996
+        },
+        {
+          "text": "eu",
+          "start": 19.5,
+          "end": 19.7,
+          "confidence": 0.987
+        },
+        {
+          "text": "te",
+          "start": 19.7,
+          "end": 19.86,
+          "confidence": 1.0
+        },
+        {
+          "text": "pego,",
+          "start": 19.86,
+          "end": 20.42,
+          "confidence": 0.997
+        },
+        {
+          "text": "hein!",
+          "start": 20.84,
+          "end": 20.86,
+          "confidence": 0.463
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 30.94,
+      "end": 34.26,
+      "text": " Um saudado na balada!",
+      "tokens": [
+        51473,
+        3301,
+        47863,
+        1573,
+        1667,
+        3119,
+        1538,
+        0,
+        51713
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3990153048900848,
+      "compression_ratio": 1.8108108108108107,
+      "no_speech_prob": 0.002578065264970064,
+      "confidence": 0.708,
+      "words": [
+        {
+          "text": "Um",
+          "start": 30.94,
+          "end": 31.42,
+          "confidence": 0.44
+        },
+        {
+          "text": "saudado",
+          "start": 31.42,
+          "end": 31.9,
+          "confidence": 0.56
+        },
+        {
+          "text": "na",
+          "start": 31.9,
+          "end": 32.7,
+          "confidence": 0.962
+        },
+        {
+          "text": "balada!",
+          "start": 32.7,
+          "end": 34.26,
+          "confidence": 0.975
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 2698,
+      "start": 36.36,
+      "end": 44.78,
+      "text": " A galera começou a dança, e passou a menina mais linda!",
+      "tokens": [
+        50388,
+        316,
+        7660,
+        260,
+        64,
+        37393,
+        257,
+        3277,
+        5297,
+        11,
+        308,
+        44740,
+        257,
+        1706,
+        1426,
+        2420,
+        287,
+        6837,
+        0,
+        50860
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3098374137395545,
+      "compression_ratio": 1.3623188405797102,
+      "no_speech_prob": 0.00038327471702359617,
+      "confidence": 0.784,
+      "words": [
+        {
+          "text": "A",
+          "start": 36.36,
+          "end": 36.5,
+          "confidence": 0.995
+        },
+        {
+          "text": "galera",
+          "start": 36.5,
+          "end": 37.24,
+          "confidence": 0.546
+        },
+        {
+          "text": "começou",
+          "start": 37.24,
+          "end": 37.86,
+          "confidence": 0.591
+        },
+        {
+          "text": "a",
+          "start": 37.86,
+          "end": 38.06,
+          "confidence": 0.977
+        },
+        {
+          "text": "dança,",
+          "start": 38.06,
+          "end": 40.34,
+          "confidence": 0.661
+        },
+        {
+          "text": "e",
+          "start": 41.08,
+          "end": 41.5,
+          "confidence": 0.782
+        },
+        {
+          "text": "passou",
+          "start": 41.5,
+          "end": 41.9,
+          "confidence": 0.69
+        },
+        {
+          "text": "a",
+          "start": 41.9,
+          "end": 42.22,
+          "confidence": 0.996
+        },
+        {
+          "text": "menina",
+          "start": 42.22,
+          "end": 42.92,
+          "confidence": 0.999
+        },
+        {
+          "text": "mais",
+          "start": 42.92,
+          "end": 43.22,
+          "confidence": 0.971
+        },
+        {
+          "text": "linda!",
+          "start": 43.22,
+          "end": 44.78,
+          "confidence": 0.981
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 2698,
+      "start": 45.22,
+      "end": 49.6,
+      "text": " Tomei coragem e comecei a falar!",
+      "tokens": [
+        50860,
+        314,
+        423,
+        72,
+        1181,
+        14767,
+        308,
+        808,
+        384,
+        72,
+        257,
+        283,
+        12031,
+        0,
+        51078
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3098374137395545,
+      "compression_ratio": 1.3623188405797102,
+      "no_speech_prob": 0.00038327471702359617,
+      "confidence": 0.866,
+      "words": [
+        {
+          "text": "Tomei",
+          "start": 45.22,
+          "end": 46.08,
+          "confidence": 0.833
+        },
+        {
+          "text": "coragem",
+          "start": 46.08,
+          "end": 46.62,
+          "confidence": 0.937
+        },
+        {
+          "text": "e",
+          "start": 46.62,
+          "end": 47.14,
+          "confidence": 0.594
+        },
+        {
+          "text": "comecei",
+          "start": 47.14,
+          "end": 47.7,
+          "confidence": 0.994
+        },
+        {
+          "text": "a",
+          "start": 47.7,
+          "end": 48.12,
+          "confidence": 0.996
+        },
+        {
+          "text": "falar!",
+          "start": 48.12,
+          "end": 49.6,
+          "confidence": 0.776
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 2698,
+      "start": 50.06,
+      "end": 50.76,
+      "text": " Como é que é? Vai!",
+      "tokens": [
+        51078,
+        11913,
+        1136,
+        631,
+        1136,
+        30,
+        24206,
+        0,
+        51130
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3098374137395545,
+      "compression_ratio": 1.3623188405797102,
+      "no_speech_prob": 0.00038327471702359617,
+      "confidence": 0.848,
+      "words": [
+        {
+          "text": "Como",
+          "start": 50.06,
+          "end": 50.26,
+          "confidence": 0.931
+        },
+        {
+          "text": "é",
+          "start": 50.26,
+          "end": 50.34,
+          "confidence": 0.797
+        },
+        {
+          "text": "que",
+          "start": 50.34,
+          "end": 50.36,
+          "confidence": 0.935
+        },
+        {
+          "text": "é?",
+          "start": 50.36,
+          "end": 50.62,
+          "confidence": 0.713
+        },
+        {
+          "text": "Vai!",
+          "start": 50.72,
+          "end": 50.76,
+          "confidence": 0.889
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seek": 2698,
+      "start": 51.16,
+      "end": 60.42,
+      "text": " Nossa, nossa, assim você me mata! Ai, se eu te pego, ai, ai, se eu te pego,",
+      "tokens": [
+        51130,
+        36016,
+        11,
+        15821,
+        11,
+        8249,
+        371,
+        905,
+        1307,
+        385,
+        46106,
+        0,
+        16993,
+        11,
+        369,
+        2228,
+        220,
+        975,
+        520,
+        1571,
+        11,
+        9783,
+        11,
+        9783,
+        11,
+        369,
+        2228,
+        220,
+        975,
+        520,
+        1571,
+        11,
+        51604
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3098374137395545,
+      "compression_ratio": 1.3623188405797102,
+      "no_speech_prob": 0.00038327471702359617,
+      "confidence": 0.906,
+      "words": [
+        {
+          "text": "Nossa,",
+          "start": 51.16,
+          "end": 51.64,
+          "confidence": 0.338
+        },
+        {
+          "text": "nossa,",
+          "start": 52.14,
+          "end": 52.92,
+          "confidence": 0.67
+        },
+        {
+          "text": "assim",
+          "start": 53.38,
+          "end": 53.82,
+          "confidence": 0.934
+        },
+        {
+          "text": "você",
+          "start": 53.82,
+          "end": 54.5,
+          "confidence": 0.929
+        },
+        {
+          "text": "me",
+          "start": 54.5,
+          "end": 54.82,
+          "confidence": 0.999
+        },
+        {
+          "text": "mata!",
+          "start": 54.82,
+          "end": 55.58,
+          "confidence": 0.996
+        },
+        {
+          "text": "Ai,",
+          "start": 56.12,
+          "end": 56.44,
+          "confidence": 0.633
+        },
+        {
+          "text": "se",
+          "start": 56.7,
+          "end": 56.84,
+          "confidence": 0.999
+        },
+        {
+          "text": "eu",
+          "start": 56.84,
+          "end": 56.96,
+          "confidence": 0.994
+        },
+        {
+          "text": "te",
+          "start": 56.96,
+          "end": 57.26,
+          "confidence": 1.0
+        },
+        {
+          "text": "pego,",
+          "start": 57.26,
+          "end": 57.86,
+          "confidence": 0.996
+        },
+        {
+          "text": "ai,",
+          "start": 58.06,
+          "end": 58.38,
+          "confidence": 0.997
+        },
+        {
+          "text": "ai,",
+          "start": 58.7,
+          "end": 58.96,
+          "confidence": 0.997
+        },
+        {
+          "text": "se",
+          "start": 59.24,
+          "end": 59.46,
+          "confidence": 0.999
+        },
+        {
+          "text": "eu",
+          "start": 59.46,
+          "end": 59.58,
+          "confidence": 0.989
+        },
+        {
+          "text": "te",
+          "start": 59.58,
+          "end": 59.88,
+          "confidence": 1.0
+        },
+        {
+          "text": "pego,",
+          "start": 59.88,
+          "end": 60.42,
+          "confidence": 0.999
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "seek": 5178,
+      "start": 60.62,
+      "end": 70.74,
+      "text": " Delicia, delicia, assim você me mata! Ai, se eu te pego, ai, ai, se eu te pego, hein!",
+      "tokens": [
+        50372,
+        5831,
+        15341,
+        11,
+        1103,
+        15341,
+        11,
+        8249,
+        371,
+        905,
+        1307,
+        385,
+        46106,
+        0,
+        16993,
+        11,
+        369,
+        2228,
+        220,
+        975,
+        520,
+        1571,
+        11,
+        9783,
+        11,
+        9783,
+        11,
+        369,
+        2228,
+        220,
+        975,
+        520,
+        1571,
+        11,
+        16464,
+        0,
+        50872
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2805447645590339,
+      "compression_ratio": 1.368,
+      "no_speech_prob": 0.17604361474514008,
+      "confidence": 0.931,
+      "words": [
+        {
+          "text": "Delicia,",
+          "start": 60.62,
+          "end": 61.64,
+          "confidence": 0.933
+        },
+        {
+          "text": "delicia,",
+          "start": 62.14,
+          "end": 62.88,
+          "confidence": 0.972
+        },
+        {
+          "text": "assim",
+          "start": 63.28,
+          "end": 63.82,
+          "confidence": 0.951
+        },
+        {
+          "text": "você",
+          "start": 63.82,
+          "end": 64.52,
+          "confidence": 0.882
+        },
+        {
+          "text": "me",
+          "start": 64.52,
+          "end": 64.74,
+          "confidence": 0.999
+        },
+        {
+          "text": "mata!",
+          "start": 64.74,
+          "end": 65.54,
+          "confidence": 0.996
+        },
+        {
+          "text": "Ai,",
+          "start": 66.12,
+          "end": 66.46,
+          "confidence": 0.638
+        },
+        {
+          "text": "se",
+          "start": 66.78,
+          "end": 66.86,
+          "confidence": 0.999
+        },
+        {
+          "text": "eu",
+          "start": 66.86,
+          "end": 67.0,
+          "confidence": 0.993
+        },
+        {
+          "text": "te",
+          "start": 67.0,
+          "end": 67.42,
+          "confidence": 1.0
+        },
+        {
+          "text": "pego,",
+          "start": 67.42,
+          "end": 67.9,
+          "confidence": 0.998
+        },
+        {
+          "text": "ai,",
+          "start": 68.04,
+          "end": 68.46,
+          "confidence": 0.994
+        },
+        {
+          "text": "ai,",
+          "start": 68.72,
+          "end": 69.0,
+          "confidence": 0.996
+        },
+        {
+          "text": "se",
+          "start": 69.26,
+          "end": 69.44,
+          "confidence": 0.996
+        },
+        {
+          "text": "eu",
+          "start": 69.44,
+          "end": 69.7,
+          "confidence": 0.985
+        },
+        {
+          "text": "te",
+          "start": 69.7,
+          "end": 69.9,
+          "confidence": 1.0
+        },
+        {
+          "text": "pego,",
+          "start": 69.9,
+          "end": 70.34,
+          "confidence": 0.996
+        },
+        {
+          "text": "hein!",
+          "start": 70.62,
+          "end": 70.74,
+          "confidence": 0.48
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "seek": 5178,
+      "start": 70.74,
+      "end": 71.18,
+      "text": " Vai!",
+      "tokens": [
+        50872,
+        24206,
+        0,
+        50946
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2805447645590339,
+      "compression_ratio": 1.368,
+      "no_speech_prob": 0.17604361474514008,
+      "confidence": 0.375,
+      "words": [
+        {
+          "text": "Vai!",
+          "start": 70.74,
+          "end": 71.18,
+          "confidence": 0.375
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "seek": 5178,
+      "start": 80.78,
+      "end": 85.0,
+      "text": " Um saudado na balada!",
+      "tokens": [
+        50946,
+        3301,
+        47863,
+        1573,
+        1667,
+        3119,
+        1538,
+        0,
+        51212
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2805447645590339,
+      "compression_ratio": 1.368,
+      "no_speech_prob": 0.17604361474514008,
+      "confidence": 0.972,
+      "words": [
+        {
+          "text": "Um",
+          "start": 80.78,
+          "end": 81.4,
+          "confidence": 0.874
+        },
+        {
+          "text": "saudado",
+          "start": 81.4,
+          "end": 81.94,
+          "confidence": 0.986
+        },
+        {
+          "text": "na",
+          "start": 81.94,
+          "end": 82.74,
+          "confidence": 0.997
+        },
+        {
+          "text": "balada!",
+          "start": 82.74,
+          "end": 85.0,
+          "confidence": 0.996
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "seek": 5178,
+      "start": 86.26,
+      "end": 94.46,
+      "text": " A galera começou a dança, e passou a menina mais linda!",
+      "tokens": [
+        51212,
+        316,
+        7660,
+        1663,
+        37393,
+        257,
+        3277,
+        5297,
+        11,
+        308,
+        44740,
+        257,
+        1706,
+        1426,
+        2420,
+        287,
+        6837,
+        0,
+        51684
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2805447645590339,
+      "compression_ratio": 1.368,
+      "no_speech_prob": 0.17604361474514008,
+      "confidence": 0.907,
+      "words": [
+        {
+          "text": "A",
+          "start": 86.26,
+          "end": 86.48,
+          "confidence": 0.996
+        },
+        {
+          "text": "galera",
+          "start": 86.48,
+          "end": 87.06,
+          "confidence": 0.814
+        },
+        {
+          "text": "começou",
+          "start": 87.06,
+          "end": 87.9,
+          "confidence": 0.788
+        },
+        {
+          "text": "a",
+          "start": 87.9,
+          "end": 88.14,
+          "confidence": 0.99
+        },
+        {
+          "text": "dança,",
+          "start": 88.14,
+          "end": 89.86,
+          "confidence": 0.895
+        },
+        {
+          "text": "e",
+          "start": 90.86,
+          "end": 91.5,
+          "confidence": 0.979
+        },
+        {
+          "text": "passou",
+          "start": 91.5,
+          "end": 91.92,
+          "confidence": 0.609
+        },
+        {
+          "text": "a",
+          "start": 91.92,
+          "end": 91.94,
+          "confidence": 0.996
+        },
+        {
+          "text": "menina",
+          "start": 91.94,
+          "end": 93.2,
+          "confidence": 0.998
+        },
+        {
+          "text": "mais",
+          "start": 93.2,
+          "end": 93.22,
+          "confidence": 0.965
+        },
+        {
+          "text": "linda!",
+          "start": 93.22,
+          "end": 94.46,
+          "confidence": 0.992
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "seek": 7818,
+      "start": 95.7,
+      "end": 99.64,
+      "text": " Tomei coragem e comecei a falar!",
+      "tokens": [
+        50366,
+        314,
+        423,
+        72,
+        1181,
+        14767,
+        308,
+        808,
+        384,
+        72,
+        257,
+        283,
+        12031,
+        0,
+        50624
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.18373096948382497,
+      "compression_ratio": 1.8317757009345794,
+      "no_speech_prob": 0.10292305052280426,
+      "confidence": 0.933,
+      "words": [
+        {
+          "text": "Tomei",
+          "start": 95.7,
+          "end": 96.0,
+          "confidence": 0.965
+        },
+        {
+          "text": "coragem",
+          "start": 96.0,
+          "end": 96.62,
+          "confidence": 0.974
+        },
+        {
+          "text": "e",
+          "start": 96.62,
+          "end": 97.2,
+          "confidence": 0.904
+        },
+        {
+          "text": "comecei",
+          "start": 97.2,
+          "end": 97.76,
+          "confidence": 0.996
+        },
+        {
+          "text": "a",
+          "start": 97.76,
+          "end": 97.9,
+          "confidence": 0.999
+        },
+        {
+          "text": "falar!",
+          "start": 97.9,
+          "end": 99.64,
+          "confidence": 0.756
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "seek": 7818,
+      "start": 101.3,
+      "end": 110.44,
+      "text": " Nossa, nossa, assim você me mata! Ai, se eu te pego, ai, ai, se eu te pego,",
+      "tokens": [
+        50624,
+        36016,
+        11,
+        15821,
+        11,
+        8249,
+        371,
+        905,
+        1307,
+        385,
+        46106,
+        0,
+        16993,
+        11,
+        369,
+        2228,
+        220,
+        975,
+        520,
+        1571,
+        11,
+        9783,
+        11,
+        9783,
+        11,
+        369,
+        2228,
+        220,
+        975,
+        520,
+        1571,
+        11,
+        51106
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.18373096948382497,
+      "compression_ratio": 1.8317757009345794,
+      "no_speech_prob": 0.10292305052280426,
+      "confidence": 0.953,
+      "words": [
+        {
+          "text": "Nossa,",
+          "start": 101.3,
+          "end": 101.62,
+          "confidence": 0.685
+        },
+        {
+          "text": "nossa,",
+          "start": 102.44,
+          "end": 102.88,
+          "confidence": 0.665
+        },
+        {
+          "text": "assim",
+          "start": 103.42,
+          "end": 103.76,
+          "confidence": 0.913
+        },
+        {
+          "text": "você",
+          "start": 103.76,
+          "end": 104.56,
+          "confidence": 0.951
+        },
+        {
+          "text": "me",
+          "start": 104.56,
+          "end": 104.8,
+          "confidence": 0.999
+        },
+        {
+          "text": "mata!",
+          "start": 104.8,
+          "end": 105.58,
+          "confidence": 0.995
+        },
+        {
+          "text": "Ai,",
+          "start": 106.14,
+          "end": 106.5,
+          "confidence": 0.947
+        },
+        {
+          "text": "se",
+          "start": 106.76,
+          "end": 106.86,
+          "confidence": 1.0
+        },
+        {
+          "text": "eu",
+          "start": 106.86,
+          "end": 107.0,
+          "confidence": 0.997
+        },
+        {
+          "text": "te",
+          "start": 107.0,
+          "end": 107.5,
+          "confidence": 1.0
+        },
+        {
+          "text": "pego,",
+          "start": 107.5,
+          "end": 107.86,
+          "confidence": 0.998
+        },
+        {
+          "text": "ai,",
+          "start": 108.2,
+          "end": 108.38,
+          "confidence": 0.999
+        },
+        {
+          "text": "ai,",
+          "start": 108.64,
+          "end": 108.98,
+          "confidence": 0.999
+        },
+        {
+          "text": "se",
+          "start": 109.3,
+          "end": 109.4,
+          "confidence": 0.999
+        },
+        {
+          "text": "eu",
+          "start": 109.4,
+          "end": 109.56,
+          "confidence": 0.997
+        },
+        {
+          "text": "te",
+          "start": 109.56,
+          "end": 109.74,
+          "confidence": 1.0
+        },
+        {
+          "text": "pego,",
+          "start": 109.74,
+          "end": 110.44,
+          "confidence": 0.998
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "seek": 7818,
+      "start": 111.1,
+      "end": 120.62,
+      "text": " Delicia, delicia, assim você me mata! Ai, se eu te pego, ai, ai, se eu te pego, hein!",
+      "tokens": [
+        51106,
+        5831,
+        15341,
+        11,
+        1103,
+        15341,
+        11,
+        8249,
+        371,
+        905,
+        1307,
+        385,
+        46106,
+        0,
+        16993,
+        11,
+        369,
+        2228,
+        220,
+        975,
+        520,
+        1571,
+        11,
+        9783,
+        11,
+        9783,
+        11,
+        369,
+        2228,
+        220,
+        975,
+        520,
+        1571,
+        11,
+        16464,
+        0,
+        51646
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.18373096948382497,
+      "compression_ratio": 1.8317757009345794,
+      "no_speech_prob": 0.10292305052280426,
+      "confidence": 0.986,
+      "words": [
+        {
+          "text": "Delicia,",
+          "start": 111.1,
+          "end": 111.64,
+          "confidence": 0.989
+        },
+        {
+          "text": "delicia,",
+          "start": 112.16,
+          "end": 112.9,
+          "confidence": 0.988
+        },
+        {
+          "text": "assim",
+          "start": 113.34,
+          "end": 113.84,
+          "confidence": 0.939
+        },
+        {
+          "text": "você",
+          "start": 113.84,
+          "end": 114.5,
+          "confidence": 0.946
+        },
+        {
+          "text": "me",
+          "start": 114.5,
+          "end": 114.88,
+          "confidence": 0.999
+        },
+        {
+          "text": "mata!",
+          "start": 114.88,
+          "end": 115.64,
+          "confidence": 0.997
+        },
+        {
+          "text": "Ai,",
+          "start": 115.94,
+          "end": 116.52,
+          "confidence": 0.97
+        },
+        {
+          "text": "se",
+          "start": 116.74,
+          "end": 116.88,
+          "confidence": 1.0
+        },
+        {
+          "text": "eu",
+          "start": 116.88,
+          "end": 116.98,
+          "confidence": 0.997
+        },
+        {
+          "text": "te",
+          "start": 116.98,
+          "end": 117.28,
+          "confidence": 1.0
+        },
+        {
+          "text": "pego,",
+          "start": 117.28,
+          "end": 117.84,
+          "confidence": 0.998
+        },
+        {
+          "text": "ai,",
+          "start": 118.14,
+          "end": 118.4,
+          "confidence": 0.999
+        },
+        {
+          "text": "ai,",
+          "start": 118.68,
+          "end": 118.94,
+          "confidence": 0.999
+        },
+        {
+          "text": "se",
+          "start": 119.28,
+          "end": 119.44,
+          "confidence": 0.997
+        },
+        {
+          "text": "eu",
+          "start": 119.44,
+          "end": 119.56,
+          "confidence": 0.996
+        },
+        {
+          "text": "te",
+          "start": 119.56,
+          "end": 120.0,
+          "confidence": 1.0
+        },
+        {
+          "text": "pego,",
+          "start": 120.0,
+          "end": 120.38,
+          "confidence": 0.998
+        },
+        {
+          "text": "hein!",
+          "start": 120.38,
+          "end": 120.62,
+          "confidence": 0.974
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "seek": 10382,
+      "start": 128.83,
+      "end": 130.01,
+      "text": " Eu quero ver só vocês agora!",
+      "tokens": [
+        50394,
+        2186,
+        18738,
+        1306,
+        6238,
+        2329,
+        11987,
+        9851,
+        0,
+        50510
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.30470690727233884,
+      "compression_ratio": 1.6972477064220184,
+      "no_speech_prob": 0.5097829699516296,
+      "confidence": 0.693,
+      "words": [
+        {
+          "text": "Eu",
+          "start": 128.83,
+          "end": 128.99,
+          "confidence": 0.59
+        },
+        {
+          "text": "quero",
+          "start": 128.99,
+          "end": 129.05,
+          "confidence": 0.895
+        },
+        {
+          "text": "ver",
+          "start": 129.05,
+          "end": 129.25,
+          "confidence": 0.723
+        },
+        {
+          "text": "só",
+          "start": 129.25,
+          "end": 129.43,
+          "confidence": 0.923
+        },
+        {
+          "text": "vocês",
+          "start": 129.43,
+          "end": 129.73,
+          "confidence": 0.678
+        },
+        {
+          "text": "agora!",
+          "start": 129.73,
+          "end": 130.01,
+          "confidence": 0.474
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "seek": 10382,
+      "start": 131.31,
+      "end": 145.38,
+      "text": " Nossa, ai, se eu te pego, ai, delicia, delicia, assim você me mata!",
+      "tokens": [
+        50510,
+        36016,
+        11,
+        9783,
+        11,
+        369,
+        2228,
+        220,
+        975,
+        520,
+        1571,
+        11,
+        9783,
+        11,
+        1103,
+        15341,
+        11,
+        1103,
+        15341,
+        11,
+        8249,
+        371,
+        905,
+        1307,
+        385,
+        46106,
+        0,
+        51000
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.30470690727233884,
+      "compression_ratio": 1.6972477064220184,
+      "no_speech_prob": 0.5097829699516296,
+      "confidence": 0.841,
+      "words": [
+        {
+          "text": "Nossa,",
+          "start": 131.31,
+          "end": 131.63,
+          "confidence": 0.505
+        },
+        {
+          "text": "ai,",
+          "start": 135.98,
+          "end": 136.55,
+          "confidence": 0.716
+        },
+        {
+          "text": "se",
+          "start": 136.83,
+          "end": 136.97,
+          "confidence": 0.998
+        },
+        {
+          "text": "eu",
+          "start": 136.97,
+          "end": 137.09,
+          "confidence": 0.995
+        },
+        {
+          "text": "te",
+          "start": 137.09,
+          "end": 137.29,
+          "confidence": 1.0
+        },
+        {
+          "text": "pego,",
+          "start": 137.29,
+          "end": 137.95,
+          "confidence": 0.995
+        },
+        {
+          "text": "ai,",
+          "start": 138.23,
+          "end": 138.32,
+          "confidence": 0.671
+        },
+        {
+          "text": "delicia,",
+          "start": 140.64,
+          "end": 141.68,
+          "confidence": 0.519
+        },
+        {
+          "text": "delicia,",
+          "start": 142.16,
+          "end": 142.94,
+          "confidence": 0.974
+        },
+        {
+          "text": "assim",
+          "start": 143.38,
+          "end": 143.8,
+          "confidence": 0.958
+        },
+        {
+          "text": "você",
+          "start": 143.8,
+          "end": 144.48,
+          "confidence": 0.861
+        },
+        {
+          "text": "me",
+          "start": 144.48,
+          "end": 144.82,
+          "confidence": 0.999
+        },
+        {
+          "text": "mata!",
+          "start": 144.82,
+          "end": 145.38,
+          "confidence": 0.998
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "seek": 10382,
+      "start": 146.22,
+      "end": 150.74,
+      "text": " Ai, se eu te pego, ai, ai, se eu te pego, hein!",
+      "tokens": [
+        51000,
+        16993,
+        11,
+        369,
+        2228,
+        220,
+        975,
+        520,
+        1571,
+        11,
+        9783,
+        11,
+        9783,
+        11,
+        369,
+        2228,
+        220,
+        975,
+        520,
+        1571,
+        11,
+        16464,
+        0,
+        51280
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.30470690727233884,
+      "compression_ratio": 1.6972477064220184,
+      "no_speech_prob": 0.5097829699516296,
+      "confidence": 0.997,
+      "words": [
+        {
+          "text": "Ai,",
+          "start": 146.22,
+          "end": 146.46,
+          "confidence": 0.998
+        },
+        {
+          "text": "se",
+          "start": 146.7,
+          "end": 146.88,
+          "confidence": 0.999
+        },
+        {
+          "text": "eu",
+          "start": 146.88,
+          "end": 147.02,
+          "confidence": 0.997
+        },
+        {
+          "text": "te",
+          "start": 147.02,
+          "end": 147.44,
+          "confidence": 1.0
+        },
+        {
+          "text": "pego,",
+          "start": 147.44,
+          "end": 147.86,
+          "confidence": 0.997
+        },
+        {
+          "text": "ai,",
+          "start": 148.12,
+          "end": 148.36,
+          "confidence": 0.997
+        },
+        {
+          "text": "ai,",
+          "start": 148.7,
+          "end": 148.92,
+          "confidence": 0.994
+        },
+        {
+          "text": "se",
+          "start": 149.32,
+          "end": 149.42,
+          "confidence": 0.993
+        },
+        {
+          "text": "eu",
+          "start": 149.42,
+          "end": 149.6,
+          "confidence": 0.997
+        },
+        {
+          "text": "te",
+          "start": 149.6,
+          "end": 149.78,
+          "confidence": 1.0
+        },
+        {
+          "text": "pego,",
+          "start": 149.78,
+          "end": 150.34,
+          "confidence": 0.998
+        },
+        {
+          "text": "hein!",
+          "start": 150.72,
+          "end": 150.74,
+          "confidence": 0.987
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "seek": 10382,
+      "start": 157.53,
+      "end": 160.73,
+      "text": " Que delicia, hein! Ai, se eu te pego!",
+      "tokens": [
+        51280,
+        4493,
+        1103,
+        15341,
+        11,
+        16464,
+        0,
+        16993,
+        11,
+        369,
+        2228,
+        220,
+        975,
+        520,
+        1571,
+        0,
+        51486
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.30470690727233884,
+      "compression_ratio": 1.6972477064220184,
+      "no_speech_prob": 0.5097829699516296,
+      "confidence": 0.929,
+      "words": [
+        {
+          "text": "Que",
+          "start": 157.53,
+          "end": 157.81,
+          "confidence": 0.865
+        },
+        {
+          "text": "delicia,",
+          "start": 157.81,
+          "end": 158.51,
+          "confidence": 0.746
+        },
+        {
+          "text": "hein!",
+          "start": 159.33,
+          "end": 159.35,
+          "confidence": 0.982
+        },
+        {
+          "text": "Ai,",
+          "start": 159.49,
+          "end": 159.73,
+          "confidence": 0.958
+        },
+        {
+          "text": "se",
+          "start": 159.79,
+          "end": 160.01,
+          "confidence": 0.998
+        },
+        {
+          "text": "eu",
+          "start": 160.01,
+          "end": 160.05,
+          "confidence": 0.995
+        },
+        {
+          "text": "te",
+          "start": 160.05,
+          "end": 160.23,
+          "confidence": 0.999
+        },
+        {
+          "text": "pego!",
+          "start": 160.23,
+          "end": 160.73,
+          "confidence": 0.995
+        }
+      ]
+    }
+  ],
+  "language": "pt",
+  "language_probs": {
+    "en": 1.7972197383642197e-05,
+    "zh": 3.546383959474042e-05,
+    "de": 2.9631142751895823e-05,
+    "es": 0.00015047937631607056,
+    "ru": 0.00017592820222489536,
+    "ko": 5.7115528761642054e-05,
+    "fr": 2.0049435988767073e-05,
+    "ja": 0.00014471459144260734,
+    "pt": 0.9061417579650879,
+    "tr": 2.052489435300231e-05,
+    "pl": 1.4783526239625644e-05,
+    "ca": 1.86881279660156e-05,
+    "nl": 1.3912912208979833e-06,
+    "ar": 8.390560651605483e-06,
+    "sv": 2.9277188673404453e-07,
+    "it": 6.573957216460258e-05,
+    "id": 1.0900688721449114e-05,
+    "hi": 7.639690920768771e-06,
+    "fi": 3.6087349144509062e-06,
+    "vi": 8.069122486631386e-06,
+    "he": 4.762158368976088e-06,
+    "uk": 1.0081489563162904e-05,
+    "el": 1.6883317584870383e-05,
+    "ms": 2.9684645141969668e-06,
+    "cs": 1.586040889378637e-05,
+    "ro": 0.0001458496117265895,
+    "da": 6.995851435931399e-07,
+    "hu": 1.0648174793459475e-05,
+    "ta": 4.990698926121695e-06,
+    "no": 0.09256820380687714,
+    "th": 3.027012098755222e-06,
+    "ur": 1.3379917618294712e-06,
+    "hr": 4.153628196945647e-06,
+    "bg": 2.1297689727362012e-06,
+    "lt": 6.421671423595399e-05,
+    "la": 1.388783857692033e-05,
+    "mi": 4.615642410499277e-06,
+    "ml": 4.1126492078547017e-07,
+    "cy": 5.857555152033456e-06,
+    "sk": 8.275390541712113e-07,
+    "te": 2.399603181402199e-05,
+    "fa": 1.3121125448378734e-06,
+    "lv": 2.3852282993175322e-06,
+    "bn": 2.171775122405961e-06,
+    "sr": 1.909112370412913e-06,
+    "az": 1.1489241842355113e-06,
+    "sl": 1.0218742545475834e-06,
+    "kn": 1.0877795375563437e-06,
+    "et": 1.2815263517040876e-07,
+    "mk": 2.2272909916409844e-07,
+    "br": 1.0218742545475834e-06,
+    "eu": 2.9453633487719344e-06,
+    "is": 6.83277221469325e-08,
+    "hy": 7.078317025843717e-07,
+    "ne": 3.0388594041141914e-06,
+    "mn": 8.210990927182138e-07,
+    "bs": 1.969714276128798e-06,
+    "kk": 3.5946657135355053e-06,
+    "sq": 1.3643813190356013e-06,
+    "sw": 3.3505968985991785e-06,
+    "gl": 5.524200332729379e-06,
+    "mr": 1.5427995947447926e-07,
+    "pa": 1.1159191672049928e-05,
+    "si": 3.2222374102275353e-06,
+    "km": 8.456368959741667e-06,
+    "sn": 2.656118704180699e-05,
+    "yo": 1.0042185749625787e-05,
+    "so": 4.623975655704271e-07,
+    "af": 6.623539547945256e-07,
+    "oc": 8.706478524800332e-07,
+    "ka": 2.9617877927989866e-08,
+    "be": 2.1548742097365903e-06,
+    "tg": 9.394176458954462e-08,
+    "sd": 1.7180153690787847e-06,
+    "gu": 7.33158969978831e-07,
+    "am": 1.3273812271563656e-07,
+    "yi": 1.5400190704895067e-06,
+    "lo": 4.5168610540713416e-07,
+    "uz": 2.1860190102529486e-08,
+    "fo": 2.436663919525017e-07,
+    "ht": 5.31257182956324e-06,
+    "ps": 4.845884973292414e-07,
+    "tk": 1.1754680562248154e-10,
+    "nn": 9.865732408798067e-07,
+    "mt": 2.1419648987830442e-07,
+    "sa": 7.896432521192764e-07,
+    "lb": 4.1040120635216226e-08,
+    "my": 1.5889045243966393e-06,
+    "bo": 7.41801159165334e-07,
+    "tl": 3.154218939016573e-05,
+    "mg": 2.6720892165599253e-09,
+    "as": 5.280745654090424e-07,
+    "tt": 1.3456535441491724e-07,
+    "haw": 6.284239134402014e-06,
+    "ln": 1.2968259852641495e-06,
+    "ha": 2.1252961346363008e-07,
+    "ba": 1.6674171765540535e-10,
+    "jw": 6.509098511742195e-06,
+    "su": 3.5177350810045027e-07
+  },
+  "speech_activity": [
+    {
+      "start": 0.0,
+      "end": 21.682
+    },
+    {
+      "start": 30.478,
+      "end": 35.826
+    },
+    {
+      "start": 35.854,
+      "end": 72.082
+    },
+    {
+      "start": 80.782,
+      "end": 100.53
+    },
+    {
+      "start": 100.686,
+      "end": 121.778
+    },
+    {
+      "start": 128.366,
+      "end": 132.402
+    },
+    {
+      "start": 135.982,
+      "end": 138.322
+    },
+    {
+      "start": 140.11,
+      "end": 151.826
+    },
+    {
+      "start": 157.198,
+      "end": 161.202
+    }
+  ]
+}

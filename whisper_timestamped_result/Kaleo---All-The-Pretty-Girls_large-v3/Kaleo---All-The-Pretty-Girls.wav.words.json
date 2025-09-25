@@ -1,1401 +1,1556 @@
 {
-  "text": " Pretty girls like Samuel and Shelly and he can handle Life is anything fair, life is anything fair Oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh Just as soon as they turn old, oh, come and sweep them off their feet It's only making me feel smaller Oh, won't you lay me, you lay me down Won't you lay me, won't you lay me down Won't you lay me down, lay me down Thanks to Tom, my fool is right Long before I see the light Say hello, but I just can't get enough Won't you lay me, won't you lay me down Won't you lay me, won't you lay me down Won't you lay me, won't you lay me down Won't you lay me, won't you lay me down Won't you lay me down",
+  "text": " Pretty girls like Samuel Can't share And he can't handle Life is anything but fair Life is anything but fair Oh, oh, oh, oh Oh, oh, oh, oh Just as soon as they turn older Come and sweep them off their feet Only making me feel smaller Oh So won't you lay me Won't you lay me down Won't you lay me Won't you lay me down Won't you lay me down Makes me tell my foolish friend Long before I see the light Sail on by But I just can't Getting home Won't you lay me Won't you lay me down Won't you lay me Won't you lay me down Won't you lay me Won't you lay me down Won't you lay me Won't you lay me down",
   "segments": [
     {
       "id": 0,
       "seek": 0,
       "start": 15.09,
-      "end": 29.9,
-      "text": " Pretty girls like Samuel and Shelly and he can handle",
+      "end": 17.07,
+      "text": " Pretty girls like Samuel",
       "tokens": [
-        50364,
+        50365,
         10693,
         4519,
         411,
         23036,
-        293,
-        1240,
-        13020,
-        293,
-        415,
-        393,
-        4813,
-        50780
+        50515
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.4310150426976821,
-      "compression_ratio": 1.6484375,
-      "no_speech_prob": 0.5239349603652954,
-      "confidence": 0.533,
+      "avg_logprob": -0.23473077501569475,
+      "compression_ratio": 1.5413533834586466,
+      "no_speech_prob": 0.45700782537460327,
+      "confidence": 0.885,
       "words": [
         {
           "text": "Pretty",
           "start": 15.09,
-          "end": 15.49,
-          "confidence": 0.8
+          "end": 15.39,
+          "confidence": 0.689
         },
         {
           "text": "girls",
-          "start": 15.49,
-          "end": 16.03,
-          "confidence": 0.965
+          "start": 15.39,
+          "end": 15.87,
+          "confidence": 0.978
         },
         {
           "text": "like",
-          "start": 16.03,
-          "end": 16.53,
-          "confidence": 0.966
+          "start": 15.87,
+          "end": 16.49,
+          "confidence": 0.98
         },
         {
           "text": "Samuel",
-          "start": 16.53,
-          "end": 17.35,
-          "confidence": 0.841
-        },
-        {
-          "text": "and",
-          "start": 17.35,
-          "end": 18.35,
-          "confidence": 0.276
-        },
-        {
-          "text": "Shelly",
-          "start": 22.62,
-          "end": 23.82,
-          "confidence": 0.203
-        },
-        {
-          "text": "and",
-          "start": 28.21,
-          "end": 28.38,
-          "confidence": 0.4
-        },
-        {
-          "text": "he",
-          "start": 28.38,
-          "end": 28.54,
-          "confidence": 0.406
-        },
-        {
-          "text": "can",
-          "start": 28.54,
-          "end": 28.98,
-          "confidence": 0.95
-        },
-        {
-          "text": "handle",
-          "start": 28.98,
-          "end": 29.9,
-          "confidence": 0.897
+          "start": 16.49,
+          "end": 17.07,
+          "confidence": 0.928
         }
       ]
     },
     {
       "id": 1,
       "seek": 0,
-      "start": 32.89,
-      "end": 38.91,
-      "text": " Life is anything fair, life is anything fair",
+      "start": 18.11,
+      "end": 23.14,
+      "text": " Can't share",
       "tokens": [
-        50780,
-        7720,
-        307,
-        1340,
-        3143,
-        11,
-        993,
-        307,
-        1340,
-        3143,
-        51128
+        50515,
+        1664,
+        380,
+        2073,
+        50615
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.4310150426976821,
-      "compression_ratio": 1.6484375,
-      "no_speech_prob": 0.5239349603652954,
-      "confidence": 0.9,
+      "avg_logprob": -0.23473077501569475,
+      "compression_ratio": 1.5413533834586466,
+      "no_speech_prob": 0.45700782537460327,
+      "confidence": 0.816,
       "words": [
         {
-          "text": "Life",
-          "start": 32.89,
-          "end": 33.43,
-          "confidence": 0.892
+          "text": "Can't",
+          "start": 18.11,
+          "end": 18.35,
+          "confidence": 0.747
         },
         {
-          "text": "is",
-          "start": 33.43,
-          "end": 34.13,
-          "confidence": 0.986
-        },
-        {
-          "text": "anything",
-          "start": 34.13,
-          "end": 34.75,
-          "confidence": 0.956
-        },
-        {
-          "text": "fair,",
-          "start": 34.75,
-          "end": 35.61,
-          "confidence": 0.63
-        },
-        {
-          "text": "life",
-          "start": 36.23,
-          "end": 36.59,
-          "confidence": 0.822
-        },
-        {
-          "text": "is",
-          "start": 36.59,
-          "end": 37.03,
-          "confidence": 0.998
-        },
-        {
-          "text": "anything",
-          "start": 37.03,
-          "end": 37.81,
-          "confidence": 0.99
-        },
-        {
-          "text": "fair",
-          "start": 37.81,
-          "end": 38.91,
-          "confidence": 0.997
+          "text": "share",
+          "start": 22.58,
+          "end": 23.14,
+          "confidence": 0.975
         }
       ]
     },
     {
       "id": 2,
       "seek": 0,
-      "start": 39.47,
-      "end": 48.01,
-      "text": " Oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh",
+      "start": 23.68,
+      "end": 29.78,
+      "text": " And he can't handle",
       "tokens": [
-        51128,
-        876,
-        11,
-        1954,
-        11,
-        1954,
-        11,
-        1954,
-        11,
-        1954,
-        11,
-        1954,
-        11,
-        1954,
-        11,
-        1954,
-        11,
-        1954,
-        11,
-        1954,
-        11,
-        1954,
-        51408
+        50615,
+        400,
+        415,
+        393,
+        380,
+        4813,
+        50765
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.4310150426976821,
-      "compression_ratio": 1.6484375,
-      "no_speech_prob": 0.5239349603652954,
-      "confidence": 0.904,
+      "avg_logprob": -0.23473077501569475,
+      "compression_ratio": 1.5413533834586466,
+      "no_speech_prob": 0.45700782537460327,
+      "confidence": 0.756,
       "words": [
         {
-          "text": "Oh,",
-          "start": 39.47,
-          "end": 39.93,
-          "confidence": 0.645
+          "text": "And",
+          "start": 23.68,
+          "end": 23.99,
+          "confidence": 0.281
         },
         {
-          "text": "oh,",
-          "start": 40.03,
-          "end": 40.57,
-          "confidence": 0.902
+          "text": "he",
+          "start": 28.32,
+          "end": 28.42,
+          "confidence": 0.94
         },
         {
-          "text": "oh,",
-          "start": 40.99,
-          "end": 41.45,
-          "confidence": 0.978
+          "text": "can't",
+          "start": 28.42,
+          "end": 28.92,
+          "confidence": 0.974
         },
         {
-          "text": "oh,",
-          "start": 41.53,
-          "end": 41.87,
-          "confidence": 0.965
-        },
-        {
-          "text": "oh,",
-          "start": 45.75,
-          "end": 46.41,
-          "confidence": 0.947
-        },
-        {
-          "text": "oh,",
-          "start": 46.73,
-          "end": 46.95,
-          "confidence": 0.93
-        },
-        {
-          "text": "oh,",
-          "start": 47.29,
-          "end": 47.49,
-          "confidence": 0.937
-        },
-        {
-          "text": "oh,",
-          "start": 47.49,
-          "end": 47.57,
-          "confidence": 0.93
-        },
-        {
-          "text": "oh,",
-          "start": 47.57,
-          "end": 47.73,
-          "confidence": 0.924
-        },
-        {
-          "text": "oh,",
-          "start": 47.73,
-          "end": 47.77,
-          "confidence": 0.921
-        },
-        {
-          "text": "oh",
-          "start": 47.77,
-          "end": 48.01,
-          "confidence": 0.916
+          "text": "handle",
+          "start": 28.92,
+          "end": 29.78,
+          "confidence": 0.988
         }
       ]
     },
     {
       "id": 3,
       "seek": 0,
-      "start": 52.14,
-      "end": 60.97,
-      "text": " Just as soon as they turn old, oh, come and sweep them off their feet",
+      "start": 32.93,
+      "end": 35.61,
+      "text": " Life is anything but fair",
       "tokens": [
-        51408,
+        50765,
+        7720,
+        307,
+        1340,
+        457,
+        3143,
+        50965
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.23473077501569475,
+      "compression_ratio": 1.5413533834586466,
+      "no_speech_prob": 0.45700782537460327,
+      "confidence": 0.96,
+      "words": [
+        {
+          "text": "Life",
+          "start": 32.93,
+          "end": 32.99,
+          "confidence": 0.97
+        },
+        {
+          "text": "is",
+          "start": 32.99,
+          "end": 33.91,
+          "confidence": 0.931
+        },
+        {
+          "text": "anything",
+          "start": 33.91,
+          "end": 34.47,
+          "confidence": 0.979
+        },
+        {
+          "text": "but",
+          "start": 34.47,
+          "end": 35.13,
+          "confidence": 0.956
+        },
+        {
+          "text": "fair",
+          "start": 35.13,
+          "end": 35.61,
+          "confidence": 0.964
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 36.27,
+      "end": 38.81,
+      "text": " Life is anything but fair",
+      "tokens": [
+        50965,
+        7720,
+        307,
+        1340,
+        457,
+        3143,
+        51115
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.23473077501569475,
+      "compression_ratio": 1.5413533834586466,
+      "no_speech_prob": 0.45700782537460327,
+      "confidence": 0.995,
+      "words": [
+        {
+          "text": "Life",
+          "start": 36.27,
+          "end": 36.53,
+          "confidence": 0.99
+        },
+        {
+          "text": "is",
+          "start": 36.53,
+          "end": 36.91,
+          "confidence": 0.999
+        },
+        {
+          "text": "anything",
+          "start": 36.91,
+          "end": 37.47,
+          "confidence": 0.999
+        },
+        {
+          "text": "but",
+          "start": 37.47,
+          "end": 38.33,
+          "confidence": 0.992
+        },
+        {
+          "text": "fair",
+          "start": 38.33,
+          "end": 38.81,
+          "confidence": 0.997
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 39.47,
+      "end": 41.79,
+      "text": " Oh, oh, oh, oh",
+      "tokens": [
+        51115,
+        876,
+        11,
+        1954,
+        11,
+        1954,
+        11,
+        1954,
+        51265
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.23473077501569475,
+      "compression_ratio": 1.5413533834586466,
+      "no_speech_prob": 0.45700782537460327,
+      "confidence": 0.913,
+      "words": [
+        {
+          "text": "Oh,",
+          "start": 39.47,
+          "end": 39.83,
+          "confidence": 0.806
+        },
+        {
+          "text": "oh,",
+          "start": 39.87,
+          "end": 40.45,
+          "confidence": 0.928
+        },
+        {
+          "text": "oh,",
+          "start": 40.59,
+          "end": 41.13,
+          "confidence": 0.958
+        },
+        {
+          "text": "oh",
+          "start": 41.37,
+          "end": 41.79,
+          "confidence": 0.968
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 0,
+      "start": 45.71,
+      "end": 47.97,
+      "text": " Oh, oh, oh, oh",
+      "tokens": [
+        51265,
+        876,
+        11,
+        1954,
+        11,
+        1954,
+        11,
+        1954,
+        51415
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.23473077501569475,
+      "compression_ratio": 1.5413533834586466,
+      "no_speech_prob": 0.45700782537460327,
+      "confidence": 0.979,
+      "words": [
+        {
+          "text": "Oh,",
+          "start": 45.71,
+          "end": 45.83,
+          "confidence": 0.986
+        },
+        {
+          "text": "oh,",
+          "start": 46.11,
+          "end": 46.71,
+          "confidence": 0.994
+        },
+        {
+          "text": "oh,",
+          "start": 46.95,
+          "end": 47.49,
+          "confidence": 0.966
+        },
+        {
+          "text": "oh",
+          "start": 47.57,
+          "end": 47.97,
+          "confidence": 0.971
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 0,
+      "start": 52.12,
+      "end": 54.68,
+      "text": " Just as soon as they turn older",
+      "tokens": [
+        51415,
         1449,
         382,
         2321,
         382,
         436,
         1261,
-        1331,
-        11,
-        1954,
-        11,
-        808,
+        4906,
+        51615
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.23473077501569475,
+      "compression_ratio": 1.5413533834586466,
+      "no_speech_prob": 0.45700782537460327,
+      "confidence": 0.931,
+      "words": [
+        {
+          "text": "Just",
+          "start": 52.12,
+          "end": 52.32,
+          "confidence": 0.829
+        },
+        {
+          "text": "as",
+          "start": 52.32,
+          "end": 52.58,
+          "confidence": 0.995
+        },
+        {
+          "text": "soon",
+          "start": 52.58,
+          "end": 52.98,
+          "confidence": 0.997
+        },
+        {
+          "text": "as",
+          "start": 52.98,
+          "end": 53.46,
+          "confidence": 0.993
+        },
+        {
+          "text": "they",
+          "start": 53.46,
+          "end": 53.62,
+          "confidence": 0.997
+        },
+        {
+          "text": "turn",
+          "start": 53.62,
+          "end": 54.02,
+          "confidence": 0.989
+        },
+        {
+          "text": "older",
+          "start": 54.02,
+          "end": 54.68,
+          "confidence": 0.753
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seek": 0,
+      "start": 55.88,
+      "end": 60.87,
+      "text": " Come and sweep them off their feet",
+      "tokens": [
+        51615,
+        2492,
         293,
         22169,
         552,
         766,
         641,
         3521,
-        51744
+        51765
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.4310150426976821,
-      "compression_ratio": 1.6484375,
-      "no_speech_prob": 0.5239349603652954,
-      "confidence": 0.823,
+      "avg_logprob": -0.23473077501569475,
+      "compression_ratio": 1.5413533834586466,
+      "no_speech_prob": 0.45700782537460327,
+      "confidence": 0.841,
       "words": [
         {
-          "text": "Just",
-          "start": 52.14,
-          "end": 52.46,
-          "confidence": 0.889
-        },
-        {
-          "text": "as",
-          "start": 52.46,
-          "end": 52.68,
-          "confidence": 0.987
-        },
-        {
-          "text": "soon",
-          "start": 52.68,
-          "end": 53.16,
-          "confidence": 0.991
-        },
-        {
-          "text": "as",
-          "start": 53.16,
-          "end": 53.46,
-          "confidence": 0.999
-        },
-        {
-          "text": "they",
-          "start": 53.46,
-          "end": 53.74,
-          "confidence": 0.994
-        },
-        {
-          "text": "turn",
-          "start": 53.74,
-          "end": 54.14,
-          "confidence": 0.987
-        },
-        {
-          "text": "old,",
-          "start": 54.14,
-          "end": 54.82,
-          "confidence": 0.436
-        },
-        {
-          "text": "oh,",
-          "start": 55.14,
-          "end": 55.56,
-          "confidence": 0.568
-        },
-        {
-          "text": "come",
-          "start": 55.7,
+          "text": "Come",
+          "start": 55.88,
           "end": 56.02,
-          "confidence": 0.477
+          "confidence": 0.751
         },
         {
           "text": "and",
-          "start": 58.77,
-          "end": 58.97,
-          "confidence": 0.724
+          "start": 58.71,
+          "end": 58.89,
+          "confidence": 0.49
         },
         {
           "text": "sweep",
-          "start": 58.97,
-          "end": 59.39,
-          "confidence": 0.967
+          "start": 58.89,
+          "end": 59.31,
+          "confidence": 0.986
         },
         {
           "text": "them",
-          "start": 59.39,
-          "end": 59.79,
-          "confidence": 0.872
+          "start": 59.31,
+          "end": 59.73,
+          "confidence": 0.866
         },
         {
           "text": "off",
-          "start": 59.79,
-          "end": 60.07,
-          "confidence": 0.891
+          "start": 59.73,
+          "end": 60.01,
+          "confidence": 0.956
         },
         {
           "text": "their",
-          "start": 60.07,
-          "end": 60.41,
-          "confidence": 0.981
-        },
-        {
-          "text": "feet",
-          "start": 60.41,
-          "end": 60.97,
-          "confidence": 0.994
-        }
-      ]
-    },
-    {
-      "id": 4,
-      "seek": 2760,
-      "start": 64.73,
-      "end": 67.73,
-      "text": " It's only making me feel smaller",
-      "tokens": [
-        50368,
-        467,
-        311,
-        787,
-        1455,
-        385,
-        841,
-        4356,
-        50588
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.3288870272429093,
-      "compression_ratio": 1.6942148760330578,
-      "no_speech_prob": 0.0951739251613617,
-      "confidence": 0.844,
-      "words": [
-        {
-          "text": "It's",
-          "start": 64.73,
-          "end": 64.95,
-          "confidence": 0.741
-        },
-        {
-          "text": "only",
-          "start": 64.95,
-          "end": 65.21,
+          "start": 60.01,
+          "end": 60.33,
           "confidence": 0.995
         },
         {
-          "text": "making",
-          "start": 65.21,
-          "end": 66.01,
-          "confidence": 0.843
-        },
-        {
-          "text": "me",
-          "start": 66.01,
-          "end": 66.35,
-          "confidence": 0.991
-        },
-        {
-          "text": "feel",
-          "start": 66.35,
-          "end": 66.79,
-          "confidence": 0.997
-        },
-        {
-          "text": "smaller",
-          "start": 66.79,
-          "end": 67.73,
-          "confidence": 0.67
-        }
-      ]
-    },
-    {
-      "id": 5,
-      "seek": 2760,
-      "start": 70.83,
-      "end": 81.48,
-      "text": " Oh, won't you lay me, you lay me down",
-      "tokens": [
-        50588,
-        876,
-        11,
-        1582,
-        380,
-        291,
-        2360,
-        385,
-        11,
-        291,
-        2360,
-        385,
-        760,
-        50880
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.3288870272429093,
-      "compression_ratio": 1.6942148760330578,
-      "no_speech_prob": 0.0951739251613617,
-      "confidence": 0.824,
-      "words": [
-        {
-          "text": "Oh,",
-          "start": 70.83,
-          "end": 71.37,
-          "confidence": 0.867
-        },
-        {
-          "text": "won't",
-          "start": 75.46,
-          "end": 76.16,
-          "confidence": 0.737
-        },
-        {
-          "text": "you",
-          "start": 76.16,
-          "end": 76.36,
-          "confidence": 0.997
-        },
-        {
-          "text": "lay",
-          "start": 76.36,
-          "end": 76.94,
-          "confidence": 0.83
-        },
-        {
-          "text": "me,",
-          "start": 76.94,
-          "end": 77.32,
-          "confidence": 0.989
-        },
-        {
-          "text": "you",
-          "start": 79.25,
-          "end": 79.52,
-          "confidence": 0.401
-        },
-        {
-          "text": "lay",
-          "start": 79.52,
-          "end": 80.08,
-          "confidence": 0.948
-        },
-        {
-          "text": "me",
-          "start": 80.08,
-          "end": 80.53,
-          "confidence": 0.991
-        },
-        {
-          "text": "down",
-          "start": 80.78,
-          "end": 81.48,
-          "confidence": 0.996
-        }
-      ]
-    },
-    {
-      "id": 6,
-      "seek": 2760,
-      "start": 82.06,
-      "end": 87.84,
-      "text": " Won't you lay me, won't you lay me down",
-      "tokens": [
-        50880,
-        14710,
-        380,
-        291,
-        2360,
-        385,
-        11,
-        1582,
-        380,
-        291,
-        2360,
-        385,
-        760,
-        51180
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.3288870272429093,
-      "compression_ratio": 1.6942148760330578,
-      "no_speech_prob": 0.0951739251613617,
-      "confidence": 0.995,
-      "words": [
-        {
-          "text": "Won't",
-          "start": 82.06,
-          "end": 82.46,
-          "confidence": 0.989
-        },
-        {
-          "text": "you",
-          "start": 82.46,
-          "end": 82.7,
+          "text": "feet",
+          "start": 60.33,
+          "end": 60.87,
           "confidence": 0.999
-        },
-        {
-          "text": "lay",
-          "start": 82.7,
-          "end": 83.28,
-          "confidence": 0.999
-        },
-        {
-          "text": "me,",
-          "start": 83.28,
-          "end": 83.78,
-          "confidence": 0.999
-        },
-        {
-          "text": "won't",
-          "start": 84.96,
-          "end": 85.62,
-          "confidence": 0.997
-        },
-        {
-          "text": "you",
-          "start": 85.62,
-          "end": 85.88,
-          "confidence": 0.999
-        },
-        {
-          "text": "lay",
-          "start": 85.88,
-          "end": 86.5,
-          "confidence": 0.984
-        },
-        {
-          "text": "me",
-          "start": 86.5,
-          "end": 87.08,
-          "confidence": 0.999
-        },
-        {
-          "text": "down",
-          "start": 87.08,
-          "end": 87.84,
-          "confidence": 0.998
-        }
-      ]
-    },
-    {
-      "id": 7,
-      "seek": 2760,
-      "start": 88.32,
-      "end": 102.03,
-      "text": " Won't you lay me down, lay me down",
-      "tokens": [
-        51180,
-        14710,
-        380,
-        291,
-        2360,
-        385,
-        760,
-        11,
-        2360,
-        385,
-        760,
-        51392
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.3288870272429093,
-      "compression_ratio": 1.6942148760330578,
-      "no_speech_prob": 0.0951739251613617,
-      "confidence": 0.934,
-      "words": [
-        {
-          "text": "Won't",
-          "start": 88.32,
-          "end": 88.84,
-          "confidence": 0.987
-        },
-        {
-          "text": "you",
-          "start": 88.84,
-          "end": 89.04,
-          "confidence": 0.998
-        },
-        {
-          "text": "lay",
-          "start": 89.04,
-          "end": 89.54,
-          "confidence": 0.994
-        },
-        {
-          "text": "me",
-          "start": 89.54,
-          "end": 89.84,
-          "confidence": 0.998
-        },
-        {
-          "text": "down,",
-          "start": 93.45,
-          "end": 94.07,
-          "confidence": 0.984
-        },
-        {
-          "text": "lay",
-          "start": 94.29,
-          "end": 94.64,
-          "confidence": 0.929
-        },
-        {
-          "text": "me",
-          "start": 101.35,
-          "end": 101.69,
-          "confidence": 0.613
-        },
-        {
-          "text": "down",
-          "start": 101.69,
-          "end": 102.03,
-          "confidence": 0.999
-        }
-      ]
-    },
-    {
-      "id": 8,
-      "seek": 2760,
-      "start": 140.69,
-      "end": 142.87,
-      "text": " Thanks to Tom, my fool is right",
-      "tokens": [
-        51392,
-        2561,
-        281,
-        5041,
-        11,
-        452,
-        7979,
-        307,
-        558,
-        51524
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.3288870272429093,
-      "compression_ratio": 1.6942148760330578,
-      "no_speech_prob": 0.0951739251613617,
-      "confidence": 0.379,
-      "words": [
-        {
-          "text": "Thanks",
-          "start": 140.69,
-          "end": 140.94,
-          "confidence": 0.225
-        },
-        {
-          "text": "to",
-          "start": 140.94,
-          "end": 141.16,
-          "confidence": 0.715
-        },
-        {
-          "text": "Tom,",
-          "start": 141.16,
-          "end": 141.62,
-          "confidence": 0.255
-        },
-        {
-          "text": "my",
-          "start": 141.8,
-          "end": 141.96,
-          "confidence": 0.973
-        },
-        {
-          "text": "fool",
-          "start": 141.96,
-          "end": 142.38,
-          "confidence": 0.568
-        },
-        {
-          "text": "is",
-          "start": 142.38,
-          "end": 142.72,
-          "confidence": 0.456
-        },
-        {
-          "text": "right",
-          "start": 142.72,
-          "end": 142.87,
-          "confidence": 0.109
         }
       ]
     },
     {
       "id": 9,
-      "seek": 2760,
-      "start": 143.64,
-      "end": 146.4,
+      "seek": 2800,
+      "start": 65.01,
+      "end": 67.33,
+      "text": " Only making me feel smaller",
+      "tokens": [
+        50365,
+        5686,
+        1455,
+        385,
+        841,
+        4356,
+        50565
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1805973867090737,
+      "compression_ratio": 1.6956521739130435,
+      "no_speech_prob": 0.012539819814264774,
+      "confidence": 0.834,
+      "words": [
+        {
+          "text": "Only",
+          "start": 65.01,
+          "end": 65.13,
+          "confidence": 0.55
+        },
+        {
+          "text": "making",
+          "start": 65.13,
+          "end": 65.73,
+          "confidence": 0.843
+        },
+        {
+          "text": "me",
+          "start": 65.73,
+          "end": 66.31,
+          "confidence": 0.994
+        },
+        {
+          "text": "feel",
+          "start": 66.31,
+          "end": 66.73,
+          "confidence": 0.994
+        },
+        {
+          "text": "smaller",
+          "start": 66.73,
+          "end": 67.33,
+          "confidence": 0.882
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "seek": 2800,
+      "start": 70.79,
+      "end": 71.18,
+      "text": " Oh",
+      "tokens": [
+        50565,
+        876,
+        50615
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1805973867090737,
+      "compression_ratio": 1.6956521739130435,
+      "no_speech_prob": 0.012539819814264774,
+      "confidence": 0.635,
+      "words": [
+        {
+          "text": "Oh",
+          "start": 70.79,
+          "end": 71.18,
+          "confidence": 0.635
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "seek": 2800,
+      "start": 71.18,
+      "end": 77.18,
+      "text": " So won't you lay me",
+      "tokens": [
+        50615,
+        407,
+        1582,
+        380,
+        291,
+        2360,
+        385,
+        50715
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1805973867090737,
+      "compression_ratio": 1.6956521739130435,
+      "no_speech_prob": 0.012539819814264774,
+      "confidence": 0.94,
+      "words": [
+        {
+          "text": "So",
+          "start": 71.18,
+          "end": 71.76,
+          "confidence": 0.872
+        },
+        {
+          "text": "won't",
+          "start": 75.56,
+          "end": 76.1,
+          "confidence": 0.971
+        },
+        {
+          "text": "you",
+          "start": 76.1,
+          "end": 76.26,
+          "confidence": 0.997
+        },
+        {
+          "text": "lay",
+          "start": 76.26,
+          "end": 76.52,
+          "confidence": 0.858
+        },
+        {
+          "text": "me",
+          "start": 76.52,
+          "end": 77.18,
+          "confidence": 0.981
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "seek": 2800,
+      "start": 77.3,
+      "end": 81.44,
+      "text": " Won't you lay me down",
+      "tokens": [
+        50715,
+        14710,
+        380,
+        291,
+        2360,
+        385,
+        760,
+        50865
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1805973867090737,
+      "compression_ratio": 1.6956521739130435,
+      "no_speech_prob": 0.012539819814264774,
+      "confidence": 0.877,
+      "words": [
+        {
+          "text": "Won't",
+          "start": 77.3,
+          "end": 77.43,
+          "confidence": 0.696
+        },
+        {
+          "text": "you",
+          "start": 79.32,
+          "end": 79.48,
+          "confidence": 0.999
+        },
+        {
+          "text": "lay",
+          "start": 79.48,
+          "end": 79.92,
+          "confidence": 0.981
+        },
+        {
+          "text": "me",
+          "start": 79.92,
+          "end": 80.53,
+          "confidence": 0.988
+        },
+        {
+          "text": "down",
+          "start": 80.7,
+          "end": 81.44,
+          "confidence": 0.969
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "seek": 2800,
+      "start": 81.5,
+      "end": 83.46,
+      "text": " Won't you lay me",
+      "tokens": [
+        50865,
+        14710,
+        380,
+        291,
+        2360,
+        385,
+        50965
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1805973867090737,
+      "compression_ratio": 1.6956521739130435,
+      "no_speech_prob": 0.012539819814264774,
+      "confidence": 0.997,
+      "words": [
+        {
+          "text": "Won't",
+          "start": 81.5,
+          "end": 82.4,
+          "confidence": 0.996
+        },
+        {
+          "text": "you",
+          "start": 82.4,
+          "end": 82.6,
+          "confidence": 0.999
+        },
+        {
+          "text": "lay",
+          "start": 82.6,
+          "end": 82.84,
+          "confidence": 0.994
+        },
+        {
+          "text": "me",
+          "start": 82.84,
+          "end": 83.46,
+          "confidence": 0.998
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "seek": 2800,
+      "start": 85.02,
+      "end": 87.82,
+      "text": " Won't you lay me down",
+      "tokens": [
+        50965,
+        14710,
+        380,
+        291,
+        2360,
+        385,
+        760,
+        51165
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1805973867090737,
+      "compression_ratio": 1.6956521739130435,
+      "no_speech_prob": 0.012539819814264774,
+      "confidence": 0.993,
+      "words": [
+        {
+          "text": "Won't",
+          "start": 85.02,
+          "end": 85.56,
+          "confidence": 0.988
+        },
+        {
+          "text": "you",
+          "start": 85.56,
+          "end": 85.76,
+          "confidence": 1.0
+        },
+        {
+          "text": "lay",
+          "start": 85.76,
+          "end": 85.98,
+          "confidence": 0.986
+        },
+        {
+          "text": "me",
+          "start": 85.98,
+          "end": 86.96,
+          "confidence": 0.999
+        },
+        {
+          "text": "down",
+          "start": 86.96,
+          "end": 87.82,
+          "confidence": 0.997
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "seek": 2800,
+      "start": 88.32,
+      "end": 93.99,
+      "text": " Won't you lay me down",
+      "tokens": [
+        51165,
+        14710,
+        380,
+        291,
+        2360,
+        385,
+        760,
+        51365
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1805973867090737,
+      "compression_ratio": 1.6956521739130435,
+      "no_speech_prob": 0.012539819814264774,
+      "confidence": 0.984,
+      "words": [
+        {
+          "text": "Won't",
+          "start": 88.32,
+          "end": 88.56,
+          "confidence": 0.998
+        },
+        {
+          "text": "you",
+          "start": 88.56,
+          "end": 88.96,
+          "confidence": 0.999
+        },
+        {
+          "text": "lay",
+          "start": 88.96,
+          "end": 89.12,
+          "confidence": 0.982
+        },
+        {
+          "text": "me",
+          "start": 89.12,
+          "end": 89.78,
+          "confidence": 0.989
+        },
+        {
+          "text": "down",
+          "start": 93.29,
+          "end": 93.99,
+          "confidence": 0.939
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "seek": 2800,
+      "start": 101.95,
+      "end": 142.87,
+      "text": " Makes me tell my foolish friend",
+      "tokens": [
+        51365,
+        25245,
+        385,
+        980,
+        452,
+        23478,
+        1277,
+        51515
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1805973867090737,
+      "compression_ratio": 1.6956521739130435,
+      "no_speech_prob": 0.012539819814264774,
+      "confidence": 0.551,
+      "words": [
+        {
+          "text": "Makes",
+          "start": 101.95,
+          "end": 102.58,
+          "confidence": 0.407
+        },
+        {
+          "text": "me",
+          "start": 140.84,
+          "end": 141.04,
+          "confidence": 0.334
+        },
+        {
+          "text": "tell",
+          "start": 141.04,
+          "end": 141.46,
+          "confidence": 0.578
+        },
+        {
+          "text": "my",
+          "start": 141.46,
+          "end": 141.78,
+          "confidence": 0.974
+        },
+        {
+          "text": "foolish",
+          "start": 141.78,
+          "end": 142.36,
+          "confidence": 0.988
+        },
+        {
+          "text": "friend",
+          "start": 142.36,
+          "end": 142.87,
+          "confidence": 0.37
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "seek": 2800,
+      "start": 143.66,
+      "end": 146.2,
       "text": " Long before I see the light",
       "tokens": [
-        51524,
+        51515,
         8282,
         949,
         286,
         536,
         264,
         1442,
-        51712
+        51665
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.3288870272429093,
-      "compression_ratio": 1.6942148760330578,
-      "no_speech_prob": 0.0951739251613617,
-      "confidence": 0.872,
+      "avg_logprob": -0.1805973867090737,
+      "compression_ratio": 1.6956521739130435,
+      "no_speech_prob": 0.012539819814264774,
+      "confidence": 0.989,
       "words": [
         {
           "text": "Long",
-          "start": 143.64,
-          "end": 143.98,
-          "confidence": 0.503
+          "start": 143.66,
+          "end": 143.82,
+          "confidence": 0.972
         },
         {
           "text": "before",
-          "start": 143.98,
-          "end": 144.46,
-          "confidence": 0.995
+          "start": 143.82,
+          "end": 144.34,
+          "confidence": 0.999
         },
         {
           "text": "I",
-          "start": 144.46,
-          "end": 145.06,
-          "confidence": 0.978
+          "start": 144.34,
+          "end": 144.94,
+          "confidence": 0.994
         },
         {
           "text": "see",
-          "start": 145.06,
-          "end": 145.48,
-          "confidence": 0.957
+          "start": 144.94,
+          "end": 145.32,
+          "confidence": 0.982
         },
         {
           "text": "the",
-          "start": 145.48,
-          "end": 145.9,
-          "confidence": 0.955
+          "start": 145.32,
+          "end": 145.74,
+          "confidence": 0.994
         },
         {
           "text": "light",
-          "start": 145.9,
-          "end": 146.4,
-          "confidence": 0.985
+          "start": 145.74,
+          "end": 146.2,
+          "confidence": 0.995
         }
       ]
     },
     {
-      "id": 10,
-      "seek": 5456,
-      "start": 161.03,
-      "end": 180.91,
-      "text": " Say hello, but I just can't get enough",
+      "id": 18,
+      "seek": 2800,
+      "start": 160.99,
+      "end": 161.77,
+      "text": " Sail on by",
       "tokens": [
-        50368,
-        6463,
-        7751,
-        11,
-        457,
+        51665,
+        42014,
+        322,
+        538,
+        51765
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1805973867090737,
+      "compression_ratio": 1.6956521739130435,
+      "no_speech_prob": 0.012539819814264774,
+      "confidence": 0.718,
+      "words": [
+        {
+          "text": "Sail",
+          "start": 160.99,
+          "end": 161.21,
+          "confidence": 0.527
+        },
+        {
+          "text": "on",
+          "start": 161.21,
+          "end": 161.53,
+          "confidence": 0.986
+        },
+        {
+          "text": "by",
+          "start": 161.53,
+          "end": 161.77,
+          "confidence": 0.711
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "seek": 2800,
+      "start": 178.51,
+      "end": 179.9,
+      "text": " But I just can't",
+      "tokens": [
+        51765,
+        583,
         286,
         445,
         393,
         380,
-        483,
-        1547,
-        50552
+        51815
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.17940788269042968,
-      "compression_ratio": 2.75,
-      "no_speech_prob": 0.05923401564359665,
-      "confidence": 0.614,
+      "avg_logprob": -0.1805973867090737,
+      "compression_ratio": 1.6956521739130435,
+      "no_speech_prob": 0.012539819814264774,
+      "confidence": 0.923,
       "words": [
         {
-          "text": "Say",
-          "start": 161.03,
-          "end": 161.27,
-          "confidence": 0.295
-        },
-        {
-          "text": "hello,",
-          "start": 161.27,
-          "end": 161.57,
-          "confidence": 0.344
-        },
-        {
-          "text": "but",
-          "start": 161.83,
-          "end": 161.97,
-          "confidence": 0.456
+          "text": "But",
+          "start": 178.51,
+          "end": 178.67,
+          "confidence": 0.963
         },
         {
           "text": "I",
-          "start": 178.51,
-          "end": 178.95,
-          "confidence": 0.808
+          "start": 178.67,
+          "end": 178.83,
+          "confidence": 0.81
         },
         {
           "text": "just",
-          "start": 178.95,
-          "end": 179.45,
-          "confidence": 0.978
+          "start": 178.83,
+          "end": 179.31,
+          "confidence": 0.993
         },
         {
           "text": "can't",
-          "start": 179.45,
-          "end": 180.17,
-          "confidence": 0.951
-        },
-        {
-          "text": "get",
-          "start": 180.17,
-          "end": 180.39,
-          "confidence": 0.79
-        },
-        {
-          "text": "enough",
-          "start": 180.39,
-          "end": 180.91,
-          "confidence": 0.475
+          "start": 179.31,
+          "end": 179.9,
+          "confidence": 0.929
         }
       ]
     },
     {
-      "id": 11,
-      "seek": 5456,
-      "start": 183.19,
-      "end": 188.96,
-      "text": " Won't you lay me, won't you lay me down",
+      "id": 20,
+      "seek": 2800,
+      "start": 179.9,
+      "end": 180.65,
+      "text": " Getting home",
       "tokens": [
-        50552,
+        51815,
+        13674,
+        1280,
+        51865
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1805973867090737,
+      "compression_ratio": 1.6956521739130435,
+      "no_speech_prob": 0.012539819814264774,
+      "confidence": 0.332,
+      "words": [
+        {
+          "text": "Getting",
+          "start": 179.9,
+          "end": 180.31,
+          "confidence": 0.33
+        },
+        {
+          "text": "home",
+          "start": 180.31,
+          "end": 180.65,
+          "confidence": 0.333
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "seek": 5800,
+      "start": 180.93,
+      "end": 184.55,
+      "text": " Won't you lay me",
+      "tokens": [
+        50365,
         14710,
         380,
         291,
         2360,
         385,
-        11,
-        1582,
+        50465
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.08647701388499776,
+      "compression_ratio": 4.305555555555555,
+      "no_speech_prob": 0.01873898133635521,
+      "confidence": 0.959,
+      "words": [
+        {
+          "text": "Won't",
+          "start": 180.93,
+          "end": 181.23,
+          "confidence": 0.925
+        },
+        {
+          "text": "you",
+          "start": 183.27,
+          "end": 183.51,
+          "confidence": 0.99
+        },
+        {
+          "text": "lay",
+          "start": 183.51,
+          "end": 183.91,
+          "confidence": 0.967
+        },
+        {
+          "text": "me",
+          "start": 183.91,
+          "end": 184.55,
+          "confidence": 0.991
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "seek": 5800,
+      "start": 186.3,
+      "end": 188.58,
+      "text": " Won't you lay me down",
+      "tokens": [
+        50465,
+        14710,
         380,
         291,
         2360,
         385,
         760,
-        50860
+        50665
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.17940788269042968,
-      "compression_ratio": 2.75,
-      "no_speech_prob": 0.05923401564359665,
-      "confidence": 0.996,
+      "avg_logprob": -0.08647701388499776,
+      "compression_ratio": 4.305555555555555,
+      "no_speech_prob": 0.01873898133635521,
+      "confidence": 0.985,
       "words": [
         {
           "text": "Won't",
-          "start": 183.19,
-          "end": 183.57,
-          "confidence": 0.997
+          "start": 186.3,
+          "end": 186.48,
+          "confidence": 0.986
         },
         {
           "text": "you",
-          "start": 183.57,
-          "end": 183.81,
+          "start": 186.48,
+          "end": 186.94,
           "confidence": 0.999
         },
         {
           "text": "lay",
-          "start": 183.81,
-          "end": 184.29,
-          "confidence": 0.997
-        },
-        {
-          "text": "me,",
-          "start": 184.29,
-          "end": 184.87,
-          "confidence": 0.999
-        },
-        {
-          "text": "won't",
-          "start": 185.93,
-          "end": 186.82,
-          "confidence": 0.997
-        },
-        {
-          "text": "you",
-          "start": 186.82,
-          "end": 187.04,
-          "confidence": 0.999
-        },
-        {
-          "text": "lay",
-          "start": 187.04,
-          "end": 187.58,
+          "start": 186.94,
+          "end": 187.16,
           "confidence": 0.985
         },
         {
           "text": "me",
-          "start": 187.58,
-          "end": 188.24,
-          "confidence": 0.994
+          "start": 187.16,
+          "end": 187.98,
+          "confidence": 0.991
         },
         {
           "text": "down",
-          "start": 188.24,
-          "end": 188.96,
-          "confidence": 0.992
+          "start": 187.98,
+          "end": 188.58,
+          "confidence": 0.961
         }
       ]
     },
     {
-      "id": 12,
-      "seek": 5456,
-      "start": 189.58,
-      "end": 195.5,
-      "text": " Won't you lay me, won't you lay me down",
+      "id": 23,
+      "seek": 5800,
+      "start": 189.6,
+      "end": 191.04,
+      "text": " Won't you lay me",
       "tokens": [
-        50860,
+        50665,
         14710,
         380,
         291,
         2360,
         385,
-        11,
-        1582,
-        380,
-        291,
-        2360,
-        385,
-        760,
-        51180
+        50815
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.17940788269042968,
-      "compression_ratio": 2.75,
-      "no_speech_prob": 0.05923401564359665,
-      "confidence": 0.999,
-      "words": [
-        {
-          "text": "Won't",
-          "start": 189.58,
-          "end": 190.06,
-          "confidence": 0.998
-        },
-        {
-          "text": "you",
-          "start": 190.06,
-          "end": 190.3,
-          "confidence": 0.999
-        },
-        {
-          "text": "lay",
-          "start": 190.3,
-          "end": 190.86,
-          "confidence": 0.999
-        },
-        {
-          "text": "me,",
-          "start": 190.86,
-          "end": 191.38,
-          "confidence": 0.999
-        },
-        {
-          "text": "won't",
-          "start": 192.56,
-          "end": 193.3,
-          "confidence": 0.999
-        },
-        {
-          "text": "you",
-          "start": 193.3,
-          "end": 193.54,
-          "confidence": 0.999
-        },
-        {
-          "text": "lay",
-          "start": 193.54,
-          "end": 194.04,
-          "confidence": 0.999
-        },
-        {
-          "text": "me",
-          "start": 194.04,
-          "end": 194.78,
-          "confidence": 0.996
-        },
-        {
-          "text": "down",
-          "start": 194.78,
-          "end": 195.5,
-          "confidence": 0.999
-        }
-      ]
-    },
-    {
-      "id": 13,
-      "seek": 5456,
-      "start": 196.08,
-      "end": 201.98,
-      "text": " Won't you lay me, won't you lay me down",
-      "tokens": [
-        51180,
-        14710,
-        380,
-        291,
-        2360,
-        385,
-        11,
-        1582,
-        380,
-        291,
-        2360,
-        385,
-        760,
-        51496
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.17940788269042968,
-      "compression_ratio": 2.75,
-      "no_speech_prob": 0.05923401564359665,
+      "avg_logprob": -0.08647701388499776,
+      "compression_ratio": 4.305555555555555,
+      "no_speech_prob": 0.01873898133635521,
       "confidence": 0.998,
       "words": [
         {
           "text": "Won't",
-          "start": 196.08,
-          "end": 196.54,
+          "start": 189.6,
+          "end": 189.76,
           "confidence": 0.998
         },
         {
           "text": "you",
-          "start": 196.54,
-          "end": 196.8,
-          "confidence": 0.999
-        },
-        {
-          "text": "lay",
-          "start": 196.8,
-          "end": 197.32,
-          "confidence": 0.996
-        },
-        {
-          "text": "me,",
-          "start": 197.32,
-          "end": 197.9,
-          "confidence": 0.999
-        },
-        {
-          "text": "won't",
-          "start": 199.0,
-          "end": 199.78,
-          "confidence": 0.999
-        },
-        {
-          "text": "you",
-          "start": 199.78,
-          "end": 200.02,
+          "start": 189.76,
+          "end": 190.04,
           "confidence": 1.0
         },
         {
           "text": "lay",
-          "start": 200.02,
-          "end": 200.64,
+          "start": 190.04,
+          "end": 190.42,
           "confidence": 0.998
         },
         {
           "text": "me",
-          "start": 200.64,
-          "end": 201.22,
+          "start": 190.42,
+          "end": 191.04,
           "confidence": 0.999
-        },
-        {
-          "text": "down",
-          "start": 201.22,
-          "end": 201.98,
-          "confidence": 0.996
         }
       ]
     },
     {
-      "id": 14,
-      "seek": 5456,
-      "start": 202.64,
-      "end": 227.38,
-      "text": " Won't you lay me, won't you lay me down",
-      "tokens": [
-        51496,
-        14710,
-        380,
-        291,
-        2360,
-        385,
-        11,
-        1582,
-        380,
-        291,
-        2360,
-        385,
-        760,
-        51796
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.17940788269042968,
-      "compression_ratio": 2.75,
-      "no_speech_prob": 0.05923401564359665,
-      "confidence": 0.997,
-      "words": [
-        {
-          "text": "Won't",
-          "start": 202.64,
-          "end": 202.98,
-          "confidence": 0.996
-        },
-        {
-          "text": "you",
-          "start": 202.98,
-          "end": 203.22,
-          "confidence": 0.999
-        },
-        {
-          "text": "lay",
-          "start": 203.22,
-          "end": 203.74,
-          "confidence": 0.999
-        },
-        {
-          "text": "me,",
-          "start": 203.74,
-          "end": 204.32,
-          "confidence": 0.999
-        },
-        {
-          "text": "won't",
-          "start": 205.6,
-          "end": 206.22,
-          "confidence": 0.998
-        },
-        {
-          "text": "you",
-          "start": 206.22,
-          "end": 206.44,
-          "confidence": 0.999
-        },
-        {
-          "text": "lay",
-          "start": 206.44,
-          "end": 207.22,
-          "confidence": 0.999
-        },
-        {
-          "text": "me",
-          "start": 207.22,
-          "end": 207.41,
-          "confidence": 0.987
-        },
-        {
-          "text": "down",
-          "start": 226.72,
-          "end": 227.38,
-          "confidence": 0.996
-        }
-      ]
-    },
-    {
-      "id": 15,
-      "seek": 8320,
-      "start": 227.92,
-      "end": 228.1,
+      "id": 24,
+      "seek": 5800,
+      "start": 192.72,
+      "end": 195.08,
       "text": " Won't you lay me down",
       "tokens": [
-        50364,
+        50815,
         14710,
         380,
         291,
         2360,
         385,
         760,
-        50564
+        50965
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.6918582386440701,
-      "compression_ratio": 0.7241379310344828,
-      "no_speech_prob": 0.9510802030563354,
-      "confidence": 0.761,
+      "avg_logprob": -0.08647701388499776,
+      "compression_ratio": 4.305555555555555,
+      "no_speech_prob": 0.01873898133635521,
+      "confidence": 0.998,
       "words": [
         {
           "text": "Won't",
-          "start": 227.92,
-          "end": 228.02,
-          "confidence": 0.627
+          "start": 192.72,
+          "end": 192.98,
+          "confidence": 0.999
         },
         {
           "text": "you",
-          "start": 228.02,
-          "end": 228.04,
-          "confidence": 0.98
+          "start": 192.98,
+          "end": 193.26,
+          "confidence": 1.0
         },
         {
           "text": "lay",
-          "start": 228.04,
-          "end": 228.05,
-          "confidence": 0.959
+          "start": 193.26,
+          "end": 193.6,
+          "confidence": 0.997
         },
         {
           "text": "me",
-          "start": 228.06,
-          "end": 228.08,
-          "confidence": 0.987
+          "start": 193.6,
+          "end": 194.5,
+          "confidence": 0.998
         },
         {
           "text": "down",
-          "start": 228.08,
-          "end": 228.1,
-          "confidence": 0.533
+          "start": 194.5,
+          "end": 195.08,
+          "confidence": 0.996
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "seek": 5800,
+      "start": 195.32,
+      "end": 197.56,
+      "text": " Won't you lay me",
+      "tokens": [
+        50965,
+        14710,
+        380,
+        291,
+        2360,
+        385,
+        51115
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.08647701388499776,
+      "compression_ratio": 4.305555555555555,
+      "no_speech_prob": 0.01873898133635521,
+      "confidence": 0.992,
+      "words": [
+        {
+          "text": "Won't",
+          "start": 195.32,
+          "end": 196.26,
+          "confidence": 0.998
+        },
+        {
+          "text": "you",
+          "start": 196.26,
+          "end": 196.66,
+          "confidence": 0.999
+        },
+        {
+          "text": "lay",
+          "start": 196.66,
+          "end": 197.08,
+          "confidence": 0.971
+        },
+        {
+          "text": "me",
+          "start": 197.08,
+          "end": 197.56,
+          "confidence": 0.997
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "seek": 5800,
+      "start": 199.1,
+      "end": 201.78,
+      "text": " Won't you lay me down",
+      "tokens": [
+        51115,
+        14710,
+        380,
+        291,
+        2360,
+        385,
+        760,
+        51315
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.08647701388499776,
+      "compression_ratio": 4.305555555555555,
+      "no_speech_prob": 0.01873898133635521,
+      "confidence": 0.992,
+      "words": [
+        {
+          "text": "Won't",
+          "start": 199.1,
+          "end": 199.44,
+          "confidence": 0.998
+        },
+        {
+          "text": "you",
+          "start": 199.44,
+          "end": 199.9,
+          "confidence": 0.999
+        },
+        {
+          "text": "lay",
+          "start": 199.9,
+          "end": 200.32,
+          "confidence": 0.992
+        },
+        {
+          "text": "me",
+          "start": 200.32,
+          "end": 200.92,
+          "confidence": 0.998
+        },
+        {
+          "text": "down",
+          "start": 200.92,
+          "end": 201.78,
+          "confidence": 0.967
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "seek": 5800,
+      "start": 202.3,
+      "end": 204.0,
+      "text": " Won't you lay me",
+      "tokens": [
+        51315,
+        14710,
+        380,
+        291,
+        2360,
+        385,
+        51415
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.08647701388499776,
+      "compression_ratio": 4.305555555555555,
+      "no_speech_prob": 0.01873898133635521,
+      "confidence": 0.996,
+      "words": [
+        {
+          "text": "Won't",
+          "start": 202.3,
+          "end": 202.84,
+          "confidence": 0.995
+        },
+        {
+          "text": "you",
+          "start": 202.84,
+          "end": 203.0,
+          "confidence": 0.999
+        },
+        {
+          "text": "lay",
+          "start": 203.0,
+          "end": 203.36,
+          "confidence": 0.992
+        },
+        {
+          "text": "me",
+          "start": 203.36,
+          "end": 204.0,
+          "confidence": 0.998
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "seek": 5800,
+      "start": 205.64,
+      "end": 227.24,
+      "text": " Won't you lay me down",
+      "tokens": [
+        51415,
+        14710,
+        380,
+        291,
+        2360,
+        385,
+        760,
+        51615
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.08647701388499776,
+      "compression_ratio": 4.305555555555555,
+      "no_speech_prob": 0.01873898133635521,
+      "confidence": 0.97,
+      "words": [
+        {
+          "text": "Won't",
+          "start": 205.64,
+          "end": 205.94,
+          "confidence": 0.997
+        },
+        {
+          "text": "you",
+          "start": 205.94,
+          "end": 206.2,
+          "confidence": 0.999
+        },
+        {
+          "text": "lay",
+          "start": 206.2,
+          "end": 206.76,
+          "confidence": 0.988
+        },
+        {
+          "text": "me",
+          "start": 206.76,
+          "end": 207.41,
+          "confidence": 0.924
+        },
+        {
+          "text": "down",
+          "start": 226.58,
+          "end": 227.24,
+          "confidence": 0.922
         }
       ]
     }
   ],
   "language": "en",
   "language_probs": {
-    "en": 0.8615443110466003,
-    "zh": 0.0054108924232423306,
-    "de": 0.0071682678535580635,
-    "es": 0.0024967165663838387,
-    "ru": 0.005942702293395996,
-    "ko": 0.00571504095569253,
-    "fr": 0.0060362862423062325,
-    "ja": 0.0010166765423491597,
-    "pt": 0.006526782177388668,
-    "tr": 0.0027207673992961645,
-    "pl": 0.001869954401627183,
-    "ca": 0.00044763661571778357,
-    "nl": 0.009276428259909153,
-    "ar": 0.0020860848017036915,
-    "sv": 0.004850292112678289,
-    "it": 0.0014908575685694814,
-    "id": 5.1817700295941904e-05,
-    "hi": 0.0001096980704460293,
-    "fi": 0.0002472084015607834,
-    "vi": 0.0005399527726694942,
-    "he": 9.382973803440109e-05,
-    "uk": 0.00031006880453787744,
-    "el": 0.00213555502705276,
-    "ms": 0.00024148185912054032,
-    "cs": 0.000225085808779113,
-    "ro": 0.00023223081370815635,
-    "da": 0.004214007407426834,
-    "hu": 0.00015469906793441623,
-    "ta": 8.745893137529492e-05,
-    "no": 0.004084355663508177,
-    "th": 3.242668753955513e-05,
-    "ur": 9.456564293941483e-05,
-    "hr": 0.00012825003068428487,
-    "bg": 0.00012430419155862182,
-    "lt": 3.561374978744425e-05,
-    "la": 0.017603565007448196,
-    "mi": 0.0019142990931868553,
-    "ml": 0.00011768885451601818,
-    "cy": 0.01948537304997444,
-    "sk": 3.561374978744425e-05,
-    "te": 4.6449084038613364e-05,
-    "fa": 4.608761810231954e-05,
-    "lv": 0.0001712362573016435,
-    "bn": 1.5079810509632807e-05,
-    "sr": 9.004565072245896e-06,
-    "az": 7.012762580416165e-06,
-    "sl": 0.00011861189705086872,
-    "kn": 1.1997423143839114e-06,
-    "et": 1.056860764947487e-05,
-    "mk": 5.090719696454471e-06,
-    "br": 0.0013468776596710086,
-    "eu": 3.2174339139601216e-05,
-    "is": 0.001884620520286262,
-    "hy": 6.2129638536134735e-06,
-    "ne": 9.182164831145201e-06,
-    "mn": 3.022499913640786e-05,
-    "bs": 7.598562660859898e-05,
-    "kk": 1.5079810509632807e-05,
-    "sq": 0.00010386004578322172,
-    "sw": 3.478875805740245e-05,
-    "gl": 0.0003432148660067469,
-    "mr": 9.380171945849725e-07,
-    "pa": 2.6204779715044424e-06,
-    "si": 7.963225652929395e-05,
-    "km": 0.0015624052612110972,
-    "sn": 0.0005152265657670796,
-    "yo": 0.00014307326637208462,
-    "so": 6.574045414708962e-07,
-    "af": 0.00011318026372464374,
-    "oc": 0.00011677299335133284,
-    "ka": 2.2589933905692305e-06,
-    "be": 3.1923958886181936e-05,
-    "tg": 7.72985018215877e-08,
-    "sd": 1.6757157936808653e-05,
-    "gu": 9.415479951258021e-08,
-    "am": 3.160428150295047e-07,
-    "yi": 0.0008233297849074006,
-    "lo": 2.452113903927966e-06,
-    "uz": 1.5278267539997614e-09,
-    "fo": 0.0003568870306480676,
-    "ht": 8.953295036917552e-05,
-    "ps": 3.666707925731316e-06,
-    "tk": 9.599749439814786e-09,
-    "nn": 0.00700221536681056,
-    "mt": 5.35590925210272e-06,
-    "sa": 8.345388778252527e-05,
-    "lb": 1.2376413849324308e-07,
-    "my": 4.9060014134738594e-05,
-    "bo": 2.4862403734005056e-05,
-    "tl": 0.00013335893163457513,
-    "mg": 5.104615841133864e-09,
-    "as": 5.892936769669177e-07,
-    "tt": 1.1115835008013164e-07,
-    "haw": 0.004926673136651516,
-    "ln": 1.2044379218423273e-06,
-    "ha": 9.931112820993349e-09,
-    "ba": 1.3185527336645464e-08,
-    "jw": 0.002699594246223569,
-    "su": 6.781715455872472e-08
+    "en": 0.8524972796440125,
+    "zh": 0.009036708623170853,
+    "de": 0.0033244190271943808,
+    "es": 0.014216737821698189,
+    "ru": 0.01335538923740387,
+    "ko": 0.01197169441729784,
+    "fr": 0.007318149320781231,
+    "ja": 0.0024512731470167637,
+    "pt": 0.018687549978494644,
+    "tr": 0.002799441572278738,
+    "pl": 0.0017655858537182212,
+    "ca": 0.00022446902585215867,
+    "nl": 0.002979990327730775,
+    "ar": 0.00499054417014122,
+    "sv": 0.0031721831765025854,
+    "it": 0.004335859790444374,
+    "id": 0.0005555662210099399,
+    "hi": 8.290074038086459e-05,
+    "fi": 0.0009231579606421292,
+    "vi": 0.002713311929255724,
+    "he": 0.00012396357487887144,
+    "uk": 0.0004499112255871296,
+    "el": 0.00128167774528265,
+    "ms": 0.000244612485403195,
+    "cs": 0.0003396107640583068,
+    "ro": 0.0009303982951678336,
+    "da": 0.0005058487877249718,
+    "hu": 0.0001810718677006662,
+    "ta": 0.00013721517461817712,
+    "no": 0.000713361136149615,
+    "th": 0.0001824920327635482,
+    "ur": 0.00010157211363548413,
+    "hr": 6.136641604825854e-05,
+    "bg": 6.481586024165154e-05,
+    "lt": 0.00022359391732607037,
+    "la": 0.015736494213342667,
+    "mi": 0.0006394527736119926,
+    "ml": 5.67546630918514e-05,
+    "cy": 0.004302117973566055,
+    "sk": 8.322520443471149e-05,
+    "te": 7.879603799665347e-05,
+    "fa": 9.467561903875321e-05,
+    "lv": 0.00019886853988282382,
+    "bn": 6.993546776357107e-06,
+    "sr": 2.7872792998095974e-06,
+    "az": 4.45472433057148e-05,
+    "sl": 9.17627548915334e-05,
+    "kn": 4.920574156130897e-06,
+    "et": 3.900687079294585e-05,
+    "mk": 1.5065638763189781e-06,
+    "br": 0.0004293082747608423,
+    "eu": 5.127356416778639e-05,
+    "is": 0.0006101700710132718,
+    "hy": 1.8936316337203607e-05,
+    "ne": 1.2863099982496351e-05,
+    "mn": 2.55813301919261e-05,
+    "bs": 1.930980033648666e-05,
+    "kk": 4.892557626590133e-05,
+    "sq": 9.015037903736811e-06,
+    "sw": 3.607545659178868e-05,
+    "gl": 0.00018036593974102288,
+    "mr": 7.710970749030821e-06,
+    "pa": 1.771966890373733e-05,
+    "si": 6.583655340364203e-05,
+    "km": 0.002214540494605899,
+    "sn": 0.00045343994861468673,
+    "yo": 3.977621236117557e-05,
+    "so": 6.844524591542722e-08,
+    "af": 7.972486491780728e-05,
+    "oc": 6.980942271184176e-05,
+    "ka": 2.13708108276478e-06,
+    "be": 6.609423871850595e-05,
+    "tg": 1.0570639830120854e-07,
+    "sd": 8.112655450531747e-06,
+    "gu": 1.1372140988896717e-06,
+    "am": 3.4716958907665685e-07,
+    "yi": 5.609344952972606e-05,
+    "lo": 9.634017260395922e-06,
+    "uz": 3.2672446081960516e-08,
+    "fo": 5.167570634512231e-05,
+    "ht": 5.697679443983361e-05,
+    "ps": 7.621134955115849e-06,
+    "tk": 3.9777820148856335e-08,
+    "nn": 0.005481040570884943,
+    "mt": 6.56982865621103e-06,
+    "sa": 7.008264947216958e-05,
+    "lb": 1.7827181864049635e-07,
+    "my": 3.2086176361190155e-05,
+    "bo": 8.910008546081372e-06,
+    "tl": 0.000847137242089957,
+    "mg": 5.182941364978433e-08,
+    "as": 6.568848220922519e-07,
+    "tt": 1.21957285159624e-07,
+    "haw": 0.0022670570760965347,
+    "ln": 1.2320256246312056e-06,
+    "ha": 8.55096544682965e-08,
+    "ba": 4.779414908284707e-08,
+    "jw": 0.0022670570760965347,
+    "su": 1.5713239065462403e-07,
+    "yue": 4.152259498368949e-05
   },
   "speech_activity": [
     {

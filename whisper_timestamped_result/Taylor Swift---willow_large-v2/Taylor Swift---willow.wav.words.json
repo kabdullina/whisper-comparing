@@ -1,205 +1,212 @@
 {
-  "text": " I'm like the water when your ship rolled in that night Rough on the surface but you cut through like a knife And if it was an open shut case I never would've known from that look on your face Lost in your current like a priceless wine The more that you say, the less I know Wherever you stray, I follow I'm begging for you to take my hand Ripped my plans, that's my man Life was a willow and it bent right to your wind Head on the pillow I could feel you sneaking in As if you were a mythical thing Like you were a trophy or a champion ring There was one prize I'd cheat to win The more that you say, the less I know Wherever you stray, I follow I'm begging for you to take my hand Ripped my plans, that's my man You know that my train could take you home Anywhere else is hollow I'm begging for you to take my hand Ripped my plans, that's my man Life was a willow and it bent right to your wind They count me out time and time again Life was a willow and it bent right to your wind I come back stronger than a 90's trend Wait for the signal and I'll meet you after dark Show me the places where the others gave you scars Now this is an open shut case I guess I should have known from that look on your face Every bit and switch was a work of art The more that you say, the less I know Wherever you stray, I follow I'm begging for you to take my hand Ripped my plans, that's my man You know that my train could take you home Anywhere else is hollow I'm begging for you to take my hand Ripped my plans, that's my man The more that you say, the less I know I follow, begging for you to take my hand Ripped my plans, that's my man You know that my train could take you home Anywhere else is hollow I'm begging for you to take my hand Ripped my plans, that's my man Hey, that's my man That's my man That's my man Every bit and switch was a work of art That's my man Hey, that's my man I'm begging for you to take my hand Ripped my plans, that's my man",
+  "text": "I'm like the water when your ship rolled in that night. Rough on the surface, but you cut through like a knife. And if it was an open shut case, I never would have known from the look on your face. Lost in your current like a priceless wine. The more that you say, the less I know. Wherever you stray or follow. Begging for you to take my hand, wreck my plans, that's my man. Life was a willow and it bent right to your wind. Head on the pillow, I could feel you sneaking in. As if you were a mythical thing, like you were a trophy or a champion ring. And there was one prize I'd cheat to win. The more that you say, the less I know. Wherever you stray or follow. Begging for you to take my hand, wreck my plans, that's my man. You know that my train could take you home, anywhere else is hollow. Begging for you to take my hand, wreck my plans, that's my man. Life was a willow and it bent right to your wind. They count me out time and time again. Life was a willow and it bent right to your wind. But I come back stronger than a 90s trend. Wait for the signal and I'll meet you after dark. Show me the places where the others gave you scars. Now this is an open shut case. I guess I should've known from the look on your face. Every bit of switch was a work of art. Wherever you stray or follow. Begging for you to take my hand, wreck my plans, that's my man. You know that my train could take you home, anywhere else is hollow. Begging for you to take my hand, wreck my plans, that's my man. Hey, that's my man. That's my man. That's my man. That's my man. Hey, that's my man. Begging for you to take my hand, wreck my plans, that's my man.",
   "segments": [
     {
       "id": 0,
       "seek": 0,
-      "start": 12.13,
-      "end": 15.29,
-      "text": " I'm like the water when your ship rolled in that night",
+      "start": 11.69,
+      "end": 15.53,
+      "text": "I'm like the water when your ship rolled in that night.",
       "tokens": [
         50364,
-        286,
+        40,
         478,
         411,
-        264,
+        220,
+        3322,
         1281,
         562,
         428,
         5374,
         14306,
         294,
-        300,
+        220,
+        6780,
         1818,
-        50564
+        13,
+        50604
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.1337774966625457,
-      "compression_ratio": 1.5794392523364487,
-      "no_speech_prob": 0.6973753571510315,
-      "confidence": 0.972,
+      "avg_logprob": -0.1950078574560022,
+      "compression_ratio": 1.5320197044334976,
+      "no_speech_prob": 0.012586642056703568,
+      "confidence": 0.956,
       "words": [
         {
           "text": "I'm",
-          "start": 12.13,
-          "end": 12.49,
-          "confidence": 0.975
+          "start": 11.69,
+          "end": 12.65,
+          "confidence": 0.969
         },
         {
           "text": "like",
-          "start": 12.49,
-          "end": 12.65,
-          "confidence": 0.99
+          "start": 12.65,
+          "end": 12.75,
+          "confidence": 0.995
         },
         {
           "text": "the",
-          "start": 12.65,
-          "end": 12.83,
-          "confidence": 0.994
+          "start": 12.75,
+          "end": 12.87,
+          "confidence": 0.996
         },
         {
           "text": "water",
-          "start": 12.83,
-          "end": 13.11,
+          "start": 12.87,
+          "end": 13.41,
           "confidence": 0.998
         },
         {
           "text": "when",
-          "start": 13.11,
-          "end": 13.37,
-          "confidence": 0.964
+          "start": 13.41,
+          "end": 13.43,
+          "confidence": 0.833
         },
         {
           "text": "your",
-          "start": 13.37,
-          "end": 13.53,
-          "confidence": 0.895
+          "start": 13.43,
+          "end": 13.55,
+          "confidence": 0.947
         },
         {
           "text": "ship",
-          "start": 13.53,
-          "end": 13.79,
-          "confidence": 0.992
-        },
-        {
-          "text": "rolled",
-          "start": 13.79,
-          "end": 14.19,
-          "confidence": 0.943
-        },
-        {
-          "text": "in",
-          "start": 14.19,
-          "end": 14.57,
-          "confidence": 0.986
-        },
-        {
-          "text": "that",
-          "start": 14.57,
-          "end": 14.87,
+          "start": 13.55,
+          "end": 14.15,
           "confidence": 0.955
         },
         {
-          "text": "night",
-          "start": 14.87,
-          "end": 15.29,
-          "confidence": 0.996
+          "text": "rolled",
+          "start": 14.15,
+          "end": 14.35,
+          "confidence": 0.869
+        },
+        {
+          "text": "in",
+          "start": 14.35,
+          "end": 14.73,
+          "confidence": 0.993
+        },
+        {
+          "text": "that",
+          "start": 14.73,
+          "end": 14.97,
+          "confidence": 0.94
+        },
+        {
+          "text": "night.",
+          "start": 14.97,
+          "end": 15.53,
+          "confidence": 0.997
         }
       ]
     },
     {
       "id": 1,
       "seek": 0,
-      "start": 17.73,
-      "end": 21.13,
-      "text": " Rough on the surface but you cut through like a knife",
+      "start": 17.39,
+      "end": 21.55,
+      "text": " Rough on the surface, but you cut through like a knife.",
       "tokens": [
-        50564,
+        50604,
         42791,
         322,
-        264,
+        220,
+        3322,
         3753,
+        11,
         457,
         291,
         1723,
-        807,
+        220,
+        11529,
         411,
         257,
         7976,
-        50814
+        13,
+        50844
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.1337774966625457,
-      "compression_ratio": 1.5794392523364487,
-      "no_speech_prob": 0.6973753571510315,
-      "confidence": 0.921,
+      "avg_logprob": -0.1950078574560022,
+      "compression_ratio": 1.5320197044334976,
+      "no_speech_prob": 0.012586642056703568,
+      "confidence": 0.974,
       "words": [
         {
           "text": "Rough",
-          "start": 17.73,
-          "end": 18.09,
-          "confidence": 0.927
+          "start": 17.39,
+          "end": 18.23,
+          "confidence": 0.889
         },
         {
           "text": "on",
-          "start": 18.09,
-          "end": 18.41,
-          "confidence": 0.993
+          "start": 18.23,
+          "end": 18.47,
+          "confidence": 0.994
         },
         {
           "text": "the",
-          "start": 18.41,
+          "start": 18.47,
           "end": 18.53,
-          "confidence": 0.996
-        },
-        {
-          "text": "surface",
-          "start": 18.53,
-          "end": 18.81,
           "confidence": 0.998
         },
         {
+          "text": "surface,",
+          "start": 18.53,
+          "end": 18.95,
+          "confidence": 0.897
+        },
+        {
           "text": "but",
-          "start": 18.81,
-          "end": 19.07,
-          "confidence": 0.673
+          "start": 19.21,
+          "end": 19.23,
+          "confidence": 0.993
         },
         {
           "text": "you",
-          "start": 19.07,
+          "start": 19.23,
           "end": 19.25,
-          "confidence": 0.698
+          "confidence": 0.943
         },
         {
           "text": "cut",
           "start": 19.25,
-          "end": 19.49,
-          "confidence": 0.981
+          "end": 19.63,
+          "confidence": 0.993
         },
         {
           "text": "through",
-          "start": 19.49,
-          "end": 19.83,
-          "confidence": 0.986
+          "start": 19.63,
+          "end": 19.91,
+          "confidence": 0.99
         },
         {
           "text": "like",
-          "start": 19.83,
-          "end": 20.29,
-          "confidence": 0.983
+          "start": 19.91,
+          "end": 20.51,
+          "confidence": 0.995
         },
         {
           "text": "a",
-          "start": 20.29,
-          "end": 20.61,
-          "confidence": 0.996
+          "start": 20.51,
+          "end": 20.71,
+          "confidence": 0.997
         },
         {
-          "text": "knife",
-          "start": 20.61,
-          "end": 21.13,
-          "confidence": 0.999
+          "text": "knife.",
+          "start": 20.71,
+          "end": 21.55,
+          "confidence": 0.993
         }
       ]
     },
     {
       "id": 2,
       "seek": 0,
-      "start": 24.13,
-      "end": 26.17,
-      "text": " And if it was an open shut case",
+      "start": 24.09,
+      "end": 29.59,
+      "text": " And if it was an open shut case, I never would have known from the look on your face.",
       "tokens": [
-        50814,
+        50844,
         400,
         498,
         309,
@@ -208,161 +215,152 @@
         1269,
         5309,
         1389,
-        50964
+        11,
+        286,
+        1128,
+        576,
+        362,
+        2570,
+        490,
+        220,
+        3322,
+        574,
+        322,
+        428,
+        1851,
+        13,
+        51139
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.1337774966625457,
-      "compression_ratio": 1.5794392523364487,
-      "no_speech_prob": 0.6973753571510315,
-      "confidence": 0.963,
+      "avg_logprob": -0.1950078574560022,
+      "compression_ratio": 1.5320197044334976,
+      "no_speech_prob": 0.012586642056703568,
+      "confidence": 0.906,
       "words": [
         {
           "text": "And",
-          "start": 24.13,
+          "start": 24.09,
           "end": 24.27,
-          "confidence": 0.94
+          "confidence": 0.901
         },
         {
           "text": "if",
           "start": 24.27,
-          "end": 24.47,
-          "confidence": 0.991
+          "end": 24.65,
+          "confidence": 0.989
         },
         {
           "text": "it",
-          "start": 24.47,
-          "end": 24.63,
-          "confidence": 0.993
+          "start": 24.65,
+          "end": 24.79,
+          "confidence": 0.99
         },
         {
           "text": "was",
-          "start": 24.63,
-          "end": 24.83,
-          "confidence": 0.971
+          "start": 24.79,
+          "end": 24.85,
+          "confidence": 0.983
         },
         {
           "text": "an",
-          "start": 24.83,
-          "end": 25.01,
-          "confidence": 0.994
+          "start": 24.85,
+          "end": 25.05,
+          "confidence": 0.982
         },
         {
           "text": "open",
-          "start": 25.01,
-          "end": 25.23,
-          "confidence": 0.988
+          "start": 25.05,
+          "end": 25.41,
+          "confidence": 0.984
         },
         {
           "text": "shut",
-          "start": 25.23,
-          "end": 25.55,
-          "confidence": 0.93
+          "start": 25.41,
+          "end": 25.57,
+          "confidence": 0.453
         },
         {
-          "text": "case",
-          "start": 25.55,
-          "end": 26.17,
-          "confidence": 0.903
+          "text": "case,",
+          "start": 25.57,
+          "end": 26.55,
+          "confidence": 0.96
+        },
+        {
+          "text": "I",
+          "start": 27.01,
+          "end": 27.13,
+          "confidence": 0.978
+        },
+        {
+          "text": "never",
+          "start": 27.13,
+          "end": 27.49,
+          "confidence": 0.982
+        },
+        {
+          "text": "would",
+          "start": 27.49,
+          "end": 27.81,
+          "confidence": 0.998
+        },
+        {
+          "text": "have",
+          "start": 27.81,
+          "end": 28.15,
+          "confidence": 0.506
+        },
+        {
+          "text": "known",
+          "start": 28.15,
+          "end": 28.17,
+          "confidence": 0.99
+        },
+        {
+          "text": "from",
+          "start": 28.17,
+          "end": 28.43,
+          "confidence": 0.944
+        },
+        {
+          "text": "the",
+          "start": 28.43,
+          "end": 28.67,
+          "confidence": 0.94
+        },
+        {
+          "text": "look",
+          "start": 28.67,
+          "end": 28.83,
+          "confidence": 0.997
+        },
+        {
+          "text": "on",
+          "start": 28.83,
+          "end": 29.01,
+          "confidence": 0.976
+        },
+        {
+          "text": "your",
+          "start": 29.01,
+          "end": 29.23,
+          "confidence": 0.989
+        },
+        {
+          "text": "face.",
+          "start": 29.23,
+          "end": 29.59,
+          "confidence": 0.994
         }
       ]
     },
     {
       "id": 3,
       "seek": 0,
-      "start": 27.01,
-      "end": 29.55,
-      "text": " I never would've known from that look on your face",
+      "start": 29.59,
+      "end": 33.39,
+      "text": " Lost in your current like a priceless wine.",
       "tokens": [
-        50964,
-        286,
-        1128,
-        576,
-        600,
-        2570,
-        490,
-        300,
-        574,
-        322,
-        428,
-        1851,
-        51114
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.1337774966625457,
-      "compression_ratio": 1.5794392523364487,
-      "no_speech_prob": 0.6973753571510315,
-      "confidence": 0.86,
-      "words": [
-        {
-          "text": "I",
-          "start": 27.01,
-          "end": 27.13,
-          "confidence": 0.919
-        },
-        {
-          "text": "never",
-          "start": 27.13,
-          "end": 27.39,
-          "confidence": 0.764
-        },
-        {
-          "text": "would've",
-          "start": 27.39,
-          "end": 27.85,
-          "confidence": 0.754
-        },
-        {
-          "text": "known",
-          "start": 27.85,
-          "end": 28.09,
-          "confidence": 0.994
-        },
-        {
-          "text": "from",
-          "start": 28.09,
-          "end": 28.35,
-          "confidence": 0.974
-        },
-        {
-          "text": "that",
-          "start": 28.35,
-          "end": 28.55,
-          "confidence": 0.507
-        },
-        {
-          "text": "look",
-          "start": 28.55,
-          "end": 28.73,
-          "confidence": 0.993
-        },
-        {
-          "text": "on",
-          "start": 28.73,
-          "end": 28.93,
-          "confidence": 0.997
-        },
-        {
-          "text": "your",
-          "start": 28.93,
-          "end": 29.11,
-          "confidence": 0.98
-        },
-        {
-          "text": "face",
-          "start": 29.11,
-          "end": 29.55,
-          "confidence": 0.999
-        }
-      ]
-    },
-    {
-      "id": 4,
-      "seek": 0,
-      "start": 29.99,
-      "end": 33.23,
-      "text": " Lost in your current like a priceless wine",
-      "tokens": [
-        51114,
+        51139,
         23422,
         294,
         428,
@@ -372,346 +370,311 @@
         582,
         41817,
         7209,
-        51314
+        13,
+        51364
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.1337774966625457,
-      "compression_ratio": 1.5794392523364487,
-      "no_speech_prob": 0.6973753571510315,
-      "confidence": 0.973,
+      "avg_logprob": -0.1950078574560022,
+      "compression_ratio": 1.5320197044334976,
+      "no_speech_prob": 0.012586642056703568,
+      "confidence": 0.945,
       "words": [
         {
           "text": "Lost",
-          "start": 29.99,
-          "end": 30.25,
-          "confidence": 0.942
+          "start": 29.59,
+          "end": 30.59,
+          "confidence": 0.952
         },
         {
           "text": "in",
-          "start": 30.25,
-          "end": 30.55,
-          "confidence": 0.992
+          "start": 30.59,
+          "end": 30.61,
+          "confidence": 0.993
         },
         {
           "text": "your",
-          "start": 30.55,
-          "end": 30.69,
-          "confidence": 0.949
+          "start": 30.61,
+          "end": 30.75,
+          "confidence": 0.986
         },
         {
           "text": "current",
-          "start": 30.69,
-          "end": 31.01,
-          "confidence": 0.993
+          "start": 30.75,
+          "end": 31.13,
+          "confidence": 0.881
         },
         {
           "text": "like",
-          "start": 31.01,
-          "end": 31.25,
-          "confidence": 0.916
+          "start": 31.13,
+          "end": 31.33,
+          "confidence": 0.96
         },
         {
           "text": "a",
-          "start": 31.25,
-          "end": 31.41,
-          "confidence": 0.993
-        },
-        {
-          "text": "priceless",
-          "start": 31.41,
-          "end": 32.47,
+          "start": 31.33,
+          "end": 31.39,
           "confidence": 0.994
         },
         {
-          "text": "wine",
-          "start": 32.47,
-          "end": 33.23,
-          "confidence": 0.992
+          "text": "priceless",
+          "start": 31.39,
+          "end": 32.77,
+          "confidence": 0.96
+        },
+        {
+          "text": "wine.",
+          "start": 32.77,
+          "end": 33.39,
+          "confidence": 0.834
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 35.15,
+      "end": 40.91,
+      "text": " The more that you say, the less I know. Wherever you stray or follow.",
+      "tokens": [
+        51364,
+        440,
+        544,
+        220,
+        6780,
+        291,
+        584,
+        11,
+        220,
+        3322,
+        1570,
+        286,
+        458,
+        13,
+        30903,
+        291,
+        36219,
+        420,
+        1524,
+        13,
+        51654
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1950078574560022,
+      "compression_ratio": 1.5320197044334976,
+      "no_speech_prob": 0.012586642056703568,
+      "confidence": 0.975,
+      "words": [
+        {
+          "text": "The",
+          "start": 35.15,
+          "end": 35.69,
+          "confidence": 0.982
+        },
+        {
+          "text": "more",
+          "start": 35.69,
+          "end": 35.93,
+          "confidence": 0.996
+        },
+        {
+          "text": "that",
+          "start": 35.93,
+          "end": 36.11,
+          "confidence": 0.989
+        },
+        {
+          "text": "you",
+          "start": 36.11,
+          "end": 36.65,
+          "confidence": 0.997
+        },
+        {
+          "text": "say,",
+          "start": 36.65,
+          "end": 36.97,
+          "confidence": 0.996
+        },
+        {
+          "text": "the",
+          "start": 37.03,
+          "end": 37.05,
+          "confidence": 0.999
+        },
+        {
+          "text": "less",
+          "start": 37.05,
+          "end": 37.57,
+          "confidence": 0.977
+        },
+        {
+          "text": "I",
+          "start": 37.57,
+          "end": 37.79,
+          "confidence": 0.998
+        },
+        {
+          "text": "know.",
+          "start": 37.79,
+          "end": 38.21,
+          "confidence": 0.997
+        },
+        {
+          "text": "Wherever",
+          "start": 38.61,
+          "end": 38.75,
+          "confidence": 0.789
+        },
+        {
+          "text": "you",
+          "start": 38.75,
+          "end": 39.21,
+          "confidence": 0.997
+        },
+        {
+          "text": "stray",
+          "start": 39.21,
+          "end": 39.73,
+          "confidence": 0.995
+        },
+        {
+          "text": "or",
+          "start": 39.73,
+          "end": 40.15,
+          "confidence": 0.934
+        },
+        {
+          "text": "follow.",
+          "start": 40.15,
+          "end": 40.91,
+          "confidence": 0.993
         }
       ]
     },
     {
       "id": 5,
-      "seek": 0,
-      "start": 35.51,
-      "end": 38.03,
-      "text": " The more that you say, the less I know",
+      "seek": 2580,
+      "start": 41.35,
+      "end": 46.95,
+      "text": " Begging for you to take my hand, wreck my plans, that's my man.",
       "tokens": [
-        51314,
-        440,
-        544,
-        300,
-        291,
-        584,
-        11,
-        264,
-        1570,
-        286,
-        458,
-        51464
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.1337774966625457,
-      "compression_ratio": 1.5794392523364487,
-      "no_speech_prob": 0.6973753571510315,
-      "confidence": 0.99,
-      "words": [
-        {
-          "text": "The",
-          "start": 35.51,
-          "end": 35.67,
-          "confidence": 0.981
-        },
-        {
-          "text": "more",
-          "start": 35.67,
-          "end": 35.87,
-          "confidence": 0.998
-        },
-        {
-          "text": "that",
-          "start": 35.87,
-          "end": 36.05,
-          "confidence": 0.987
-        },
-        {
-          "text": "you",
-          "start": 36.05,
-          "end": 36.27,
-          "confidence": 0.998
-        },
-        {
-          "text": "say,",
-          "start": 36.27,
-          "end": 36.73,
-          "confidence": 0.99
-        },
-        {
-          "text": "the",
-          "start": 36.99,
-          "end": 37.13,
-          "confidence": 0.968
-        },
-        {
-          "text": "less",
-          "start": 37.13,
-          "end": 37.37,
-          "confidence": 0.997
-        },
-        {
-          "text": "I",
-          "start": 37.37,
-          "end": 37.75,
-          "confidence": 0.99
-        },
-        {
-          "text": "know",
-          "start": 37.75,
-          "end": 38.03,
-          "confidence": 0.998
-        }
-      ]
-    },
-    {
-      "id": 6,
-      "seek": 0,
-      "start": 38.45,
-      "end": 40.61,
-      "text": " Wherever you stray, I follow",
-      "tokens": [
-        51464,
-        30903,
-        291,
-        36219,
-        11,
-        286,
-        1524,
-        51614
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.1337774966625457,
-      "compression_ratio": 1.5794392523364487,
-      "no_speech_prob": 0.6973753571510315,
-      "confidence": 0.836,
-      "words": [
-        {
-          "text": "Wherever",
-          "start": 38.45,
-          "end": 38.75,
-          "confidence": 0.654
-        },
-        {
-          "text": "you",
-          "start": 38.75,
-          "end": 39.15,
-          "confidence": 0.998
-        },
-        {
-          "text": "stray,",
-          "start": 39.15,
-          "end": 39.47,
-          "confidence": 0.985
-        },
-        {
-          "text": "I",
-          "start": 39.89,
-          "end": 39.97,
-          "confidence": 0.823
-        },
-        {
-          "text": "follow",
-          "start": 39.97,
-          "end": 40.61,
-          "confidence": 0.775
-        }
-      ]
-    },
-    {
-      "id": 7,
-      "seek": 0,
-      "start": 41.29,
-      "end": 43.87,
-      "text": " I'm begging for you to take my hand",
-      "tokens": [
-        51614,
-        286,
-        478,
-        26600,
+        50364,
+        879,
+        10877,
         337,
         291,
-        281,
-        747,
+        220,
+        1353,
+        220,
+        27612,
         452,
         1011,
-        51764
+        11,
+        21478,
+        452,
+        5482,
+        11,
+        220,
+        6780,
+        311,
+        452,
+        587,
+        13,
+        50679
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.1337774966625457,
-      "compression_ratio": 1.5794392523364487,
-      "no_speech_prob": 0.6973753571510315,
-      "confidence": 0.904,
+      "avg_logprob": -0.1319105270061087,
+      "compression_ratio": 1.4712041884816753,
+      "no_speech_prob": 0.012324444018304348,
+      "confidence": 0.967,
       "words": [
         {
-          "text": "I'm",
-          "start": 41.29,
-          "end": 41.39,
-          "confidence": 0.684
-        },
-        {
-          "text": "begging",
-          "start": 41.39,
-          "end": 41.67,
-          "confidence": 0.9
+          "text": "Begging",
+          "start": 41.35,
+          "end": 41.81,
+          "confidence": 0.77
         },
         {
           "text": "for",
-          "start": 41.67,
+          "start": 41.81,
           "end": 42.03,
-          "confidence": 0.99
+          "confidence": 0.997
         },
         {
           "text": "you",
           "start": 42.03,
-          "end": 42.43,
-          "confidence": 0.998
+          "end": 42.51,
+          "confidence": 0.996
         },
         {
           "text": "to",
-          "start": 42.43,
-          "end": 42.81,
-          "confidence": 0.98
-        },
-        {
-          "text": "take",
-          "start": 42.81,
-          "end": 43.07,
-          "confidence": 0.998
-        },
-        {
-          "text": "my",
-          "start": 43.07,
-          "end": 43.43,
+          "start": 42.51,
+          "end": 42.97,
           "confidence": 0.999
         },
         {
-          "text": "hand",
-          "start": 43.43,
-          "end": 43.87,
+          "text": "take",
+          "start": 42.97,
+          "end": 43.23,
+          "confidence": 0.994
+        },
+        {
+          "text": "my",
+          "start": 43.23,
+          "end": 43.55,
+          "confidence": 0.999
+        },
+        {
+          "text": "hand,",
+          "start": 43.55,
+          "end": 44.05,
+          "confidence": 0.996
+        },
+        {
+          "text": "wreck",
+          "start": 44.13,
+          "end": 44.79,
+          "confidence": 0.982
+        },
+        {
+          "text": "my",
+          "start": 44.79,
+          "end": 44.95,
+          "confidence": 0.996
+        },
+        {
+          "text": "plans,",
+          "start": 44.95,
+          "end": 45.57,
+          "confidence": 0.989
+        },
+        {
+          "text": "that's",
+          "start": 45.85,
+          "end": 46.13,
+          "confidence": 0.996
+        },
+        {
+          "text": "my",
+          "start": 46.13,
+          "end": 46.41,
+          "confidence": 0.999
+        },
+        {
+          "text": "man.",
+          "start": 46.41,
+          "end": 46.95,
           "confidence": 0.995
         }
       ]
     },
     {
-      "id": 8,
-      "seek": 2800,
-      "start": 44.01,
-      "end": 46.77,
-      "text": " Ripped my plans, that's my man",
+      "id": 6,
+      "seek": 2580,
+      "start": 47.85,
+      "end": 51.25,
+      "text": " Life was a willow and it bent right to your wind.",
       "tokens": [
-        50364,
-        497,
-        5529,
-        452,
-        5482,
-        11,
-        300,
-        311,
-        452,
-        587,
-        50514
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.1089177131652832,
-      "compression_ratio": 1.53,
-      "no_speech_prob": 0.053187716752290726,
-      "confidence": 0.665,
-      "words": [
-        {
-          "text": "Ripped",
-          "start": 44.01,
-          "end": 44.57,
-          "confidence": 0.213
-        },
-        {
-          "text": "my",
-          "start": 44.57,
-          "end": 44.85,
-          "confidence": 0.994
-        },
-        {
-          "text": "plans,",
-          "start": 44.85,
-          "end": 45.41,
-          "confidence": 0.908
-        },
-        {
-          "text": "that's",
-          "start": 45.57,
-          "end": 46.13,
-          "confidence": 0.989
-        },
-        {
-          "text": "my",
-          "start": 46.13,
-          "end": 46.33,
-          "confidence": 0.98
-        },
-        {
-          "text": "man",
-          "start": 46.33,
-          "end": 46.77,
-          "confidence": 0.969
-        }
-      ]
-    },
-    {
-      "id": 9,
-      "seek": 2800,
-      "start": 47.77,
-      "end": 51.01,
-      "text": " Life was a willow and it bent right to your wind",
-      "tokens": [
-        50514,
+        50679,
         7720,
         390,
         257,
@@ -721,944 +684,1051 @@
         309,
         14075,
         558,
-        281,
+        220,
+        1353,
         428,
         2468,
-        50764
+        13,
+        50929
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.1089177131652832,
-      "compression_ratio": 1.53,
-      "no_speech_prob": 0.053187716752290726,
-      "confidence": 0.913,
+      "avg_logprob": -0.1319105270061087,
+      "compression_ratio": 1.4712041884816753,
+      "no_speech_prob": 0.012324444018304348,
+      "confidence": 0.962,
       "words": [
         {
           "text": "Life",
-          "start": 47.77,
-          "end": 48.05,
-          "confidence": 0.993
-        },
-        {
-          "text": "was",
-          "start": 48.05,
-          "end": 48.39,
+          "start": 47.85,
+          "end": 48.23,
           "confidence": 0.992
         },
         {
-          "text": "a",
-          "start": 48.39,
-          "end": 48.55,
+          "text": "was",
+          "start": 48.23,
+          "end": 48.47,
           "confidence": 0.993
         },
         {
-          "text": "willow",
-          "start": 48.55,
-          "end": 48.95,
-          "confidence": 0.949
-        },
-        {
-          "text": "and",
-          "start": 48.95,
-          "end": 49.13,
-          "confidence": 0.726
-        },
-        {
-          "text": "it",
-          "start": 49.13,
-          "end": 49.31,
+          "text": "a",
+          "start": 48.47,
+          "end": 48.65,
           "confidence": 0.994
         },
         {
+          "text": "willow",
+          "start": 48.65,
+          "end": 49.15,
+          "confidence": 0.987
+        },
+        {
+          "text": "and",
+          "start": 49.15,
+          "end": 49.17,
+          "confidence": 0.782
+        },
+        {
+          "text": "it",
+          "start": 49.17,
+          "end": 49.43,
+          "confidence": 0.989
+        },
+        {
           "text": "bent",
-          "start": 49.31,
-          "end": 49.51,
-          "confidence": 0.971
+          "start": 49.43,
+          "end": 49.63,
+          "confidence": 0.944
         },
         {
           "text": "right",
-          "start": 49.51,
-          "end": 49.83,
-          "confidence": 0.991
+          "start": 49.63,
+          "end": 49.93,
+          "confidence": 0.971
         },
         {
           "text": "to",
-          "start": 49.83,
-          "end": 50.19,
-          "confidence": 0.928
+          "start": 49.93,
+          "end": 50.31,
+          "confidence": 0.999
         },
         {
           "text": "your",
-          "start": 50.19,
-          "end": 50.61,
-          "confidence": 0.993
+          "start": 50.31,
+          "end": 50.65,
+          "confidence": 0.99
         },
         {
-          "text": "wind",
-          "start": 50.61,
-          "end": 51.01,
-          "confidence": 0.599
+          "text": "wind.",
+          "start": 50.65,
+          "end": 51.25,
+          "confidence": 0.899
         }
       ]
     },
     {
-      "id": 10,
-      "seek": 2800,
-      "start": 53.53,
-      "end": 57.43,
-      "text": " Head on the pillow I could feel you sneaking in",
+      "id": 7,
+      "seek": 2580,
+      "start": 53.57,
+      "end": 57.65,
+      "text": " Head on the pillow, I could feel you sneaking in.",
       "tokens": [
-        50764,
+        50929,
         11398,
         322,
-        264,
+        220,
+        3322,
         18581,
+        11,
         286,
         727,
         841,
         291,
         48525,
         294,
-        51014
+        13,
+        51169
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.1089177131652832,
-      "compression_ratio": 1.53,
-      "no_speech_prob": 0.053187716752290726,
-      "confidence": 0.901,
+      "avg_logprob": -0.1319105270061087,
+      "compression_ratio": 1.4712041884816753,
+      "no_speech_prob": 0.012324444018304348,
+      "confidence": 0.968,
       "words": [
         {
           "text": "Head",
-          "start": 53.53,
-          "end": 53.83,
-          "confidence": 0.975
+          "start": 53.57,
+          "end": 53.97,
+          "confidence": 0.949
         },
         {
           "text": "on",
-          "start": 53.83,
-          "end": 54.11,
-          "confidence": 0.94
+          "start": 53.97,
+          "end": 54.19,
+          "confidence": 0.988
         },
         {
           "text": "the",
-          "start": 54.11,
-          "end": 54.25,
-          "confidence": 0.976
+          "start": 54.19,
+          "end": 54.41,
+          "confidence": 0.965
         },
         {
-          "text": "pillow",
-          "start": 54.25,
-          "end": 54.53,
-          "confidence": 0.996
+          "text": "pillow,",
+          "start": 54.41,
+          "end": 54.61,
+          "confidence": 0.993
         },
         {
           "text": "I",
-          "start": 54.53,
-          "end": 54.79,
-          "confidence": 0.502
+          "start": 54.73,
+          "end": 54.81,
+          "confidence": 0.994
         },
         {
           "text": "could",
-          "start": 54.79,
-          "end": 54.93,
-          "confidence": 0.987
+          "start": 54.81,
+          "end": 54.97,
+          "confidence": 0.98
         },
         {
           "text": "feel",
-          "start": 54.93,
-          "end": 55.23,
-          "confidence": 0.998
+          "start": 54.97,
+          "end": 55.39,
+          "confidence": 0.995
         },
         {
           "text": "you",
-          "start": 55.23,
-          "end": 55.57,
-          "confidence": 0.99
+          "start": 55.39,
+          "end": 55.63,
+          "confidence": 0.995
         },
         {
           "text": "sneaking",
-          "start": 55.57,
-          "end": 56.15,
-          "confidence": 0.834
+          "start": 55.63,
+          "end": 57.07,
+          "confidence": 0.845
         },
         {
-          "text": "in",
-          "start": 56.15,
-          "end": 57.43,
-          "confidence": 0.97
+          "text": "in.",
+          "start": 57.07,
+          "end": 57.65,
+          "confidence": 0.983
         }
       ]
     },
     {
-      "id": 11,
-      "seek": 2800,
-      "start": 59.84,
-      "end": 61.8,
-      "text": " As if you were a mythical thing",
+      "id": 8,
+      "seek": 2580,
+      "start": 59.47,
+      "end": 65.36,
+      "text": " As if you were a mythical thing, like you were a trophy or a champion ring.",
       "tokens": [
-        51014,
+        51169,
         1018,
         498,
         291,
         645,
         257,
         40843,
-        551,
-        51164
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.1089177131652832,
-      "compression_ratio": 1.53,
-      "no_speech_prob": 0.053187716752290726,
-      "confidence": 0.991,
-      "words": [
-        {
-          "text": "As",
-          "start": 59.84,
-          "end": 60.02,
-          "confidence": 0.988
-        },
-        {
-          "text": "if",
-          "start": 60.02,
-          "end": 60.16,
-          "confidence": 0.998
-        },
-        {
-          "text": "you",
-          "start": 60.16,
-          "end": 60.34,
-          "confidence": 0.998
-        },
-        {
-          "text": "were",
-          "start": 60.34,
-          "end": 60.54,
-          "confidence": 0.974
-        },
-        {
-          "text": "a",
-          "start": 60.54,
-          "end": 60.68,
-          "confidence": 0.995
-        },
-        {
-          "text": "mythical",
-          "start": 60.68,
-          "end": 61.08,
-          "confidence": 0.992
-        },
-        {
-          "text": "thing",
-          "start": 61.08,
-          "end": 61.8,
-          "confidence": 0.994
-        }
-      ]
-    },
-    {
-      "id": 12,
-      "seek": 2800,
-      "start": 62.78,
-      "end": 65.18,
-      "text": " Like you were a trophy or a champion ring",
-      "tokens": [
-        51164,
-        1743,
+        220,
+        825,
+        11,
+        411,
         291,
         645,
         257,
-        28639,
+        220,
+        83,
+        40826,
         420,
         257,
         10971,
         4875,
-        51314
+        13,
+        51459
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.1089177131652832,
-      "compression_ratio": 1.53,
-      "no_speech_prob": 0.053187716752290726,
-      "confidence": 0.976,
+      "avg_logprob": -0.1319105270061087,
+      "compression_ratio": 1.4712041884816753,
+      "no_speech_prob": 0.012324444018304348,
+      "confidence": 0.954,
       "words": [
         {
-          "text": "Like",
-          "start": 62.78,
-          "end": 63.0,
+          "text": "As",
+          "start": 59.47,
+          "end": 60.04,
           "confidence": 0.996
+        },
+        {
+          "text": "if",
+          "start": 60.04,
+          "end": 60.28,
+          "confidence": 0.987
         },
         {
           "text": "you",
-          "start": 63.0,
-          "end": 63.24,
-          "confidence": 0.99
+          "start": 60.28,
+          "end": 60.42,
+          "confidence": 0.998
         },
         {
           "text": "were",
-          "start": 63.24,
-          "end": 63.4,
-          "confidence": 0.989
+          "start": 60.42,
+          "end": 60.58,
+          "confidence": 0.986
         },
         {
           "text": "a",
-          "start": 63.4,
-          "end": 63.52,
+          "start": 60.58,
+          "end": 60.86,
           "confidence": 0.991
         },
         {
-          "text": "trophy",
-          "start": 63.52,
-          "end": 63.8,
-          "confidence": 0.982
+          "text": "mythical",
+          "start": 60.86,
+          "end": 61.26,
+          "confidence": 0.938
         },
         {
-          "text": "or",
-          "start": 63.8,
-          "end": 64.16,
-          "confidence": 0.931
+          "text": "thing,",
+          "start": 61.26,
+          "end": 62.28,
+          "confidence": 0.995
+        },
+        {
+          "text": "like",
+          "start": 62.98,
+          "end": 63.08,
+          "confidence": 0.991
+        },
+        {
+          "text": "you",
+          "start": 63.08,
+          "end": 63.26,
+          "confidence": 0.997
+        },
+        {
+          "text": "were",
+          "start": 63.26,
+          "end": 63.48,
+          "confidence": 0.991
         },
         {
           "text": "a",
-          "start": 64.16,
-          "end": 64.26,
-          "confidence": 0.966
+          "start": 63.48,
+          "end": 63.6,
+          "confidence": 0.934
+        },
+        {
+          "text": "trophy",
+          "start": 63.6,
+          "end": 63.94,
+          "confidence": 0.893
+        },
+        {
+          "text": "or",
+          "start": 63.94,
+          "end": 64.32,
+          "confidence": 0.985
+        },
+        {
+          "text": "a",
+          "start": 64.32,
+          "end": 64.4,
+          "confidence": 0.756
         },
         {
           "text": "champion",
-          "start": 64.26,
-          "end": 64.6,
-          "confidence": 0.949
+          "start": 64.4,
+          "end": 64.84,
+          "confidence": 0.979
         },
         {
-          "text": "ring",
-          "start": 64.6,
-          "end": 65.18,
-          "confidence": 0.996
+          "text": "ring.",
+          "start": 64.84,
+          "end": 65.36,
+          "confidence": 0.964
         }
       ]
     },
     {
-      "id": 13,
-      "seek": 2800,
+      "id": 9,
+      "seek": 2580,
       "start": 65.6,
-      "end": 68.64,
-      "text": " There was one prize I'd cheat to win",
+      "end": 68.84,
+      "text": " And there was one prize I'd cheat to win.",
       "tokens": [
-        51314,
-        821,
+        51459,
+        400,
+        220,
+        15456,
         390,
         472,
         12818,
         286,
         1116,
         17470,
-        281,
+        220,
+        1353,
         1942,
-        51514
+        13,
+        51669
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.1089177131652832,
-      "compression_ratio": 1.53,
-      "no_speech_prob": 0.053187716752290726,
-      "confidence": 0.825,
+      "avg_logprob": -0.1319105270061087,
+      "compression_ratio": 1.4712041884816753,
+      "no_speech_prob": 0.012324444018304348,
+      "confidence": 0.896,
       "words": [
         {
-          "text": "There",
+          "text": "And",
           "start": 65.6,
-          "end": 65.86,
-          "confidence": 0.682
+          "end": 65.74,
+          "confidence": 0.747
         },
         {
-          "text": "was",
-          "start": 65.86,
-          "end": 66.06,
-          "confidence": 0.994
-        },
-        {
-          "text": "one",
-          "start": 66.06,
-          "end": 66.3,
+          "text": "there",
+          "start": 65.74,
+          "end": 66.0,
           "confidence": 0.992
         },
         {
+          "text": "was",
+          "start": 66.0,
+          "end": 66.14,
+          "confidence": 0.992
+        },
+        {
+          "text": "one",
+          "start": 66.14,
+          "end": 66.38,
+          "confidence": 0.985
+        },
+        {
           "text": "prize",
-          "start": 66.3,
-          "end": 66.74,
-          "confidence": 0.99
+          "start": 66.38,
+          "end": 66.92,
+          "confidence": 0.98
         },
         {
           "text": "I'd",
-          "start": 66.74,
-          "end": 67.14,
-          "confidence": 0.646
+          "start": 66.92,
+          "end": 67.46,
+          "confidence": 0.673
         },
         {
           "text": "cheat",
-          "start": 67.14,
-          "end": 67.7,
-          "confidence": 0.678
+          "start": 67.46,
+          "end": 68.0,
+          "confidence": 0.84
         },
         {
           "text": "to",
-          "start": 67.7,
-          "end": 68.3,
+          "start": 68.0,
+          "end": 68.34,
+          "confidence": 0.998
+        },
+        {
+          "text": "win.",
+          "start": 68.34,
+          "end": 68.84,
+          "confidence": 0.999
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "seek": 5190,
+      "start": 71.41,
+      "end": 76.77,
+      "text": " The more that you say, the less I know. Wherever you stray or follow.",
+      "tokens": [
+        50369,
+        440,
+        544,
+        220,
+        6780,
+        291,
+        584,
+        11,
+        220,
+        3322,
+        1570,
+        286,
+        458,
+        13,
+        30903,
+        291,
+        36219,
+        420,
+        1524,
+        13,
+        50649
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.09027986706427808,
+      "compression_ratio": 1.8265895953757225,
+      "no_speech_prob": 0.007187668699771166,
+      "confidence": 0.987,
+      "words": [
+        {
+          "text": "The",
+          "start": 71.41,
+          "end": 71.43,
+          "confidence": 0.967
+        },
+        {
+          "text": "more",
+          "start": 71.43,
+          "end": 71.63,
           "confidence": 0.994
         },
         {
-          "text": "win",
-          "start": 68.3,
-          "end": 68.64,
-          "confidence": 0.95
+          "text": "that",
+          "start": 71.63,
+          "end": 71.93,
+          "confidence": 0.993
+        },
+        {
+          "text": "you",
+          "start": 71.93,
+          "end": 72.07,
+          "confidence": 0.997
+        },
+        {
+          "text": "say,",
+          "start": 72.07,
+          "end": 72.69,
+          "confidence": 0.992
+        },
+        {
+          "text": "the",
+          "start": 72.85,
+          "end": 72.91,
+          "confidence": 1.0
+        },
+        {
+          "text": "less",
+          "start": 72.91,
+          "end": 73.25,
+          "confidence": 0.961
+        },
+        {
+          "text": "I",
+          "start": 73.25,
+          "end": 73.63,
+          "confidence": 0.999
+        },
+        {
+          "text": "know.",
+          "start": 73.63,
+          "end": 73.95,
+          "confidence": 0.994
+        },
+        {
+          "text": "Wherever",
+          "start": 74.23,
+          "end": 74.49,
+          "confidence": 0.944
+        },
+        {
+          "text": "you",
+          "start": 74.49,
+          "end": 74.91,
+          "confidence": 0.998
+        },
+        {
+          "text": "stray",
+          "start": 74.91,
+          "end": 75.57,
+          "confidence": 0.996
+        },
+        {
+          "text": "or",
+          "start": 75.57,
+          "end": 75.85,
+          "confidence": 0.968
+        },
+        {
+          "text": "follow.",
+          "start": 75.85,
+          "end": 76.77,
+          "confidence": 0.993
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "seek": 5190,
+      "start": 77.01,
+      "end": 82.48,
+      "text": " Begging for you to take my hand, wreck my plans, that's my man.",
+      "tokens": [
+        50649,
+        879,
+        10877,
+        337,
+        291,
+        220,
+        1353,
+        220,
+        27612,
+        452,
+        1011,
+        11,
+        21478,
+        452,
+        5482,
+        11,
+        220,
+        6780,
+        311,
+        452,
+        587,
+        13,
+        50939
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.09027986706427808,
+      "compression_ratio": 1.8265895953757225,
+      "no_speech_prob": 0.007187668699771166,
+      "confidence": 0.994,
+      "words": [
+        {
+          "text": "Begging",
+          "start": 77.01,
+          "end": 77.51,
+          "confidence": 0.982
+        },
+        {
+          "text": "for",
+          "start": 77.51,
+          "end": 77.85,
+          "confidence": 0.999
+        },
+        {
+          "text": "you",
+          "start": 77.85,
+          "end": 78.35,
+          "confidence": 0.997
+        },
+        {
+          "text": "to",
+          "start": 78.35,
+          "end": 78.67,
+          "confidence": 0.999
+        },
+        {
+          "text": "take",
+          "start": 78.67,
+          "end": 78.97,
+          "confidence": 0.995
+        },
+        {
+          "text": "my",
+          "start": 78.97,
+          "end": 79.31,
+          "confidence": 0.999
+        },
+        {
+          "text": "hand,",
+          "start": 79.31,
+          "end": 79.83,
+          "confidence": 0.995
+        },
+        {
+          "text": "wreck",
+          "start": 80.05,
+          "end": 80.35,
+          "confidence": 0.998
+        },
+        {
+          "text": "my",
+          "start": 80.35,
+          "end": 80.65,
+          "confidence": 0.999
+        },
+        {
+          "text": "plans,",
+          "start": 80.65,
+          "end": 81.29,
+          "confidence": 0.966
+        },
+        {
+          "text": "that's",
+          "start": 81.35,
+          "end": 81.81,
+          "confidence": 0.999
+        },
+        {
+          "text": "my",
+          "start": 81.81,
+          "end": 82.11,
+          "confidence": 0.999
+        },
+        {
+          "text": "man.",
+          "start": 82.11,
+          "end": 82.48,
+          "confidence": 0.998
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "seek": 5190,
+      "start": 82.48,
+      "end": 88.15,
+      "text": " You know that my train could take you home, anywhere else is hollow.",
+      "tokens": [
+        50939,
+        509,
+        458,
+        220,
+        6780,
+        452,
+        220,
+        83,
+        7146,
+        727,
+        220,
+        27612,
+        291,
+        1280,
+        11,
+        4992,
+        1646,
+        307,
+        23972,
+        13,
+        51219
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.09027986706427808,
+      "compression_ratio": 1.8265895953757225,
+      "no_speech_prob": 0.007187668699771166,
+      "confidence": 0.955,
+      "words": [
+        {
+          "text": "You",
+          "start": 82.48,
+          "end": 82.91,
+          "confidence": 0.978
+        },
+        {
+          "text": "know",
+          "start": 82.91,
+          "end": 83.09,
+          "confidence": 0.964
+        },
+        {
+          "text": "that",
+          "start": 83.09,
+          "end": 83.27,
+          "confidence": 0.994
+        },
+        {
+          "text": "my",
+          "start": 83.27,
+          "end": 83.51,
+          "confidence": 0.991
+        },
+        {
+          "text": "train",
+          "start": 83.51,
+          "end": 84.27,
+          "confidence": 0.994
+        },
+        {
+          "text": "could",
+          "start": 84.27,
+          "end": 84.29,
+          "confidence": 0.842
+        },
+        {
+          "text": "take",
+          "start": 84.29,
+          "end": 84.69,
+          "confidence": 0.994
+        },
+        {
+          "text": "you",
+          "start": 84.69,
+          "end": 85.01,
+          "confidence": 0.996
+        },
+        {
+          "text": "home,",
+          "start": 85.01,
+          "end": 85.47,
+          "confidence": 0.991
+        },
+        {
+          "text": "anywhere",
+          "start": 85.95,
+          "end": 86.09,
+          "confidence": 0.909
+        },
+        {
+          "text": "else",
+          "start": 86.09,
+          "end": 87.17,
+          "confidence": 0.993
+        },
+        {
+          "text": "is",
+          "start": 87.17,
+          "end": 87.19,
+          "confidence": 0.751
+        },
+        {
+          "text": "hollow.",
+          "start": 87.19,
+          "end": 88.15,
+          "confidence": 0.9
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "seek": 5190,
+      "start": 88.15,
+      "end": 94.29,
+      "text": " Begging for you to take my hand, wreck my plans, that's my man.",
+      "tokens": [
+        51219,
+        879,
+        10877,
+        337,
+        291,
+        220,
+        1353,
+        220,
+        27612,
+        452,
+        1011,
+        11,
+        21478,
+        452,
+        5482,
+        11,
+        220,
+        6780,
+        311,
+        452,
+        587,
+        13,
+        51539
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.09027986706427808,
+      "compression_ratio": 1.8265895953757225,
+      "no_speech_prob": 0.007187668699771166,
+      "confidence": 0.992,
+      "words": [
+        {
+          "text": "Begging",
+          "start": 88.15,
+          "end": 88.87,
+          "confidence": 0.963
+        },
+        {
+          "text": "for",
+          "start": 88.87,
+          "end": 89.39,
+          "confidence": 0.999
+        },
+        {
+          "text": "you",
+          "start": 89.39,
+          "end": 89.69,
+          "confidence": 0.998
+        },
+        {
+          "text": "to",
+          "start": 89.69,
+          "end": 90.15,
+          "confidence": 0.999
+        },
+        {
+          "text": "take",
+          "start": 90.15,
+          "end": 90.35,
+          "confidence": 0.996
+        },
+        {
+          "text": "my",
+          "start": 90.35,
+          "end": 90.71,
+          "confidence": 0.999
+        },
+        {
+          "text": "hand,",
+          "start": 90.71,
+          "end": 91.19,
+          "confidence": 0.995
+        },
+        {
+          "text": "wreck",
+          "start": 91.37,
+          "end": 91.71,
+          "confidence": 0.997
+        },
+        {
+          "text": "my",
+          "start": 91.71,
+          "end": 92.15,
+          "confidence": 0.999
+        },
+        {
+          "text": "plans,",
+          "start": 92.15,
+          "end": 92.79,
+          "confidence": 0.966
+        },
+        {
+          "text": "that's",
+          "start": 93.15,
+          "end": 93.27,
+          "confidence": 0.999
+        },
+        {
+          "text": "my",
+          "start": 93.27,
+          "end": 93.55,
+          "confidence": 0.999
+        },
+        {
+          "text": "man.",
+          "start": 93.55,
+          "end": 94.29,
+          "confidence": 0.998
         }
       ]
     },
     {
       "id": 14,
-      "seek": 2800,
-      "start": 71.23,
-      "end": 73.73,
-      "text": " The more that you say, the less I know",
+      "seek": 5190,
+      "start": 97.55,
+      "end": 101.59,
+      "text": " Life was a willow and it bent right to your wind.",
       "tokens": [
-        51514,
-        440,
-        544,
-        300,
-        291,
-        584,
-        11,
-        264,
-        1570,
-        286,
-        458,
-        51664
+        51539,
+        7720,
+        390,
+        257,
+        486,
+        305,
+        293,
+        309,
+        14075,
+        558,
+        220,
+        1353,
+        428,
+        2468,
+        13,
+        51779
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.1089177131652832,
-      "compression_ratio": 1.53,
-      "no_speech_prob": 0.053187716752290726,
-      "confidence": 0.994,
+      "avg_logprob": -0.09027986706427808,
+      "compression_ratio": 1.8265895953757225,
+      "no_speech_prob": 0.007187668699771166,
+      "confidence": 0.99,
       "words": [
         {
-          "text": "The",
-          "start": 71.23,
-          "end": 71.37,
-          "confidence": 0.961
+          "text": "Life",
+          "start": 97.55,
+          "end": 98.23,
+          "confidence": 0.98
         },
         {
-          "text": "more",
-          "start": 71.37,
-          "end": 71.57,
+          "text": "was",
+          "start": 98.23,
+          "end": 98.47,
           "confidence": 0.999
         },
         {
-          "text": "that",
-          "start": 71.57,
-          "end": 71.79,
-          "confidence": 0.996
-        },
-        {
-          "text": "you",
-          "start": 71.79,
-          "end": 71.99,
-          "confidence": 0.999
-        },
-        {
-          "text": "say,",
-          "start": 71.99,
-          "end": 72.43,
+          "text": "a",
+          "start": 98.47,
+          "end": 98.59,
           "confidence": 0.998
         },
         {
-          "text": "the",
-          "start": 72.71,
-          "end": 72.79,
-          "confidence": 0.996
+          "text": "willow",
+          "start": 98.59,
+          "end": 99.17,
+          "confidence": 0.998
         },
         {
-          "text": "less",
-          "start": 72.79,
-          "end": 73.07,
-          "confidence": 0.999
+          "text": "and",
+          "start": 99.17,
+          "end": 99.19,
+          "confidence": 0.941
         },
         {
-          "text": "I",
-          "start": 73.07,
-          "end": 73.47,
-          "confidence": 0.997
+          "text": "it",
+          "start": 99.19,
+          "end": 99.67,
+          "confidence": 0.992
         },
         {
-          "text": "know",
-          "start": 73.47,
-          "end": 73.73,
-          "confidence": 0.999
+          "text": "bent",
+          "start": 99.67,
+          "end": 99.69,
+          "confidence": 0.983
+        },
+        {
+          "text": "right",
+          "start": 99.69,
+          "end": 99.95,
+          "confidence": 0.992
+        },
+        {
+          "text": "to",
+          "start": 99.95,
+          "end": 100.33,
+          "confidence": 1.0
+        },
+        {
+          "text": "your",
+          "start": 100.33,
+          "end": 100.71,
+          "confidence": 0.995
+        },
+        {
+          "text": "wind.",
+          "start": 100.71,
+          "end": 101.59,
+          "confidence": 0.994
         }
       ]
     },
     {
       "id": 15,
-      "seek": 2800,
-      "start": 74.17,
-      "end": 76.57,
-      "text": " Wherever you stray, I follow",
+      "seek": 8020,
+      "start": 103.73,
+      "end": 106.76,
+      "text": " They count me out time and time again.",
       "tokens": [
-        51664,
-        30903,
-        291,
-        36219,
-        11,
-        286,
-        1524,
-        51814
+        50369,
+        814,
+        1207,
+        385,
+        484,
+        220,
+        3766,
+        293,
+        220,
+        3766,
+        797,
+        13,
+        50569
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.1089177131652832,
-      "compression_ratio": 1.53,
-      "no_speech_prob": 0.053187716752290726,
-      "confidence": 0.917,
+      "avg_logprob": -0.10132193097881242,
+      "compression_ratio": 1.4790697674418605,
+      "no_speech_prob": 0.0017134756781160831,
+      "confidence": 0.973,
       "words": [
         {
-          "text": "Wherever",
-          "start": 74.17,
-          "end": 74.49,
-          "confidence": 0.654
+          "text": "They",
+          "start": 103.73,
+          "end": 104.08,
+          "confidence": 0.956
         },
         {
-          "text": "you",
-          "start": 74.49,
-          "end": 74.85,
-          "confidence": 0.999
+          "text": "count",
+          "start": 104.08,
+          "end": 104.44,
+          "confidence": 0.933
         },
         {
-          "text": "stray,",
-          "start": 74.85,
-          "end": 75.23,
+          "text": "me",
+          "start": 104.44,
+          "end": 104.68,
           "confidence": 0.998
         },
         {
-          "text": "I",
-          "start": 75.65,
-          "end": 75.79,
-          "confidence": 0.993
+          "text": "out",
+          "start": 104.68,
+          "end": 105.18,
+          "confidence": 0.997
         },
         {
-          "text": "follow",
-          "start": 75.79,
-          "end": 76.57,
+          "text": "time",
+          "start": 105.18,
+          "end": 105.58,
+          "confidence": 0.934
+        },
+        {
+          "text": "and",
+          "start": 105.58,
+          "end": 105.76,
+          "confidence": 0.995
+        },
+        {
+          "text": "time",
+          "start": 105.76,
+          "end": 106.14,
           "confidence": 0.999
+        },
+        {
+          "text": "again.",
+          "start": 106.14,
+          "end": 106.76,
+          "confidence": 0.996
         }
       ]
     },
     {
       "id": 16,
-      "seek": 5700,
-      "start": 76.73,
-      "end": 79.61,
-      "text": " I'm begging for you to take my hand",
+      "seek": 8020,
+      "start": 108.72,
+      "end": 112.86,
+      "text": " Life was a willow and it bent right to your wind.",
       "tokens": [
-        50364,
-        286,
-        478,
-        26600,
-        337,
-        291,
-        281,
-        747,
-        452,
-        1011,
-        50514
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.02449463443322615,
-      "compression_ratio": 1.79375,
-      "no_speech_prob": 0.03202143684029579,
-      "confidence": 0.991,
-      "words": [
-        {
-          "text": "I'm",
-          "start": 76.73,
-          "end": 77.07,
-          "confidence": 0.966
-        },
-        {
-          "text": "begging",
-          "start": 77.07,
-          "end": 77.39,
-          "confidence": 0.997
-        },
-        {
-          "text": "for",
-          "start": 77.39,
-          "end": 77.75,
-          "confidence": 0.997
-        },
-        {
-          "text": "you",
-          "start": 77.75,
-          "end": 78.17,
-          "confidence": 0.999
-        },
-        {
-          "text": "to",
-          "start": 78.17,
-          "end": 78.51,
-          "confidence": 0.993
-        },
-        {
-          "text": "take",
-          "start": 78.51,
-          "end": 78.77,
-          "confidence": 1.0
-        },
-        {
-          "text": "my",
-          "start": 78.77,
-          "end": 79.17,
-          "confidence": 1.0
-        },
-        {
-          "text": "hand",
-          "start": 79.17,
-          "end": 79.61,
-          "confidence": 0.999
-        }
-      ]
-    },
-    {
-      "id": 17,
-      "seek": 5700,
-      "start": 79.97,
-      "end": 82.51,
-      "text": " Ripped my plans, that's my man",
-      "tokens": [
-        50514,
-        497,
-        5529,
-        452,
-        5482,
-        11,
-        300,
-        311,
-        452,
-        587,
-        50664
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.02449463443322615,
-      "compression_ratio": 1.79375,
-      "no_speech_prob": 0.03202143684029579,
-      "confidence": 0.994,
-      "words": [
-        {
-          "text": "Ripped",
-          "start": 79.97,
-          "end": 80.25,
-          "confidence": 0.979
-        },
-        {
-          "text": "my",
-          "start": 80.25,
-          "end": 80.57,
-          "confidence": 0.999
-        },
-        {
-          "text": "plans,",
-          "start": 80.57,
-          "end": 81.09,
-          "confidence": 0.997
-        },
-        {
-          "text": "that's",
-          "start": 81.45,
-          "end": 81.77,
-          "confidence": 0.999
-        },
-        {
-          "text": "my",
-          "start": 81.77,
-          "end": 82.03,
-          "confidence": 0.999
-        },
-        {
-          "text": "man",
-          "start": 82.03,
-          "end": 82.51,
-          "confidence": 0.997
-        }
-      ]
-    },
-    {
-      "id": 18,
-      "seek": 5700,
-      "start": 82.69,
-      "end": 85.33,
-      "text": " You know that my train could take you home",
-      "tokens": [
-        50664,
-        509,
-        458,
-        300,
-        452,
-        3847,
-        727,
-        747,
-        291,
-        1280,
-        50814
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.02449463443322615,
-      "compression_ratio": 1.79375,
-      "no_speech_prob": 0.03202143684029579,
-      "confidence": 0.976,
-      "words": [
-        {
-          "text": "You",
-          "start": 82.69,
-          "end": 82.85,
-          "confidence": 0.945
-        },
-        {
-          "text": "know",
-          "start": 82.85,
-          "end": 83.03,
-          "confidence": 0.971
-        },
-        {
-          "text": "that",
-          "start": 83.03,
-          "end": 83.19,
-          "confidence": 0.982
-        },
-        {
-          "text": "my",
-          "start": 83.19,
-          "end": 83.45,
-          "confidence": 0.985
-        },
-        {
-          "text": "train",
-          "start": 83.45,
-          "end": 83.89,
-          "confidence": 0.989
-        },
-        {
-          "text": "could",
-          "start": 83.89,
-          "end": 84.23,
-          "confidence": 0.918
-        },
-        {
-          "text": "take",
-          "start": 84.23,
-          "end": 84.51,
-          "confidence": 0.998
-        },
-        {
-          "text": "you",
-          "start": 84.51,
-          "end": 84.87,
-          "confidence": 0.998
-        },
-        {
-          "text": "home",
-          "start": 84.87,
-          "end": 85.33,
-          "confidence": 0.998
-        }
-      ]
-    },
-    {
-      "id": 19,
-      "seek": 5700,
-      "start": 85.69,
-      "end": 87.73,
-      "text": " Anywhere else is hollow",
-      "tokens": [
-        50814,
-        2639,
-        1992,
-        1646,
-        307,
-        23972,
-        50964
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.02449463443322615,
-      "compression_ratio": 1.79375,
-      "no_speech_prob": 0.03202143684029579,
-      "confidence": 0.948,
-      "words": [
-        {
-          "text": "Anywhere",
-          "start": 85.69,
-          "end": 86.29,
-          "confidence": 0.951
-        },
-        {
-          "text": "else",
-          "start": 86.29,
-          "end": 86.91,
-          "confidence": 0.992
-        },
-        {
-          "text": "is",
-          "start": 86.91,
-          "end": 87.15,
-          "confidence": 0.979
-        },
-        {
-          "text": "hollow",
-          "start": 87.15,
-          "end": 87.73,
-          "confidence": 0.873
-        }
-      ]
-    },
-    {
-      "id": 20,
-      "seek": 5700,
-      "start": 88.45,
-      "end": 91.05,
-      "text": " I'm begging for you to take my hand",
-      "tokens": [
-        50964,
-        286,
-        478,
-        26600,
-        337,
-        291,
-        281,
-        747,
-        452,
-        1011,
-        51114
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.02449463443322615,
-      "compression_ratio": 1.79375,
-      "no_speech_prob": 0.03202143684029579,
-      "confidence": 0.996,
-      "words": [
-        {
-          "text": "I'm",
-          "start": 88.45,
-          "end": 88.59,
-          "confidence": 0.988
-        },
-        {
-          "text": "begging",
-          "start": 88.59,
-          "end": 88.81,
-          "confidence": 0.999
-        },
-        {
-          "text": "for",
-          "start": 88.81,
-          "end": 89.15,
-          "confidence": 0.997
-        },
-        {
-          "text": "you",
-          "start": 89.15,
-          "end": 89.59,
-          "confidence": 0.999
-        },
-        {
-          "text": "to",
-          "start": 89.59,
-          "end": 89.93,
-          "confidence": 0.994
-        },
-        {
-          "text": "take",
-          "start": 89.93,
-          "end": 90.21,
-          "confidence": 0.999
-        },
-        {
-          "text": "my",
-          "start": 90.21,
-          "end": 90.55,
-          "confidence": 0.999
-        },
-        {
-          "text": "hand",
-          "start": 90.55,
-          "end": 91.05,
-          "confidence": 0.999
-        }
-      ]
-    },
-    {
-      "id": 21,
-      "seek": 5700,
-      "start": 91.35,
-      "end": 94.05,
-      "text": " Ripped my plans, that's my man",
-      "tokens": [
-        51114,
-        497,
-        5529,
-        452,
-        5482,
-        11,
-        300,
-        311,
-        452,
-        587,
-        51264
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.02449463443322615,
-      "compression_ratio": 1.79375,
-      "no_speech_prob": 0.03202143684029579,
-      "confidence": 0.997,
-      "words": [
-        {
-          "text": "Ripped",
-          "start": 91.35,
-          "end": 91.67,
-          "confidence": 0.992
-        },
-        {
-          "text": "my",
-          "start": 91.67,
-          "end": 91.99,
-          "confidence": 0.999
-        },
-        {
-          "text": "plans,",
-          "start": 91.99,
-          "end": 92.55,
-          "confidence": 0.998
-        },
-        {
-          "text": "that's",
-          "start": 92.91,
-          "end": 93.21,
-          "confidence": 0.999
-        },
-        {
-          "text": "my",
-          "start": 93.21,
-          "end": 93.47,
-          "confidence": 0.999
-        },
-        {
-          "text": "man",
-          "start": 93.47,
-          "end": 94.05,
-          "confidence": 0.998
-        }
-      ]
-    },
-    {
-      "id": 22,
-      "seek": 5700,
-      "start": 97.73,
-      "end": 101.29,
-      "text": " Life was a willow and it bent right to your wind",
-      "tokens": [
-        51264,
+        50569,
         7720,
         390,
         257,
@@ -1668,341 +1738,185 @@
         309,
         14075,
         558,
-        281,
+        220,
+        1353,
         428,
         2468,
-        51514
+        13,
+        50809
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.02449463443322615,
-      "compression_ratio": 1.79375,
-      "no_speech_prob": 0.03202143684029579,
-      "confidence": 0.996,
+      "avg_logprob": -0.10132193097881242,
+      "compression_ratio": 1.4790697674418605,
+      "no_speech_prob": 0.0017134756781160831,
+      "confidence": 0.992,
       "words": [
         {
           "text": "Life",
-          "start": 97.73,
-          "end": 98.07,
+          "start": 108.72,
+          "end": 109.66,
+          "confidence": 0.996
+        },
+        {
+          "text": "was",
+          "start": 109.66,
+          "end": 109.94,
+          "confidence": 0.998
+        },
+        {
+          "text": "a",
+          "start": 109.94,
+          "end": 110.08,
+          "confidence": 0.996
+        },
+        {
+          "text": "willow",
+          "start": 110.08,
+          "end": 110.58,
+          "confidence": 0.999
+        },
+        {
+          "text": "and",
+          "start": 110.58,
+          "end": 110.82,
+          "confidence": 0.954
+        },
+        {
+          "text": "it",
+          "start": 110.82,
+          "end": 110.84,
           "confidence": 0.991
         },
         {
-          "text": "was",
-          "start": 98.07,
-          "end": 98.41,
-          "confidence": 0.998
-        },
-        {
-          "text": "a",
-          "start": 98.41,
-          "end": 98.59,
-          "confidence": 0.999
-        },
-        {
-          "text": "willow",
-          "start": 98.59,
-          "end": 98.99,
-          "confidence": 0.995
-        },
-        {
-          "text": "and",
-          "start": 98.99,
-          "end": 99.15,
-          "confidence": 0.992
-        },
-        {
-          "text": "it",
-          "start": 99.15,
-          "end": 99.27,
-          "confidence": 0.996
-        },
-        {
           "text": "bent",
-          "start": 99.27,
-          "end": 99.53,
-          "confidence": 0.998
-        },
-        {
-          "text": "right",
-          "start": 99.53,
-          "end": 99.89,
-          "confidence": 0.995
-        },
-        {
-          "text": "to",
-          "start": 99.89,
-          "end": 100.25,
-          "confidence": 0.999
-        },
-        {
-          "text": "your",
-          "start": 100.25,
-          "end": 100.59,
-          "confidence": 0.997
-        },
-        {
-          "text": "wind",
-          "start": 100.59,
-          "end": 101.29,
-          "confidence": 0.997
-        }
-      ]
-    },
-    {
-      "id": 23,
-      "seek": 5700,
-      "start": 103.8,
-      "end": 106.5,
-      "text": " They count me out time and time again",
-      "tokens": [
-        51514,
-        814,
-        1207,
-        385,
-        484,
-        565,
-        293,
-        565,
-        797,
-        51714
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.02449463443322615,
-      "compression_ratio": 1.79375,
-      "no_speech_prob": 0.03202143684029579,
-      "confidence": 0.968,
-      "words": [
-        {
-          "text": "They",
-          "start": 103.8,
-          "end": 104.02,
-          "confidence": 0.936
-        },
-        {
-          "text": "count",
-          "start": 104.02,
-          "end": 104.32,
-          "confidence": 0.879
-        },
-        {
-          "text": "me",
-          "start": 104.32,
-          "end": 104.6,
-          "confidence": 0.996
-        },
-        {
-          "text": "out",
-          "start": 104.6,
-          "end": 104.98,
-          "confidence": 0.996
-        },
-        {
-          "text": "time",
-          "start": 104.98,
-          "end": 105.46,
-          "confidence": 0.963
-        },
-        {
-          "text": "and",
-          "start": 105.46,
-          "end": 105.68,
+          "start": 110.84,
+          "end": 111.06,
           "confidence": 0.986
         },
         {
-          "text": "time",
-          "start": 105.68,
-          "end": 106.02,
-          "confidence": 0.997
-        },
-        {
-          "text": "again",
-          "start": 106.02,
-          "end": 106.5,
-          "confidence": 0.999
-        }
-      ]
-    },
-    {
-      "id": 24,
-      "seek": 8400,
-      "start": 109.14,
-      "end": 112.58,
-      "text": " Life was a willow and it bent right to your wind",
-      "tokens": [
-        50364,
-        7720,
-        390,
-        257,
-        486,
-        305,
-        293,
-        309,
-        14075,
-        558,
-        281,
-        428,
-        2468,
-        50614
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.08169183620186739,
-      "compression_ratio": 1.4857142857142858,
-      "no_speech_prob": 0.016249017789959908,
-      "confidence": 0.994,
-      "words": [
-        {
-          "text": "Life",
-          "start": 109.14,
-          "end": 109.5,
-          "confidence": 0.983
-        },
-        {
-          "text": "was",
-          "start": 109.5,
-          "end": 109.84,
-          "confidence": 0.998
-        },
-        {
-          "text": "a",
-          "start": 109.84,
-          "end": 110.0,
-          "confidence": 0.998
-        },
-        {
-          "text": "willow",
-          "start": 110.0,
-          "end": 110.38,
-          "confidence": 0.995
-        },
-        {
-          "text": "and",
-          "start": 110.38,
-          "end": 110.56,
-          "confidence": 0.993
-        },
-        {
-          "text": "it",
-          "start": 110.56,
-          "end": 110.7,
-          "confidence": 0.995
-        },
-        {
-          "text": "bent",
-          "start": 110.7,
-          "end": 110.96,
-          "confidence": 0.996
-        },
-        {
           "text": "right",
-          "start": 110.96,
-          "end": 111.3,
+          "start": 111.06,
+          "end": 111.34,
           "confidence": 0.993
         },
         {
           "text": "to",
-          "start": 111.3,
-          "end": 111.7,
+          "start": 111.34,
+          "end": 111.78,
           "confidence": 0.999
         },
         {
           "text": "your",
-          "start": 111.7,
-          "end": 112.08,
-          "confidence": 0.996
+          "start": 111.78,
+          "end": 112.06,
+          "confidence": 0.995
         },
         {
-          "text": "wind",
-          "start": 112.08,
-          "end": 112.58,
+          "text": "wind.",
+          "start": 112.06,
+          "end": 112.86,
           "confidence": 0.987
         }
       ]
     },
     {
-      "id": 25,
-      "seek": 8400,
-      "start": 115.17,
-      "end": 118.21,
-      "text": " I come back stronger than a 90's trend",
+      "id": 17,
+      "seek": 8020,
+      "start": 115.19,
+      "end": 118.53,
+      "text": " But I come back stronger than a 90s trend.",
       "tokens": [
-        50614,
+        50809,
+        583,
         286,
         808,
         646,
         7249,
-        813,
+        220,
+        24852,
         257,
         4289,
-        311,
-        6028,
-        50814
+        82,
+        220,
+        3599,
+        273,
+        13,
+        51009
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.08169183620186739,
-      "compression_ratio": 1.4857142857142858,
-      "no_speech_prob": 0.016249017789959908,
-      "confidence": 0.784,
+      "avg_logprob": -0.10132193097881242,
+      "compression_ratio": 1.4790697674418605,
+      "no_speech_prob": 0.0017134756781160831,
+      "confidence": 0.816,
       "words": [
         {
+          "text": "But",
+          "start": 115.19,
+          "end": 115.35,
+          "confidence": 0.499
+        },
+        {
           "text": "I",
-          "start": 115.17,
-          "end": 115.51,
-          "confidence": 0.85
+          "start": 115.35,
+          "end": 115.39,
+          "confidence": 0.998
         },
         {
           "text": "come",
-          "start": 115.51,
-          "end": 115.87,
-          "confidence": 0.423
+          "start": 115.39,
+          "end": 115.95,
+          "confidence": 0.468
         },
         {
           "text": "back",
-          "start": 115.87,
-          "end": 116.11,
-          "confidence": 0.986
-        },
-        {
-          "text": "stronger",
-          "start": 116.11,
-          "end": 116.57,
+          "start": 115.95,
+          "end": 116.21,
           "confidence": 0.994
         },
         {
+          "text": "stronger",
+          "start": 116.21,
+          "end": 116.79,
+          "confidence": 0.968
+        },
+        {
           "text": "than",
-          "start": 116.57,
-          "end": 116.99,
-          "confidence": 0.992
+          "start": 116.79,
+          "end": 117.11,
+          "confidence": 0.987
         },
         {
           "text": "a",
-          "start": 116.99,
-          "end": 117.17,
-          "confidence": 0.924
+          "start": 117.11,
+          "end": 117.37,
+          "confidence": 0.909
         },
         {
-          "text": "90's",
-          "start": 117.17,
-          "end": 117.83,
-          "confidence": 0.639
+          "text": "90s",
+          "start": 117.37,
+          "end": 118.03,
+          "confidence": 0.623
         },
         {
-          "text": "trend",
-          "start": 117.83,
-          "end": 118.21,
-          "confidence": 0.853
+          "text": "trend.",
+          "start": 118.03,
+          "end": 118.53,
+          "confidence": 0.975
         }
       ]
     },
     {
-      "id": 26,
-      "seek": 8400,
-      "start": 119.17,
-      "end": 122.57,
-      "text": " Wait for the signal and I'll meet you after dark",
+      "id": 18,
+      "seek": 8020,
+      "start": 119.27,
+      "end": 122.89,
+      "text": " Wait for the signal and I'll meet you after dark.",
       "tokens": [
-        50814,
+        51009,
         3802,
         337,
-        264,
+        220,
+        3322,
         6358,
         293,
         286,
@@ -2011,1984 +1925,1154 @@
         291,
         934,
         2877,
-        51014
+        13,
+        51229
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.08169183620186739,
-      "compression_ratio": 1.4857142857142858,
-      "no_speech_prob": 0.016249017789959908,
-      "confidence": 0.975,
+      "avg_logprob": -0.10132193097881242,
+      "compression_ratio": 1.4790697674418605,
+      "no_speech_prob": 0.0017134756781160831,
+      "confidence": 0.972,
       "words": [
         {
           "text": "Wait",
-          "start": 119.17,
-          "end": 119.49,
-          "confidence": 0.971
+          "start": 119.27,
+          "end": 119.63,
+          "confidence": 0.974
         },
         {
           "text": "for",
-          "start": 119.49,
-          "end": 119.79,
-          "confidence": 0.997
+          "start": 119.63,
+          "end": 119.85,
+          "confidence": 0.999
         },
         {
           "text": "the",
-          "start": 119.79,
-          "end": 119.95,
-          "confidence": 0.951
+          "start": 119.85,
+          "end": 120.41,
+          "confidence": 0.996
         },
         {
           "text": "signal",
-          "start": 119.95,
-          "end": 120.25,
-          "confidence": 0.998
+          "start": 120.41,
+          "end": 120.53,
+          "confidence": 0.996
         },
         {
           "text": "and",
-          "start": 120.25,
-          "end": 120.55,
-          "confidence": 0.952
+          "start": 120.53,
+          "end": 120.61,
+          "confidence": 0.793
         },
         {
           "text": "I'll",
-          "start": 120.55,
-          "end": 120.69,
-          "confidence": 0.946
+          "start": 120.61,
+          "end": 120.73,
+          "confidence": 0.989
         },
         {
           "text": "meet",
-          "start": 120.69,
-          "end": 120.91,
-          "confidence": 0.997
+          "start": 120.73,
+          "end": 121.01,
+          "confidence": 0.991
         },
         {
           "text": "you",
-          "start": 120.91,
-          "end": 121.29,
-          "confidence": 0.997
+          "start": 121.01,
+          "end": 121.43,
+          "confidence": 0.996
         },
         {
           "text": "after",
-          "start": 121.29,
-          "end": 121.87,
-          "confidence": 0.977
+          "start": 121.43,
+          "end": 122.01,
+          "confidence": 0.968
         },
         {
-          "text": "dark",
-          "start": 121.87,
-          "end": 122.57,
-          "confidence": 0.992
+          "text": "dark.",
+          "start": 122.01,
+          "end": 122.89,
+          "confidence": 0.993
         }
       ]
     },
     {
-      "id": 27,
-      "seek": 8400,
-      "start": 124.86,
-      "end": 128.86,
-      "text": " Show me the places where the others gave you scars",
+      "id": 19,
+      "seek": 8020,
+      "start": 124.94,
+      "end": 129.28,
+      "text": " Show me the places where the others gave you scars.",
       "tokens": [
-        51014,
+        51229,
         6895,
         385,
-        264,
+        220,
+        3322,
         3190,
         689,
-        264,
+        220,
+        3322,
         2357,
         2729,
         291,
         31353,
-        51314
+        13,
+        51499
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.08169183620186739,
-      "compression_ratio": 1.4857142857142858,
-      "no_speech_prob": 0.016249017789959908,
-      "confidence": 0.99,
+      "avg_logprob": -0.10132193097881242,
+      "compression_ratio": 1.4790697674418605,
+      "no_speech_prob": 0.0017134756781160831,
+      "confidence": 0.987,
       "words": [
         {
           "text": "Show",
-          "start": 124.86,
-          "end": 125.2,
-          "confidence": 0.991
+          "start": 124.94,
+          "end": 125.28,
+          "confidence": 0.97
         },
         {
           "text": "me",
-          "start": 125.2,
-          "end": 125.5,
-          "confidence": 0.984
+          "start": 125.28,
+          "end": 125.56,
+          "confidence": 0.992
         },
         {
           "text": "the",
-          "start": 125.5,
-          "end": 125.64,
-          "confidence": 0.994
+          "start": 125.56,
+          "end": 125.74,
+          "confidence": 0.998
         },
         {
           "text": "places",
-          "start": 125.64,
-          "end": 125.96,
-          "confidence": 0.991
+          "start": 125.74,
+          "end": 126.04,
+          "confidence": 0.994
         },
         {
           "text": "where",
-          "start": 125.96,
-          "end": 126.24,
-          "confidence": 0.988
+          "start": 126.04,
+          "end": 126.3,
+          "confidence": 0.994
         },
         {
           "text": "the",
-          "start": 126.24,
-          "end": 126.42,
-          "confidence": 0.99
+          "start": 126.3,
+          "end": 126.5,
+          "confidence": 0.997
         },
         {
           "text": "others",
-          "start": 126.42,
-          "end": 126.92,
-          "confidence": 0.991
+          "start": 126.5,
+          "end": 127.14,
+          "confidence": 0.959
         },
         {
           "text": "gave",
-          "start": 126.92,
-          "end": 127.4,
-          "confidence": 0.987
+          "start": 127.14,
+          "end": 127.56,
+          "confidence": 0.967
         },
         {
           "text": "you",
-          "start": 127.4,
-          "end": 127.96,
-          "confidence": 0.988
+          "start": 127.56,
+          "end": 128.2,
+          "confidence": 0.997
         },
         {
-          "text": "scars",
-          "start": 127.96,
-          "end": 128.86,
-          "confidence": 0.991
+          "text": "scars.",
+          "start": 128.2,
+          "end": 129.28,
+          "confidence": 0.984
         }
       ]
     },
     {
-      "id": 28,
-      "seek": 8400,
-      "start": 131.3,
-      "end": 133.32,
-      "text": " Now this is an open shut case",
+      "id": 20,
+      "seek": 8020,
+      "start": 130.93,
+      "end": 136.86,
+      "text": " Now this is an open shut case. I guess I should've known from the look on your face.",
       "tokens": [
-        51314,
+        51499,
         823,
-        341,
+        220,
+        11176,
         307,
         364,
         1269,
         5309,
         1389,
-        51464
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.08169183620186739,
-      "compression_ratio": 1.4857142857142858,
-      "no_speech_prob": 0.016249017789959908,
-      "confidence": 0.956,
-      "words": [
-        {
-          "text": "Now",
-          "start": 131.3,
-          "end": 131.56,
-          "confidence": 0.966
-        },
-        {
-          "text": "this",
-          "start": 131.56,
-          "end": 131.82,
-          "confidence": 0.983
-        },
-        {
-          "text": "is",
-          "start": 131.82,
-          "end": 132.0,
-          "confidence": 0.981
-        },
-        {
-          "text": "an",
-          "start": 132.0,
-          "end": 132.18,
-          "confidence": 0.996
-        },
-        {
-          "text": "open",
-          "start": 132.18,
-          "end": 132.36,
-          "confidence": 0.986
-        },
-        {
-          "text": "shut",
-          "start": 132.36,
-          "end": 132.66,
-          "confidence": 0.903
-        },
-        {
-          "text": "case",
-          "start": 132.66,
-          "end": 133.32,
-          "confidence": 0.884
-        }
-      ]
-    },
-    {
-      "id": 29,
-      "seek": 8400,
-      "start": 134.16,
-      "end": 136.74,
-      "text": " I guess I should have known from that look on your face",
-      "tokens": [
-        51464,
+        13,
         286,
         2041,
         286,
         820,
-        362,
+        600,
         2570,
         490,
-        300,
+        220,
+        3322,
         574,
         322,
         428,
         1851,
-        51614
+        13,
+        51789
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.08169183620186739,
-      "compression_ratio": 1.4857142857142858,
-      "no_speech_prob": 0.016249017789959908,
-      "confidence": 0.902,
+      "avg_logprob": -0.10132193097881242,
+      "compression_ratio": 1.4790697674418605,
+      "no_speech_prob": 0.0017134756781160831,
+      "confidence": 0.922,
       "words": [
         {
+          "text": "Now",
+          "start": 130.93,
+          "end": 131.58,
+          "confidence": 0.98
+        },
+        {
+          "text": "this",
+          "start": 131.58,
+          "end": 131.88,
+          "confidence": 0.972
+        },
+        {
+          "text": "is",
+          "start": 131.88,
+          "end": 132.02,
+          "confidence": 0.976
+        },
+        {
+          "text": "an",
+          "start": 132.02,
+          "end": 132.22,
+          "confidence": 0.981
+        },
+        {
+          "text": "open",
+          "start": 132.22,
+          "end": 132.46,
+          "confidence": 0.991
+        },
+        {
+          "text": "shut",
+          "start": 132.46,
+          "end": 132.7,
+          "confidence": 0.723
+        },
+        {
+          "text": "case.",
+          "start": 132.7,
+          "end": 133.74,
+          "confidence": 0.976
+        },
+        {
           "text": "I",
-          "start": 134.16,
-          "end": 134.36,
-          "confidence": 0.566
+          "start": 134.24,
+          "end": 134.42,
+          "confidence": 0.635
         },
         {
           "text": "guess",
-          "start": 134.36,
-          "end": 134.48,
-          "confidence": 0.997
+          "start": 134.42,
+          "end": 134.6,
+          "confidence": 0.963
         },
         {
           "text": "I",
-          "start": 134.48,
-          "end": 134.64,
-          "confidence": 0.984
+          "start": 134.6,
+          "end": 134.72,
+          "confidence": 0.995
         },
         {
-          "text": "should",
-          "start": 134.64,
-          "end": 134.82,
-          "confidence": 0.965
-        },
-        {
-          "text": "have",
-          "start": 134.82,
-          "end": 135.0,
-          "confidence": 0.576
+          "text": "should've",
+          "start": 134.72,
+          "end": 135.1,
+          "confidence": 0.786
         },
         {
           "text": "known",
-          "start": 135.0,
-          "end": 135.22,
-          "confidence": 0.992
+          "start": 135.1,
+          "end": 135.28,
+          "confidence": 0.965
         },
         {
           "text": "from",
-          "start": 135.22,
-          "end": 135.48,
-          "confidence": 0.986
+          "start": 135.28,
+          "end": 135.56,
+          "confidence": 0.963
         },
         {
-          "text": "that",
-          "start": 135.48,
-          "end": 135.7,
-          "confidence": 0.978
+          "text": "the",
+          "start": 135.56,
+          "end": 135.78,
+          "confidence": 0.935
         },
         {
           "text": "look",
-          "start": 135.7,
-          "end": 135.88,
-          "confidence": 0.997
+          "start": 135.78,
+          "end": 135.96,
+          "confidence": 0.996
         },
         {
           "text": "on",
-          "start": 135.88,
-          "end": 136.08,
-          "confidence": 0.997
-        },
-        {
-          "text": "your",
-          "start": 136.08,
-          "end": 136.28,
+          "start": 135.96,
+          "end": 136.12,
           "confidence": 0.99
         },
         {
-          "text": "face",
-          "start": 136.28,
-          "end": 136.74,
-          "confidence": 1.0
+          "text": "your",
+          "start": 136.12,
+          "end": 136.64,
+          "confidence": 0.989
+        },
+        {
+          "text": "face.",
+          "start": 136.64,
+          "end": 136.86,
+          "confidence": 0.991
         }
       ]
     },
     {
-      "id": 30,
-      "seek": 8400,
-      "start": 137.14,
-      "end": 140.56,
-      "text": " Every bit and switch was a work of art",
+      "id": 21,
+      "seek": 10870,
+      "start": 137.08,
+      "end": 140.78,
+      "text": " Every bit of switch was a work of art.",
       "tokens": [
-        51614,
+        50369,
         2048,
         857,
-        293,
+        295,
         3679,
         390,
         257,
         589,
         295,
         1523,
-        51814
+        13,
+        50589
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.08169183620186739,
-      "compression_ratio": 1.4857142857142858,
-      "no_speech_prob": 0.016249017789959908,
-      "confidence": 0.868,
+      "avg_logprob": -0.4523314696091872,
+      "compression_ratio": 0.8636363636363636,
+      "no_speech_prob": 0.008794689550995827,
+      "confidence": 0.72,
       "words": [
         {
           "text": "Every",
-          "start": 137.14,
-          "end": 137.44,
-          "confidence": 0.965
+          "start": 137.08,
+          "end": 137.66,
+          "confidence": 0.951
         },
         {
           "text": "bit",
-          "start": 137.44,
-          "end": 137.68,
-          "confidence": 0.623
+          "start": 137.66,
+          "end": 137.74,
+          "confidence": 0.131
         },
         {
-          "text": "and",
-          "start": 137.68,
-          "end": 137.82,
-          "confidence": 0.727
+          "text": "of",
+          "start": 137.74,
+          "end": 137.9,
+          "confidence": 0.6
         },
         {
           "text": "switch",
-          "start": 137.82,
-          "end": 138.04,
-          "confidence": 0.999
+          "start": 137.9,
+          "end": 138.32,
+          "confidence": 0.72
         },
         {
           "text": "was",
-          "start": 138.04,
-          "end": 138.42,
-          "confidence": 0.997
+          "start": 138.32,
+          "end": 138.44,
+          "confidence": 0.991
         },
         {
           "text": "a",
-          "start": 138.42,
-          "end": 138.58,
-          "confidence": 0.649
+          "start": 138.44,
+          "end": 138.68,
+          "confidence": 0.99
         },
         {
           "text": "work",
-          "start": 138.58,
-          "end": 138.9,
+          "start": 138.68,
+          "end": 139.0,
           "confidence": 0.996
         },
         {
           "text": "of",
-          "start": 138.9,
-          "end": 139.9,
-          "confidence": 0.995
-        },
-        {
-          "text": "art",
-          "start": 139.9,
-          "end": 140.56,
-          "confidence": 0.999
-        }
-      ]
-    },
-    {
-      "id": 31,
-      "seek": 11300,
-      "start": 142.67,
-      "end": 145.25,
-      "text": " The more that you say, the less I know",
-      "tokens": [
-        50364,
-        440,
-        544,
-        300,
-        291,
-        584,
-        11,
-        264,
-        1570,
-        286,
-        458,
-        50514
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.03185771405696869,
-      "compression_ratio": 2.0197368421052633,
-      "no_speech_prob": 0.026913359761238098,
-      "confidence": 0.995,
-      "words": [
-        {
-          "text": "The",
-          "start": 142.67,
-          "end": 142.79,
-          "confidence": 0.983
-        },
-        {
-          "text": "more",
-          "start": 142.79,
-          "end": 143.01,
-          "confidence": 0.999
-        },
-        {
-          "text": "that",
-          "start": 143.01,
-          "end": 143.23,
-          "confidence": 0.984
-        },
-        {
-          "text": "you",
-          "start": 143.23,
-          "end": 143.43,
-          "confidence": 0.999
-        },
-        {
-          "text": "say,",
-          "start": 143.43,
-          "end": 143.87,
-          "confidence": 0.999
-        },
-        {
-          "text": "the",
-          "start": 144.15,
-          "end": 144.25,
-          "confidence": 0.997
-        },
-        {
-          "text": "less",
-          "start": 144.25,
-          "end": 144.49,
-          "confidence": 0.999
-        },
-        {
-          "text": "I",
-          "start": 144.49,
-          "end": 144.87,
+          "start": 139.0,
+          "end": 139.78,
           "confidence": 0.994
         },
         {
-          "text": "know",
-          "start": 144.87,
-          "end": 145.25,
-          "confidence": 1.0
+          "text": "art.",
+          "start": 139.78,
+          "end": 140.78,
+          "confidence": 0.997
         }
       ]
     },
     {
-      "id": 32,
-      "seek": 11300,
-      "start": 145.51,
-      "end": 147.63,
-      "text": " Wherever you stray, I follow",
+      "id": 22,
+      "seek": 13870,
+      "start": 168.58,
+      "end": 176.9,
+      "text": " Wherever you stray or follow. Begging for you to take my hand, wreck my plans, that's my man.",
       "tokens": [
-        50514,
+        50369,
         30903,
         291,
         36219,
-        11,
-        286,
+        420,
         1524,
-        50664
+        13,
+        879,
+        10877,
+        337,
+        291,
+        220,
+        1353,
+        220,
+        27612,
+        452,
+        1011,
+        11,
+        21478,
+        452,
+        5482,
+        11,
+        220,
+        6780,
+        311,
+        452,
+        587,
+        13,
+        50789
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.03185771405696869,
-      "compression_ratio": 2.0197368421052633,
-      "no_speech_prob": 0.026913359761238098,
-      "confidence": 0.988,
+      "avg_logprob": -0.11725900528278757,
+      "compression_ratio": 2.0444444444444443,
+      "no_speech_prob": 0.21434931457042694,
+      "confidence": 0.935,
       "words": [
         {
           "text": "Wherever",
-          "start": 145.51,
-          "end": 145.87,
-          "confidence": 0.961
+          "start": 168.58,
+          "end": 168.9,
+          "confidence": 0.246
         },
         {
           "text": "you",
-          "start": 145.87,
-          "end": 146.27,
+          "start": 168.9,
+          "end": 169.2,
           "confidence": 0.998
         },
         {
-          "text": "stray,",
-          "start": 146.27,
-          "end": 146.69,
+          "text": "stray",
+          "start": 169.2,
+          "end": 169.82,
           "confidence": 0.996
         },
         {
-          "text": "I",
-          "start": 147.07,
-          "end": 147.11,
-          "confidence": 0.992
+          "text": "or",
+          "start": 169.82,
+          "end": 170.22,
+          "confidence": 0.967
         },
         {
-          "text": "follow",
-          "start": 147.11,
-          "end": 147.63,
-          "confidence": 0.992
-        }
-      ]
-    },
-    {
-      "id": 33,
-      "seek": 11300,
-      "start": 148.42,
-      "end": 151.08,
-      "text": " I'm begging for you to take my hand",
-      "tokens": [
-        50664,
-        286,
-        478,
-        26600,
-        337,
-        291,
-        281,
-        747,
-        452,
-        1011,
-        50814
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.03185771405696869,
-      "compression_ratio": 2.0197368421052633,
-      "no_speech_prob": 0.026913359761238098,
-      "confidence": 0.996,
-      "words": [
-        {
-          "text": "I'm",
-          "start": 148.42,
-          "end": 148.6,
-          "confidence": 0.993
-        },
-        {
-          "text": "begging",
-          "start": 148.6,
-          "end": 148.82,
-          "confidence": 0.998
-        },
-        {
-          "text": "for",
-          "start": 148.82,
-          "end": 149.18,
+          "text": "follow.",
+          "start": 170.22,
+          "end": 171.12,
           "confidence": 0.994
         },
         {
-          "text": "you",
-          "start": 149.18,
-          "end": 149.62,
-          "confidence": 0.999
-        },
-        {
-          "text": "to",
-          "start": 149.62,
-          "end": 149.94,
-          "confidence": 0.994
-        },
-        {
-          "text": "take",
-          "start": 149.94,
-          "end": 150.22,
-          "confidence": 1.0
-        },
-        {
-          "text": "my",
-          "start": 150.22,
-          "end": 150.58,
-          "confidence": 0.999
-        },
-        {
-          "text": "hand",
-          "start": 150.58,
-          "end": 151.08,
-          "confidence": 0.999
-        }
-      ]
-    },
-    {
-      "id": 34,
-      "seek": 11300,
-      "start": 151.42,
-      "end": 153.94,
-      "text": " Ripped my plans, that's my man",
-      "tokens": [
-        50814,
-        497,
-        5529,
-        452,
-        5482,
-        11,
-        300,
-        311,
-        452,
-        587,
-        50964
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.03185771405696869,
-      "compression_ratio": 2.0197368421052633,
-      "no_speech_prob": 0.026913359761238098,
-      "confidence": 0.996,
-      "words": [
-        {
-          "text": "Ripped",
-          "start": 151.42,
-          "end": 151.72,
-          "confidence": 0.989
-        },
-        {
-          "text": "my",
-          "start": 151.72,
-          "end": 152.0,
-          "confidence": 0.999
-        },
-        {
-          "text": "plans,",
-          "start": 152.0,
-          "end": 152.58,
-          "confidence": 0.997
-        },
-        {
-          "text": "that's",
-          "start": 152.92,
-          "end": 153.22,
-          "confidence": 0.999
-        },
-        {
-          "text": "my",
-          "start": 153.22,
-          "end": 153.46,
-          "confidence": 0.999
-        },
-        {
-          "text": "man",
-          "start": 153.46,
-          "end": 153.94,
-          "confidence": 0.998
-        }
-      ]
-    },
-    {
-      "id": 35,
-      "seek": 11300,
-      "start": 154.38,
-      "end": 156.74,
-      "text": " You know that my train could take you home",
-      "tokens": [
-        50964,
-        509,
-        458,
-        300,
-        452,
-        3847,
-        727,
-        747,
-        291,
-        1280,
-        51114
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.03185771405696869,
-      "compression_ratio": 2.0197368421052633,
-      "no_speech_prob": 0.026913359761238098,
-      "confidence": 0.993,
-      "words": [
-        {
-          "text": "You",
-          "start": 154.38,
-          "end": 154.4,
-          "confidence": 0.989
-        },
-        {
-          "text": "know",
-          "start": 154.4,
-          "end": 154.46,
-          "confidence": 0.997
-        },
-        {
-          "text": "that",
-          "start": 154.46,
-          "end": 154.64,
+          "text": "Begging",
+          "start": 171.46,
+          "end": 171.8,
           "confidence": 0.984
         },
         {
-          "text": "my",
-          "start": 154.64,
-          "end": 154.88,
-          "confidence": 0.998
-        },
-        {
-          "text": "train",
-          "start": 154.88,
-          "end": 155.34,
-          "confidence": 1.0
-        },
-        {
-          "text": "could",
-          "start": 155.34,
-          "end": 155.66,
-          "confidence": 0.976
-        },
-        {
-          "text": "take",
-          "start": 155.66,
-          "end": 155.96,
-          "confidence": 0.999
-        },
-        {
-          "text": "you",
-          "start": 155.96,
-          "end": 156.28,
-          "confidence": 0.998
-        },
-        {
-          "text": "home",
-          "start": 156.28,
-          "end": 156.74,
-          "confidence": 0.998
-        }
-      ]
-    },
-    {
-      "id": 36,
-      "seek": 11300,
-      "start": 157.38,
-      "end": 159.42,
-      "text": " Anywhere else is hollow",
-      "tokens": [
-        51114,
-        2639,
-        1992,
-        1646,
-        307,
-        23972,
-        51264
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.03185771405696869,
-      "compression_ratio": 2.0197368421052633,
-      "no_speech_prob": 0.026913359761238098,
-      "confidence": 0.996,
-      "words": [
-        {
-          "text": "Anywhere",
-          "start": 157.38,
-          "end": 157.76,
-          "confidence": 0.995
-        },
-        {
-          "text": "else",
-          "start": 157.76,
-          "end": 158.34,
-          "confidence": 0.998
-        },
-        {
-          "text": "is",
-          "start": 158.34,
-          "end": 158.58,
-          "confidence": 0.997
-        },
-        {
-          "text": "hollow",
-          "start": 158.58,
-          "end": 159.42,
-          "confidence": 0.998
-        }
-      ]
-    },
-    {
-      "id": 37,
-      "seek": 11300,
-      "start": 160.38,
-      "end": 162.5,
-      "text": " I'm begging for you to take my hand",
-      "tokens": [
-        51264,
-        286,
-        478,
-        26600,
-        337,
-        291,
-        281,
-        747,
-        452,
-        1011,
-        51414
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.03185771405696869,
-      "compression_ratio": 2.0197368421052633,
-      "no_speech_prob": 0.026913359761238098,
-      "confidence": 0.995,
-      "words": [
-        {
-          "text": "I'm",
-          "start": 160.38,
-          "end": 160.4,
-          "confidence": 0.985
-        },
-        {
-          "text": "begging",
-          "start": 160.4,
-          "end": 160.42,
-          "confidence": 0.999
-        },
-        {
           "text": "for",
-          "start": 160.42,
-          "end": 160.58,
-          "confidence": 0.997
+          "start": 171.8,
+          "end": 172.32,
+          "confidence": 0.999
         },
         {
           "text": "you",
-          "start": 160.58,
-          "end": 161.08,
-          "confidence": 0.999
+          "start": 172.32,
+          "end": 172.64,
+          "confidence": 0.997
         },
         {
           "text": "to",
-          "start": 161.08,
-          "end": 161.4,
-          "confidence": 0.995
+          "start": 172.64,
+          "end": 172.96,
+          "confidence": 0.999
         },
         {
           "text": "take",
-          "start": 161.4,
-          "end": 161.64,
-          "confidence": 0.999
+          "start": 172.96,
+          "end": 173.24,
+          "confidence": 0.995
         },
         {
           "text": "my",
-          "start": 161.64,
-          "end": 162.04,
+          "start": 173.24,
+          "end": 173.62,
           "confidence": 0.999
         },
         {
-          "text": "hand",
-          "start": 162.04,
-          "end": 162.5,
-          "confidence": 0.998
-        }
-      ]
-    },
-    {
-      "id": 38,
-      "seek": 11300,
-      "start": 163.38,
-      "end": 165.4,
-      "text": " Ripped my plans, that's my man",
-      "tokens": [
-        51414,
-        497,
-        5529,
-        452,
-        5482,
-        11,
-        300,
-        311,
-        452,
-        587,
-        51564
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.03185771405696869,
-      "compression_ratio": 2.0197368421052633,
-      "no_speech_prob": 0.026913359761238098,
-      "confidence": 0.997,
-      "words": [
-        {
-          "text": "Ripped",
-          "start": 163.38,
-          "end": 163.4,
-          "confidence": 0.993
-        },
-        {
-          "text": "my",
-          "start": 163.4,
-          "end": 163.48,
-          "confidence": 0.999
-        },
-        {
-          "text": "plans,",
-          "start": 163.48,
-          "end": 163.92,
-          "confidence": 0.998
-        },
-        {
-          "text": "that's",
-          "start": 164.34,
-          "end": 164.62,
-          "confidence": 0.999
-        },
-        {
-          "text": "my",
-          "start": 164.62,
-          "end": 164.92,
-          "confidence": 0.999
-        },
-        {
-          "text": "man",
-          "start": 164.92,
-          "end": 165.4,
-          "confidence": 0.997
-        }
-      ]
-    },
-    {
-      "id": 39,
-      "seek": 11300,
-      "start": 166.38,
-      "end": 168.12,
-      "text": " The more that you say, the less I know",
-      "tokens": [
-        51564,
-        440,
-        544,
-        300,
-        291,
-        584,
-        11,
-        264,
-        1570,
-        286,
-        458,
-        51714
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.03185771405696869,
-      "compression_ratio": 2.0197368421052633,
-      "no_speech_prob": 0.026913359761238098,
-      "confidence": 0.979,
-      "words": [
-        {
-          "text": "The",
-          "start": 166.38,
-          "end": 166.4,
-          "confidence": 0.879
-        },
-        {
-          "text": "more",
-          "start": 166.4,
-          "end": 166.42,
-          "confidence": 0.998
-        },
-        {
-          "text": "that",
-          "start": 166.42,
-          "end": 166.44,
-          "confidence": 0.956
-        },
-        {
-          "text": "you",
-          "start": 166.44,
-          "end": 166.46,
-          "confidence": 0.998
-        },
-        {
-          "text": "say,",
-          "start": 166.46,
-          "end": 166.72,
-          "confidence": 0.999
-        },
-        {
-          "text": "the",
-          "start": 167.08,
-          "end": 167.16,
+          "text": "hand,",
+          "start": 173.62,
+          "end": 174.1,
           "confidence": 0.99
         },
         {
-          "text": "less",
-          "start": 167.16,
-          "end": 167.4,
-          "confidence": 0.999
-        },
-        {
-          "text": "I",
-          "start": 167.4,
-          "end": 167.78,
-          "confidence": 0.997
-        },
-        {
-          "text": "know",
-          "start": 167.78,
-          "end": 168.12,
-          "confidence": 0.999
-        }
-      ]
-    },
-    {
-      "id": 40,
-      "seek": 14000,
-      "start": 169.88,
-      "end": 173.92,
-      "text": " I follow, begging for you to take my hand",
-      "tokens": [
-        50364,
-        286,
-        1524,
-        11,
-        26600,
-        337,
-        291,
-        281,
-        747,
-        452,
-        1011,
-        50564
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.08388117621926701,
-      "compression_ratio": 1.9765625,
-      "no_speech_prob": 0.305374413728714,
-      "confidence": 0.874,
-      "words": [
-        {
-          "text": "I",
-          "start": 169.88,
-          "end": 169.94,
-          "confidence": 0.627
-        },
-        {
-          "text": "follow,",
-          "start": 169.94,
-          "end": 170.86,
-          "confidence": 0.774
-        },
-        {
-          "text": "begging",
-          "start": 171.46,
-          "end": 171.68,
-          "confidence": 0.647
-        },
-        {
-          "text": "for",
-          "start": 171.68,
-          "end": 172.06,
-          "confidence": 0.998
-        },
-        {
-          "text": "you",
-          "start": 172.06,
-          "end": 172.5,
-          "confidence": 0.998
-        },
-        {
-          "text": "to",
-          "start": 172.5,
-          "end": 172.84,
-          "confidence": 0.956
-        },
-        {
-          "text": "take",
-          "start": 172.84,
-          "end": 173.06,
-          "confidence": 0.999
-        },
-        {
-          "text": "my",
-          "start": 173.06,
-          "end": 173.46,
-          "confidence": 0.998
-        },
-        {
-          "text": "hand",
-          "start": 173.46,
-          "end": 173.92,
-          "confidence": 0.997
-        }
-      ]
-    },
-    {
-      "id": 41,
-      "seek": 14000,
-      "start": 174.28,
-      "end": 176.78,
-      "text": " Ripped my plans, that's my man",
-      "tokens": [
-        50564,
-        497,
-        5529,
-        452,
-        5482,
-        11,
-        300,
-        311,
-        452,
-        587,
-        50714
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.08388117621926701,
-      "compression_ratio": 1.9765625,
-      "no_speech_prob": 0.305374413728714,
-      "confidence": 0.994,
-      "words": [
-        {
-          "text": "Ripped",
-          "start": 174.28,
-          "end": 174.56,
-          "confidence": 0.982
-        },
-        {
-          "text": "my",
-          "start": 174.56,
-          "end": 174.88,
-          "confidence": 0.997
-        },
-        {
-          "text": "plans,",
-          "start": 174.88,
-          "end": 175.42,
-          "confidence": 0.998
-        },
-        {
-          "text": "that's",
-          "start": 175.78,
-          "end": 176.08,
-          "confidence": 0.999
-        },
-        {
-          "text": "my",
-          "start": 176.08,
-          "end": 176.34,
-          "confidence": 0.998
-        },
-        {
-          "text": "man",
-          "start": 176.34,
-          "end": 176.78,
-          "confidence": 0.997
-        }
-      ]
-    },
-    {
-      "id": 42,
-      "seek": 14000,
-      "start": 177.02,
-      "end": 179.6,
-      "text": " You know that my train could take you home",
-      "tokens": [
-        50714,
-        509,
-        458,
-        300,
-        452,
-        3847,
-        727,
-        747,
-        291,
-        1280,
-        50864
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.08388117621926701,
-      "compression_ratio": 1.9765625,
-      "no_speech_prob": 0.305374413728714,
-      "confidence": 0.97,
-      "words": [
-        {
-          "text": "You",
-          "start": 177.02,
-          "end": 177.16,
-          "confidence": 0.984
-        },
-        {
-          "text": "know",
-          "start": 177.16,
-          "end": 177.3,
-          "confidence": 0.999
-        },
-        {
-          "text": "that",
-          "start": 177.3,
-          "end": 177.5,
-          "confidence": 0.995
-        },
-        {
-          "text": "my",
-          "start": 177.5,
-          "end": 177.76,
-          "confidence": 0.998
-        },
-        {
-          "text": "train",
-          "start": 177.76,
-          "end": 178.18,
-          "confidence": 0.999
-        },
-        {
-          "text": "could",
-          "start": 178.18,
-          "end": 178.52,
-          "confidence": 0.779
-        },
-        {
-          "text": "take",
-          "start": 178.52,
-          "end": 178.8,
-          "confidence": 0.999
-        },
-        {
-          "text": "you",
-          "start": 178.8,
-          "end": 179.18,
-          "confidence": 0.999
-        },
-        {
-          "text": "home",
-          "start": 179.18,
-          "end": 179.6,
-          "confidence": 0.999
-        }
-      ]
-    },
-    {
-      "id": 43,
-      "seek": 14000,
-      "start": 179.98,
-      "end": 182.28,
-      "text": " Anywhere else is hollow",
-      "tokens": [
-        50864,
-        2639,
-        1992,
-        1646,
-        307,
-        23972,
-        51014
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.08388117621926701,
-      "compression_ratio": 1.9765625,
-      "no_speech_prob": 0.305374413728714,
-      "confidence": 0.996,
-      "words": [
-        {
-          "text": "Anywhere",
-          "start": 179.98,
-          "end": 180.6,
-          "confidence": 0.995
-        },
-        {
-          "text": "else",
-          "start": 180.6,
-          "end": 181.16,
-          "confidence": 0.998
-        },
-        {
-          "text": "is",
-          "start": 181.16,
-          "end": 181.46,
-          "confidence": 0.998
-        },
-        {
-          "text": "hollow",
-          "start": 181.46,
-          "end": 182.28,
-          "confidence": 0.997
-        }
-      ]
-    },
-    {
-      "id": 44,
-      "seek": 14000,
-      "start": 182.8,
-      "end": 185.36,
-      "text": " I'm begging for you to take my hand",
-      "tokens": [
-        51014,
-        286,
-        478,
-        26600,
-        337,
-        291,
-        281,
-        747,
-        452,
-        1011,
-        51164
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.08388117621926701,
-      "compression_ratio": 1.9765625,
-      "no_speech_prob": 0.305374413728714,
-      "confidence": 0.987,
-      "words": [
-        {
-          "text": "I'm",
-          "start": 182.8,
-          "end": 183.18,
-          "confidence": 0.948
-        },
-        {
-          "text": "begging",
-          "start": 183.18,
-          "end": 183.2,
-          "confidence": 0.999
-        },
-        {
-          "text": "for",
-          "start": 183.2,
-          "end": 183.46,
-          "confidence": 0.997
-        },
-        {
-          "text": "you",
-          "start": 183.46,
-          "end": 183.98,
-          "confidence": 0.999
-        },
-        {
-          "text": "to",
-          "start": 183.98,
-          "end": 184.3,
+          "text": "wreck",
+          "start": 174.32,
+          "end": 174.66,
           "confidence": 0.992
         },
         {
-          "text": "take",
-          "start": 184.3,
-          "end": 184.52,
-          "confidence": 1.0
+          "text": "my",
+          "start": 174.66,
+          "end": 174.98,
+          "confidence": 0.999
+        },
+        {
+          "text": "plans,",
+          "start": 174.98,
+          "end": 175.6,
+          "confidence": 0.979
+        },
+        {
+          "text": "that's",
+          "start": 175.76,
+          "end": 176.12,
+          "confidence": 0.998
         },
         {
           "text": "my",
-          "start": 184.52,
-          "end": 184.9,
+          "start": 176.12,
+          "end": 176.42,
           "confidence": 0.999
         },
         {
-          "text": "hand",
-          "start": 184.9,
-          "end": 185.36,
-          "confidence": 0.999
+          "text": "man.",
+          "start": 176.42,
+          "end": 176.9,
+          "confidence": 0.998
         }
       ]
     },
     {
-      "id": 45,
-      "seek": 14000,
-      "start": 185.62,
-      "end": 188.36,
-      "text": " Ripped my plans, that's my man",
+      "id": 23,
+      "seek": 13870,
+      "start": 177.06,
+      "end": 182.36,
+      "text": " You know that my train could take you home, anywhere else is hollow.",
       "tokens": [
-        51164,
-        497,
-        5529,
+        50789,
+        509,
+        458,
+        220,
+        6780,
         452,
-        5482,
+        220,
+        83,
+        7146,
+        727,
+        220,
+        27612,
+        291,
+        1280,
         11,
-        300,
-        311,
-        452,
-        587,
-        51314
+        4992,
+        1646,
+        307,
+        23972,
+        13,
+        51079
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.08388117621926701,
-      "compression_ratio": 1.9765625,
-      "no_speech_prob": 0.305374413728714,
-      "confidence": 0.992,
+      "avg_logprob": -0.11725900528278757,
+      "compression_ratio": 2.0444444444444443,
+      "no_speech_prob": 0.21434931457042694,
+      "confidence": 0.985,
       "words": [
         {
-          "text": "Ripped",
-          "start": 185.62,
-          "end": 185.96,
-          "confidence": 0.974
+          "text": "You",
+          "start": 177.06,
+          "end": 177.26,
+          "confidence": 0.995
+        },
+        {
+          "text": "know",
+          "start": 177.26,
+          "end": 177.38,
+          "confidence": 0.992
+        },
+        {
+          "text": "that",
+          "start": 177.38,
+          "end": 177.58,
+          "confidence": 0.995
         },
         {
           "text": "my",
-          "start": 185.96,
-          "end": 186.24,
+          "start": 177.58,
+          "end": 177.78,
+          "confidence": 0.996
+        },
+        {
+          "text": "train",
+          "start": 177.78,
+          "end": 178.5,
+          "confidence": 0.996
+        },
+        {
+          "text": "could",
+          "start": 178.5,
+          "end": 178.62,
+          "confidence": 0.868
+        },
+        {
+          "text": "take",
+          "start": 178.62,
+          "end": 178.98,
           "confidence": 0.997
         },
         {
+          "text": "you",
+          "start": 178.98,
+          "end": 179.36,
+          "confidence": 0.997
+        },
+        {
+          "text": "home,",
+          "start": 179.36,
+          "end": 179.76,
+          "confidence": 0.993
+        },
+        {
+          "text": "anywhere",
+          "start": 180.02,
+          "end": 180.36,
+          "confidence": 0.961
+        },
+        {
+          "text": "else",
+          "start": 180.36,
+          "end": 181.38,
+          "confidence": 0.995
+        },
+        {
+          "text": "is",
+          "start": 181.38,
+          "end": 181.54,
+          "confidence": 0.985
+        },
+        {
+          "text": "hollow.",
+          "start": 181.54,
+          "end": 182.36,
+          "confidence": 0.994
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "seek": 13870,
+      "start": 182.94,
+      "end": 188.8,
+      "text": " Begging for you to take my hand, wreck my plans, that's my man.",
+      "tokens": [
+        51079,
+        879,
+        10877,
+        337,
+        291,
+        220,
+        1353,
+        220,
+        27612,
+        452,
+        1011,
+        11,
+        21478,
+        452,
+        5482,
+        11,
+        220,
+        6780,
+        311,
+        452,
+        587,
+        13,
+        51409
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.11725900528278757,
+      "compression_ratio": 2.0444444444444443,
+      "no_speech_prob": 0.21434931457042694,
+      "confidence": 0.996,
+      "words": [
+        {
+          "text": "Begging",
+          "start": 182.94,
+          "end": 183.26,
+          "confidence": 0.993
+        },
+        {
+          "text": "for",
+          "start": 183.26,
+          "end": 183.78,
+          "confidence": 0.999
+        },
+        {
+          "text": "you",
+          "start": 183.78,
+          "end": 184.08,
+          "confidence": 0.999
+        },
+        {
+          "text": "to",
+          "start": 184.08,
+          "end": 184.46,
+          "confidence": 1.0
+        },
+        {
+          "text": "take",
+          "start": 184.46,
+          "end": 184.64,
+          "confidence": 0.996
+        },
+        {
+          "text": "my",
+          "start": 184.64,
+          "end": 185.1,
+          "confidence": 0.999
+        },
+        {
+          "text": "hand,",
+          "start": 185.1,
+          "end": 185.72,
+          "confidence": 0.994
+        },
+        {
+          "text": "wreck",
+          "start": 185.78,
+          "end": 186.06,
+          "confidence": 0.999
+        },
+        {
+          "text": "my",
+          "start": 186.06,
+          "end": 186.48,
+          "confidence": 0.999
+        },
+        {
           "text": "plans,",
-          "start": 186.24,
-          "end": 186.78,
-          "confidence": 0.998
+          "start": 186.48,
+          "end": 187.12,
+          "confidence": 0.972
         },
         {
           "text": "that's",
-          "start": 187.2,
+          "start": 187.46,
           "end": 187.52,
           "confidence": 0.999
         },
         {
           "text": "my",
           "start": 187.52,
-          "end": 187.82,
-          "confidence": 0.996
+          "end": 187.96,
+          "confidence": 0.999
         },
         {
-          "text": "man",
-          "start": 187.82,
-          "end": 188.36,
-          "confidence": 0.997
+          "text": "man.",
+          "start": 187.96,
+          "end": 188.8,
+          "confidence": 0.998
         }
       ]
     },
     {
-      "id": 46,
-      "seek": 14000,
-      "start": 189.61,
-      "end": 191.09,
-      "text": " Hey, that's my man",
+      "id": 25,
+      "seek": 13870,
+      "start": 189.51,
+      "end": 196.82,
+      "text": " Hey, that's my man. That's my man. That's my man.",
       "tokens": [
-        51314,
+        51409,
         1911,
         11,
-        300,
+        220,
+        6780,
         311,
         452,
         587,
-        51464
+        13,
+        663,
+        311,
+        452,
+        587,
+        13,
+        663,
+        311,
+        452,
+        587,
+        13,
+        51719
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.08388117621926701,
-      "compression_ratio": 1.9765625,
-      "no_speech_prob": 0.305374413728714,
-      "confidence": 0.97,
+      "avg_logprob": -0.11725900528278757,
+      "compression_ratio": 2.0444444444444443,
+      "no_speech_prob": 0.21434931457042694,
+      "confidence": 0.893,
       "words": [
         {
           "text": "Hey,",
-          "start": 189.61,
-          "end": 189.91,
-          "confidence": 0.89
+          "start": 189.51,
+          "end": 189.95,
+          "confidence": 0.807
         },
         {
           "text": "that's",
-          "start": 190.03,
-          "end": 190.37,
-          "confidence": 0.996
+          "start": 190.09,
+          "end": 190.47,
+          "confidence": 0.997
         },
         {
           "text": "my",
-          "start": 190.37,
-          "end": 190.59,
-          "confidence": 0.976
+          "start": 190.47,
+          "end": 190.69,
+          "confidence": 0.999
         },
         {
-          "text": "man",
-          "start": 190.59,
-          "end": 191.09,
-          "confidence": 0.997
-        }
-      ]
-    },
-    {
-      "id": 47,
-      "seek": 14000,
-      "start": 192.73,
-      "end": 193.85,
-      "text": " That's my man",
-      "tokens": [
-        51464,
-        663,
-        311,
-        452,
-        587,
-        51564
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.08388117621926701,
-      "compression_ratio": 1.9765625,
-      "no_speech_prob": 0.305374413728714,
-      "confidence": 0.82,
-      "words": [
-        {
-          "text": "That's",
-          "start": 192.73,
-          "end": 193.21,
-          "confidence": 0.681
-        },
-        {
-          "text": "my",
-          "start": 193.21,
-          "end": 193.49,
-          "confidence": 0.979
-        },
-        {
-          "text": "man",
-          "start": 193.49,
-          "end": 193.85,
-          "confidence": 0.996
-        }
-      ]
-    },
-    {
-      "id": 48,
-      "seek": 14000,
-      "start": 195.54,
-      "end": 196.68,
-      "text": " That's my man",
-      "tokens": [
-        51564,
-        663,
-        311,
-        452,
-        587,
-        51664
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.08388117621926701,
-      "compression_ratio": 1.9765625,
-      "no_speech_prob": 0.305374413728714,
-      "confidence": 0.854,
-      "words": [
-        {
-          "text": "That's",
-          "start": 195.54,
-          "end": 195.94,
-          "confidence": 0.732
-        },
-        {
-          "text": "my",
-          "start": 195.94,
-          "end": 196.26,
-          "confidence": 0.997
-        },
-        {
-          "text": "man",
-          "start": 196.26,
-          "end": 196.68,
-          "confidence": 0.998
-        }
-      ]
-    },
-    {
-      "id": 49,
-      "seek": 16600,
-      "start": 197.34,
-      "end": 199.78,
-      "text": " Every bit and switch was a work of art",
-      "tokens": [
-        50364,
-        2048,
-        857,
-        293,
-        3679,
-        390,
-        257,
-        589,
-        295,
-        1523,
-        50514
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.04784109195073446,
-      "compression_ratio": 1.3269230769230769,
-      "no_speech_prob": 0.6748712658882141,
-      "confidence": 0.993,
-      "words": [
-        {
-          "text": "Every",
-          "start": 197.34,
-          "end": 197.46,
-          "confidence": 0.965
-        },
-        {
-          "text": "bit",
-          "start": 197.46,
-          "end": 197.66,
-          "confidence": 0.993
-        },
-        {
-          "text": "and",
-          "start": 197.66,
-          "end": 197.8,
-          "confidence": 0.996
-        },
-        {
-          "text": "switch",
-          "start": 197.8,
-          "end": 198.02,
-          "confidence": 0.997
-        },
-        {
-          "text": "was",
-          "start": 198.02,
-          "end": 198.4,
-          "confidence": 0.996
-        },
-        {
-          "text": "a",
-          "start": 198.4,
-          "end": 198.58,
-          "confidence": 0.996
-        },
-        {
-          "text": "work",
-          "start": 198.58,
-          "end": 198.86,
-          "confidence": 0.997
-        },
-        {
-          "text": "of",
-          "start": 198.86,
-          "end": 199.32,
+          "text": "man.",
+          "start": 190.69,
+          "end": 191.39,
           "confidence": 0.998
         },
         {
-          "text": "art",
-          "start": 199.32,
-          "end": 199.78,
-          "confidence": 0.996
+          "text": "That's",
+          "start": 192.85,
+          "end": 193.35,
+          "confidence": 0.694
+        },
+        {
+          "text": "my",
+          "start": 193.35,
+          "end": 193.65,
+          "confidence": 0.999
+        },
+        {
+          "text": "man.",
+          "start": 193.65,
+          "end": 194.41,
+          "confidence": 0.999
+        },
+        {
+          "text": "That's",
+          "start": 195.66,
+          "end": 196.14,
+          "confidence": 0.729
+        },
+        {
+          "text": "my",
+          "start": 196.14,
+          "end": 196.56,
+          "confidence": 1.0
+        },
+        {
+          "text": "man.",
+          "start": 196.56,
+          "end": 196.82,
+          "confidence": 0.999
         }
       ]
     },
     {
-      "id": 50,
-      "seek": 16600,
-      "start": 199.98,
-      "end": 201.2,
-      "text": " That's my man",
+      "id": 26,
+      "seek": 16870,
+      "start": 200.04,
+      "end": 211.45,
+      "text": " That's my man. Hey, that's my man. Begging for you to take my hand, wreck my plans, that's my man.",
       "tokens": [
-        50514,
+        50369,
         663,
         311,
         452,
         587,
-        50614
+        13,
+        1911,
+        11,
+        220,
+        6780,
+        311,
+        452,
+        587,
+        13,
+        879,
+        10877,
+        337,
+        291,
+        220,
+        1353,
+        220,
+        27612,
+        452,
+        1011,
+        11,
+        21478,
+        452,
+        5482,
+        11,
+        220,
+        6780,
+        311,
+        452,
+        587,
+        13,
+        50909
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.04784109195073446,
-      "compression_ratio": 1.3269230769230769,
-      "no_speech_prob": 0.6748712658882141,
-      "confidence": 0.997,
+      "avg_logprob": -0.11127276033968539,
+      "compression_ratio": 1.3066666666666666,
+      "no_speech_prob": 0.03741903603076935,
+      "confidence": 0.967,
       "words": [
         {
           "text": "That's",
-          "start": 199.98,
+          "start": 200.04,
           "end": 200.4,
-          "confidence": 0.997
+          "confidence": 0.912
         },
         {
           "text": "my",
           "start": 200.4,
-          "end": 200.72,
-          "confidence": 0.995
-        },
-        {
-          "text": "man",
-          "start": 200.72,
-          "end": 201.2,
-          "confidence": 0.998
-        }
-      ]
-    },
-    {
-      "id": 51,
-      "seek": 16600,
-      "start": 202.49,
-      "end": 203.97,
-      "text": " Hey, that's my man",
-      "tokens": [
-        50614,
-        1911,
-        11,
-        300,
-        311,
-        452,
-        587,
-        50764
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.04784109195073446,
-      "compression_ratio": 1.3269230769230769,
-      "no_speech_prob": 0.6748712658882141,
-      "confidence": 0.978,
-      "words": [
-        {
-          "text": "Hey,",
-          "start": 202.49,
-          "end": 202.75,
-          "confidence": 0.9
-        },
-        {
-          "text": "that's",
-          "start": 202.85,
-          "end": 203.21,
+          "end": 200.92,
           "confidence": 0.998
         },
         {
-          "text": "my",
-          "start": 203.21,
-          "end": 203.49,
-          "confidence": 0.998
-        },
-        {
-          "text": "man",
-          "start": 203.49,
-          "end": 203.97,
-          "confidence": 0.999
-        }
-      ]
-    },
-    {
-      "id": 52,
-      "seek": 16600,
-      "start": 205.57,
-      "end": 208.21,
-      "text": " I'm begging for you to take my hand",
-      "tokens": [
-        50764,
-        286,
-        478,
-        26600,
-        337,
-        291,
-        281,
-        747,
-        452,
-        1011,
-        50914
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.04784109195073446,
-      "compression_ratio": 1.3269230769230769,
-      "no_speech_prob": 0.6748712658882141,
-      "confidence": 0.987,
-      "words": [
-        {
-          "text": "I'm",
-          "start": 205.57,
-          "end": 205.67,
-          "confidence": 0.952
-        },
-        {
-          "text": "begging",
-          "start": 205.67,
-          "end": 205.95,
-          "confidence": 0.996
-        },
-        {
-          "text": "for",
-          "start": 205.95,
-          "end": 206.29,
+          "text": "man.",
+          "start": 200.92,
+          "end": 201.32,
           "confidence": 0.997
         },
         {
-          "text": "you",
-          "start": 206.29,
-          "end": 206.75,
-          "confidence": 0.999
-        },
-        {
-          "text": "to",
-          "start": 206.75,
-          "end": 207.09,
-          "confidence": 0.994
-        },
-        {
-          "text": "take",
-          "start": 207.09,
-          "end": 207.37,
-          "confidence": 1.0
-        },
-        {
-          "text": "my",
-          "start": 207.37,
-          "end": 207.71,
-          "confidence": 0.999
-        },
-        {
-          "text": "hand",
-          "start": 207.71,
-          "end": 208.21,
-          "confidence": 0.999
-        }
-      ]
-    },
-    {
-      "id": 53,
-      "seek": 16600,
-      "start": 208.53,
-      "end": 211.29,
-      "text": " Ripped my plans, that's my man",
-      "tokens": [
-        50914,
-        497,
-        5529,
-        452,
-        5482,
-        11,
-        300,
-        311,
-        452,
-        587,
-        51064
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.04784109195073446,
-      "compression_ratio": 1.3269230769230769,
-      "no_speech_prob": 0.6748712658882141,
-      "confidence": 0.996,
-      "words": [
-        {
-          "text": "Ripped",
-          "start": 208.53,
-          "end": 208.81,
-          "confidence": 0.991
-        },
-        {
-          "text": "my",
-          "start": 208.81,
-          "end": 209.11,
-          "confidence": 0.999
-        },
-        {
-          "text": "plans,",
-          "start": 209.11,
-          "end": 209.65,
-          "confidence": 0.998
+          "text": "Hey,",
+          "start": 202.57,
+          "end": 202.87,
+          "confidence": 0.652
         },
         {
           "text": "that's",
-          "start": 210.07,
-          "end": 210.39,
-          "confidence": 0.999
-        },
-        {
-          "text": "my",
-          "start": 210.39,
-          "end": 210.75,
+          "start": 203.23,
+          "end": 203.43,
           "confidence": 0.998
         },
         {
-          "text": "man",
-          "start": 210.75,
-          "end": 211.29,
-          "confidence": 0.991
+          "text": "my",
+          "start": 203.43,
+          "end": 203.61,
+          "confidence": 0.999
+        },
+        {
+          "text": "man.",
+          "start": 203.61,
+          "end": 204.55,
+          "confidence": 0.999
+        },
+        {
+          "text": "Begging",
+          "start": 205.81,
+          "end": 206.07,
+          "confidence": 0.887
+        },
+        {
+          "text": "for",
+          "start": 206.07,
+          "end": 206.33,
+          "confidence": 0.998
+        },
+        {
+          "text": "you",
+          "start": 206.33,
+          "end": 206.83,
+          "confidence": 0.996
+        },
+        {
+          "text": "to",
+          "start": 206.83,
+          "end": 207.37,
+          "confidence": 0.998
+        },
+        {
+          "text": "take",
+          "start": 207.37,
+          "end": 207.51,
+          "confidence": 0.993
+        },
+        {
+          "text": "my",
+          "start": 207.51,
+          "end": 207.81,
+          "confidence": 0.998
+        },
+        {
+          "text": "hand,",
+          "start": 207.81,
+          "end": 208.39,
+          "confidence": 0.992
+        },
+        {
+          "text": "wreck",
+          "start": 208.55,
+          "end": 208.83,
+          "confidence": 0.989
+        },
+        {
+          "text": "my",
+          "start": 208.83,
+          "end": 209.29,
+          "confidence": 0.997
+        },
+        {
+          "text": "plans,",
+          "start": 209.29,
+          "end": 209.81,
+          "confidence": 0.98
+        },
+        {
+          "text": "that's",
+          "start": 210.39,
+          "end": 210.41,
+          "confidence": 0.998
+        },
+        {
+          "text": "my",
+          "start": 210.41,
+          "end": 211.13,
+          "confidence": 0.999
+        },
+        {
+          "text": "man.",
+          "start": 211.13,
+          "end": 211.45,
+          "confidence": 0.995
         }
       ]
     }
   ],
-  "language": "en",
+  "language": "no",
   "language_probs": {
-    "en": 0.9314579963684082,
-    "zh": 0.005988710094243288,
-    "de": 0.0076896557584404945,
-    "es": 0.004964814987033606,
-    "ru": 0.002085875254124403,
-    "ko": 0.013495766557753086,
-    "fr": 0.0036323361564427614,
-    "ja": 0.0053682452999055386,
-    "pt": 0.003307279897853732,
-    "tr": 0.0004801957693416625,
-    "pl": 0.001490707858465612,
-    "ca": 0.0001712190714897588,
-    "nl": 0.002102235099300742,
-    "ar": 0.0006563498172909021,
-    "sv": 0.00145617569796741,
-    "it": 0.0019903560169041157,
-    "id": 0.0004304446920286864,
-    "hi": 9.90939952316694e-05,
-    "fi": 0.00045464024879038334,
-    "vi": 0.0009328611777164042,
-    "he": 5.262842387310229e-05,
-    "uk": 5.9171732573304325e-05,
-    "el": 0.0004107331915292889,
-    "ms": 0.0003739768289960921,
-    "cs": 8.74501492944546e-05,
-    "ro": 8.882728434400633e-05,
-    "da": 0.0001766541536198929,
-    "hu": 0.00023402873193845153,
-    "ta": 9.236575715476647e-05,
-    "no": 0.00019861760665662587,
-    "th": 0.000280095700873062,
-    "ur": 2.4474489691783674e-05,
-    "hr": 2.126380604750011e-05,
-    "bg": 1.8474314856575802e-05,
-    "lt": 2.2064421045797644e-06,
-    "la": 0.0018122397596016526,
-    "mi": 0.0004617997328750789,
-    "ml": 0.00014418091450352222,
-    "cy": 0.0017292513512074947,
-    "sk": 9.3623266366194e-06,
-    "te": 1.9360915757715702e-05,
-    "fa": 8.5913534348947e-06,
-    "lv": 7.701240065216552e-06,
-    "bn": 9.43575560086174e-06,
-    "sr": 1.5768731600473984e-06,
-    "az": 6.151049660729768e-07,
-    "sl": 2.19387929973891e-05,
-    "kn": 2.6147120024688775e-07,
-    "et": 2.8777430998161435e-06,
-    "mk": 5.733409125241451e-07,
-    "br": 9.455615509068593e-05,
-    "eu": 7.348573944909731e-06,
-    "is": 1.9210247046430595e-05,
-    "hy": 1.4698074437546893e-06,
-    "ne": 2.404444330750266e-06,
-    "mn": 4.8571114348305855e-06,
-    "bs": 5.503827651409665e-06,
-    "kk": 7.745340440123982e-07,
-    "sq": 2.767498699540738e-06,
-    "sw": 1.4844529687252361e-05,
-    "gl": 5.9171732573304325e-05,
-    "mr": 3.0808834594608925e-07,
-    "pa": 2.343812752769736e-07,
-    "si": 3.478526195976883e-05,
-    "km": 0.0007152494508773088,
-    "sn": 0.00019553831953089684,
-    "yo": 1.7355012460029684e-05,
-    "so": 3.4837665197073875e-08,
-    "af": 1.2500346201704815e-05,
-    "oc": 6.334867521218257e-06,
-    "ka": 1.2351024736290128e-07,
-    "be": 3.964258212363347e-06,
-    "tg": 2.2227517604278546e-09,
-    "sd": 9.055219720721652e-07,
-    "gu": 4.761744420989089e-08,
-    "am": 6.042967726216375e-08,
-    "yi": 1.9360915757715702e-05,
-    "lo": 1.75912907707243e-06,
-    "uz": 8.643831483912123e-11,
-    "fo": 8.52449556987267e-06,
-    "ht": 5.503827651409665e-06,
-    "ps": 4.310930989959161e-07,
-    "tk": 6.634920945991496e-10,
-    "nn": 0.0027418313547968864,
-    "mt": 5.386038992583053e-07,
-    "sa": 1.7905918866745196e-05,
-    "lb": 5.0384847405382516e-09,
-    "my": 1.708594754745718e-05,
-    "bo": 4.4571361286216415e-06,
-    "tl": 0.00031738998950459063,
-    "mg": 2.8870172918971093e-10,
-    "as": 3.0331190714605327e-07,
-    "tt": 2.8540698693291233e-09,
-    "haw": 0.0005315282032825053,
-    "ln": 1.040060553236799e-07,
-    "ha": 8.289610664569125e-10,
-    "ba": 9.157857805419667e-10,
-    "jw": 0.0005273919086903334,
-    "su": 6.394170082302253e-09
+    "en": 0.0019098612247034907,
+    "zh": 1.0421263141324744e-05,
+    "de": 7.944765093270689e-05,
+    "es": 7.01123135513626e-05,
+    "ru": 0.00010043124348158017,
+    "ko": 5.950354170636274e-05,
+    "fr": 1.257044368685456e-05,
+    "ja": 3.184995148330927e-05,
+    "pt": 4.624407665687613e-06,
+    "tr": 5.249601713330776e-07,
+    "pl": 6.054970981494989e-06,
+    "ca": 3.209975693607703e-05,
+    "nl": 2.0123779904679395e-06,
+    "ar": 5.710381628887262e-06,
+    "sv": 8.194512588488578e-07,
+    "it": 6.4843290601857e-05,
+    "id": 2.0681629848695593e-06,
+    "hi": 1.4581969480786938e-05,
+    "fi": 1.3591890819952823e-05,
+    "vi": 9.414828127773944e-06,
+    "he": 6.650085197179578e-06,
+    "uk": 1.1671262654999737e-05,
+    "el": 1.7181760995299555e-05,
+    "ms": 2.2061816707719117e-05,
+    "cs": 2.634908241816447e-06,
+    "ro": 0.00017626231419853866,
+    "da": 7.345513495238265e-07,
+    "hu": 1.6140769730554894e-05,
+    "ta": 1.7316519006271847e-05,
+    "no": 0.9970920085906982,
+    "th": 3.2664120226399973e-06,
+    "ur": 2.9052071113255806e-06,
+    "hr": 1.5072015457917587e-06,
+    "bg": 7.288350616363459e-07,
+    "lt": 1.589053135830909e-05,
+    "la": 9.525807399768382e-06,
+    "mi": 9.37812183110509e-06,
+    "ml": 1.2158103572801338e-06,
+    "cy": 2.1890131392865442e-05,
+    "sk": 3.483355044409109e-07,
+    "te": 1.2768399756168947e-05,
+    "fa": 5.902285806769214e-07,
+    "lv": 2.655574007803807e-06,
+    "bn": 1.187646262224007e-06,
+    "sr": 6.185542247294507e-07,
+    "az": 2.4412915422544756e-07,
+    "sl": 3.615588411776116e-06,
+    "kn": 1.1026921811208013e-06,
+    "et": 7.389783149847062e-06,
+    "mk": 4.5077962340656086e-07,
+    "br": 9.249397407984361e-07,
+    "eu": 2.670780929747707e-07,
+    "is": 3.6725259633385576e-06,
+    "hy": 1.8180320466854027e-06,
+    "ne": 1.1421481076467899e-06,
+    "mn": 6.740621643075428e-07,
+    "bs": 8.860379807629215e-07,
+    "kk": 5.437440222522127e-07,
+    "sq": 4.361232186056441e-06,
+    "sw": 2.0202544419589685e-06,
+    "gl": 3.1046806725498755e-06,
+    "mr": 6.981812248341157e-07,
+    "pa": 1.1511061757119023e-06,
+    "si": 4.177804385108175e-06,
+    "km": 1.4023344192537479e-05,
+    "sn": 6.031365046510473e-06,
+    "yo": 2.543884193073609e-06,
+    "so": 2.29338112944788e-07,
+    "af": 2.826843910952448e-06,
+    "oc": 2.9447596716636326e-07,
+    "ka": 2.4054317648847245e-08,
+    "be": 1.2841517218475929e-06,
+    "tg": 1.5260020802543295e-08,
+    "sd": 5.87927502238017e-07,
+    "gu": 3.9626070247322787e-07,
+    "am": 5.270147767078015e-07,
+    "yi": 1.1070079608543892e-06,
+    "lo": 2.1045246967332787e-07,
+    "uz": 4.441461864956864e-09,
+    "fo": 9.61785190156661e-07,
+    "ht": 6.482392791440361e-07,
+    "ps": 5.480086997522449e-07,
+    "tk": 9.555954638695852e-11,
+    "nn": 1.5981526075847796e-06,
+    "mt": 3.080519718423602e-06,
+    "sa": 1.2397900945870788e-06,
+    "lb": 1.4019157390521286e-07,
+    "my": 1.661815872466832e-06,
+    "bo": 1.1421481076467899e-06,
+    "tl": 3.111214755335823e-05,
+    "mg": 1.3597049042246567e-09,
+    "as": 6.981812248341157e-07,
+    "tt": 2.1045246967332787e-07,
+    "haw": 7.866382475185674e-06,
+    "ln": 2.867701276443313e-08,
+    "ha": 1.6294301019570412e-07,
+    "ba": 5.267788427687492e-10,
+    "jw": 2.7721678179659648e-06,
+    "su": 2.5932832770081404e-08
   },
   "speech_activity": [
     {

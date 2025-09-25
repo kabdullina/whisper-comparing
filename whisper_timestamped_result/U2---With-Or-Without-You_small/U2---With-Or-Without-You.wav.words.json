@@ -1,0 +1,1158 @@
+{
+  "text": " See the stone set in your eyes, see the thorn twist in your side. I'll wait for you, slide of hand and twist of fate. On the bed of nails she makes me wait. And I wait without you, with or without you, with or without you. Through the storm we reach the shore, you give it all but I want more. And I'm waiting for you, with or without you, with or without you. My hands are tied, my body bruised, she got me with. Nothing went and nothing left to lose. And you give yourself away, and you give yourself away. And you give yourself away, with or without you.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 28.1,
+      "end": 35.92,
+      "text": " See the stone set in your eyes, see the thorn twist in your side.",
+      "tokens": [
+        50364,
+        3008,
+        264,
+        7581,
+        992,
+        294,
+        428,
+        2575,
+        11,
+        536,
+        264,
+        258,
+        1865,
+        8203,
+        294,
+        428,
+        1252,
+        13,
+        50814
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.29408112350775273,
+      "compression_ratio": 1.368421052631579,
+      "no_speech_prob": 0.5620400309562683,
+      "confidence": 0.843,
+      "words": [
+        {
+          "text": "See",
+          "start": 28.1,
+          "end": 28.5,
+          "confidence": 0.431
+        },
+        {
+          "text": "the",
+          "start": 28.5,
+          "end": 28.74,
+          "confidence": 0.952
+        },
+        {
+          "text": "stone",
+          "start": 28.74,
+          "end": 29.26,
+          "confidence": 0.934
+        },
+        {
+          "text": "set",
+          "start": 29.26,
+          "end": 30.02,
+          "confidence": 0.64
+        },
+        {
+          "text": "in",
+          "start": 30.02,
+          "end": 30.46,
+          "confidence": 0.985
+        },
+        {
+          "text": "your",
+          "start": 30.46,
+          "end": 30.84,
+          "confidence": 0.97
+        },
+        {
+          "text": "eyes,",
+          "start": 30.84,
+          "end": 31.76,
+          "confidence": 0.982
+        },
+        {
+          "text": "see",
+          "start": 32.34,
+          "end": 32.88,
+          "confidence": 0.674
+        },
+        {
+          "text": "the",
+          "start": 32.88,
+          "end": 33.14,
+          "confidence": 0.993
+        },
+        {
+          "text": "thorn",
+          "start": 33.14,
+          "end": 33.78,
+          "confidence": 0.796
+        },
+        {
+          "text": "twist",
+          "start": 33.78,
+          "end": 34.3,
+          "confidence": 0.906
+        },
+        {
+          "text": "in",
+          "start": 34.3,
+          "end": 34.82,
+          "confidence": 0.962
+        },
+        {
+          "text": "your",
+          "start": 34.82,
+          "end": 35.18,
+          "confidence": 0.991
+        },
+        {
+          "text": "side.",
+          "start": 35.18,
+          "end": 35.92,
+          "confidence": 0.918
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 37.08,
+      "end": 48.89,
+      "text": " I'll wait for you, slide of hand and twist of fate.",
+      "tokens": [
+        50814,
+        286,
+        603,
+        1699,
+        337,
+        291,
+        11,
+        4137,
+        295,
+        1011,
+        293,
+        8203,
+        295,
+        12738,
+        13,
+        51214
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.29408112350775273,
+      "compression_ratio": 1.368421052631579,
+      "no_speech_prob": 0.5620400309562683,
+      "confidence": 0.885,
+      "words": [
+        {
+          "text": "I'll",
+          "start": 37.08,
+          "end": 37.56,
+          "confidence": 0.87
+        },
+        {
+          "text": "wait",
+          "start": 37.56,
+          "end": 38.1,
+          "confidence": 0.975
+        },
+        {
+          "text": "for",
+          "start": 38.1,
+          "end": 39.72,
+          "confidence": 0.97
+        },
+        {
+          "text": "you,",
+          "start": 39.72,
+          "end": 40.26,
+          "confidence": 0.96
+        },
+        {
+          "text": "slide",
+          "start": 45.33,
+          "end": 46.01,
+          "confidence": 0.657
+        },
+        {
+          "text": "of",
+          "start": 46.01,
+          "end": 46.33,
+          "confidence": 0.808
+        },
+        {
+          "text": "hand",
+          "start": 46.33,
+          "end": 46.93,
+          "confidence": 0.986
+        },
+        {
+          "text": "and",
+          "start": 46.93,
+          "end": 47.41,
+          "confidence": 0.931
+        },
+        {
+          "text": "twist",
+          "start": 47.41,
+          "end": 47.81,
+          "confidence": 0.96
+        },
+        {
+          "text": "of",
+          "start": 47.81,
+          "end": 48.29,
+          "confidence": 0.885
+        },
+        {
+          "text": "fate.",
+          "start": 48.29,
+          "end": 48.89,
+          "confidence": 0.809
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 49.57,
+      "end": 53.17,
+      "text": " On the bed of nails she makes me wait.",
+      "tokens": [
+        51214,
+        1282,
+        264,
+        2901,
+        295,
+        15394,
+        750,
+        1669,
+        385,
+        1699,
+        13,
+        51464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.29408112350775273,
+      "compression_ratio": 1.368421052631579,
+      "no_speech_prob": 0.5620400309562683,
+      "confidence": 0.83,
+      "words": [
+        {
+          "text": "On",
+          "start": 49.57,
+          "end": 49.69,
+          "confidence": 0.808
+        },
+        {
+          "text": "the",
+          "start": 49.69,
+          "end": 49.81,
+          "confidence": 0.567
+        },
+        {
+          "text": "bed",
+          "start": 49.81,
+          "end": 50.13,
+          "confidence": 0.998
+        },
+        {
+          "text": "of",
+          "start": 50.13,
+          "end": 50.55,
+          "confidence": 0.993
+        },
+        {
+          "text": "nails",
+          "start": 50.55,
+          "end": 51.11,
+          "confidence": 0.694
+        },
+        {
+          "text": "she",
+          "start": 51.11,
+          "end": 51.75,
+          "confidence": 0.788
+        },
+        {
+          "text": "makes",
+          "start": 51.75,
+          "end": 52.23,
+          "confidence": 0.975
+        },
+        {
+          "text": "me",
+          "start": 52.23,
+          "end": 52.63,
+          "confidence": 0.981
+        },
+        {
+          "text": "wait.",
+          "start": 52.63,
+          "end": 53.17,
+          "confidence": 0.792
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 2200,
+      "start": 54.47,
+      "end": 67.94,
+      "text": " And I wait without you, with or without you, with or without you.",
+      "tokens": [
+        50364,
+        400,
+        286,
+        1699,
+        1553,
+        291,
+        11,
+        365,
+        420,
+        1553,
+        291,
+        11,
+        365,
+        420,
+        1553,
+        291,
+        13,
+        51064
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.15091551267183745,
+      "compression_ratio": 1.4623655913978495,
+      "no_speech_prob": 0.602285623550415,
+      "confidence": 0.897,
+      "words": [
+        {
+          "text": "And",
+          "start": 54.47,
+          "end": 54.75,
+          "confidence": 0.903
+        },
+        {
+          "text": "I",
+          "start": 54.75,
+          "end": 55.01,
+          "confidence": 0.975
+        },
+        {
+          "text": "wait",
+          "start": 55.01,
+          "end": 55.57,
+          "confidence": 0.923
+        },
+        {
+          "text": "without",
+          "start": 55.57,
+          "end": 57.47,
+          "confidence": 0.889
+        },
+        {
+          "text": "you,",
+          "start": 57.47,
+          "end": 58.15,
+          "confidence": 0.994
+        },
+        {
+          "text": "with",
+          "start": 60.41,
+          "end": 60.97,
+          "confidence": 0.478
+        },
+        {
+          "text": "or",
+          "start": 60.97,
+          "end": 61.31,
+          "confidence": 0.928
+        },
+        {
+          "text": "without",
+          "start": 61.31,
+          "end": 61.89,
+          "confidence": 0.998
+        },
+        {
+          "text": "you,",
+          "start": 61.89,
+          "end": 62.59,
+          "confidence": 0.998
+        },
+        {
+          "text": "with",
+          "start": 64.68,
+          "end": 65.34,
+          "confidence": 0.769
+        },
+        {
+          "text": "or",
+          "start": 65.34,
+          "end": 65.76,
+          "confidence": 0.997
+        },
+        {
+          "text": "without",
+          "start": 65.76,
+          "end": 66.76,
+          "confidence": 0.998
+        },
+        {
+          "text": "you.",
+          "start": 66.76,
+          "end": 67.94,
+          "confidence": 0.998
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 2200,
+      "start": 71.72,
+      "end": 79.48,
+      "text": " Through the storm we reach the shore, you give it all but I want more.",
+      "tokens": [
+        51064,
+        8927,
+        264,
+        7679,
+        321,
+        2524,
+        264,
+        17805,
+        11,
+        291,
+        976,
+        309,
+        439,
+        457,
+        286,
+        528,
+        544,
+        13,
+        51514
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.15091551267183745,
+      "compression_ratio": 1.4623655913978495,
+      "no_speech_prob": 0.602285623550415,
+      "confidence": 0.892,
+      "words": [
+        {
+          "text": "Through",
+          "start": 71.72,
+          "end": 72.08,
+          "confidence": 0.814
+        },
+        {
+          "text": "the",
+          "start": 72.08,
+          "end": 72.34,
+          "confidence": 0.995
+        },
+        {
+          "text": "storm",
+          "start": 72.34,
+          "end": 72.94,
+          "confidence": 0.898
+        },
+        {
+          "text": "we",
+          "start": 72.94,
+          "end": 73.62,
+          "confidence": 0.51
+        },
+        {
+          "text": "reach",
+          "start": 73.62,
+          "end": 74.0,
+          "confidence": 0.969
+        },
+        {
+          "text": "the",
+          "start": 74.0,
+          "end": 74.4,
+          "confidence": 0.985
+        },
+        {
+          "text": "shore,",
+          "start": 74.4,
+          "end": 75.12,
+          "confidence": 0.999
+        },
+        {
+          "text": "you",
+          "start": 75.76,
+          "end": 75.92,
+          "confidence": 0.919
+        },
+        {
+          "text": "give",
+          "start": 75.92,
+          "end": 76.3,
+          "confidence": 0.893
+        },
+        {
+          "text": "it",
+          "start": 76.3,
+          "end": 76.7,
+          "confidence": 0.995
+        },
+        {
+          "text": "all",
+          "start": 76.7,
+          "end": 77.32,
+          "confidence": 0.99
+        },
+        {
+          "text": "but",
+          "start": 77.32,
+          "end": 77.84,
+          "confidence": 0.704
+        },
+        {
+          "text": "I",
+          "start": 77.84,
+          "end": 78.26,
+          "confidence": 0.985
+        },
+        {
+          "text": "want",
+          "start": 78.26,
+          "end": 78.78,
+          "confidence": 0.917
+        },
+        {
+          "text": "more.",
+          "start": 78.78,
+          "end": 79.48,
+          "confidence": 0.994
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 4500,
+      "start": 80.64,
+      "end": 122.96,
+      "text": " And I'm waiting for you, with or without you, with or without you.",
+      "tokens": [
+        50364,
+        400,
+        286,
+        478,
+        3806,
+        337,
+        291,
+        11,
+        365,
+        420,
+        1553,
+        291,
+        11,
+        365,
+        420,
+        1553,
+        291,
+        13,
+        51464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1440861565726144,
+      "compression_ratio": 1.4042553191489362,
+      "no_speech_prob": 0.24652403593063354,
+      "confidence": 0.957,
+      "words": [
+        {
+          "text": "And",
+          "start": 80.64,
+          "end": 80.94,
+          "confidence": 0.955
+        },
+        {
+          "text": "I'm",
+          "start": 80.94,
+          "end": 81.22,
+          "confidence": 0.846
+        },
+        {
+          "text": "waiting",
+          "start": 81.22,
+          "end": 81.88,
+          "confidence": 0.944
+        },
+        {
+          "text": "for",
+          "start": 81.88,
+          "end": 83.6,
+          "confidence": 0.987
+        },
+        {
+          "text": "you,",
+          "start": 83.6,
+          "end": 84.24,
+          "confidence": 0.998
+        },
+        {
+          "text": "with",
+          "start": 86.7,
+          "end": 87.12,
+          "confidence": 0.956
+        },
+        {
+          "text": "or",
+          "start": 87.12,
+          "end": 87.48,
+          "confidence": 0.999
+        },
+        {
+          "text": "without",
+          "start": 87.48,
+          "end": 88.1,
+          "confidence": 0.999
+        },
+        {
+          "text": "you,",
+          "start": 88.1,
+          "end": 88.82,
+          "confidence": 0.999
+        },
+        {
+          "text": "with",
+          "start": 91.04,
+          "end": 91.46,
+          "confidence": 0.982
+        },
+        {
+          "text": "or",
+          "start": 91.46,
+          "end": 91.96,
+          "confidence": 0.997
+        },
+        {
+          "text": "without",
+          "start": 91.96,
+          "end": 92.66,
+          "confidence": 0.98
+        },
+        {
+          "text": "you.",
+          "start": 114.73,
+          "end": 122.96,
+          "confidence": 0.928
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 6700,
+      "start": 132.27,
+      "end": 140.31,
+      "text": " My hands are tied, my body bruised, she got me with.",
+      "tokens": [
+        50364,
+        1222,
+        2377,
+        366,
+        9601,
+        11,
+        452,
+        1772,
+        25267,
+        2640,
+        11,
+        750,
+        658,
+        385,
+        365,
+        13,
+        50764
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.22301117209501045,
+      "compression_ratio": 1.3867924528301887,
+      "no_speech_prob": 0.6051956415176392,
+      "confidence": 0.847,
+      "words": [
+        {
+          "text": "My",
+          "start": 132.27,
+          "end": 132.53,
+          "confidence": 0.874
+        },
+        {
+          "text": "hands",
+          "start": 132.53,
+          "end": 132.83,
+          "confidence": 0.989
+        },
+        {
+          "text": "are",
+          "start": 132.83,
+          "end": 133.21,
+          "confidence": 0.974
+        },
+        {
+          "text": "tied,",
+          "start": 133.21,
+          "end": 133.95,
+          "confidence": 0.824
+        },
+        {
+          "text": "my",
+          "start": 136.57,
+          "end": 136.79,
+          "confidence": 0.482
+        },
+        {
+          "text": "body",
+          "start": 136.79,
+          "end": 137.39,
+          "confidence": 0.997
+        },
+        {
+          "text": "bruised,",
+          "start": 137.39,
+          "end": 138.39,
+          "confidence": 0.849
+        },
+        {
+          "text": "she",
+          "start": 138.51,
+          "end": 138.73,
+          "confidence": 0.976
+        },
+        {
+          "text": "got",
+          "start": 138.73,
+          "end": 139.15,
+          "confidence": 0.981
+        },
+        {
+          "text": "me",
+          "start": 139.15,
+          "end": 139.65,
+          "confidence": 0.995
+        },
+        {
+          "text": "with.",
+          "start": 139.65,
+          "end": 140.31,
+          "confidence": 0.592
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 6700,
+      "start": 141.03,
+      "end": 147.47,
+      "text": " Nothing went and nothing left to lose.",
+      "tokens": [
+        50764,
+        6693,
+        1437,
+        293,
+        1825,
+        1411,
+        281,
+        3624,
+        13,
+        51114
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.22301117209501045,
+      "compression_ratio": 1.3867924528301887,
+      "no_speech_prob": 0.6051956415176392,
+      "confidence": 0.838,
+      "words": [
+        {
+          "text": "Nothing",
+          "start": 141.03,
+          "end": 141.67,
+          "confidence": 0.859
+        },
+        {
+          "text": "went",
+          "start": 141.67,
+          "end": 142.49,
+          "confidence": 0.535
+        },
+        {
+          "text": "and",
+          "start": 142.49,
+          "end": 143.61,
+          "confidence": 0.721
+        },
+        {
+          "text": "nothing",
+          "start": 143.61,
+          "end": 145.01,
+          "confidence": 0.895
+        },
+        {
+          "text": "left",
+          "start": 145.01,
+          "end": 145.99,
+          "confidence": 0.996
+        },
+        {
+          "text": "to",
+          "start": 145.99,
+          "end": 146.53,
+          "confidence": 0.998
+        },
+        {
+          "text": "lose.",
+          "start": 146.53,
+          "end": 147.47,
+          "confidence": 0.98
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seek": 6700,
+      "start": 148.11,
+      "end": 155.75,
+      "text": " And you give yourself away, and you give yourself away.",
+      "tokens": [
+        51114,
+        400,
+        291,
+        976,
+        1803,
+        1314,
+        11,
+        293,
+        291,
+        976,
+        1803,
+        1314,
+        13,
+        51514
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.22301117209501045,
+      "compression_ratio": 1.3867924528301887,
+      "no_speech_prob": 0.6051956415176392,
+      "confidence": 0.891,
+      "words": [
+        {
+          "text": "And",
+          "start": 148.11,
+          "end": 148.39,
+          "confidence": 0.744
+        },
+        {
+          "text": "you",
+          "start": 148.39,
+          "end": 148.67,
+          "confidence": 0.991
+        },
+        {
+          "text": "give",
+          "start": 148.67,
+          "end": 149.35,
+          "confidence": 0.512
+        },
+        {
+          "text": "yourself",
+          "start": 149.35,
+          "end": 150.37,
+          "confidence": 0.987
+        },
+        {
+          "text": "away,",
+          "start": 150.37,
+          "end": 151.23,
+          "confidence": 0.94
+        },
+        {
+          "text": "and",
+          "start": 152.37,
+          "end": 152.75,
+          "confidence": 0.936
+        },
+        {
+          "text": "you",
+          "start": 152.75,
+          "end": 152.99,
+          "confidence": 0.992
+        },
+        {
+          "text": "give",
+          "start": 152.99,
+          "end": 153.69,
+          "confidence": 0.997
+        },
+        {
+          "text": "yourself",
+          "start": 153.69,
+          "end": 154.69,
+          "confidence": 0.991
+        },
+        {
+          "text": "away.",
+          "start": 154.69,
+          "end": 155.75,
+          "confidence": 0.986
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "seek": 9000,
+      "start": 156.85,
+      "end": 201.89,
+      "text": " And you give yourself away, with or without you.",
+      "tokens": [
+        50364,
+        400,
+        291,
+        976,
+        1803,
+        1314,
+        11,
+        365,
+        420,
+        1553,
+        291,
+        13,
+        50914
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.16171586513519287,
+      "compression_ratio": 1.0,
+      "no_speech_prob": 0.5891926884651184,
+      "confidence": 0.936,
+      "words": [
+        {
+          "text": "And",
+          "start": 156.85,
+          "end": 157.11,
+          "confidence": 0.966
+        },
+        {
+          "text": "you",
+          "start": 157.11,
+          "end": 157.35,
+          "confidence": 0.997
+        },
+        {
+          "text": "give",
+          "start": 157.35,
+          "end": 157.73,
+          "confidence": 0.992
+        },
+        {
+          "text": "yourself",
+          "start": 161.55,
+          "end": 163.23,
+          "confidence": 0.713
+        },
+        {
+          "text": "away,",
+          "start": 163.23,
+          "end": 164.41,
+          "confidence": 0.993
+        },
+        {
+          "text": "with",
+          "start": 165.27,
+          "end": 165.53,
+          "confidence": 0.823
+        },
+        {
+          "text": "or",
+          "start": 165.53,
+          "end": 165.93,
+          "confidence": 0.997
+        },
+        {
+          "text": "without",
+          "start": 165.93,
+          "end": 166.35,
+          "confidence": 0.999
+        },
+        {
+          "text": "you.",
+          "start": 200.56,
+          "end": 201.89,
+          "confidence": 0.999
+        }
+      ]
+    }
+  ],
+  "language": "en",
+  "language_probs": {
+    "en": 0.7591688632965088,
+    "zh": 0.00843360461294651,
+    "de": 0.01480143703520298,
+    "es": 0.010252656415104866,
+    "ru": 0.005115239415317774,
+    "ko": 0.010913894511759281,
+    "fr": 0.009937213733792305,
+    "ja": 0.0021157553419470787,
+    "pt": 0.02087337151169777,
+    "tr": 0.0018965506460517645,
+    "pl": 0.00750100240111351,
+    "ca": 0.0013660341501235962,
+    "nl": 0.00631647789850831,
+    "ar": 0.0018817916279658675,
+    "sv": 0.008701317012310028,
+    "it": 0.005487850867211819,
+    "id": 0.0004986251005902886,
+    "hi": 0.00032446158002130687,
+    "fi": 0.0006303212139755487,
+    "vi": 0.001852617016993463,
+    "he": 0.0001764066837495193,
+    "uk": 0.0003676631022244692,
+    "el": 0.004805322736501694,
+    "ms": 0.001253543421626091,
+    "cs": 0.0007485249661840498,
+    "ro": 0.0005433708429336548,
+    "da": 0.0026537515223026276,
+    "hu": 0.0003219365607947111,
+    "ta": 0.00011039248056476936,
+    "no": 0.0032261412125080824,
+    "th": 0.00020304284407757223,
+    "ur": 0.0002507244353182614,
+    "hr": 0.0002507244353182614,
+    "bg": 0.00014285848010331392,
+    "lt": 3.041632407985162e-05,
+    "la": 0.02853051759302616,
+    "mi": 0.0028249036986380816,
+    "ml": 9.591064736014232e-05,
+    "cy": 0.042496077716350555,
+    "sk": 7.016972813289613e-05,
+    "te": 3.162797656841576e-05,
+    "fa": 3.8449841667898e-05,
+    "lv": 0.00018200642080046237,
+    "bn": 3.755914804060012e-05,
+    "sr": 2.3321006665355526e-05,
+    "az": 9.991135812015273e-06,
+    "sl": 0.0003823091392405331,
+    "kn": 1.8481742927178857e-06,
+    "et": 2.2427593648899347e-05,
+    "mk": 8.446309038845357e-06,
+    "br": 0.0022522094659507275,
+    "eu": 6.643536471528932e-05,
+    "is": 0.001609581639058888,
+    "hy": 5.285564839141443e-06,
+    "ne": 1.781112587195821e-05,
+    "mn": 2.190805935242679e-05,
+    "bs": 9.223636880051345e-05,
+    "kk": 1.4881752576911822e-05,
+    "sq": 0.00010953339369734749,
+    "sw": 8.398217323701829e-05,
+    "gl": 0.0014204507460817695,
+    "mr": 1.8772788052956457e-06,
+    "pa": 2.382390903221676e-06,
+    "si": 0.0001221933343913406,
+    "km": 0.0024162682238966227,
+    "sn": 0.0006303212139755487,
+    "yo": 0.0002487732854206115,
+    "so": 8.01124258487107e-07,
+    "af": 0.00016964864335022867,
+    "oc": 0.0002648178196977824,
+    "ka": 1.5994614841474686e-06,
+    "be": 3.967036900576204e-05,
+    "tg": 5.66889077902033e-08,
+    "sd": 1.6929236153373495e-05,
+    "gu": 2.3773873181198724e-07,
+    "am": 4.0047711991064716e-07,
+    "yi": 0.0008285415824502707,
+    "lo": 6.97493715051678e-06,
+    "uz": 1.580119368682631e-09,
+    "fo": 0.00029774263384751976,
+    "ht": 0.00015326477296184748,
+    "ps": 3.466358066361863e-06,
+    "tk": 1.2075658695209768e-08,
+    "nn": 0.005360725335776806,
+    "mt": 1.3871317605662625e-05,
+    "sa": 0.00017779025074560195,
+    "lb": 1.662928639234451e-07,
+    "my": 0.00013007412781007588,
+    "bo": 4.6379358536796644e-05,
+    "tl": 0.0005875239730812609,
+    "mg": 7.68325580935425e-09,
+    "as": 2.118942120432621e-06,
+    "tt": 1.3180566327264387e-07,
+    "haw": 0.01066107489168644,
+    "ln": 2.5459676180616952e-06,
+    "ha": 1.2008043448474837e-08,
+    "ba": 1.701278762311631e-08,
+    "jw": 0.004207680933177471,
+    "su": 1.4561089756170986e-07
+  },
+  "speech_activity": [
+    {
+      "start": 27.918,
+      "end": 41.234
+    },
+    {
+      "start": 45.326,
+      "end": 59.794
+    },
+    {
+      "start": 60.27,
+      "end": 64.082
+    },
+    {
+      "start": 64.654,
+      "end": 68.914
+    },
+    {
+      "start": 71.438,
+      "end": 85.042
+    },
+    {
+      "start": 86.702,
+      "end": 89.778
+    },
+    {
+      "start": 90.478,
+      "end": 92.722
+    },
+    {
+      "start": 114.734,
+      "end": 122.962
+    },
+    {
+      "start": 127.598,
+      "end": 131.57
+    },
+    {
+      "start": 131.886,
+      "end": 135.154
+    },
+    {
+      "start": 136.494,
+      "end": 157.842
+    },
+    {
+      "start": 158.83,
+      "end": 160.018
+    },
+    {
+      "start": 161.55,
+      "end": 167.058
+    },
+    {
+      "start": 200.558,
+      "end": 202.482
+    },
+    {
+      "start": 215.278,
+      "end": 216.626
+    }
+  ]
+}

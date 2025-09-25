@@ -1,0 +1,1866 @@
+{
+  "text": " Life will come our way It has only just begun The world will die a lot The fray will fall below Time will take our place We will turn it back to one The code for the code The long and long road Look for the light that leads me Tide of a temple A world down Temple of a world down Of salient Drive the crowd away We will fall from last to none The dark will fall with a tongue The world will carry on Look for the light that leads me Tide of feeling lost Temple of a world down Temple of a world down Of stint, red, tidied Temple of a world down Temple of a world down Of salient Tide of a world down Temple of a world down Tide of wasted red, tidied Temple of a world down Temple of a world down The value of sunlight Will fail, will fail",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 31.99,
+      "end": 34.67,
+      "text": " Life will come our way",
+      "tokens": [
+        50364,
+        7720,
+        486,
+        808,
+        527,
+        636,
+        50528
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.38205074256574606,
+      "compression_ratio": 1.5586206896551724,
+      "no_speech_prob": 0.37385520339012146,
+      "confidence": 0.88,
+      "words": [
+        {
+          "text": "Life",
+          "start": 31.99,
+          "end": 32.43,
+          "confidence": 0.676
+        },
+        {
+          "text": "will",
+          "start": 32.43,
+          "end": 32.85,
+          "confidence": 0.989
+        },
+        {
+          "text": "come",
+          "start": 32.85,
+          "end": 33.41,
+          "confidence": 0.99
+        },
+        {
+          "text": "our",
+          "start": 33.41,
+          "end": 33.99,
+          "confidence": 0.836
+        },
+        {
+          "text": "way",
+          "start": 33.99,
+          "end": 34.67,
+          "confidence": 0.956
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 35.31,
+      "end": 37.77,
+      "text": " It has only just begun",
+      "tokens": [
+        50528,
+        467,
+        575,
+        787,
+        445,
+        16009,
+        50694
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.38205074256574606,
+      "compression_ratio": 1.5586206896551724,
+      "no_speech_prob": 0.37385520339012146,
+      "confidence": 0.972,
+      "words": [
+        {
+          "text": "It",
+          "start": 35.31,
+          "end": 35.51,
+          "confidence": 0.886
+        },
+        {
+          "text": "has",
+          "start": 35.51,
+          "end": 35.77,
+          "confidence": 0.99
+        },
+        {
+          "text": "only",
+          "start": 35.77,
+          "end": 36.51,
+          "confidence": 0.995
+        },
+        {
+          "text": "just",
+          "start": 36.51,
+          "end": 37.05,
+          "confidence": 0.996
+        },
+        {
+          "text": "begun",
+          "start": 37.05,
+          "end": 37.77,
+          "confidence": 0.999
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 38.75,
+      "end": 41.01,
+      "text": " The world will die a lot",
+      "tokens": [
+        50694,
+        440,
+        1002,
+        486,
+        978,
+        257,
+        688,
+        50836
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.38205074256574606,
+      "compression_ratio": 1.5586206896551724,
+      "no_speech_prob": 0.37385520339012146,
+      "confidence": 0.673,
+      "words": [
+        {
+          "text": "The",
+          "start": 38.75,
+          "end": 38.93,
+          "confidence": 0.987
+        },
+        {
+          "text": "world",
+          "start": 38.93,
+          "end": 39.41,
+          "confidence": 0.977
+        },
+        {
+          "text": "will",
+          "start": 39.41,
+          "end": 39.67,
+          "confidence": 0.579
+        },
+        {
+          "text": "die",
+          "start": 39.67,
+          "end": 40.27,
+          "confidence": 0.99
+        },
+        {
+          "text": "a",
+          "start": 40.27,
+          "end": 40.57,
+          "confidence": 0.36
+        },
+        {
+          "text": "lot",
+          "start": 40.57,
+          "end": 41.01,
+          "confidence": 0.468
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 41.84,
+      "end": 43.9,
+      "text": " The fray will fall below",
+      "tokens": [
+        50836,
+        440,
+        431,
+        320,
+        486,
+        2100,
+        2507,
+        50972
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.38205074256574606,
+      "compression_ratio": 1.5586206896551724,
+      "no_speech_prob": 0.37385520339012146,
+      "confidence": 0.781,
+      "words": [
+        {
+          "text": "The",
+          "start": 41.84,
+          "end": 42.02,
+          "confidence": 0.964
+        },
+        {
+          "text": "fray",
+          "start": 42.02,
+          "end": 42.56,
+          "confidence": 0.504
+        },
+        {
+          "text": "will",
+          "start": 42.56,
+          "end": 42.76,
+          "confidence": 0.986
+        },
+        {
+          "text": "fall",
+          "start": 42.76,
+          "end": 43.2,
+          "confidence": 0.992
+        },
+        {
+          "text": "below",
+          "start": 43.2,
+          "end": 43.9,
+          "confidence": 0.947
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 44.58,
+      "end": 47.12,
+      "text": " Time will take our place",
+      "tokens": [
+        50972,
+        6161,
+        486,
+        747,
+        527,
+        1081,
+        51126
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.38205074256574606,
+      "compression_ratio": 1.5586206896551724,
+      "no_speech_prob": 0.37385520339012146,
+      "confidence": 0.993,
+      "words": [
+        {
+          "text": "Time",
+          "start": 44.58,
+          "end": 44.84,
+          "confidence": 0.984
+        },
+        {
+          "text": "will",
+          "start": 44.84,
+          "end": 45.24,
+          "confidence": 0.997
+        },
+        {
+          "text": "take",
+          "start": 45.24,
+          "end": 45.74,
+          "confidence": 0.999
+        },
+        {
+          "text": "our",
+          "start": 45.74,
+          "end": 46.26,
+          "confidence": 0.983
+        },
+        {
+          "text": "place",
+          "start": 46.26,
+          "end": 47.12,
+          "confidence": 0.999
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 47.64,
+      "end": 50.28,
+      "text": " We will turn it back to one",
+      "tokens": [
+        51126,
+        492,
+        486,
+        1261,
+        309,
+        646,
+        281,
+        472,
+        51300
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.38205074256574606,
+      "compression_ratio": 1.5586206896551724,
+      "no_speech_prob": 0.37385520339012146,
+      "confidence": 0.977,
+      "words": [
+        {
+          "text": "We",
+          "start": 47.64,
+          "end": 47.92,
+          "confidence": 0.976
+        },
+        {
+          "text": "will",
+          "start": 47.92,
+          "end": 48.18,
+          "confidence": 0.946
+        },
+        {
+          "text": "turn",
+          "start": 48.18,
+          "end": 48.7,
+          "confidence": 0.995
+        },
+        {
+          "text": "it",
+          "start": 48.7,
+          "end": 49.04,
+          "confidence": 0.987
+        },
+        {
+          "text": "back",
+          "start": 49.04,
+          "end": 49.44,
+          "confidence": 0.999
+        },
+        {
+          "text": "to",
+          "start": 49.44,
+          "end": 49.86,
+          "confidence": 0.99
+        },
+        {
+          "text": "one",
+          "start": 49.86,
+          "end": 50.28,
+          "confidence": 0.944
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 0,
+      "start": 51.18,
+      "end": 53.48,
+      "text": " The code for the code",
+      "tokens": [
+        51300,
+        440,
+        3089,
+        337,
+        264,
+        3089,
+        51456
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.38205074256574606,
+      "compression_ratio": 1.5586206896551724,
+      "no_speech_prob": 0.37385520339012146,
+      "confidence": 0.819,
+      "words": [
+        {
+          "text": "The",
+          "start": 51.18,
+          "end": 51.48,
+          "confidence": 0.766
+        },
+        {
+          "text": "code",
+          "start": 51.48,
+          "end": 51.82,
+          "confidence": 0.615
+        },
+        {
+          "text": "for",
+          "start": 51.82,
+          "end": 52.34,
+          "confidence": 0.794
+        },
+        {
+          "text": "the",
+          "start": 52.34,
+          "end": 52.86,
+          "confidence": 0.989
+        },
+        {
+          "text": "code",
+          "start": 52.86,
+          "end": 53.48,
+          "confidence": 0.993
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 0,
+      "start": 54.24,
+      "end": 56.46,
+      "text": " The long and long road",
+      "tokens": [
+        51456,
+        440,
+        938,
+        293,
+        938,
+        3060,
+        51622
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.38205074256574606,
+      "compression_ratio": 1.5586206896551724,
+      "no_speech_prob": 0.37385520339012146,
+      "confidence": 0.845,
+      "words": [
+        {
+          "text": "The",
+          "start": 54.24,
+          "end": 54.46,
+          "confidence": 0.966
+        },
+        {
+          "text": "long",
+          "start": 54.46,
+          "end": 55.0,
+          "confidence": 0.924
+        },
+        {
+          "text": "and",
+          "start": 55.0,
+          "end": 55.3,
+          "confidence": 0.769
+        },
+        {
+          "text": "long",
+          "start": 55.3,
+          "end": 55.68,
+          "confidence": 0.63
+        },
+        {
+          "text": "road",
+          "start": 55.68,
+          "end": 56.46,
+          "confidence": 0.994
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seek": 0,
+      "start": 57.56,
+      "end": 61.6,
+      "text": " Look for the light that leads me",
+      "tokens": [
+        51622,
+        2053,
+        337,
+        264,
+        1442,
+        300,
+        6689,
+        385,
+        51850
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.38205074256574606,
+      "compression_ratio": 1.5586206896551724,
+      "no_speech_prob": 0.37385520339012146,
+      "confidence": 0.887,
+      "words": [
+        {
+          "text": "Look",
+          "start": 57.56,
+          "end": 57.98,
+          "confidence": 0.836
+        },
+        {
+          "text": "for",
+          "start": 57.98,
+          "end": 58.4,
+          "confidence": 0.995
+        },
+        {
+          "text": "the",
+          "start": 58.4,
+          "end": 58.72,
+          "confidence": 0.994
+        },
+        {
+          "text": "light",
+          "start": 58.72,
+          "end": 59.3,
+          "confidence": 0.998
+        },
+        {
+          "text": "that",
+          "start": 59.3,
+          "end": 60.04,
+          "confidence": 0.537
+        },
+        {
+          "text": "leads",
+          "start": 60.04,
+          "end": 60.8,
+          "confidence": 0.978
+        },
+        {
+          "text": "me",
+          "start": 60.8,
+          "end": 61.6,
+          "confidence": 0.994
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "seek": 2972,
+      "start": 63.18,
+      "end": 69.77,
+      "text": " Tide of a temple",
+      "tokens": [
+        50412,
+        314,
+        482,
+        295,
+        257,
+        10184,
+        50530
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.7849881356222588,
+      "compression_ratio": 1.4453781512605042,
+      "no_speech_prob": 0.014116782695055008,
+      "confidence": 0.283,
+      "words": [
+        {
+          "text": "Tide",
+          "start": 63.18,
+          "end": 63.62,
+          "confidence": 0.604
+        },
+        {
+          "text": "of",
+          "start": 63.62,
+          "end": 63.9,
+          "confidence": 0.699
+        },
+        {
+          "text": "a",
+          "start": 68.91,
+          "end": 69.07,
+          "confidence": 0.052
+        },
+        {
+          "text": "temple",
+          "start": 69.07,
+          "end": 69.77,
+          "confidence": 0.136
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "seek": 2972,
+      "start": 70.15,
+      "end": 71.73,
+      "text": " A world down",
+      "tokens": [
+        50530,
+        316,
+        1002,
+        760,
+        50638
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.7849881356222588,
+      "compression_ratio": 1.4453781512605042,
+      "no_speech_prob": 0.014116782695055008,
+      "confidence": 0.548,
+      "words": [
+        {
+          "text": "A",
+          "start": 70.15,
+          "end": 70.65,
+          "confidence": 0.205
+        },
+        {
+          "text": "world",
+          "start": 70.65,
+          "end": 71.03,
+          "confidence": 0.865
+        },
+        {
+          "text": "down",
+          "start": 71.03,
+          "end": 71.73,
+          "confidence": 0.927
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "seek": 2972,
+      "start": 72.37,
+      "end": 75.23,
+      "text": " Temple of a world down",
+      "tokens": [
+        50638,
+        17642,
+        295,
+        257,
+        1002,
+        760,
+        50842
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.7849881356222588,
+      "compression_ratio": 1.4453781512605042,
+      "no_speech_prob": 0.014116782695055008,
+      "confidence": 0.445,
+      "words": [
+        {
+          "text": "Temple",
+          "start": 72.37,
+          "end": 72.91,
+          "confidence": 0.481
+        },
+        {
+          "text": "of",
+          "start": 72.91,
+          "end": 73.69,
+          "confidence": 0.27
+        },
+        {
+          "text": "a",
+          "start": 73.69,
+          "end": 73.71,
+          "confidence": 0.16
+        },
+        {
+          "text": "world",
+          "start": 73.71,
+          "end": 74.19,
+          "confidence": 0.91
+        },
+        {
+          "text": "down",
+          "start": 74.19,
+          "end": 75.23,
+          "confidence": 0.922
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "seek": 2972,
+      "start": 77.7,
+      "end": 79.68,
+      "text": " Of salient",
+      "tokens": [
+        50842,
+        2720,
+        1845,
+        1196,
+        50992
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.7849881356222588,
+      "compression_ratio": 1.4453781512605042,
+      "no_speech_prob": 0.014116782695055008,
+      "confidence": 0.24,
+      "words": [
+        {
+          "text": "Of",
+          "start": 77.7,
+          "end": 77.86,
+          "confidence": 0.538
+        },
+        {
+          "text": "salient",
+          "start": 77.86,
+          "end": 79.68,
+          "confidence": 0.16
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "seek": 2972,
+      "start": 87.73,
+      "end": 90.07,
+      "text": " Drive the crowd away",
+      "tokens": [
+        50992,
+        15622,
+        264,
+        6919,
+        1314,
+        51150
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.7849881356222588,
+      "compression_ratio": 1.4453781512605042,
+      "no_speech_prob": 0.014116782695055008,
+      "confidence": 0.783,
+      "words": [
+        {
+          "text": "Drive",
+          "start": 87.73,
+          "end": 88.15,
+          "confidence": 0.806
+        },
+        {
+          "text": "the",
+          "start": 88.15,
+          "end": 88.55,
+          "confidence": 0.973
+        },
+        {
+          "text": "crowd",
+          "start": 88.55,
+          "end": 89.15,
+          "confidence": 0.516
+        },
+        {
+          "text": "away",
+          "start": 89.15,
+          "end": 90.07,
+          "confidence": 0.93
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "seek": 2972,
+      "start": 90.99,
+      "end": 93.69,
+      "text": " We will fall from last to none",
+      "tokens": [
+        51150,
+        492,
+        486,
+        2100,
+        490,
+        1036,
+        281,
+        6022,
+        51322
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.7849881356222588,
+      "compression_ratio": 1.4453781512605042,
+      "no_speech_prob": 0.014116782695055008,
+      "confidence": 0.902,
+      "words": [
+        {
+          "text": "We",
+          "start": 90.99,
+          "end": 91.21,
+          "confidence": 0.977
+        },
+        {
+          "text": "will",
+          "start": 91.21,
+          "end": 91.47,
+          "confidence": 0.988
+        },
+        {
+          "text": "fall",
+          "start": 91.47,
+          "end": 91.93,
+          "confidence": 0.542
+        },
+        {
+          "text": "from",
+          "start": 91.93,
+          "end": 92.39,
+          "confidence": 0.991
+        },
+        {
+          "text": "last",
+          "start": 92.39,
+          "end": 92.81,
+          "confidence": 0.964
+        },
+        {
+          "text": "to",
+          "start": 92.81,
+          "end": 93.19,
+          "confidence": 0.981
+        },
+        {
+          "text": "none",
+          "start": 93.19,
+          "end": 93.69,
+          "confidence": 0.988
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "seek": 2972,
+      "start": 94.51,
+      "end": 96.87,
+      "text": " The dark will fall with a tongue",
+      "tokens": [
+        51322,
+        440,
+        2877,
+        486,
+        2100,
+        365,
+        257,
+        10601,
+        51478
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.7849881356222588,
+      "compression_ratio": 1.4453781512605042,
+      "no_speech_prob": 0.014116782695055008,
+      "confidence": 0.484,
+      "words": [
+        {
+          "text": "The",
+          "start": 94.51,
+          "end": 94.69,
+          "confidence": 0.967
+        },
+        {
+          "text": "dark",
+          "start": 94.69,
+          "end": 95.19,
+          "confidence": 0.154
+        },
+        {
+          "text": "will",
+          "start": 95.19,
+          "end": 95.53,
+          "confidence": 0.576
+        },
+        {
+          "text": "fall",
+          "start": 95.53,
+          "end": 95.89,
+          "confidence": 0.9
+        },
+        {
+          "text": "with",
+          "start": 95.89,
+          "end": 96.17,
+          "confidence": 0.344
+        },
+        {
+          "text": "a",
+          "start": 96.17,
+          "end": 96.27,
+          "confidence": 0.59
+        },
+        {
+          "text": "tongue",
+          "start": 96.27,
+          "end": 96.87,
+          "confidence": 0.4
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "seek": 2972,
+      "start": 97.59,
+      "end": 99.97,
+      "text": " The world will carry on",
+      "tokens": [
+        51478,
+        440,
+        1002,
+        486,
+        3985,
+        322,
+        51642
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.7849881356222588,
+      "compression_ratio": 1.4453781512605042,
+      "no_speech_prob": 0.014116782695055008,
+      "confidence": 0.8,
+      "words": [
+        {
+          "text": "The",
+          "start": 97.59,
+          "end": 97.81,
+          "confidence": 0.575
+        },
+        {
+          "text": "world",
+          "start": 97.81,
+          "end": 98.31,
+          "confidence": 0.658
+        },
+        {
+          "text": "will",
+          "start": 98.31,
+          "end": 98.97,
+          "confidence": 0.875
+        },
+        {
+          "text": "carry",
+          "start": 98.97,
+          "end": 99.27,
+          "confidence": 0.988
+        },
+        {
+          "text": "on",
+          "start": 99.27,
+          "end": 99.97,
+          "confidence": 0.998
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "seek": 5528,
+      "start": 100.93,
+      "end": 105.01,
+      "text": " Look for the light that leads me",
+      "tokens": [
+        50372,
+        2053,
+        337,
+        264,
+        1442,
+        300,
+        6689,
+        385,
+        50594
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.504659496369909,
+      "compression_ratio": 1.8541666666666667,
+      "no_speech_prob": 0.27088022232055664,
+      "confidence": 0.972,
+      "words": [
+        {
+          "text": "Look",
+          "start": 100.93,
+          "end": 101.31,
+          "confidence": 0.907
+        },
+        {
+          "text": "for",
+          "start": 101.31,
+          "end": 101.81,
+          "confidence": 0.998
+        },
+        {
+          "text": "the",
+          "start": 101.81,
+          "end": 102.07,
+          "confidence": 0.99
+        },
+        {
+          "text": "light",
+          "start": 102.07,
+          "end": 102.65,
+          "confidence": 0.99
+        },
+        {
+          "text": "that",
+          "start": 102.65,
+          "end": 103.35,
+          "confidence": 0.941
+        },
+        {
+          "text": "leads",
+          "start": 103.35,
+          "end": 104.21,
+          "confidence": 0.985
+        },
+        {
+          "text": "me",
+          "start": 104.21,
+          "end": 105.01,
+          "confidence": 0.998
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "seek": 5528,
+      "start": 105.39,
+      "end": 108.93,
+      "text": " Tide of feeling lost",
+      "tokens": [
+        50594,
+        314,
+        482,
+        295,
+        2633,
+        2731,
+        50798
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.504659496369909,
+      "compression_ratio": 1.8541666666666667,
+      "no_speech_prob": 0.27088022232055664,
+      "confidence": 0.869,
+      "words": [
+        {
+          "text": "Tide",
+          "start": 105.39,
+          "end": 106.91,
+          "confidence": 0.806
+        },
+        {
+          "text": "of",
+          "start": 106.91,
+          "end": 107.19,
+          "confidence": 0.994
+        },
+        {
+          "text": "feeling",
+          "start": 107.19,
+          "end": 107.97,
+          "confidence": 0.913
+        },
+        {
+          "text": "lost",
+          "start": 107.97,
+          "end": 108.93,
+          "confidence": 0.838
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "seek": 5528,
+      "start": 112.78,
+      "end": 115.2,
+      "text": " Temple of a world down",
+      "tokens": [
+        50798,
+        17642,
+        295,
+        257,
+        1002,
+        760,
+        50976
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.504659496369909,
+      "compression_ratio": 1.8541666666666667,
+      "no_speech_prob": 0.27088022232055664,
+      "confidence": 0.901,
+      "words": [
+        {
+          "text": "Temple",
+          "start": 112.78,
+          "end": 113.12,
+          "confidence": 0.706
+        },
+        {
+          "text": "of",
+          "start": 113.12,
+          "end": 114.06,
+          "confidence": 0.925
+        },
+        {
+          "text": "a",
+          "start": 114.06,
+          "end": 114.5,
+          "confidence": 0.923
+        },
+        {
+          "text": "world",
+          "start": 114.5,
+          "end": 114.52,
+          "confidence": 0.988
+        },
+        {
+          "text": "down",
+          "start": 114.52,
+          "end": 115.2,
+          "confidence": 0.998
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "seek": 5528,
+      "start": 115.8,
+      "end": 118.36,
+      "text": " Temple of a world down",
+      "tokens": [
+        50976,
+        17642,
+        295,
+        257,
+        1002,
+        760,
+        51138
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.504659496369909,
+      "compression_ratio": 1.8541666666666667,
+      "no_speech_prob": 0.27088022232055664,
+      "confidence": 0.994,
+      "words": [
+        {
+          "text": "Temple",
+          "start": 115.8,
+          "end": 116.24,
+          "confidence": 0.998
+        },
+        {
+          "text": "of",
+          "start": 116.24,
+          "end": 117.24,
+          "confidence": 0.986
+        },
+        {
+          "text": "a",
+          "start": 117.24,
+          "end": 117.64,
+          "confidence": 0.995
+        },
+        {
+          "text": "world",
+          "start": 117.64,
+          "end": 117.66,
+          "confidence": 0.995
+        },
+        {
+          "text": "down",
+          "start": 117.66,
+          "end": 118.36,
+          "confidence": 0.997
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "seek": 5528,
+      "start": 119.02,
+      "end": 122.71,
+      "text": " Of stint, red, tidied",
+      "tokens": [
+        51138,
+        2720,
+        342,
+        686,
+        11,
+        2182,
+        11,
+        9422,
+        1091,
+        51304
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.504659496369909,
+      "compression_ratio": 1.8541666666666667,
+      "no_speech_prob": 0.27088022232055664,
+      "confidence": 0.303,
+      "words": [
+        {
+          "text": "Of",
+          "start": 119.02,
+          "end": 119.34,
+          "confidence": 0.499
+        },
+        {
+          "text": "stint,",
+          "start": 120.08,
+          "end": 120.69,
+          "confidence": 0.238
+        },
+        {
+          "text": "red,",
+          "start": 120.79,
+          "end": 121.37,
+          "confidence": 0.363
+        },
+        {
+          "text": "tidied",
+          "start": 121.59,
+          "end": 122.71,
+          "confidence": 0.273
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "seek": 5528,
+      "start": 125.22,
+      "end": 127.56,
+      "text": " Temple of a world down",
+      "tokens": [
+        51304,
+        17642,
+        295,
+        257,
+        1002,
+        760,
+        51466
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.504659496369909,
+      "compression_ratio": 1.8541666666666667,
+      "no_speech_prob": 0.27088022232055664,
+      "confidence": 0.996,
+      "words": [
+        {
+          "text": "Temple",
+          "start": 125.22,
+          "end": 125.52,
+          "confidence": 0.998
+        },
+        {
+          "text": "of",
+          "start": 125.52,
+          "end": 126.34,
+          "confidence": 0.991
+        },
+        {
+          "text": "a",
+          "start": 126.34,
+          "end": 126.88,
+          "confidence": 0.995
+        },
+        {
+          "text": "world",
+          "start": 126.88,
+          "end": 126.9,
+          "confidence": 0.998
+        },
+        {
+          "text": "down",
+          "start": 126.9,
+          "end": 127.56,
+          "confidence": 0.998
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "seek": 5528,
+      "start": 128.16,
+      "end": 131.02,
+      "text": " Temple of a world down",
+      "tokens": [
+        51466,
+        17642,
+        295,
+        257,
+        1002,
+        760,
+        51664
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.504659496369909,
+      "compression_ratio": 1.8541666666666667,
+      "no_speech_prob": 0.27088022232055664,
+      "confidence": 0.996,
+      "words": [
+        {
+          "text": "Temple",
+          "start": 128.16,
+          "end": 128.64,
+          "confidence": 0.999
+        },
+        {
+          "text": "of",
+          "start": 128.64,
+          "end": 129.52,
+          "confidence": 0.992
+        },
+        {
+          "text": "a",
+          "start": 129.52,
+          "end": 129.98,
+          "confidence": 0.997
+        },
+        {
+          "text": "world",
+          "start": 129.98,
+          "end": 130.0,
+          "confidence": 0.997
+        },
+        {
+          "text": "down",
+          "start": 130.0,
+          "end": 131.02,
+          "confidence": 0.995
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "seek": 5528,
+      "start": 133.45,
+      "end": 135.37,
+      "text": " Of salient",
+      "tokens": [
+        51664,
+        2720,
+        1845,
+        1196,
+        51802
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.504659496369909,
+      "compression_ratio": 1.8541666666666667,
+      "no_speech_prob": 0.27088022232055664,
+      "confidence": 0.964,
+      "words": [
+        {
+          "text": "Of",
+          "start": 133.45,
+          "end": 133.57,
+          "confidence": 0.925
+        },
+        {
+          "text": "salient",
+          "start": 133.57,
+          "end": 135.37,
+          "confidence": 0.985
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "seek": 8404,
+      "start": 156.05,
+      "end": 161.37,
+      "text": " Tide of a world down",
+      "tokens": [
+        50364,
+        314,
+        482,
+        295,
+        257,
+        1002,
+        760,
+        50580
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1790023634168837,
+      "compression_ratio": 5.142857142857143,
+      "no_speech_prob": 0.07750064879655838,
+      "confidence": 0.641,
+      "words": [
+        {
+          "text": "Tide",
+          "start": 156.05,
+          "end": 156.59,
+          "confidence": 0.899
+        },
+        {
+          "text": "of",
+          "start": 156.59,
+          "end": 156.83,
+          "confidence": 0.991
+        },
+        {
+          "text": "a",
+          "start": 158.7,
+          "end": 158.81,
+          "confidence": 0.459
+        },
+        {
+          "text": "world",
+          "start": 158.81,
+          "end": 160.31,
+          "confidence": 0.537
+        },
+        {
+          "text": "down",
+          "start": 160.31,
+          "end": 161.37,
+          "confidence": 0.351
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "seek": 8404,
+      "start": 162.25,
+      "end": 164.77,
+      "text": " Temple of a world down",
+      "tokens": [
+        50580,
+        17642,
+        295,
+        257,
+        1002,
+        760,
+        50742
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1790023634168837,
+      "compression_ratio": 5.142857142857143,
+      "no_speech_prob": 0.07750064879655838,
+      "confidence": 0.995,
+      "words": [
+        {
+          "text": "Temple",
+          "start": 162.25,
+          "end": 162.69,
+          "confidence": 0.995
+        },
+        {
+          "text": "of",
+          "start": 162.69,
+          "end": 163.61,
+          "confidence": 0.989
+        },
+        {
+          "text": "a",
+          "start": 163.61,
+          "end": 164.05,
+          "confidence": 0.998
+        },
+        {
+          "text": "world",
+          "start": 164.05,
+          "end": 164.07,
+          "confidence": 0.996
+        },
+        {
+          "text": "down",
+          "start": 164.07,
+          "end": 164.77,
+          "confidence": 0.997
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "seek": 8404,
+      "start": 165.41,
+      "end": 169.19,
+      "text": " Tide of wasted red, tidied",
+      "tokens": [
+        50742,
+        314,
+        482,
+        295,
+        19496,
+        2182,
+        11,
+        9422,
+        1091,
+        50954
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1790023634168837,
+      "compression_ratio": 5.142857142857143,
+      "no_speech_prob": 0.07750064879655838,
+      "confidence": 0.723,
+      "words": [
+        {
+          "text": "Tide",
+          "start": 165.41,
+          "end": 165.77,
+          "confidence": 0.972
+        },
+        {
+          "text": "of",
+          "start": 165.77,
+          "end": 165.99,
+          "confidence": 0.998
+        },
+        {
+          "text": "wasted",
+          "start": 165.99,
+          "end": 166.73,
+          "confidence": 0.337
+        },
+        {
+          "text": "red,",
+          "start": 166.73,
+          "end": 167.75,
+          "confidence": 0.344
+        },
+        {
+          "text": "tidied",
+          "start": 168.03,
+          "end": 169.19,
+          "confidence": 0.972
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "seek": 8404,
+      "start": 171.42,
+      "end": 174.0,
+      "text": " Temple of a world down",
+      "tokens": [
+        50954,
+        17642,
+        295,
+        257,
+        1002,
+        760,
+        51114
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1790023634168837,
+      "compression_ratio": 5.142857142857143,
+      "no_speech_prob": 0.07750064879655838,
+      "confidence": 0.996,
+      "words": [
+        {
+          "text": "Temple",
+          "start": 171.42,
+          "end": 172.0,
+          "confidence": 0.997
+        },
+        {
+          "text": "of",
+          "start": 172.0,
+          "end": 172.88,
+          "confidence": 0.992
+        },
+        {
+          "text": "a",
+          "start": 172.88,
+          "end": 173.34,
+          "confidence": 0.998
+        },
+        {
+          "text": "world",
+          "start": 173.34,
+          "end": 173.44,
+          "confidence": 0.997
+        },
+        {
+          "text": "down",
+          "start": 173.44,
+          "end": 174.0,
+          "confidence": 0.998
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "seek": 8404,
+      "start": 174.6,
+      "end": 176.69,
+      "text": " Temple of a world down",
+      "tokens": [
+        51114,
+        17642,
+        295,
+        257,
+        1002,
+        760,
+        51236
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1790023634168837,
+      "compression_ratio": 5.142857142857143,
+      "no_speech_prob": 0.07750064879655838,
+      "confidence": 0.991,
+      "words": [
+        {
+          "text": "Temple",
+          "start": 174.6,
+          "end": 175.08,
+          "confidence": 0.998
+        },
+        {
+          "text": "of",
+          "start": 175.08,
+          "end": 175.96,
+          "confidence": 0.994
+        },
+        {
+          "text": "a",
+          "start": 175.96,
+          "end": 176.46,
+          "confidence": 0.996
+        },
+        {
+          "text": "world",
+          "start": 176.46,
+          "end": 176.5,
+          "confidence": 0.98
+        },
+        {
+          "text": "down",
+          "start": 176.5,
+          "end": 176.69,
+          "confidence": 0.987
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "seek": 8404,
+      "start": 176.69,
+      "end": 179.16,
+      "text": " The value of sunlight",
+      "tokens": [
+        51236,
+        440,
+        2158,
+        295,
+        18379,
+        51352
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1790023634168837,
+      "compression_ratio": 5.142857142857143,
+      "no_speech_prob": 0.07750064879655838,
+      "confidence": 0.416,
+      "words": [
+        {
+          "text": "The",
+          "start": 176.69,
+          "end": 177.1,
+          "confidence": 0.132
+        },
+        {
+          "text": "value",
+          "start": 177.1,
+          "end": 177.72,
+          "confidence": 0.238
+        },
+        {
+          "text": "of",
+          "start": 177.72,
+          "end": 177.96,
+          "confidence": 0.974
+        },
+        {
+          "text": "sunlight",
+          "start": 177.96,
+          "end": 179.16,
+          "confidence": 0.979
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "seek": 8404,
+      "start": 182.71,
+      "end": 199.19,
+      "text": " Will fail, will fail",
+      "tokens": [
+        51352,
+        3099,
+        3061,
+        11,
+        486,
+        3061,
+        51536
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1790023634168837,
+      "compression_ratio": 5.142857142857143,
+      "no_speech_prob": 0.07750064879655838,
+      "confidence": 0.412,
+      "words": [
+        {
+          "text": "Will",
+          "start": 182.71,
+          "end": 182.89,
+          "confidence": 0.139
+        },
+        {
+          "text": "fail,",
+          "start": 182.89,
+          "end": 183.75,
+          "confidence": 0.515
+        },
+        {
+          "text": "will",
+          "start": 184.11,
+          "end": 184.59,
+          "confidence": 0.429
+        },
+        {
+          "text": "fail",
+          "start": 198.21,
+          "end": 199.19,
+          "confidence": 0.936
+        }
+      ]
+    }
+  ],
+  "language": "en",
+  "language_probs": {
+    "en": 0.9552145004272461,
+    "zh": 0.0022242858540266752,
+    "de": 0.004188104998320341,
+    "es": 0.0021898015402257442,
+    "ru": 0.003016579197719693,
+    "ko": 0.001413842081092298,
+    "fr": 0.005505160894244909,
+    "ja": 0.001787264016456902,
+    "pt": 0.005335784982889891,
+    "tr": 0.0006422667065635324,
+    "pl": 0.001801281818188727,
+    "ca": 0.00015136455476749688,
+    "nl": 0.0015407177852466702,
+    "ar": 0.0009418220142833889,
+    "sv": 0.0008916991064324975,
+    "it": 0.0019629253074526787,
+    "id": 0.00021179710165597498,
+    "hi": 8.557376713724807e-05,
+    "fi": 0.00018985368660651147,
+    "vi": 0.00041793094715103507,
+    "he": 8.359144703717902e-05,
+    "uk": 0.00011160923168063164,
+    "el": 0.0003033853427041322,
+    "ms": 0.0002594992402009666,
+    "cs": 0.00011515208461787552,
+    "ro": 0.00013048440450802445,
+    "da": 0.00026153450016863644,
+    "hu": 0.00015862869622651488,
+    "ta": 2.6717430955613963e-05,
+    "no": 0.00033845080179162323,
+    "th": 0.00021345823188312352,
+    "ur": 3.7093483115313575e-05,
+    "hr": 3.827095133601688e-05,
+    "bg": 1.6078833141364157e-05,
+    "lt": 5.099111149320379e-06,
+    "la": 0.0021224285010248423,
+    "mi": 0.0004448851977940649,
+    "ml": 2.1977160940878093e-05,
+    "cy": 0.0016400855965912342,
+    "sk": 1.0627460142131895e-05,
+    "te": 1.5104666999832261e-05,
+    "fa": 1.9546891053323634e-05,
+    "lv": 2.735101770667825e-05,
+    "bn": 7.535997156082885e-06,
+    "sr": 5.2200330173945986e-06,
+    "az": 1.8324039956496563e-06,
+    "sl": 4.725831968244165e-05,
+    "kn": 2.876721509892377e-07,
+    "et": 2.1256257696222747e-06,
+    "mk": 1.1114091194031062e-06,
+    "br": 0.0003130158002022654,
+    "eu": 2.097075412166305e-05,
+    "is": 3.948580342694186e-05,
+    "hy": 2.645384029165143e-06,
+    "ne": 3.759848823392531e-06,
+    "mn": 6.861604106234154e-06,
+    "bs": 2.3762977434671484e-05,
+    "kk": 1.8110557675754535e-06,
+    "sq": 7.419162557198433e-06,
+    "sw": 1.6332038285327144e-05,
+    "gl": 6.876044790260494e-05,
+    "mr": 3.376391646270349e-07,
+    "pa": 4.931848138767236e-07,
+    "si": 2.756553476501722e-05,
+    "km": 0.000612855248618871,
+    "sn": 0.00020528078312054276,
+    "yo": 3.827095133601688e-05,
+    "so": 9.194554451141812e-08,
+    "af": 7.535997156082885e-06,
+    "oc": 1.8651773643796332e-05,
+    "ka": 3.209215151400713e-07,
+    "be": 7.959600225149188e-06,
+    "tg": 7.459420636735103e-09,
+    "sd": 3.021123575308593e-06,
+    "gu": 6.64850929865679e-08,
+    "am": 6.57105161394611e-08,
+    "yi": 7.852690032450482e-05,
+    "lo": 2.3899053758213995e-06,
+    "uz": 1.4758164135209029e-10,
+    "fo": 1.242475991602987e-05,
+    "ht": 2.3578049876959994e-05,
+    "ps": 6.982242553021933e-07,
+    "tk": 1.5303451839088211e-09,
+    "nn": 0.0007221199339255691,
+    "mt": 1.4839259847576614e-06,
+    "sa": 2.2852629626868293e-05,
+    "lb": 1.1110773634470661e-08,
+    "my": 3.1235838832799345e-05,
+    "bo": 5.961464921711013e-06,
+    "tl": 0.00010004586511058733,
+    "mg": 6.196754775977809e-10,
+    "as": 6.533637701977568e-07,
+    "tt": 5.652704082592663e-09,
+    "haw": 0.0008376737241633236,
+    "ln": 3.947401694404107e-07,
+    "ha": 1.334790722395951e-09,
+    "ba": 2.1729362753575288e-09,
+    "jw": 0.0005536685930565,
+    "su": 1.0116474769006345e-08
+  },
+  "speech_activity": [
+    {
+      "start": 31.79,
+      "end": 34.674
+    },
+    {
+      "start": 34.734,
+      "end": 41.074
+    },
+    {
+      "start": 41.422,
+      "end": 64.018
+    },
+    {
+      "start": 68.91,
+      "end": 76.274
+    },
+    {
+      "start": 77.262,
+      "end": 80.274
+    },
+    {
+      "start": 87.406,
+      "end": 90.418
+    },
+    {
+      "start": 90.638,
+      "end": 109.522
+    },
+    {
+      "start": 112.27,
+      "end": 119.41
+    },
+    {
+      "start": 120.078,
+      "end": 122.802
+    },
+    {
+      "start": 124.718,
+      "end": 132.082
+    },
+    {
+      "start": 133.006,
+      "end": 135.41
+    },
+    {
+      "start": 155.598,
+      "end": 156.882
+    },
+    {
+      "start": 158.702,
+      "end": 169.298
+    },
+    {
+      "start": 171.022,
+      "end": 179.41
+    },
+    {
+      "start": 182.702,
+      "end": 184.594
+    },
+    {
+      "start": 198.19,
+      "end": 199.634
+    },
+    {
+      "start": 204.398,
+      "end": 205.874
+    }
+  ]
+}

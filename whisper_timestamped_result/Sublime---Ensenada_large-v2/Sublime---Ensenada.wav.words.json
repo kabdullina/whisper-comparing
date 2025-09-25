@@ -1,102 +1,116 @@
 {
-  "text": " It's a test of the ancient firebenders to keep the flame. I make love to Dancing out of all my mind And as the day is long Something I can promise ya That if I was the mother of the president I'd hire 20 circus for my cabinet Shot out full of mouths, need not apply If you never hear another word, you know the reason why There's something you should know I declare you're stoked I don't wanna be your man no more I wanna make love to Dancing out of all my mind I don't wanna be your man no more I wanna make love to Dancing out of all my mind I don't wanna be your man no more I wanna make love to Dancing out of all my mind I don't wanna be your man no more I wanna make love to Dancing out of all my mind There's something you should know I declare you're stoked There's something you should know I declare you're stoked There's something you should know I declare you're stoked There's something you should know I declare you're stoked",
+  "text": "Det er en test av gamle fyrvandrere for å holde på kjernen.I wanna make love to a woman, dancing out of my mind. And as the day is long, something I can promise you. That if I was the mother, let me president, I'd hire 20 strippers for my cabinet. Shout out for a man that needs not apply. If you never hear another word, you know the reason why. There's something you should know. I declare you're stoked. I don't wanna be your man no more. Dancing out of my mind. I don't wanna be your man no more. I wanna make love to a ... Dancing out of my mind. Dancing out of ... empty mind.",
   "segments": [
     {
       "id": 0,
       "seek": 0,
-      "start": 0.52,
-      "end": 3.58,
-      "text": " It's a test of the ancient firebenders to keep the flame.",
+      "start": 0.6,
+      "end": 3.64,
+      "text": "Det er en test av gamle fyrvandrere for å holde på kjernen.",
       "tokens": [
         50364,
-        467,
-        311,
-        257,
-        1500,
-        295,
-        264,
-        7832,
-        2610,
-        65,
-        16292,
-        281,
-        1066,
-        264,
-        13287,
+        41444,
+        1189,
+        465,
+        220,
+        31636,
+        1305,
+        8019,
+        306,
+        283,
+        6016,
+        85,
+        474,
+        81,
+        323,
+        337,
+        8841,
+        1797,
+        68,
+        4170,
+        350,
+        73,
+        25657,
         13,
         50564
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.34776618745591903,
-      "compression_ratio": 0.9193548387096774,
-      "no_speech_prob": 0.18285799026489258,
-      "confidence": 0.875,
+      "avg_logprob": -0.8810094686654898,
+      "compression_ratio": 0.9242424242424242,
+      "no_speech_prob": 0.004382468294352293,
+      "confidence": 0.466,
       "words": [
         {
-          "text": "It's",
-          "start": 0.52,
-          "end": 1.24,
-          "confidence": 0.729
+          "text": "Det",
+          "start": 0.6,
+          "end": 0.64,
+          "confidence": 0.196
         },
         {
-          "text": "a",
-          "start": 1.24,
-          "end": 1.36,
-          "confidence": 0.95
+          "text": "er",
+          "start": 0.64,
+          "end": 1.3,
+          "confidence": 0.896
+        },
+        {
+          "text": "en",
+          "start": 1.3,
+          "end": 1.62,
+          "confidence": 0.487
         },
         {
           "text": "test",
-          "start": 1.36,
-          "end": 1.48,
-          "confidence": 0.992
+          "start": 1.62,
+          "end": 1.64,
+          "confidence": 0.867
         },
         {
-          "text": "of",
-          "start": 1.48,
-          "end": 1.68,
-          "confidence": 0.976
+          "text": "av",
+          "start": 1.64,
+          "end": 1.7,
+          "confidence": 0.641
         },
         {
-          "text": "the",
-          "start": 1.68,
-          "end": 1.78,
-          "confidence": 0.985
+          "text": "gamle",
+          "start": 1.7,
+          "end": 2.42,
+          "confidence": 0.613
         },
         {
-          "text": "ancient",
-          "start": 1.78,
-          "end": 2.0,
-          "confidence": 0.951
+          "text": "fyrvandrere",
+          "start": 2.42,
+          "end": 2.9,
+          "confidence": 0.477
         },
         {
-          "text": "firebenders",
-          "start": 2.0,
-          "end": 2.72,
-          "confidence": 0.749
+          "text": "for",
+          "start": 2.9,
+          "end": 3.06,
+          "confidence": 0.644
         },
         {
-          "text": "to",
-          "start": 2.72,
-          "end": 2.92,
-          "confidence": 0.944
+          "text": "å",
+          "start": 3.06,
+          "end": 3.08,
+          "confidence": 0.964
         },
         {
-          "text": "keep",
-          "start": 2.92,
-          "end": 3.14,
-          "confidence": 0.995
+          "text": "holde",
+          "start": 3.08,
+          "end": 3.28,
+          "confidence": 0.861
         },
         {
-          "text": "the",
-          "start": 3.14,
-          "end": 3.32,
-          "confidence": 0.912
+          "text": "på",
+          "start": 3.28,
+          "end": 3.34,
+          "confidence": 0.088
         },
         {
-          "text": "flame.",
-          "start": 3.32,
-          "end": 3.58,
-          "confidence": 0.936
+          "text": "kjernen.",
+          "start": 3.34,
+          "end": 3.64,
+          "confidence": 0.19
         }
       ]
     },
@@ -104,453 +118,361 @@
       "id": 1,
       "seek": 3000,
       "start": 33.27,
-      "end": 34.09,
-      "text": " I make love to",
+      "end": 38.05,
+      "text": "I wanna make love to a woman, dancing out of my mind.",
       "tokens": [
         50364,
-        286,
+        40,
+        1948,
         652,
         959,
-        281,
-        50464
+        220,
+        1353,
+        257,
+        3059,
+        11,
+        8898,
+        484,
+        295,
+        452,
+        1575,
+        13,
+        50664
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.28075134869918084,
-      "compression_ratio": 1.5236051502145922,
-      "no_speech_prob": 0.8389952778816223,
-      "confidence": 0.451,
+      "avg_logprob": -0.26456800237432254,
+      "compression_ratio": 1.5916666666666666,
+      "no_speech_prob": 0.005256619304418564,
+      "confidence": 0.773,
       "words": [
         {
           "text": "I",
           "start": 33.27,
           "end": 33.29,
-          "confidence": 0.322
+          "confidence": 0.627
+        },
+        {
+          "text": "wanna",
+          "start": 33.29,
+          "end": 33.31,
+          "confidence": 0.764
         },
         {
           "text": "make",
-          "start": 33.29,
-          "end": 33.41,
-          "confidence": 0.151
+          "start": 33.31,
+          "end": 33.45,
+          "confidence": 0.982
         },
         {
           "text": "love",
-          "start": 33.41,
-          "end": 33.71,
-          "confidence": 0.986
+          "start": 33.45,
+          "end": 34.09,
+          "confidence": 0.99
         },
         {
           "text": "to",
-          "start": 33.71,
-          "end": 34.09,
+          "start": 34.09,
+          "end": 34.27,
+          "confidence": 0.989
+        },
+        {
+          "text": "a",
+          "start": 34.27,
+          "end": 34.53,
+          "confidence": 0.435
+        },
+        {
+          "text": "woman,",
+          "start": 34.53,
+          "end": 34.79,
+          "confidence": 0.926
+        },
+        {
+          "text": "dancing",
+          "start": 35.37,
+          "end": 35.67,
+          "confidence": 0.375
+        },
+        {
+          "text": "out",
+          "start": 35.67,
+          "end": 36.17,
+          "confidence": 0.744
+        },
+        {
+          "text": "of",
+          "start": 36.17,
+          "end": 36.35,
+          "confidence": 0.797
+        },
+        {
+          "text": "my",
+          "start": 36.35,
+          "end": 36.91,
           "confidence": 0.869
+        },
+        {
+          "text": "mind.",
+          "start": 36.91,
+          "end": 38.05,
+          "confidence": 0.993
         }
       ]
     },
     {
       "id": 2,
       "seek": 3000,
-      "start": 35.03,
-      "end": 37.63,
-      "text": " Dancing out of all my mind",
+      "start": 50.21,
+      "end": 54.14,
+      "text": " And as the day is long, something I can promise you.",
       "tokens": [
-        50464,
-        36890,
-        484,
-        295,
-        439,
-        452,
-        1575,
-        50664
+        50664,
+        400,
+        382,
+        220,
+        3322,
+        786,
+        307,
+        938,
+        11,
+        746,
+        286,
+        393,
+        6228,
+        291,
+        13,
+        50864
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.28075134869918084,
-      "compression_ratio": 1.5236051502145922,
-      "no_speech_prob": 0.8389952778816223,
-      "confidence": 0.616,
+      "avg_logprob": -0.26456800237432254,
+      "compression_ratio": 1.5916666666666666,
+      "no_speech_prob": 0.005256619304418564,
+      "confidence": 0.909,
       "words": [
         {
-          "text": "Dancing",
-          "start": 35.03,
-          "end": 35.47,
-          "confidence": 0.402
+          "text": "And",
+          "start": 50.21,
+          "end": 50.47,
+          "confidence": 0.823
         },
         {
-          "text": "out",
-          "start": 35.47,
-          "end": 36.05,
-          "confidence": 0.646
+          "text": "as",
+          "start": 50.47,
+          "end": 50.75,
+          "confidence": 0.98
         },
         {
-          "text": "of",
-          "start": 36.05,
-          "end": 36.27,
-          "confidence": 0.795
+          "text": "the",
+          "start": 50.75,
+          "end": 50.95,
+          "confidence": 0.992
         },
         {
-          "text": "all",
-          "start": 36.27,
-          "end": 36.65,
-          "confidence": 0.551
+          "text": "day",
+          "start": 50.95,
+          "end": 51.55,
+          "confidence": 0.93
         },
         {
-          "text": "my",
-          "start": 36.65,
-          "end": 36.91,
-          "confidence": 0.955
+          "text": "is",
+          "start": 51.55,
+          "end": 52.37,
+          "confidence": 0.976
         },
         {
-          "text": "mind",
-          "start": 36.91,
-          "end": 37.63,
-          "confidence": 0.501
+          "text": "long,",
+          "start": 52.37,
+          "end": 52.51,
+          "confidence": 0.962
+        },
+        {
+          "text": "something",
+          "start": 52.67,
+          "end": 53.03,
+          "confidence": 0.656
+        },
+        {
+          "text": "I",
+          "start": 53.03,
+          "end": 53.33,
+          "confidence": 0.993
+        },
+        {
+          "text": "can",
+          "start": 53.33,
+          "end": 53.49,
+          "confidence": 0.98
+        },
+        {
+          "text": "promise",
+          "start": 53.49,
+          "end": 54.01,
+          "confidence": 0.998
+        },
+        {
+          "text": "you.",
+          "start": 54.01,
+          "end": 54.14,
+          "confidence": 0.722
         }
       ]
     },
     {
       "id": 3,
       "seek": 3000,
-      "start": 50.19,
-      "end": 51.89,
-      "text": " And as the day is long",
-      "tokens": [
-        50664,
-        400,
-        382,
-        264,
-        786,
-        307,
-        938,
-        50764
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.28075134869918084,
-      "compression_ratio": 1.5236051502145922,
-      "no_speech_prob": 0.8389952778816223,
-      "confidence": 0.967,
-      "words": [
-        {
-          "text": "And",
-          "start": 50.19,
-          "end": 50.43,
-          "confidence": 0.919
-        },
-        {
-          "text": "as",
-          "start": 50.43,
-          "end": 50.69,
-          "confidence": 0.966
-        },
-        {
-          "text": "the",
-          "start": 50.69,
-          "end": 50.87,
-          "confidence": 0.969
-        },
-        {
-          "text": "day",
-          "start": 50.87,
-          "end": 51.23,
-          "confidence": 0.98
-        },
-        {
-          "text": "is",
-          "start": 51.23,
-          "end": 51.51,
-          "confidence": 0.974
-        },
-        {
-          "text": "long",
-          "start": 51.51,
-          "end": 51.89,
-          "confidence": 0.996
-        }
-      ]
-    },
-    {
-      "id": 4,
-      "seek": 3000,
-      "start": 52.61,
-      "end": 54.25,
-      "text": " Something I can promise ya",
-      "tokens": [
-        50764,
-        6595,
-        286,
-        393,
-        6228,
-        2478,
-        50864
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.28075134869918084,
-      "compression_ratio": 1.5236051502145922,
-      "no_speech_prob": 0.8389952778816223,
-      "confidence": 0.935,
-      "words": [
-        {
-          "text": "Something",
-          "start": 52.61,
-          "end": 52.93,
-          "confidence": 0.9
-        },
-        {
-          "text": "I",
-          "start": 52.93,
-          "end": 53.21,
-          "confidence": 0.963
-        },
-        {
-          "text": "can",
-          "start": 53.21,
-          "end": 53.37,
-          "confidence": 0.971
-        },
-        {
-          "text": "promise",
-          "start": 53.37,
-          "end": 53.89,
-          "confidence": 0.991
-        },
-        {
-          "text": "ya",
-          "start": 53.89,
-          "end": 54.25,
-          "confidence": 0.86
-        }
-      ]
-    },
-    {
-      "id": 5,
-      "seek": 3000,
-      "start": 54.53,
-      "end": 56.25,
-      "text": " That if I was the mother of the president",
+      "start": 54.14,
+      "end": 59.17,
+      "text": " That if I was the mother, let me president, I'd hire 20 strippers for my cabinet.",
       "tokens": [
         50864,
         663,
         498,
         286,
         390,
-        264,
+        220,
+        3322,
         2895,
-        295,
-        264,
+        11,
+        718,
+        385,
         3868,
-        50964
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.28075134869918084,
-      "compression_ratio": 1.5236051502145922,
-      "no_speech_prob": 0.8389952778816223,
-      "confidence": 0.759,
-      "words": [
-        {
-          "text": "That",
-          "start": 54.53,
-          "end": 54.71,
-          "confidence": 0.945
-        },
-        {
-          "text": "if",
-          "start": 54.71,
-          "end": 54.85,
-          "confidence": 0.984
-        },
-        {
-          "text": "I",
-          "start": 54.85,
-          "end": 54.99,
-          "confidence": 0.977
-        },
-        {
-          "text": "was",
-          "start": 54.99,
-          "end": 55.15,
-          "confidence": 0.986
-        },
-        {
-          "text": "the",
-          "start": 55.15,
-          "end": 55.31,
-          "confidence": 0.715
-        },
-        {
-          "text": "mother",
-          "start": 55.31,
-          "end": 55.51,
-          "confidence": 0.848
-        },
-        {
-          "text": "of",
-          "start": 55.51,
-          "end": 55.75,
-          "confidence": 0.281
-        },
-        {
-          "text": "the",
-          "start": 55.75,
-          "end": 55.81,
-          "confidence": 0.621
-        },
-        {
-          "text": "president",
-          "start": 55.81,
-          "end": 56.25,
-          "confidence": 0.878
-        }
-      ]
-    },
-    {
-      "id": 6,
-      "seek": 3000,
-      "start": 57.01,
-      "end": 58.91,
-      "text": " I'd hire 20 circus for my cabinet",
-      "tokens": [
-        50964,
+        11,
         286,
         1116,
         11158,
         945,
-        32155,
+        3575,
+        15226,
         337,
         452,
-        15188,
+        5487,
+        21370,
+        13,
         51114
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.28075134869918084,
-      "compression_ratio": 1.5236051502145922,
-      "no_speech_prob": 0.8389952778816223,
-      "confidence": 0.585,
+      "avg_logprob": -0.26456800237432254,
+      "compression_ratio": 1.5916666666666666,
+      "no_speech_prob": 0.005256619304418564,
+      "confidence": 0.826,
       "words": [
         {
+          "text": "That",
+          "start": 54.14,
+          "end": 54.69,
+          "confidence": 0.559
+        },
+        {
+          "text": "if",
+          "start": 54.69,
+          "end": 54.89,
+          "confidence": 0.983
+        },
+        {
+          "text": "I",
+          "start": 54.89,
+          "end": 55.03,
+          "confidence": 0.984
+        },
+        {
+          "text": "was",
+          "start": 55.03,
+          "end": 55.27,
+          "confidence": 0.962
+        },
+        {
+          "text": "the",
+          "start": 55.27,
+          "end": 55.51,
+          "confidence": 0.838
+        },
+        {
+          "text": "mother,",
+          "start": 55.51,
+          "end": 55.59,
+          "confidence": 0.593
+        },
+        {
+          "text": "let",
+          "start": 55.59,
+          "end": 55.81,
+          "confidence": 0.743
+        },
+        {
+          "text": "me",
+          "start": 55.81,
+          "end": 55.91,
+          "confidence": 0.995
+        },
+        {
+          "text": "president,",
+          "start": 55.91,
+          "end": 56.69,
+          "confidence": 0.89
+        },
+        {
           "text": "I'd",
-          "start": 57.01,
-          "end": 57.15,
-          "confidence": 0.801
+          "start": 57.05,
+          "end": 57.27,
+          "confidence": 0.915
         },
         {
           "text": "hire",
-          "start": 57.15,
-          "end": 57.37,
-          "confidence": 0.974
+          "start": 57.27,
+          "end": 57.47,
+          "confidence": 0.727
         },
         {
           "text": "20",
-          "start": 57.37,
-          "end": 57.67,
-          "confidence": 0.48
+          "start": 57.47,
+          "end": 57.77,
+          "confidence": 0.583
         },
         {
-          "text": "circus",
-          "start": 57.67,
-          "end": 57.97,
-          "confidence": 0.093
+          "text": "strippers",
+          "start": 57.77,
+          "end": 58.31,
+          "confidence": 0.928
         },
         {
           "text": "for",
-          "start": 57.97,
-          "end": 58.25,
-          "confidence": 0.543
+          "start": 58.31,
+          "end": 58.39,
+          "confidence": 0.646
         },
         {
           "text": "my",
-          "start": 58.25,
-          "end": 58.41,
-          "confidence": 0.989
+          "start": 58.39,
+          "end": 58.55,
+          "confidence": 0.984
         },
         {
-          "text": "cabinet",
-          "start": 58.41,
-          "end": 58.91,
-          "confidence": 0.925
+          "text": "cabinet.",
+          "start": 58.55,
+          "end": 59.17,
+          "confidence": 0.887
         }
       ]
     },
     {
-      "id": 7,
+      "id": 4,
       "seek": 3000,
-      "start": 59.53,
-      "end": 61.67,
-      "text": " Shot out full of mouths, need not apply",
+      "start": 59.63,
+      "end": 64.43,
+      "text": " Shout out for a man that needs not apply. If you never hear another word, you know the reason why.",
       "tokens": [
         51114,
-        28845,
+        32749,
         484,
-        1577,
-        295,
-        33171,
-        11,
-        643,
+        337,
+        257,
+        587,
+        220,
+        6780,
+        2203,
         406,
         3079,
-        51214
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.28075134869918084,
-      "compression_ratio": 1.5236051502145922,
-      "no_speech_prob": 0.8389952778816223,
-      "confidence": 0.59,
-      "words": [
-        {
-          "text": "Shot",
-          "start": 59.53,
-          "end": 59.95,
-          "confidence": 0.778
-        },
-        {
-          "text": "out",
-          "start": 59.95,
-          "end": 60.25,
-          "confidence": 0.823
-        },
-        {
-          "text": "full",
-          "start": 60.25,
-          "end": 60.55,
-          "confidence": 0.571
-        },
-        {
-          "text": "of",
-          "start": 60.55,
-          "end": 60.71,
-          "confidence": 0.453
-        },
-        {
-          "text": "mouths,",
-          "start": 60.71,
-          "end": 60.89,
-          "confidence": 0.203
-        },
-        {
-          "text": "need",
-          "start": 61.01,
-          "end": 61.19,
-          "confidence": 0.776
-        },
-        {
-          "text": "not",
-          "start": 61.19,
-          "end": 61.45,
-          "confidence": 0.775
-        },
-        {
-          "text": "apply",
-          "start": 61.45,
-          "end": 61.67,
-          "confidence": 0.725
-        }
-      ]
-    },
-    {
-      "id": 8,
-      "seek": 3000,
-      "start": 61.89,
-      "end": 64.35,
-      "text": " If you never hear another word, you know the reason why",
-      "tokens": [
-        51214,
+        13,
         759,
         291,
         1128,
@@ -560,194 +482,162 @@
         11,
         291,
         458,
-        264,
+        220,
+        3322,
         1778,
         983,
-        51364
+        13,
+        51414
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.28075134869918084,
-      "compression_ratio": 1.5236051502145922,
-      "no_speech_prob": 0.8389952778816223,
-      "confidence": 0.969,
+      "avg_logprob": -0.26456800237432254,
+      "compression_ratio": 1.5916666666666666,
+      "no_speech_prob": 0.005256619304418564,
+      "confidence": 0.698,
       "words": [
         {
+          "text": "Shout",
+          "start": 59.63,
+          "end": 60.07,
+          "confidence": 0.709
+        },
+        {
+          "text": "out",
+          "start": 60.07,
+          "end": 60.33,
+          "confidence": 0.736
+        },
+        {
+          "text": "for",
+          "start": 60.33,
+          "end": 60.65,
+          "confidence": 0.799
+        },
+        {
+          "text": "a",
+          "start": 60.65,
+          "end": 60.81,
+          "confidence": 0.099
+        },
+        {
+          "text": "man",
+          "start": 60.81,
+          "end": 60.91,
+          "confidence": 0.915
+        },
+        {
+          "text": "that",
+          "start": 60.91,
+          "end": 61.09,
+          "confidence": 0.802
+        },
+        {
+          "text": "needs",
+          "start": 61.09,
+          "end": 61.27,
+          "confidence": 0.338
+        },
+        {
+          "text": "not",
+          "start": 61.27,
+          "end": 61.61,
+          "confidence": 0.361
+        },
+        {
+          "text": "apply.",
+          "start": 61.61,
+          "end": 61.91,
+          "confidence": 0.377
+        },
+        {
           "text": "If",
-          "start": 61.89,
-          "end": 62.05,
-          "confidence": 0.926
+          "start": 62.03,
+          "end": 62.15,
+          "confidence": 0.816
         },
         {
           "text": "you",
-          "start": 62.05,
-          "end": 62.19,
-          "confidence": 0.994
+          "start": 62.15,
+          "end": 62.31,
+          "confidence": 0.957
         },
         {
           "text": "never",
-          "start": 62.19,
-          "end": 62.45,
-          "confidence": 0.934
+          "start": 62.31,
+          "end": 62.53,
+          "confidence": 0.748
         },
         {
           "text": "hear",
-          "start": 62.45,
-          "end": 62.69,
-          "confidence": 0.973
+          "start": 62.53,
+          "end": 62.87,
+          "confidence": 0.76
         },
         {
           "text": "another",
-          "start": 62.69,
-          "end": 63.01,
-          "confidence": 0.944
+          "start": 62.87,
+          "end": 63.13,
+          "confidence": 0.92
         },
         {
           "text": "word,",
-          "start": 63.01,
-          "end": 63.29,
-          "confidence": 0.999
-        },
-        {
-          "text": "you",
-          "start": 63.39,
-          "end": 63.49,
-          "confidence": 0.935
-        },
-        {
-          "text": "know",
-          "start": 63.49,
-          "end": 63.63,
-          "confidence": 0.986
-        },
-        {
-          "text": "the",
-          "start": 63.63,
-          "end": 63.77,
+          "start": 63.13,
+          "end": 63.39,
           "confidence": 0.99
         },
         {
-          "text": "reason",
-          "start": 63.77,
-          "end": 64.03,
-          "confidence": 0.996
+          "text": "you",
+          "start": 63.51,
+          "end": 63.53,
+          "confidence": 0.919
         },
         {
-          "text": "why",
-          "start": 64.03,
-          "end": 64.35,
-          "confidence": 0.989
+          "text": "know",
+          "start": 63.53,
+          "end": 63.71,
+          "confidence": 0.968
+        },
+        {
+          "text": "the",
+          "start": 63.71,
+          "end": 63.81,
+          "confidence": 0.983
+        },
+        {
+          "text": "reason",
+          "start": 63.81,
+          "end": 64.13,
+          "confidence": 0.979
+        },
+        {
+          "text": "why.",
+          "start": 64.13,
+          "end": 64.43,
+          "confidence": 0.976
         }
       ]
     },
     {
-      "id": 9,
+      "id": 5,
       "seek": 3000,
-      "start": 65.33,
-      "end": 67.09,
-      "text": " There's something you should know",
+      "start": 64.99,
+      "end": 72.79,
+      "text": " There's something you should know. I declare you're stoked. I don't wanna be your man no more.",
       "tokens": [
-        51364,
+        51414,
         821,
         311,
         746,
         291,
         820,
         458,
-        51514
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.28075134869918084,
-      "compression_ratio": 1.5236051502145922,
-      "no_speech_prob": 0.8389952778816223,
-      "confidence": 0.967,
-      "words": [
-        {
-          "text": "There's",
-          "start": 65.33,
-          "end": 65.55,
-          "confidence": 0.92
-        },
-        {
-          "text": "something",
-          "start": 65.55,
-          "end": 65.91,
-          "confidence": 0.989
-        },
-        {
-          "text": "you",
-          "start": 65.91,
-          "end": 66.35,
-          "confidence": 0.984
-        },
-        {
-          "text": "should",
-          "start": 66.35,
-          "end": 66.71,
-          "confidence": 0.993
-        },
-        {
-          "text": "know",
-          "start": 66.71,
-          "end": 67.09,
-          "confidence": 0.999
-        }
-      ]
-    },
-    {
-      "id": 10,
-      "seek": 3000,
-      "start": 68.11,
-      "end": 69.85,
-      "text": " I declare you're stoked",
-      "tokens": [
-        51514,
+        13,
         286,
         19710,
         291,
         434,
         49145,
-        51664
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.28075134869918084,
-      "compression_ratio": 1.5236051502145922,
-      "no_speech_prob": 0.8389952778816223,
-      "confidence": 0.957,
-      "words": [
-        {
-          "text": "I",
-          "start": 68.11,
-          "end": 68.35,
-          "confidence": 0.983
-        },
-        {
-          "text": "declare",
-          "start": 68.35,
-          "end": 68.77,
-          "confidence": 0.988
-        },
-        {
-          "text": "you're",
-          "start": 68.77,
-          "end": 69.35,
-          "confidence": 0.919
-        },
-        {
-          "text": "stoked",
-          "start": 69.35,
-          "end": 69.85,
-          "confidence": 0.978
-        }
-      ]
-    },
-    {
-      "id": 11,
-      "seek": 3000,
-      "start": 70.39,
-      "end": 72.65,
-      "text": " I don't wanna be your man no more",
-      "tokens": [
-        51664,
+        13,
         286,
         500,
         380,
@@ -757,373 +647,133 @@
         587,
         572,
         544,
+        13,
         51814
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.28075134869918084,
-      "compression_ratio": 1.5236051502145922,
-      "no_speech_prob": 0.8389952778816223,
-      "confidence": 0.949,
+      "avg_logprob": -0.26456800237432254,
+      "compression_ratio": 1.5916666666666666,
+      "no_speech_prob": 0.005256619304418564,
+      "confidence": 0.918,
       "words": [
         {
-          "text": "I",
-          "start": 70.39,
-          "end": 70.61,
-          "confidence": 0.947
+          "text": "There's",
+          "start": 64.99,
+          "end": 65.63,
+          "confidence": 0.918
         },
         {
-          "text": "don't",
-          "start": 70.61,
-          "end": 70.79,
-          "confidence": 0.986
-        },
-        {
-          "text": "wanna",
-          "start": 70.79,
-          "end": 70.99,
-          "confidence": 0.757
-        },
-        {
-          "text": "be",
-          "start": 70.99,
-          "end": 71.31,
-          "confidence": 0.997
-        },
-        {
-          "text": "your",
-          "start": 71.31,
-          "end": 71.63,
-          "confidence": 0.959
-        },
-        {
-          "text": "man",
-          "start": 71.63,
-          "end": 71.91,
-          "confidence": 0.985
-        },
-        {
-          "text": "no",
-          "start": 71.91,
-          "end": 72.27,
-          "confidence": 0.949
-        },
-        {
-          "text": "more",
-          "start": 72.27,
-          "end": 72.65,
-          "confidence": 0.997
-        }
-      ]
-    },
-    {
-      "id": 12,
-      "seek": 5900,
-      "start": 73.27,
-      "end": 74.49,
-      "text": " I wanna make love to",
-      "tokens": [
-        50364,
-        286,
-        1948,
-        652,
-        959,
-        281,
-        50464
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.04988925457000733,
-      "compression_ratio": 3.0246913580246915,
-      "no_speech_prob": 0.06000674143433571,
-      "confidence": 0.975,
-      "words": [
-        {
-          "text": "I",
-          "start": 73.27,
-          "end": 73.31,
-          "confidence": 0.982
-        },
-        {
-          "text": "wanna",
-          "start": 73.31,
-          "end": 73.51,
-          "confidence": 0.909
-        },
-        {
-          "text": "make",
-          "start": 73.51,
-          "end": 73.79,
-          "confidence": 0.997
-        },
-        {
-          "text": "love",
-          "start": 73.79,
-          "end": 74.11,
-          "confidence": 0.997
-        },
-        {
-          "text": "to",
-          "start": 74.11,
-          "end": 74.49,
-          "confidence": 0.99
-        }
-      ]
-    },
-    {
-      "id": 13,
-      "seek": 5900,
-      "start": 75.43,
-      "end": 78.11,
-      "text": " Dancing out of all my mind",
-      "tokens": [
-        50464,
-        36890,
-        484,
-        295,
-        439,
-        452,
-        1575,
-        50664
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.04988925457000733,
-      "compression_ratio": 3.0246913580246915,
-      "no_speech_prob": 0.06000674143433571,
-      "confidence": 0.966,
-      "words": [
-        {
-          "text": "Dancing",
-          "start": 75.43,
-          "end": 75.81,
-          "confidence": 0.971
-        },
-        {
-          "text": "out",
-          "start": 75.81,
-          "end": 76.47,
-          "confidence": 0.972
-        },
-        {
-          "text": "of",
-          "start": 76.47,
-          "end": 76.71,
-          "confidence": 0.981
-        },
-        {
-          "text": "all",
-          "start": 76.71,
-          "end": 77.05,
-          "confidence": 0.881
-        },
-        {
-          "text": "my",
-          "start": 77.05,
-          "end": 77.31,
-          "confidence": 0.997
-        },
-        {
-          "text": "mind",
-          "start": 77.31,
-          "end": 78.11,
-          "confidence": 0.996
-        }
-      ]
-    },
-    {
-      "id": 14,
-      "seek": 5900,
-      "start": 79.21,
-      "end": 82.75,
-      "text": " I don't wanna be your man no more",
-      "tokens": [
-        50664,
-        286,
-        500,
-        380,
-        1948,
-        312,
-        428,
-        587,
-        572,
-        544,
-        50864
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.04988925457000733,
-      "compression_ratio": 3.0246913580246915,
-      "no_speech_prob": 0.06000674143433571,
-      "confidence": 0.884,
-      "words": [
-        {
-          "text": "I",
-          "start": 79.21,
-          "end": 79.73,
-          "confidence": 0.346
-        },
-        {
-          "text": "don't",
-          "start": 79.73,
-          "end": 80.91,
-          "confidence": 0.994
-        },
-        {
-          "text": "wanna",
-          "start": 80.91,
-          "end": 81.11,
-          "confidence": 0.982
-        },
-        {
-          "text": "be",
-          "start": 81.11,
-          "end": 81.41,
-          "confidence": 0.997
-        },
-        {
-          "text": "your",
-          "start": 81.41,
-          "end": 81.75,
-          "confidence": 0.992
-        },
-        {
-          "text": "man",
-          "start": 81.75,
-          "end": 82.01,
-          "confidence": 0.998
-        },
-        {
-          "text": "no",
-          "start": 82.01,
-          "end": 82.37,
-          "confidence": 0.997
-        },
-        {
-          "text": "more",
-          "start": 82.37,
-          "end": 82.75,
-          "confidence": 0.999
-        }
-      ]
-    },
-    {
-      "id": 15,
-      "seek": 5900,
-      "start": 83.17,
-      "end": 84.61,
-      "text": " I wanna make love to",
-      "tokens": [
-        50864,
-        286,
-        1948,
-        652,
-        959,
-        281,
-        50964
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.04988925457000733,
-      "compression_ratio": 3.0246913580246915,
-      "no_speech_prob": 0.06000674143433571,
-      "confidence": 0.994,
-      "words": [
-        {
-          "text": "I",
-          "start": 83.17,
-          "end": 83.35,
-          "confidence": 0.992
-        },
-        {
-          "text": "wanna",
-          "start": 83.35,
-          "end": 83.57,
-          "confidence": 0.984
-        },
-        {
-          "text": "make",
-          "start": 83.57,
-          "end": 83.91,
-          "confidence": 0.998
-        },
-        {
-          "text": "love",
-          "start": 83.91,
-          "end": 84.23,
-          "confidence": 0.999
-        },
-        {
-          "text": "to",
-          "start": 84.23,
-          "end": 84.61,
-          "confidence": 0.997
-        }
-      ]
-    },
-    {
-      "id": 16,
-      "seek": 5900,
-      "start": 85.23,
-      "end": 88.17,
-      "text": " Dancing out of all my mind",
-      "tokens": [
-        50964,
-        36890,
-        484,
-        295,
-        439,
-        452,
-        1575,
-        51164
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.04988925457000733,
-      "compression_ratio": 3.0246913580246915,
-      "no_speech_prob": 0.06000674143433571,
-      "confidence": 0.99,
-      "words": [
-        {
-          "text": "Dancing",
-          "start": 85.23,
-          "end": 85.91,
-          "confidence": 0.989
-        },
-        {
-          "text": "out",
-          "start": 85.91,
-          "end": 86.53,
-          "confidence": 0.991
-        },
-        {
-          "text": "of",
-          "start": 86.53,
-          "end": 86.77,
-          "confidence": 0.993
-        },
-        {
-          "text": "all",
-          "start": 86.77,
-          "end": 87.11,
+          "text": "something",
+          "start": 65.63,
+          "end": 66.01,
           "confidence": 0.975
         },
         {
-          "text": "my",
-          "start": 87.11,
-          "end": 87.37,
+          "text": "you",
+          "start": 66.01,
+          "end": 66.39,
+          "confidence": 0.987
+        },
+        {
+          "text": "should",
+          "start": 66.39,
+          "end": 66.73,
+          "confidence": 0.991
+        },
+        {
+          "text": "know.",
+          "start": 66.73,
+          "end": 67.45,
+          "confidence": 0.984
+        },
+        {
+          "text": "I",
+          "start": 68.23,
+          "end": 68.41,
+          "confidence": 0.994
+        },
+        {
+          "text": "declare",
+          "start": 68.41,
+          "end": 69.27,
+          "confidence": 0.893
+        },
+        {
+          "text": "you're",
+          "start": 69.27,
+          "end": 69.77,
+          "confidence": 0.737
+        },
+        {
+          "text": "stoked.",
+          "start": 69.77,
+          "end": 70.13,
+          "confidence": 0.709
+        },
+        {
+          "text": "I",
+          "start": 70.43,
+          "end": 70.65,
+          "confidence": 0.923
+        },
+        {
+          "text": "don't",
+          "start": 70.65,
+          "end": 71.17,
+          "confidence": 0.988
+        },
+        {
+          "text": "wanna",
+          "start": 71.17,
+          "end": 71.19,
+          "confidence": 0.793
+        },
+        {
+          "text": "be",
+          "start": 71.19,
+          "end": 71.39,
+          "confidence": 0.989
+        },
+        {
+          "text": "your",
+          "start": 71.39,
+          "end": 71.69,
+          "confidence": 0.968
+        },
+        {
+          "text": "man",
+          "start": 71.69,
+          "end": 72.25,
           "confidence": 0.997
         },
         {
-          "text": "mind",
-          "start": 87.37,
-          "end": 88.17,
-          "confidence": 0.996
+          "text": "no",
+          "start": 72.25,
+          "end": 72.29,
+          "confidence": 0.98
+        },
+        {
+          "text": "more.",
+          "start": 72.29,
+          "end": 72.79,
+          "confidence": 0.989
         }
       ]
     },
     {
-      "id": 17,
-      "seek": 5900,
-      "start": 110.7,
-      "end": 113.04,
-      "text": " I don't wanna be your man no more",
+      "id": 6,
+      "seek": 6000,
+      "start": 74.95,
+      "end": 88.59,
+      "text": " Dancing out of my mind. I don't wanna be your man no more. I wanna make love to a ... Dancing out of my mind.",
       "tokens": [
-        51164,
+        50414,
+        36890,
+        484,
+        295,
+        452,
+        1575,
+        13,
         286,
         500,
         380,
@@ -1133,871 +783,344 @@
         587,
         572,
         544,
-        51314
+        13,
+        286,
+        1948,
+        652,
+        959,
+        220,
+        1353,
+        257,
+        1097,
+        36890,
+        484,
+        295,
+        452,
+        1575,
+        13,
+        51114
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.04988925457000733,
-      "compression_ratio": 3.0246913580246915,
-      "no_speech_prob": 0.06000674143433571,
-      "confidence": 0.928,
+      "avg_logprob": -0.17407148534601385,
+      "compression_ratio": 1.3132530120481927,
+      "no_speech_prob": 0.005725907161831856,
+      "confidence": 0.862,
       "words": [
         {
+          "text": "Dancing",
+          "start": 74.95,
+          "end": 75.97,
+          "confidence": 0.353
+        },
+        {
+          "text": "out",
+          "start": 75.97,
+          "end": 76.59,
+          "confidence": 0.943
+        },
+        {
+          "text": "of",
+          "start": 76.59,
+          "end": 76.71,
+          "confidence": 0.98
+        },
+        {
+          "text": "my",
+          "start": 76.71,
+          "end": 77.33,
+          "confidence": 0.96
+        },
+        {
+          "text": "mind.",
+          "start": 77.33,
+          "end": 78.33,
+          "confidence": 0.988
+        },
+        {
           "text": "I",
-          "start": 110.7,
-          "end": 111.02,
-          "confidence": 0.54
+          "start": 79.25,
+          "end": 79.93,
+          "confidence": 0.478
         },
         {
           "text": "don't",
-          "start": 111.02,
-          "end": 111.26,
-          "confidence": 0.991
+          "start": 79.93,
+          "end": 81.21,
+          "confidence": 0.966
         },
         {
           "text": "wanna",
-          "start": 111.26,
-          "end": 111.42,
+          "start": 81.21,
+          "end": 81.23,
           "confidence": 0.979
         },
         {
           "text": "be",
-          "start": 111.42,
-          "end": 111.72,
-          "confidence": 0.998
-        },
-        {
-          "text": "your",
-          "start": 111.72,
-          "end": 112.02,
-          "confidence": 0.995
-        },
-        {
-          "text": "man",
-          "start": 112.02,
-          "end": 112.3,
-          "confidence": 0.999
-        },
-        {
-          "text": "no",
-          "start": 112.3,
-          "end": 112.66,
-          "confidence": 0.996
-        },
-        {
-          "text": "more",
-          "start": 112.66,
-          "end": 113.04,
-          "confidence": 0.999
-        }
-      ]
-    },
-    {
-      "id": 18,
-      "seek": 5900,
-      "start": 113.6,
-      "end": 114.94,
-      "text": " I wanna make love to",
-      "tokens": [
-        51314,
-        286,
-        1948,
-        652,
-        959,
-        281,
-        51414
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.04988925457000733,
-      "compression_ratio": 3.0246913580246915,
-      "no_speech_prob": 0.06000674143433571,
-      "confidence": 0.995,
-      "words": [
-        {
-          "text": "I",
-          "start": 113.6,
-          "end": 113.72,
-          "confidence": 0.997
-        },
-        {
-          "text": "wanna",
-          "start": 113.72,
-          "end": 113.94,
-          "confidence": 0.985
-        },
-        {
-          "text": "make",
-          "start": 113.94,
-          "end": 114.24,
-          "confidence": 0.998
-        },
-        {
-          "text": "love",
-          "start": 114.24,
-          "end": 114.56,
-          "confidence": 0.999
-        },
-        {
-          "text": "to",
-          "start": 114.56,
-          "end": 114.94,
-          "confidence": 0.996
-        }
-      ]
-    },
-    {
-      "id": 19,
-      "seek": 5900,
-      "start": 115.9,
-      "end": 118.5,
-      "text": " Dancing out of all my mind",
-      "tokens": [
-        51414,
-        36890,
-        484,
-        295,
-        439,
-        452,
-        1575,
-        51614
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.04988925457000733,
-      "compression_ratio": 3.0246913580246915,
-      "no_speech_prob": 0.06000674143433571,
-      "confidence": 0.983,
-      "words": [
-        {
-          "text": "Dancing",
-          "start": 115.9,
-          "end": 116.24,
-          "confidence": 0.97
-        },
-        {
-          "text": "out",
-          "start": 116.24,
-          "end": 116.9,
-          "confidence": 0.988
-        },
-        {
-          "text": "of",
-          "start": 116.9,
-          "end": 117.18,
-          "confidence": 0.995
-        },
-        {
-          "text": "all",
-          "start": 117.18,
-          "end": 117.48,
-          "confidence": 0.956
-        },
-        {
-          "text": "my",
-          "start": 117.48,
-          "end": 117.74,
-          "confidence": 0.997
-        },
-        {
-          "text": "mind",
-          "start": 117.74,
-          "end": 118.5,
-          "confidence": 0.995
-        }
-      ]
-    },
-    {
-      "id": 20,
-      "seek": 5900,
-      "start": 119.6,
-      "end": 123.14,
-      "text": " I don't wanna be your man no more",
-      "tokens": [
-        51614,
-        286,
-        500,
-        380,
-        1948,
-        312,
-        428,
-        587,
-        572,
-        544,
-        51814
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.04988925457000733,
-      "compression_ratio": 3.0246913580246915,
-      "no_speech_prob": 0.06000674143433571,
-      "confidence": 0.989,
-      "words": [
-        {
-          "text": "I",
-          "start": 119.6,
-          "end": 120.26,
-          "confidence": 0.937
-        },
-        {
-          "text": "don't",
-          "start": 120.26,
-          "end": 121.3,
-          "confidence": 0.996
-        },
-        {
-          "text": "wanna",
-          "start": 121.3,
-          "end": 121.5,
-          "confidence": 0.992
-        },
-        {
-          "text": "be",
-          "start": 121.5,
-          "end": 121.82,
-          "confidence": 0.998
-        },
-        {
-          "text": "your",
-          "start": 121.82,
-          "end": 122.14,
-          "confidence": 0.994
-        },
-        {
-          "text": "man",
-          "start": 122.14,
-          "end": 122.42,
-          "confidence": 0.998
-        },
-        {
-          "text": "no",
-          "start": 122.42,
-          "end": 122.76,
-          "confidence": 0.996
-        },
-        {
-          "text": "more",
-          "start": 122.76,
-          "end": 123.14,
-          "confidence": 0.999
-        }
-      ]
-    },
-    {
-      "id": 21,
-      "seek": 8800,
-      "start": 123.58,
-      "end": 125.78,
-      "text": " I wanna make love to",
-      "tokens": [
-        50364,
-        286,
-        1948,
-        652,
-        959,
-        281,
-        50464
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.11388225304452997,
-      "compression_ratio": 2.9368421052631577,
-      "no_speech_prob": 0.167977973818779,
-      "confidence": 0.958,
-      "words": [
-        {
-          "text": "I",
-          "start": 123.58,
-          "end": 123.78,
-          "confidence": 0.971
-        },
-        {
-          "text": "wanna",
-          "start": 123.78,
-          "end": 123.94,
-          "confidence": 0.921
-        },
-        {
-          "text": "make",
-          "start": 123.94,
-          "end": 124.34,
-          "confidence": 0.949
-        },
-        {
-          "text": "love",
-          "start": 124.34,
-          "end": 125.22,
-          "confidence": 0.97
-        },
-        {
-          "text": "to",
-          "start": 125.22,
-          "end": 125.78,
-          "confidence": 0.978
-        }
-      ]
-    },
-    {
-      "id": 22,
-      "seek": 8800,
-      "start": 125.96,
-      "end": 128.18,
-      "text": " Dancing out of all my mind",
-      "tokens": [
-        50464,
-        36890,
-        484,
-        295,
-        439,
-        452,
-        1575,
-        50664
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.11388225304452997,
-      "compression_ratio": 2.9368421052631577,
-      "no_speech_prob": 0.167977973818779,
-      "confidence": 0.965,
-      "words": [
-        {
-          "text": "Dancing",
-          "start": 125.96,
-          "end": 126.42,
-          "confidence": 0.972
-        },
-        {
-          "text": "out",
-          "start": 126.42,
-          "end": 127.0,
-          "confidence": 0.988
-        },
-        {
-          "text": "of",
-          "start": 127.0,
-          "end": 127.24,
-          "confidence": 0.994
-        },
-        {
-          "text": "all",
-          "start": 127.24,
-          "end": 127.62,
-          "confidence": 0.869
-        },
-        {
-          "text": "my",
-          "start": 127.62,
-          "end": 127.74,
+          "start": 81.23,
+          "end": 81.53,
           "confidence": 0.991
         },
         {
-          "text": "mind",
-          "start": 127.74,
-          "end": 128.18,
-          "confidence": 0.984
-        }
-      ]
-    },
-    {
-      "id": 23,
-      "seek": 8800,
-      "start": 130.93,
-      "end": 132.75,
-      "text": " There's something you should know",
-      "tokens": [
-        50664,
-        821,
-        311,
-        746,
-        291,
-        820,
-        458,
-        50814
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.11388225304452997,
-      "compression_ratio": 2.9368421052631577,
-      "no_speech_prob": 0.167977973818779,
-      "confidence": 0.906,
-      "words": [
-        {
-          "text": "There's",
-          "start": 130.93,
-          "end": 131.29,
-          "confidence": 0.756
+          "text": "your",
+          "start": 81.53,
+          "end": 81.87,
+          "confidence": 0.987
         },
         {
-          "text": "something",
-          "start": 131.29,
-          "end": 131.65,
-          "confidence": 0.988
+          "text": "man",
+          "start": 81.87,
+          "end": 82.21,
+          "confidence": 0.997
         },
         {
-          "text": "you",
-          "start": 131.65,
-          "end": 132.07,
-          "confidence": 0.986
-        },
-        {
-          "text": "should",
-          "start": 132.07,
-          "end": 132.41,
+          "text": "no",
+          "start": 82.21,
+          "end": 82.39,
           "confidence": 0.994
         },
         {
-          "text": "know",
-          "start": 132.41,
-          "end": 132.75,
-          "confidence": 0.998
-        }
-      ]
-    },
-    {
-      "id": 24,
-      "seek": 8800,
-      "start": 133.84,
-      "end": 135.26,
-      "text": " I declare you're stoked",
-      "tokens": [
-        50814,
-        286,
-        19710,
-        291,
-        434,
-        49145,
-        50914
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.11388225304452997,
-      "compression_ratio": 2.9368421052631577,
-      "no_speech_prob": 0.167977973818779,
-      "confidence": 0.994,
-      "words": [
-        {
-          "text": "I",
-          "start": 133.84,
-          "end": 133.98,
-          "confidence": 0.996
-        },
-        {
-          "text": "declare",
-          "start": 133.98,
-          "end": 134.32,
-          "confidence": 0.999
-        },
-        {
-          "text": "you're",
-          "start": 134.32,
-          "end": 134.92,
-          "confidence": 0.99
-        },
-        {
-          "text": "stoked",
-          "start": 134.92,
-          "end": 135.26,
-          "confidence": 0.996
-        }
-      ]
-    },
-    {
-      "id": 25,
-      "seek": 8800,
-      "start": 136.04,
-      "end": 137.7,
-      "text": " There's something you should know",
-      "tokens": [
-        50914,
-        821,
-        311,
-        746,
-        291,
-        820,
-        458,
-        51064
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.11388225304452997,
-      "compression_ratio": 2.9368421052631577,
-      "no_speech_prob": 0.167977973818779,
-      "confidence": 0.995,
-      "words": [
-        {
-          "text": "There's",
-          "start": 136.04,
-          "end": 136.36,
-          "confidence": 0.991
-        },
-        {
-          "text": "something",
-          "start": 136.36,
-          "end": 136.66,
-          "confidence": 0.995
-        },
-        {
-          "text": "you",
-          "start": 136.66,
-          "end": 137.04,
-          "confidence": 0.996
-        },
-        {
-          "text": "should",
-          "start": 137.04,
-          "end": 137.38,
-          "confidence": 0.998
-        },
-        {
-          "text": "know",
-          "start": 137.38,
-          "end": 137.7,
-          "confidence": 0.999
-        }
-      ]
-    },
-    {
-      "id": 26,
-      "seek": 8800,
-      "start": 138.8,
-      "end": 140.33,
-      "text": " I declare you're stoked",
-      "tokens": [
-        51064,
-        286,
-        19710,
-        291,
-        434,
-        49145,
-        51164
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.11388225304452997,
-      "compression_ratio": 2.9368421052631577,
-      "no_speech_prob": 0.167977973818779,
-      "confidence": 0.993,
-      "words": [
-        {
-          "text": "I",
-          "start": 138.8,
-          "end": 139.01,
-          "confidence": 0.998
-        },
-        {
-          "text": "declare",
-          "start": 139.01,
-          "end": 139.37,
-          "confidence": 0.999
-        },
-        {
-          "text": "you're",
-          "start": 139.37,
-          "end": 140.17,
+          "text": "more.",
+          "start": 82.39,
+          "end": 82.79,
           "confidence": 0.993
         },
         {
-          "text": "stoked",
-          "start": 140.17,
-          "end": 140.33,
-          "confidence": 0.983
-        }
-      ]
-    },
-    {
-      "id": 27,
-      "seek": 8800,
-      "start": 141.09,
-      "end": 142.67,
-      "text": " There's something you should know",
-      "tokens": [
-        51164,
-        821,
-        311,
-        746,
-        291,
-        820,
-        458,
-        51264
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.11388225304452997,
-      "compression_ratio": 2.9368421052631577,
-      "no_speech_prob": 0.167977973818779,
-      "confidence": 0.996,
-      "words": [
+          "text": "I",
+          "start": 83.19,
+          "end": 83.37,
+          "confidence": 0.818
+        },
         {
-          "text": "There's",
-          "start": 141.09,
-          "end": 141.47,
+          "text": "wanna",
+          "start": 83.37,
+          "end": 83.61,
+          "confidence": 0.898
+        },
+        {
+          "text": "make",
+          "start": 83.61,
+          "end": 83.97,
+          "confidence": 0.991
+        },
+        {
+          "text": "love",
+          "start": 83.97,
+          "end": 84.29,
           "confidence": 0.994
         },
         {
-          "text": "something",
-          "start": 141.47,
-          "end": 141.73,
-          "confidence": 0.996
+          "text": "to",
+          "start": 84.29,
+          "end": 85.05,
+          "confidence": 0.982
         },
         {
-          "text": "you",
-          "start": 141.73,
-          "end": 142.09,
-          "confidence": 0.998
+          "text": "a",
+          "start": 85.05,
+          "end": 85.07,
+          "confidence": 0.622
         },
         {
-          "text": "should",
-          "start": 142.09,
-          "end": 142.41,
-          "confidence": 0.998
+          "text": "...",
+          "start": 85.07,
+          "end": 85.87,
+          "confidence": 0.61
         },
         {
-          "text": "know",
-          "start": 142.41,
-          "end": 142.67,
-          "confidence": 0.999
-        }
-      ]
-    },
-    {
-      "id": 28,
-      "seek": 8800,
-      "start": 143.85,
-      "end": 145.32,
-      "text": " I declare you're stoked",
-      "tokens": [
-        51264,
-        286,
-        19710,
-        291,
-        434,
-        49145,
-        51414
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.11388225304452997,
-      "compression_ratio": 2.9368421052631577,
-      "no_speech_prob": 0.167977973818779,
-      "confidence": 0.997,
-      "words": [
-        {
-          "text": "I",
-          "start": 143.85,
-          "end": 144.0,
-          "confidence": 0.998
+          "text": "Dancing",
+          "start": 85.87,
+          "end": 85.93,
+          "confidence": 0.541
         },
         {
-          "text": "declare",
-          "start": 144.0,
-          "end": 144.42,
-          "confidence": 1.0
+          "text": "out",
+          "start": 85.93,
+          "end": 86.63,
+          "confidence": 0.993
         },
         {
-          "text": "you're",
-          "start": 144.42,
-          "end": 145.1,
-          "confidence": 0.995
-        },
-        {
-          "text": "stoked",
-          "start": 145.1,
-          "end": 145.32,
-          "confidence": 0.997
-        }
-      ]
-    },
-    {
-      "id": 29,
-      "seek": 8800,
-      "start": 146.12,
-      "end": 149.8,
-      "text": " There's something you should know",
-      "tokens": [
-        51414,
-        821,
-        311,
-        746,
-        291,
-        820,
-        458,
-        51514
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.11388225304452997,
-      "compression_ratio": 2.9368421052631577,
-      "no_speech_prob": 0.167977973818779,
-      "confidence": 0.788,
-      "words": [
-        {
-          "text": "There's",
-          "start": 146.12,
-          "end": 146.56,
-          "confidence": 0.981
-        },
-        {
-          "text": "something",
-          "start": 146.56,
-          "end": 146.78,
-          "confidence": 0.967
-        },
-        {
-          "text": "you",
-          "start": 149.01,
-          "end": 149.3,
-          "confidence": 0.355
-        },
-        {
-          "text": "should",
-          "start": 149.3,
-          "end": 149.72,
-          "confidence": 0.836
-        },
-        {
-          "text": "know",
-          "start": 149.72,
-          "end": 149.8,
-          "confidence": 0.869
-        }
-      ]
-    },
-    {
-      "id": 30,
-      "seek": 8800,
-      "start": 149.8,
-      "end": 150.76,
-      "text": " I declare you're stoked",
-      "tokens": [
-        51514,
-        286,
-        19710,
-        291,
-        434,
-        49145,
-        51614
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.11388225304452997,
-      "compression_ratio": 2.9368421052631577,
-      "no_speech_prob": 0.167977973818779,
-      "confidence": 0.799,
-      "words": [
-        {
-          "text": "I",
-          "start": 149.8,
-          "end": 149.82,
-          "confidence": 0.615
-        },
-        {
-          "text": "declare",
-          "start": 149.82,
-          "end": 149.84,
+          "text": "of",
+          "start": 86.63,
+          "end": 86.83,
           "confidence": 0.994
         },
         {
-          "text": "you're",
-          "start": 149.84,
-          "end": 150.24,
+          "text": "my",
+          "start": 86.83,
+          "end": 87.35,
+          "confidence": 0.994
+        },
+        {
+          "text": "mind.",
+          "start": 87.35,
+          "end": 88.59,
+          "confidence": 0.986
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 9000,
+      "start": 126.08,
+      "end": 128.48,
+      "text": " Dancing out of ... empty mind.",
+      "tokens": [
+        50414,
+        36890,
+        484,
+        295,
+        1097,
+        6707,
+        1575,
+        13,
+        50614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5446372509002686,
+      "compression_ratio": 0.7894736842105263,
+      "no_speech_prob": 0.00023406172113027424,
+      "confidence": 0.55,
+      "words": [
+        {
+          "text": "Dancing",
+          "start": 126.08,
+          "end": 126.46,
+          "confidence": 0.531
+        },
+        {
+          "text": "out",
+          "start": 126.46,
+          "end": 127.04,
           "confidence": 0.97
         },
         {
-          "text": "stoked",
-          "start": 150.24,
-          "end": 150.76,
-          "confidence": 0.567
+          "text": "of",
+          "start": 127.04,
+          "end": 127.7,
+          "confidence": 0.869
+        },
+        {
+          "text": "...",
+          "start": 127.7,
+          "end": 127.98,
+          "confidence": 0.317
+        },
+        {
+          "text": "empty",
+          "start": 127.98,
+          "end": 128.0,
+          "confidence": 0.263
+        },
+        {
+          "text": "mind.",
+          "start": 128.0,
+          "end": 128.48,
+          "confidence": 0.738
         }
       ]
     }
   ],
-  "language": "en",
+  "language": "no",
   "language_probs": {
-    "en": 0.9875646233558655,
-    "zh": 0.0004820256435777992,
-    "de": 0.0004027474788017571,
-    "es": 0.003192699747160077,
-    "ru": 0.0010365179041400552,
-    "ko": 0.00035265745827928185,
-    "fr": 0.0006904698093421757,
-    "ja": 0.0003418073174543679,
-    "pt": 0.0021267966367304325,
-    "tr": 0.00011449112207628787,
-    "pl": 0.0001577181537868455,
-    "ca": 6.211700565472711e-06,
-    "nl": 0.0003843042941298336,
-    "ar": 0.0002276927698403597,
-    "sv": 5.9397207223810256e-05,
-    "it": 0.00031859948649071157,
-    "id": 0.0001026291647576727,
-    "hi": 9.566090739099309e-05,
-    "fi": 9.324867278337479e-06,
-    "vi": 0.0003365080920048058,
-    "he": 2.8277310775592923e-05,
-    "uk": 1.8836750314221717e-05,
-    "el": 4.9628222768660635e-05,
-    "ms": 0.00011998565605608746,
-    "cs": 1.797415279725101e-05,
-    "ro": 3.229369758628309e-05,
-    "da": 2.4376564397243783e-05,
-    "hu": 2.0688121367129497e-05,
-    "ta": 1.4218724572856445e-05,
-    "no": 1.2946295100846328e-05,
-    "th": 7.220864063128829e-05,
-    "ur": 4.483536758925766e-05,
-    "hr": 3.3772430469980463e-06,
-    "bg": 3.7971367419231683e-06,
-    "lt": 3.7304164379747817e-07,
-    "la": 0.0002442786644678563,
-    "mi": 7.868851389503106e-05,
-    "ml": 3.1056548323249444e-05,
-    "cy": 0.00011905192513950169,
-    "sk": 2.394824150542263e-06,
-    "te": 6.260419922909932e-06,
-    "fa": 4.269235432730056e-06,
-    "lv": 7.835833457647823e-07,
-    "bn": 2.8662291242653737e-06,
-    "sr": 7.190565156633966e-07,
-    "az": 1.2110888292227173e-07,
-    "sl": 7.975982043717522e-06,
-    "kn": 1.1784216980004203e-07,
-    "et": 2.583983587101102e-07,
-    "mk": 2.5044829499165644e-07,
-    "br": 2.2195115889189765e-05,
-    "eu": 6.861286010462209e-07,
-    "is": 2.064467253148905e-06,
-    "hy": 4.752673419261555e-07,
-    "ne": 6.754911510142847e-07,
-    "mn": 7.079085548866715e-07,
-    "bs": 3.484448143353802e-06,
-    "kk": 1.0604647826539804e-07,
-    "sq": 7.897290856817563e-07,
-    "sw": 1.073285693564685e-05,
-    "gl": 1.0649332580214832e-05,
-    "mr": 1.6424799298420112e-07,
-    "pa": 1.7759444403964153e-07,
-    "si": 9.546000910631847e-06,
-    "km": 0.00011010502930730581,
-    "sn": 3.9567064959555864e-05,
-    "yo": 8.624091606179718e-06,
-    "so": 2.016041911190314e-08,
-    "af": 3.5393204598221928e-06,
-    "oc": 1.0380792900832603e-06,
-    "ka": 4.420675026040044e-08,
-    "be": 6.861286010462209e-07,
-    "tg": 9.301117098736711e-10,
-    "sd": 8.948803156272334e-07,
-    "gu": 2.0719287618931048e-08,
-    "am": 9.051586147279522e-09,
-    "yi": 7.551507678726921e-06,
-    "lo": 4.865379423790728e-07,
-    "uz": 2.5560964803106323e-11,
-    "fo": 1.0964303100990946e-06,
-    "ht": 7.43443251849385e-06,
-    "ps": 1.3885201610719378e-07,
-    "tk": 3.061197961784501e-10,
-    "nn": 0.00028783062589354813,
-    "mt": 2.9741468665633874e-07,
-    "sa": 4.7256130528694484e-06,
-    "lb": 1.033569230202147e-09,
-    "my": 2.549276814534096e-06,
-    "bo": 8.810064286990382e-07,
-    "tl": 0.0002330923598492518,
-    "mg": 1.1195725596602202e-10,
-    "as": 1.519045724762691e-07,
-    "tt": 5.146606474326632e-10,
-    "haw": 0.00017594733799342066,
-    "ln": 8.421800856694972e-08,
-    "ha": 4.769138417515251e-10,
-    "ba": 3.696117301110746e-10,
-    "jw": 8.508257451467216e-05,
-    "su": 1.4604158993236638e-09
+    "en": 0.0027339623775333166,
+    "zh": 4.392565642774571e-06,
+    "de": 0.00015423959121108055,
+    "es": 4.384649218991399e-05,
+    "ru": 0.0002059368707705289,
+    "ko": 1.9840512322844006e-05,
+    "fr": 4.183861528872512e-05,
+    "ja": 4.384649218991399e-05,
+    "pt": 2.3653408788959496e-05,
+    "tr": 3.8014486563042738e-06,
+    "pl": 7.739365173620172e-06,
+    "ca": 3.906828624167247e-06,
+    "nl": 2.8807148737541866e-06,
+    "ar": 2.042732830886962e-06,
+    "sv": 7.456312687281752e-07,
+    "it": 1.041445375449257e-05,
+    "id": 1.0271504606862436e-06,
+    "hi": 1.2611396414285991e-05,
+    "fi": 6.82996596879093e-06,
+    "vi": 1.0033566013589734e-06,
+    "he": 6.491790372820105e-06,
+    "uk": 7.8000666690059e-06,
+    "el": 9.783474524738267e-06,
+    "ms": 5.075599801784847e-06,
+    "cs": 1.1709285899996758e-05,
+    "ro": 1.9456763766356744e-05,
+    "da": 3.43432270710764e-06,
+    "hu": 4.532000275503378e-06,
+    "ta": 9.445499927096535e-06,
+    "no": 0.9964404702186584,
+    "th": 2.034768613157212e-06,
+    "ur": 4.392565642774571e-06,
+    "hr": 2.7061812488682335e-06,
+    "bg": 7.875435699133959e-07,
+    "lt": 1.4346516763907857e-05,
+    "la": 1.2223385965626221e-05,
+    "mi": 8.977820471045561e-06,
+    "ml": 1.2833125992983696e-06,
+    "cy": 1.0787099199660588e-05,
+    "sk": 7.937204031804868e-07,
+    "te": 3.3547664770594565e-06,
+    "fa": 1.9040360257349676e-06,
+    "lv": 2.8471536097640637e-06,
+    "bn": 2.858296966223861e-06,
+    "sr": 2.9837910915375687e-06,
+    "az": 4.795388690581603e-07,
+    "sl": 1.9568180960050086e-06,
+    "kn": 1.0597557320579654e-06,
+    "et": 1.4372419627761701e-06,
+    "mk": 6.842297466391756e-07,
+    "br": 1.1730426194844767e-06,
+    "eu": 3.793464600221341e-07,
+    "is": 1.1062846851928043e-06,
+    "hy": 2.342004563615774e-06,
+    "ne": 1.8310938685317524e-06,
+    "mn": 1.7886765135699534e-06,
+    "bs": 3.213669742763159e-06,
+    "kk": 9.8011378213414e-07,
+    "sq": 2.22604376176605e-06,
+    "sw": 2.2788328806200298e-06,
+    "gl": 1.1593763247219613e-06,
+    "mr": 4.101713386717165e-07,
+    "pa": 3.090555765083991e-06,
+    "si": 2.674653160283924e-06,
+    "km": 3.251551106586703e-06,
+    "sn": 5.887798579351511e-06,
+    "yo": 2.444830897729844e-06,
+    "so": 2.487815038421104e-07,
+    "af": 2.532310645619873e-06,
+    "oc": 1.6702401239854225e-07,
+    "ka": 1.431425005193887e-07,
+    "be": 1.1593763247219613e-06,
+    "tg": 4.1494434555033877e-08,
+    "sd": 1.1106145620942698e-06,
+    "gu": 9.207317361870082e-07,
+    "am": 4.947611387251527e-07,
+    "yi": 3.054550006709178e-06,
+    "lo": 2.0665032707256614e-07,
+    "uz": 8.124986905500009e-09,
+    "fo": 4.298559019844106e-07,
+    "ht": 4.224288659315789e-06,
+    "ps": 4.6478501758429047e-07,
+    "tk": 2.4964338929400753e-10,
+    "nn": 5.65034895316785e-07,
+    "mt": 5.739328798881616e-07,
+    "sa": 6.789049962208082e-07,
+    "lb": 2.5818704330049513e-07,
+    "my": 1.0515086614759639e-06,
+    "bo": 3.5433395169093274e-06,
+    "tl": 7.953908607305493e-06,
+    "mg": 3.0249875937471415e-09,
+    "as": 1.6222591057157842e-06,
+    "tt": 2.0786472987310844e-07,
+    "haw": 1.0054682206828147e-05,
+    "ln": 7.072241459127326e-08,
+    "ha": 2.487815038421104e-07,
+    "ba": 8.867929723876955e-10,
+    "jw": 1.072247869160492e-06,
+    "su": 3.1017258095289435e-08
   },
   "speech_activity": [
     {

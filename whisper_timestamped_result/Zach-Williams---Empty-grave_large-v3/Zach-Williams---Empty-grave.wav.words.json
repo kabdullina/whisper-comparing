@@ -1,14 +1,14 @@
 {
-  "text": " Wipe away those tears child, there's no need to cry Stand up on your feet now, lift your head up high Now wait till tomorrow to lay down your sorrow Freedom is here today Wipe away those tears child, and put down your shame Oh, I see L.M.T. Gray The heavens waking, angels in jubilation Bad storms beckoning, the darkness breaking I bet the devil shaking, somebody celebrate I see L.M.T. Gray Wipe away those tears child, there's no need to cry Stand up on your feet now, lift your head up high Now wait till tomorrow to lay down your sorrow Freedom is here today Wipe away those tears child, and put down your shame Oh, I see L.M.T. Gray I hear the heavens waking, angels in jubilation Bad storms beckoning, the darkness breaking I bet the devil shaking, somebody celebrate I see L.M.T. Gray Wipe away those tears child, go and tell the news What started in the garden was finished in the tomb It's all reversed, the apple occurs three days in the ground Christ our Lord is risen, death couldn't hold him down",
+  "text": " Wipe away those tears child, there's no need to cry Stand up on your feet now, lift your head up high Wait till tomorrow to lay down your sorrow, freedom is here today Wipe away those tears child, put down your shame Oh, I see an empty grave, I hear the heavens waking Angels in jubilation, their stones beating The darkness breaking, I bet the devil's shaking Somebody celebrate, I see an empty grave Wipe away those tears child, there's no need to cry Stand up on your feet now, lift your head up high Wait till tomorrow to lay down your sorrow, freedom is here today Wipe away those tears child, put down your shame Oh, I see an empty grave, I hear the heavens waking Angels in jubilation, there's no need to cry Stand up on your feet now, lift your head up high Wait till tomorrow to lay down your sorrow, freedom is here today Wipe away those tears child, put down your shame Oh, I see an empty grave, I hear the heavens waking Angels in jubilation, their stones beating The darkness breaking, I bet the devil's shaking Somebody celebrate, I see an empty grave Wait till tomorrow to lay down your sorrow, freedom is here today Wipe away those tears child, there's no need to cry Stand up on your feet now, lift your head up high Wait till tomorrow to lay down your sorrow, freedom is here today Wipe away those tears child, put down your shame Oh, I see an empty grave, I hear the heavens waking Angels in jubilation, their stones being rolled up I feel the darkness breaking, I bet the devil's shaking Somebody celebrate, I see an empty grave Wipe away those tears child, put down your shame Oh, I see an empty grave, I hear the heavens waking Angels in jubilation, there's no need to cry Stand up on your feet now, lift your head up high Wait till tomorrow to lay down your sorrow, freedom is here today Wipe away those tears child, put down your shame Oh, I see an empty grave, I hear the heavens waking Angels in jubilation, there's no need to cry Stand up on your feet now, lift your head up high Wait till tomorrow to lay down your sorrow, freedom is here today Wipe away those tears child, put down your shame Oh, I see an empty grave, I hear the heavens waking Angels in jubilation, there's no need to cry Stand up on your feet now, lift your head up high Wipe away those tears child, put down your shame Oh, I see an empty grave, I hear the heavens waking Angels in jubilation, there's no need to cry Stand up on your feet now, lift your head up high Wait till tomorrow to lay down your sorrow, freedom is here today Wipe away those tears child, put down your shame Oh, I see an empty grave, I hear the heavens waking Angels in jubilation, there's no need to cry Stand up on your feet now, lift your head up high Wait till tomorrow to lay down your sorrow, freedom is here today Wipe away those tears child, put down your shame Angels in jubilation, there's no need to cry Stand up on your feet now, lift your head up high Wipe away those tears child, put down your shame Oh, I see an empty grave, I hear the heavens waking Angels in jubilation, there's no need to cry Stand up on your feet now, lift your head up high Wipe away those tears child, put down your shame Oh, I see an empty grave, I hear the heavens waking Angels in jubilation, there's no need to cry Stand up on your feet now, lift your head up high Wipe away those tears child, put down your shame Angels in jubilation, there's no need to cry Stand up on your feet now, lift your head up high Wipe away those tears child, put down your shame Angels in jubilation, there's no need to cry Stand up on your feet now, lift your head up high Wipe away those tears child, put down your shame Angels in jubilation, there's no need to cry",
   "segments": [
     {
       "id": 0,
       "seek": 0,
       "start": 47.82,
-      "end": 52.0,
+      "end": 51.94,
       "text": " Wipe away those tears child, there's no need to cry",
       "tokens": [
-        50364,
+        50365,
         343,
         6527,
         1314,
@@ -22,84 +22,84 @@
         643,
         281,
         3305,
-        50614
+        50615
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.285803705851237,
-      "compression_ratio": 1.5408805031446542,
-      "no_speech_prob": 0.5889491438865662,
-      "confidence": 0.854,
+      "avg_logprob": -0.19573319968530686,
+      "compression_ratio": 1.6119402985074627,
+      "no_speech_prob": 0.4213642477989197,
+      "confidence": 0.911,
       "words": [
         {
           "text": "Wipe",
           "start": 47.82,
-          "end": 47.9,
-          "confidence": 0.693
+          "end": 47.92,
+          "confidence": 0.926
         },
         {
           "text": "away",
-          "start": 47.9,
-          "end": 48.34,
-          "confidence": 0.894
+          "start": 47.92,
+          "end": 48.36,
+          "confidence": 0.995
         },
         {
           "text": "those",
-          "start": 48.34,
-          "end": 48.82,
-          "confidence": 0.987
+          "start": 48.36,
+          "end": 48.74,
+          "confidence": 0.982
         },
         {
           "text": "tears",
-          "start": 48.82,
-          "end": 49.32,
-          "confidence": 0.967
-        },
-        {
-          "text": "child,",
-          "start": 49.32,
-          "end": 49.86,
-          "confidence": 0.535
-        },
-        {
-          "text": "there's",
-          "start": 50.3,
-          "end": 50.74,
-          "confidence": 0.835
-        },
-        {
-          "text": "no",
-          "start": 50.74,
-          "end": 50.96,
+          "start": 48.74,
+          "end": 49.2,
           "confidence": 0.998
         },
         {
+          "text": "child,",
+          "start": 49.2,
+          "end": 49.74,
+          "confidence": 0.516
+        },
+        {
+          "text": "there's",
+          "start": 50.02,
+          "end": 50.7,
+          "confidence": 0.876
+        },
+        {
+          "text": "no",
+          "start": 50.7,
+          "end": 50.78,
+          "confidence": 0.997
+        },
+        {
           "text": "need",
-          "start": 50.96,
-          "end": 51.4,
+          "start": 50.78,
+          "end": 51.26,
           "confidence": 0.999
         },
         {
           "text": "to",
-          "start": 51.4,
-          "end": 51.64,
-          "confidence": 0.993
+          "start": 51.26,
+          "end": 51.6,
+          "confidence": 0.997
         },
         {
           "text": "cry",
-          "start": 51.64,
-          "end": 52.0,
-          "confidence": 0.997
+          "start": 51.6,
+          "end": 51.94,
+          "confidence": 0.998
         }
       ]
     },
     {
       "id": 1,
       "seek": 0,
-      "start": 53.16,
-      "end": 58.06,
+      "start": 53.12,
+      "end": 57.92,
       "text": " Stand up on your feet now, lift your head up high",
       "tokens": [
-        50614,
+        50615,
         9133,
         493,
         322,
@@ -112,92 +112,91 @@
         1378,
         493,
         1090,
-        50914
+        50915
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.285803705851237,
-      "compression_ratio": 1.5408805031446542,
-      "no_speech_prob": 0.5889491438865662,
-      "confidence": 0.929,
+      "avg_logprob": -0.19573319968530686,
+      "compression_ratio": 1.6119402985074627,
+      "no_speech_prob": 0.4213642477989197,
+      "confidence": 0.965,
       "words": [
         {
           "text": "Stand",
-          "start": 53.16,
-          "end": 53.54,
-          "confidence": 0.967
+          "start": 53.12,
+          "end": 53.38,
+          "confidence": 0.943
         },
         {
           "text": "up",
-          "start": 53.54,
-          "end": 53.98,
-          "confidence": 0.811
+          "start": 53.38,
+          "end": 53.76,
+          "confidence": 0.84
         },
         {
           "text": "on",
-          "start": 53.98,
-          "end": 54.34,
-          "confidence": 0.997
+          "start": 53.76,
+          "end": 54.06,
+          "confidence": 0.994
         },
         {
           "text": "your",
-          "start": 54.34,
-          "end": 54.6,
-          "confidence": 0.945
+          "start": 54.06,
+          "end": 54.56,
+          "confidence": 0.984
         },
         {
           "text": "feet",
-          "start": 54.6,
-          "end": 55.12,
-          "confidence": 0.999
+          "start": 54.56,
+          "end": 54.9,
+          "confidence": 0.997
         },
         {
           "text": "now,",
-          "start": 55.12,
-          "end": 55.66,
-          "confidence": 0.966
+          "start": 54.9,
+          "end": 55.48,
+          "confidence": 0.986
         },
         {
           "text": "lift",
-          "start": 56.14,
-          "end": 56.42,
-          "confidence": 0.993
+          "start": 55.72,
+          "end": 56.36,
+          "confidence": 0.937
         },
         {
           "text": "your",
-          "start": 56.42,
-          "end": 56.78,
-          "confidence": 0.991
+          "start": 56.36,
+          "end": 56.68,
+          "confidence": 0.979
         },
         {
           "text": "head",
-          "start": 56.78,
-          "end": 57.22,
-          "confidence": 0.999
+          "start": 56.68,
+          "end": 57.04,
+          "confidence": 0.998
         },
         {
           "text": "up",
-          "start": 57.22,
-          "end": 57.64,
-          "confidence": 0.645
+          "start": 57.04,
+          "end": 57.46,
+          "confidence": 0.974
         },
         {
           "text": "high",
-          "start": 57.64,
-          "end": 58.06,
-          "confidence": 0.986
+          "start": 57.46,
+          "end": 57.92,
+          "confidence": 0.993
         }
       ]
     },
     {
       "id": 2,
       "seek": 0,
-      "start": 58.9,
-      "end": 61.64,
-      "text": " Now wait till tomorrow to lay down your sorrow",
+      "start": 58.86,
+      "end": 63.4,
+      "text": " Wait till tomorrow to lay down your sorrow, freedom is here today",
       "tokens": [
-        50914,
-        823,
-        1699,
+        50915,
+        3802,
         4288,
         4153,
         281,
@@ -205,124 +204,101 @@
         760,
         428,
         23027,
-        51064
+        11,
+        5645,
+        307,
+        510,
+        965,
+        51215
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.285803705851237,
-      "compression_ratio": 1.5408805031446542,
-      "no_speech_prob": 0.5889491438865662,
-      "confidence": 0.826,
+      "avg_logprob": -0.19573319968530686,
+      "compression_ratio": 1.6119402985074627,
+      "no_speech_prob": 0.4213642477989197,
+      "confidence": 0.86,
       "words": [
         {
-          "text": "Now",
-          "start": 58.9,
+          "text": "Wait",
+          "start": 58.86,
           "end": 59.14,
-          "confidence": 0.381
-        },
-        {
-          "text": "wait",
-          "start": 59.14,
-          "end": 59.3,
-          "confidence": 0.862
+          "confidence": 0.498
         },
         {
           "text": "till",
-          "start": 59.3,
-          "end": 59.6,
-          "confidence": 0.776
+          "start": 59.14,
+          "end": 59.54,
+          "confidence": 0.671
         },
         {
           "text": "tomorrow",
-          "start": 59.6,
-          "end": 60.16,
-          "confidence": 0.98
-        },
-        {
-          "text": "to",
-          "start": 60.16,
-          "end": 60.56,
-          "confidence": 0.808
-        },
-        {
-          "text": "lay",
-          "start": 60.56,
-          "end": 60.72,
-          "confidence": 0.92
-        },
-        {
-          "text": "down",
-          "start": 60.72,
-          "end": 60.96,
-          "confidence": 0.998
-        },
-        {
-          "text": "your",
-          "start": 60.96,
-          "end": 61.16,
+          "start": 59.54,
+          "end": 59.98,
           "confidence": 0.979
         },
         {
-          "text": "sorrow",
-          "start": 61.16,
-          "end": 61.64,
-          "confidence": 0.985
+          "text": "to",
+          "start": 59.98,
+          "end": 60.38,
+          "confidence": 0.597
+        },
+        {
+          "text": "lay",
+          "start": 60.38,
+          "end": 60.62,
+          "confidence": 0.98
+        },
+        {
+          "text": "down",
+          "start": 60.62,
+          "end": 60.92,
+          "confidence": 0.997
+        },
+        {
+          "text": "your",
+          "start": 60.92,
+          "end": 61.04,
+          "confidence": 0.993
+        },
+        {
+          "text": "sorrow,",
+          "start": 61.04,
+          "end": 61.56,
+          "confidence": 0.909
+        },
+        {
+          "text": "freedom",
+          "start": 61.74,
+          "end": 62.2,
+          "confidence": 0.968
+        },
+        {
+          "text": "is",
+          "start": 62.2,
+          "end": 62.52,
+          "confidence": 0.991
+        },
+        {
+          "text": "here",
+          "start": 62.52,
+          "end": 62.84,
+          "confidence": 0.997
+        },
+        {
+          "text": "today",
+          "start": 62.84,
+          "end": 63.4,
+          "confidence": 0.994
         }
       ]
     },
     {
       "id": 3,
       "seek": 0,
-      "start": 61.84,
-      "end": 63.52,
-      "text": " Freedom is here today",
+      "start": 64.72,
+      "end": 69.54,
+      "text": " Wipe away those tears child, put down your shame",
       "tokens": [
-        51064,
-        22208,
-        307,
-        510,
-        965,
-        51214
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.285803705851237,
-      "compression_ratio": 1.5408805031446542,
-      "no_speech_prob": 0.5889491438865662,
-      "confidence": 0.824,
-      "words": [
-        {
-          "text": "Freedom",
-          "start": 61.84,
-          "end": 62.28,
-          "confidence": 0.919
-        },
-        {
-          "text": "is",
-          "start": 62.28,
-          "end": 62.64,
-          "confidence": 0.989
-        },
-        {
-          "text": "here",
-          "start": 62.64,
-          "end": 62.98,
-          "confidence": 0.521
-        },
-        {
-          "text": "today",
-          "start": 62.98,
-          "end": 63.52,
-          "confidence": 0.972
-        }
-      ]
-    },
-    {
-      "id": 4,
-      "seek": 0,
-      "start": 64.76,
-      "end": 69.58,
-      "text": " Wipe away those tears child, and put down your shame",
-      "tokens": [
-        51214,
+        51215,
         343,
         6527,
         1314,
@@ -330,393 +306,386 @@
         10462,
         1440,
         11,
-        293,
         829,
         760,
         428,
         10069,
-        51464
+        51465
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.285803705851237,
-      "compression_ratio": 1.5408805031446542,
-      "no_speech_prob": 0.5889491438865662,
-      "confidence": 0.947,
+      "avg_logprob": -0.19573319968530686,
+      "compression_ratio": 1.6119402985074627,
+      "no_speech_prob": 0.4213642477989197,
+      "confidence": 0.96,
       "words": [
         {
           "text": "Wipe",
-          "start": 64.76,
-          "end": 65.18,
-          "confidence": 0.995
+          "start": 64.72,
+          "end": 65.12,
+          "confidence": 0.997
         },
         {
           "text": "away",
-          "start": 65.18,
-          "end": 65.68,
-          "confidence": 0.994
+          "start": 65.12,
+          "end": 65.54,
+          "confidence": 0.998
         },
         {
           "text": "those",
-          "start": 65.68,
-          "end": 66.18,
+          "start": 65.54,
+          "end": 66.06,
           "confidence": 0.997
         },
         {
           "text": "tears",
-          "start": 66.18,
-          "end": 66.68,
+          "start": 66.06,
+          "end": 66.52,
           "confidence": 0.999
         },
         {
           "text": "child,",
-          "start": 66.68,
-          "end": 67.24,
-          "confidence": 0.988
-        },
-        {
-          "text": "and",
-          "start": 68.0,
-          "end": 68.12,
-          "confidence": 0.573
+          "start": 66.52,
+          "end": 67.1,
+          "confidence": 0.985
         },
         {
           "text": "put",
-          "start": 68.12,
-          "end": 68.34,
-          "confidence": 0.996
+          "start": 67.4,
+          "end": 68.16,
+          "confidence": 0.693
         },
         {
           "text": "down",
-          "start": 68.34,
-          "end": 68.74,
+          "start": 68.16,
+          "end": 68.68,
           "confidence": 0.998
         },
         {
           "text": "your",
-          "start": 68.74,
-          "end": 69.06,
-          "confidence": 0.997
+          "start": 68.68,
+          "end": 69.0,
+          "confidence": 0.991
         },
         {
           "text": "shame",
-          "start": 69.06,
-          "end": 69.58,
+          "start": 69.0,
+          "end": 69.54,
+          "confidence": 0.999
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 2200,
+      "start": 69.82,
+      "end": 78.9,
+      "text": " Oh, I see an empty grave, I hear the heavens waking",
+      "tokens": [
+        50365,
+        876,
+        11,
+        286,
+        536,
+        364,
+        6707,
+        12525,
+        11,
+        286,
+        1568,
+        264,
+        26011,
+        20447,
+        50765
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.18756760083712065,
+      "compression_ratio": 1.5376344086021505,
+      "no_speech_prob": 0.005811797454953194,
+      "confidence": 0.959,
+      "words": [
+        {
+          "text": "Oh,",
+          "start": 69.82,
+          "end": 70.04,
+          "confidence": 0.79
+        },
+        {
+          "text": "I",
+          "start": 70.22,
+          "end": 70.8,
+          "confidence": 0.989
+        },
+        {
+          "text": "see",
+          "start": 70.8,
+          "end": 71.41,
+          "confidence": 0.985
+        },
+        {
+          "text": "an",
+          "start": 72.06,
+          "end": 73.14,
+          "confidence": 0.926
+        },
+        {
+          "text": "empty",
+          "start": 73.14,
+          "end": 73.94,
           "confidence": 0.998
+        },
+        {
+          "text": "grave,",
+          "start": 73.94,
+          "end": 74.88,
+          "confidence": 0.994
+        },
+        {
+          "text": "I",
+          "start": 75.18,
+          "end": 75.6,
+          "confidence": 0.992
+        },
+        {
+          "text": "hear",
+          "start": 76.86,
+          "end": 77.42,
+          "confidence": 0.989
+        },
+        {
+          "text": "the",
+          "start": 77.42,
+          "end": 77.82,
+          "confidence": 0.997
+        },
+        {
+          "text": "heavens",
+          "start": 77.82,
+          "end": 78.34,
+          "confidence": 0.976
+        },
+        {
+          "text": "waking",
+          "start": 78.34,
+          "end": 78.9,
+          "confidence": 0.939
         }
       ]
     },
     {
       "id": 5,
-      "seek": 0,
-      "start": 69.94,
-      "end": 74.96,
-      "text": " Oh, I see L.M.T. Gray",
+      "seek": 2200,
+      "start": 79.62,
+      "end": 84.53,
+      "text": " Angels in jubilation, their stones beating",
       "tokens": [
-        51464,
-        876,
+        50765,
+        37950,
+        294,
+        361,
+        836,
+        16067,
         11,
-        286,
-        536,
-        441,
-        13,
-        44,
-        13,
-        51,
-        13,
-        22668,
-        51764
+        641,
+        14083,
+        13497,
+        51015
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.285803705851237,
-      "compression_ratio": 1.5408805031446542,
-      "no_speech_prob": 0.5889491438865662,
-      "confidence": 0.51,
+      "avg_logprob": -0.18756760083712065,
+      "compression_ratio": 1.5376344086021505,
+      "no_speech_prob": 0.005811797454953194,
+      "confidence": 0.765,
       "words": [
         {
-          "text": "Oh,",
-          "start": 69.94,
-          "end": 70.44,
-          "confidence": 0.753
+          "text": "Angels",
+          "start": 79.62,
+          "end": 80.04,
+          "confidence": 0.984
         },
         {
-          "text": "I",
-          "start": 70.8,
-          "end": 71.4,
-          "confidence": 0.913
+          "text": "in",
+          "start": 80.04,
+          "end": 80.52,
+          "confidence": 0.971
         },
         {
-          "text": "see",
-          "start": 71.63,
-          "end": 72.44,
-          "confidence": 0.746
+          "text": "jubilation,",
+          "start": 80.52,
+          "end": 81.76,
+          "confidence": 0.999
         },
         {
-          "text": "L.M.T.",
-          "start": 72.44,
-          "end": 74.22,
-          "confidence": 0.395
+          "text": "their",
+          "start": 82.06,
+          "end": 82.4,
+          "confidence": 0.438
         },
         {
-          "text": "Gray",
-          "start": 74.54,
-          "end": 74.96,
-          "confidence": 0.474
+          "text": "stones",
+          "start": 83.18,
+          "end": 83.97,
+          "confidence": 0.58
+        },
+        {
+          "text": "beating",
+          "start": 83.97,
+          "end": 84.53,
+          "confidence": 0.485
         }
       ]
     },
     {
       "id": 6,
-      "seek": 2800,
-      "start": 77.22,
-      "end": 81.98,
-      "text": " The heavens waking, angels in jubilation",
+      "seek": 2200,
+      "start": 89.01,
+      "end": 93.35,
+      "text": " The darkness breaking, I bet the devil's shaking",
       "tokens": [
-        50364,
+        51015,
         440,
-        26011,
-        20447,
+        11262,
+        7697,
         11,
-        18175,
-        294,
-        361,
-        836,
-        16067,
-        50614
+        286,
+        778,
+        264,
+        13297,
+        311,
+        15415,
+        51265
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.24012794494628906,
-      "compression_ratio": 1.337837837837838,
-      "no_speech_prob": 0.12971706688404083,
-      "confidence": 0.698,
+      "avg_logprob": -0.18756760083712065,
+      "compression_ratio": 1.5376344086021505,
+      "no_speech_prob": 0.005811797454953194,
+      "confidence": 0.682,
       "words": [
         {
           "text": "The",
-          "start": 77.22,
-          "end": 77.68,
-          "confidence": 0.23
+          "start": 89.01,
+          "end": 89.15,
+          "confidence": 0.244
         },
         {
-          "text": "heavens",
-          "start": 77.68,
-          "end": 78.38,
-          "confidence": 0.519
+          "text": "darkness",
+          "start": 89.15,
+          "end": 89.83,
+          "confidence": 0.97
         },
         {
-          "text": "waking,",
-          "start": 78.38,
-          "end": 79.0,
-          "confidence": 0.645
+          "text": "breaking,",
+          "start": 89.83,
+          "end": 90.45,
+          "confidence": 0.98
         },
         {
-          "text": "angels",
-          "start": 79.78,
-          "end": 80.26,
-          "confidence": 0.931
+          "text": "I",
+          "start": 90.77,
+          "end": 91.41,
+          "confidence": 0.466
         },
         {
-          "text": "in",
-          "start": 80.26,
-          "end": 80.74,
-          "confidence": 0.938
+          "text": "bet",
+          "start": 91.41,
+          "end": 91.63,
+          "confidence": 0.656
         },
         {
-          "text": "jubilation",
-          "start": 80.74,
-          "end": 81.98,
-          "confidence": 0.942
+          "text": "the",
+          "start": 91.63,
+          "end": 92.01,
+          "confidence": 0.978
+        },
+        {
+          "text": "devil's",
+          "start": 92.01,
+          "end": 92.85,
+          "confidence": 0.69
+        },
+        {
+          "text": "shaking",
+          "start": 92.85,
+          "end": 93.35,
+          "confidence": 0.971
         }
       ]
     },
     {
       "id": 7,
-      "seek": 2800,
-      "start": 83.1,
-      "end": 90.55,
-      "text": " Bad storms beckoning, the darkness breaking",
+      "seek": 2200,
+      "start": 93.95,
+      "end": 99.47,
+      "text": " Somebody celebrate, I see an empty grave",
       "tokens": [
-        50614,
-        11523,
-        23288,
-        312,
-        547,
-        16638,
+        51265,
+        13463,
+        8098,
         11,
-        264,
-        11262,
-        7697,
-        50814
+        286,
+        536,
+        364,
+        6707,
+        12525,
+        51615
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.24012794494628906,
-      "compression_ratio": 1.337837837837838,
-      "no_speech_prob": 0.12971706688404083,
-      "confidence": 0.578,
+      "avg_logprob": -0.18756760083712065,
+      "compression_ratio": 1.5376344086021505,
+      "no_speech_prob": 0.005811797454953194,
+      "confidence": 0.964,
       "words": [
         {
-          "text": "Bad",
-          "start": 83.1,
-          "end": 83.14,
-          "confidence": 0.65
+          "text": "Somebody",
+          "start": 93.95,
+          "end": 94.43,
+          "confidence": 0.989
         },
         {
-          "text": "storms",
-          "start": 83.18,
-          "end": 84.01,
-          "confidence": 0.957
+          "text": "celebrate,",
+          "start": 94.43,
+          "end": 95.67,
+          "confidence": 0.797
         },
         {
-          "text": "beckoning,",
-          "start": 84.01,
-          "end": 84.79,
-          "confidence": 0.333
+          "text": "I",
+          "start": 96.69,
+          "end": 97.11,
+          "confidence": 0.995
         },
         {
-          "text": "the",
-          "start": 89.41,
-          "end": 89.43,
-          "confidence": 0.866
+          "text": "see",
+          "start": 97.11,
+          "end": 97.61,
+          "confidence": 0.994
         },
         {
-          "text": "darkness",
-          "start": 89.43,
-          "end": 89.93,
-          "confidence": 0.737
+          "text": "an",
+          "start": 97.61,
+          "end": 97.91,
+          "confidence": 0.995
         },
         {
-          "text": "breaking",
-          "start": 89.93,
-          "end": 90.55,
-          "confidence": 0.85
+          "text": "empty",
+          "start": 97.91,
+          "end": 98.51,
+          "confidence": 0.999
+        },
+        {
+          "text": "grave",
+          "start": 98.51,
+          "end": 99.47,
+          "confidence": 0.999
         }
       ]
     },
     {
       "id": 8,
-      "seek": 2800,
-      "start": 91.23,
-      "end": 96.25,
-      "text": " I bet the devil shaking, somebody celebrate",
-      "tokens": [
-        50814,
-        286,
-        778,
-        264,
-        13297,
-        15415,
-        11,
-        2618,
-        8098,
-        51114
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.24012794494628906,
-      "compression_ratio": 1.337837837837838,
-      "no_speech_prob": 0.12971706688404083,
-      "confidence": 0.773,
-      "words": [
-        {
-          "text": "I",
-          "start": 91.23,
-          "end": 91.51,
-          "confidence": 0.692
-        },
-        {
-          "text": "bet",
-          "start": 91.51,
-          "end": 91.89,
-          "confidence": 0.613
-        },
-        {
-          "text": "the",
-          "start": 91.89,
-          "end": 92.25,
-          "confidence": 0.782
-        },
-        {
-          "text": "devil",
-          "start": 92.25,
-          "end": 92.81,
-          "confidence": 0.959
-        },
-        {
-          "text": "shaking,",
-          "start": 92.81,
-          "end": 93.51,
-          "confidence": 0.542
-        },
-        {
-          "text": "somebody",
-          "start": 94.01,
-          "end": 94.87,
-          "confidence": 0.973
-        },
-        {
-          "text": "celebrate",
-          "start": 94.87,
-          "end": 96.25,
-          "confidence": 0.982
-        }
-      ]
-    },
-    {
-      "id": 9,
-      "seek": 2800,
-      "start": 96.99,
-      "end": 99.47,
-      "text": " I see L.M.T. Gray",
-      "tokens": [
-        51114,
-        286,
-        536,
-        441,
-        13,
-        44,
-        13,
-        51,
-        13,
-        22668,
-        51314
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.24012794494628906,
-      "compression_ratio": 1.337837837837838,
-      "no_speech_prob": 0.12971706688404083,
-      "confidence": 0.917,
-      "words": [
-        {
-          "text": "I",
-          "start": 96.99,
-          "end": 97.25,
-          "confidence": 0.577
-        },
-        {
-          "text": "see",
-          "start": 97.25,
-          "end": 97.67,
-          "confidence": 0.964
-        },
-        {
-          "text": "L.M.T.",
-          "start": 97.67,
-          "end": 98.95,
-          "confidence": 0.982
-        },
-        {
-          "text": "Gray",
-          "start": 99.29,
-          "end": 99.47,
-          "confidence": 0.984
-        }
-      ]
-    },
-    {
-      "id": 10,
-      "seek": 2800,
-      "start": 106.73,
-      "end": 115.59,
+      "seek": 2200,
+      "start": 106.67,
+      "end": 114.27,
       "text": " Wipe away those tears child, there's no need to cry",
       "tokens": [
-        51314,
+        51615,
         343,
         6527,
         1314,
@@ -730,84 +699,84 @@
         643,
         281,
         3305,
-        51614
+        51815
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.24012794494628906,
-      "compression_ratio": 1.337837837837838,
-      "no_speech_prob": 0.12971706688404083,
-      "confidence": 0.993,
+      "avg_logprob": -0.18756760083712065,
+      "compression_ratio": 1.5376344086021505,
+      "no_speech_prob": 0.005811797454953194,
+      "confidence": 0.946,
       "words": [
         {
           "text": "Wipe",
-          "start": 106.73,
+          "start": 106.67,
           "end": 107.6,
-          "confidence": 0.971
+          "confidence": 0.933
         },
         {
           "text": "away",
-          "start": 111.43,
-          "end": 111.91,
-          "confidence": 0.996
+          "start": 111.29,
+          "end": 111.81,
+          "confidence": 1.0
         },
         {
           "text": "those",
-          "start": 111.91,
-          "end": 112.43,
+          "start": 111.81,
+          "end": 112.39,
           "confidence": 0.998
         },
         {
           "text": "tears",
-          "start": 112.43,
-          "end": 112.97,
+          "start": 112.39,
+          "end": 112.73,
           "confidence": 0.999
         },
         {
           "text": "child,",
-          "start": 112.97,
-          "end": 113.47,
-          "confidence": 0.995
+          "start": 112.73,
+          "end": 113.35,
+          "confidence": 0.994
         },
         {
           "text": "there's",
-          "start": 113.99,
-          "end": 114.35,
-          "confidence": 0.995
+          "start": 113.61,
+          "end": 114.19,
+          "confidence": 0.815
         },
         {
           "text": "no",
-          "start": 114.35,
-          "end": 114.59,
-          "confidence": 0.999
+          "start": 114.19,
+          "end": 114.21,
+          "confidence": 0.991
         },
         {
           "text": "need",
-          "start": 114.59,
-          "end": 115.01,
-          "confidence": 0.999
+          "start": 114.21,
+          "end": 114.23,
+          "confidence": 0.987
         },
         {
           "text": "to",
-          "start": 115.01,
-          "end": 115.27,
-          "confidence": 0.999
+          "start": 114.23,
+          "end": 114.25,
+          "confidence": 0.943
         },
         {
           "text": "cry",
-          "start": 115.27,
-          "end": 115.59,
-          "confidence": 0.998
+          "start": 114.25,
+          "end": 114.27,
+          "confidence": 0.973
         }
       ]
     },
     {
-      "id": 11,
-      "seek": 5300,
-      "start": 116.64,
-      "end": 121.7,
+      "id": 9,
+      "seek": 2200,
+      "start": 114.27,
+      "end": 114.71,
       "text": " Stand up on your feet now, lift your head up high",
       "tokens": [
-        50364,
+        51815,
         9133,
         493,
         322,
@@ -820,92 +789,91 @@
         1378,
         493,
         1090,
-        50664
+        51865
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.03924805824070761,
-      "compression_ratio": 1.4260355029585798,
-      "no_speech_prob": 0.10267049819231033,
-      "confidence": 0.994,
+      "avg_logprob": -0.18756760083712065,
+      "compression_ratio": 1.5376344086021505,
+      "no_speech_prob": 0.005811797454953194,
+      "confidence": 0.89,
       "words": [
         {
           "text": "Stand",
-          "start": 116.64,
-          "end": 117.14,
-          "confidence": 0.996
+          "start": 114.27,
+          "end": 114.29,
+          "confidence": 0.289
         },
         {
           "text": "up",
-          "start": 117.14,
-          "end": 117.6,
-          "confidence": 0.999
+          "start": 114.29,
+          "end": 114.31,
+          "confidence": 0.997
         },
         {
           "text": "on",
-          "start": 117.6,
-          "end": 117.94,
-          "confidence": 0.999
+          "start": 114.31,
+          "end": 114.33,
+          "confidence": 0.984
         },
         {
           "text": "your",
-          "start": 117.94,
-          "end": 118.22,
-          "confidence": 0.998
+          "start": 114.33,
+          "end": 114.35,
+          "confidence": 0.999
         },
         {
           "text": "feet",
-          "start": 118.22,
-          "end": 118.72,
-          "confidence": 0.999
+          "start": 114.35,
+          "end": 114.37,
+          "confidence": 0.998
         },
         {
           "text": "now,",
-          "start": 118.72,
-          "end": 119.24,
-          "confidence": 0.994
+          "start": 114.37,
+          "end": 114.39,
+          "confidence": 0.988
         },
         {
           "text": "lift",
-          "start": 119.68,
-          "end": 120.0,
-          "confidence": 0.964
+          "start": 114.39,
+          "end": 114.41,
+          "confidence": 0.998
         },
         {
           "text": "your",
-          "start": 120.0,
-          "end": 120.38,
-          "confidence": 0.997
+          "start": 114.41,
+          "end": 114.43,
+          "confidence": 1.0
         },
         {
           "text": "head",
-          "start": 120.38,
-          "end": 120.84,
-          "confidence": 0.999
-        },
-        {
-          "text": "up",
-          "start": 120.84,
-          "end": 121.26,
+          "start": 114.43,
+          "end": 114.51,
           "confidence": 0.995
         },
         {
+          "text": "up",
+          "start": 114.51,
+          "end": 114.69,
+          "confidence": 0.999
+        },
+        {
           "text": "high",
-          "start": 121.26,
-          "end": 121.7,
-          "confidence": 0.997
+          "start": 114.69,
+          "end": 114.71,
+          "confidence": 0.998
         }
       ]
     },
     {
-      "id": 12,
-      "seek": 5300,
-      "start": 122.52,
-      "end": 125.12,
-      "text": " Now wait till tomorrow to lay down your sorrow",
+      "id": 10,
+      "seek": 5200,
+      "start": 114.71,
+      "end": 115.43,
+      "text": " Wait till tomorrow to lay down your sorrow, freedom is here today",
       "tokens": [
-        50664,
-        823,
-        1699,
+        50365,
+        3802,
         4288,
         4153,
         281,
@@ -913,532 +881,558 @@
         760,
         428,
         23027,
-        50814
+        11,
+        5645,
+        307,
+        510,
+        965,
+        50415
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.03924805824070761,
-      "compression_ratio": 1.4260355029585798,
-      "no_speech_prob": 0.10267049819231033,
-      "confidence": 0.983,
+      "avg_logprob": -0.06285619099934896,
+      "compression_ratio": 3.5435684647302903,
+      "no_speech_prob": 0.004372411873191595,
+      "confidence": 0.974,
       "words": [
         {
-          "text": "Now",
-          "start": 122.52,
-          "end": 122.66,
-          "confidence": 0.908
-        },
-        {
-          "text": "wait",
-          "start": 122.66,
-          "end": 122.96,
-          "confidence": 0.996
+          "text": "Wait",
+          "start": 114.71,
+          "end": 114.73,
+          "confidence": 0.751
         },
         {
           "text": "till",
-          "start": 122.96,
-          "end": 123.24,
-          "confidence": 0.966
+          "start": 114.73,
+          "end": 114.75,
+          "confidence": 0.988
         },
         {
           "text": "tomorrow",
-          "start": 123.24,
-          "end": 123.78,
+          "start": 114.75,
+          "end": 114.77,
           "confidence": 0.999
         },
         {
           "text": "to",
-          "start": 123.78,
-          "end": 124.14,
-          "confidence": 0.993
+          "start": 114.77,
+          "end": 114.79,
+          "confidence": 0.994
         },
         {
           "text": "lay",
-          "start": 124.14,
-          "end": 124.4,
+          "start": 114.79,
+          "end": 114.81,
           "confidence": 0.999
         },
         {
           "text": "down",
-          "start": 124.4,
-          "end": 124.6,
+          "start": 114.81,
+          "end": 114.83,
+          "confidence": 1.0
+        },
+        {
+          "text": "your",
+          "start": 114.83,
+          "end": 114.85,
+          "confidence": 0.998
+        },
+        {
+          "text": "sorrow,",
+          "start": 114.85,
+          "end": 114.87,
+          "confidence": 0.998
+        },
+        {
+          "text": "freedom",
+          "start": 114.87,
+          "end": 114.89,
+          "confidence": 0.996
+        },
+        {
+          "text": "is",
+          "start": 114.89,
+          "end": 114.91,
+          "confidence": 0.998
+        },
+        {
+          "text": "here",
+          "start": 114.91,
+          "end": 115.21,
+          "confidence": 0.999
+        },
+        {
+          "text": "today",
+          "start": 115.21,
+          "end": 115.43,
+          "confidence": 0.999
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "seek": 5200,
+      "start": 115.51,
+      "end": 117.3,
+      "text": " Wipe away those tears child, put down your shame",
+      "tokens": [
+        50415,
+        343,
+        6527,
+        1314,
+        729,
+        10462,
+        1440,
+        11,
+        829,
+        760,
+        428,
+        10069,
+        50465
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.06285619099934896,
+      "compression_ratio": 3.5435684647302903,
+      "no_speech_prob": 0.004372411873191595,
+      "confidence": 0.978,
+      "words": [
+        {
+          "text": "Wipe",
+          "start": 115.51,
+          "end": 116.4,
+          "confidence": 0.912
+        },
+        {
+          "text": "away",
+          "start": 116.66,
+          "end": 116.68,
+          "confidence": 1.0
+        },
+        {
+          "text": "those",
+          "start": 116.68,
+          "end": 116.7,
+          "confidence": 0.999
+        },
+        {
+          "text": "tears",
+          "start": 116.7,
+          "end": 116.72,
+          "confidence": 1.0
+        },
+        {
+          "text": "child,",
+          "start": 116.72,
+          "end": 116.74,
+          "confidence": 0.996
+        },
+        {
+          "text": "put",
+          "start": 116.74,
+          "end": 116.88,
+          "confidence": 0.974
+        },
+        {
+          "text": "down",
+          "start": 116.88,
+          "end": 117.06,
           "confidence": 0.999
         },
         {
           "text": "your",
-          "start": 124.6,
-          "end": 124.8,
+          "start": 117.06,
+          "end": 117.28,
+          "confidence": 1.0
+        },
+        {
+          "text": "shame",
+          "start": 117.28,
+          "end": 117.3,
+          "confidence": 0.999
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "seek": 5200,
+      "start": 117.3,
+      "end": 118.38,
+      "text": " Oh, I see an empty grave, I hear the heavens waking",
+      "tokens": [
+        50465,
+        876,
+        11,
+        286,
+        536,
+        364,
+        6707,
+        12525,
+        11,
+        286,
+        1568,
+        264,
+        26011,
+        20447,
+        50515
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.06285619099934896,
+      "compression_ratio": 3.5435684647302903,
+      "no_speech_prob": 0.004372411873191595,
+      "confidence": 0.99,
+      "words": [
+        {
+          "text": "Oh,",
+          "start": 117.3,
+          "end": 117.32,
+          "confidence": 0.914
+        },
+        {
+          "text": "I",
+          "start": 117.32,
+          "end": 117.34,
           "confidence": 0.998
         },
         {
-          "text": "sorrow",
-          "start": 124.8,
-          "end": 125.12,
+          "text": "see",
+          "start": 117.34,
+          "end": 117.36,
+          "confidence": 0.998
+        },
+        {
+          "text": "an",
+          "start": 117.36,
+          "end": 117.72,
+          "confidence": 0.997
+        },
+        {
+          "text": "empty",
+          "start": 117.72,
+          "end": 118.22,
+          "confidence": 1.0
+        },
+        {
+          "text": "grave,",
+          "start": 118.22,
+          "end": 118.28,
+          "confidence": 1.0
+        },
+        {
+          "text": "I",
+          "start": 118.28,
+          "end": 118.3,
+          "confidence": 0.994
+        },
+        {
+          "text": "hear",
+          "start": 118.3,
+          "end": 118.32,
+          "confidence": 0.997
+        },
+        {
+          "text": "the",
+          "start": 118.32,
+          "end": 118.34,
+          "confidence": 0.998
+        },
+        {
+          "text": "heavens",
+          "start": 118.34,
+          "end": 118.36,
+          "confidence": 0.995
+        },
+        {
+          "text": "waking",
+          "start": 118.36,
+          "end": 118.38,
           "confidence": 0.999
         }
       ]
     },
     {
       "id": 13,
-      "seek": 5300,
-      "start": 125.36,
-      "end": 126.92,
-      "text": " Freedom is here today",
+      "seek": 5200,
+      "start": 118.38,
+      "end": 119.36,
+      "text": " Angels in jubilation, there's no need to cry",
       "tokens": [
-        50814,
-        22208,
-        307,
-        510,
-        965,
-        50914
+        50515,
+        37950,
+        294,
+        361,
+        836,
+        16067,
+        11,
+        456,
+        311,
+        572,
+        643,
+        281,
+        3305,
+        50565
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.03924805824070761,
-      "compression_ratio": 1.4260355029585798,
-      "no_speech_prob": 0.10267049819231033,
-      "confidence": 0.997,
+      "avg_logprob": -0.06285619099934896,
+      "compression_ratio": 3.5435684647302903,
+      "no_speech_prob": 0.004372411873191595,
+      "confidence": 0.955,
       "words": [
         {
-          "text": "Freedom",
-          "start": 125.36,
-          "end": 125.86,
-          "confidence": 0.994
+          "text": "Angels",
+          "start": 118.38,
+          "end": 118.4,
+          "confidence": 0.925
         },
         {
-          "text": "is",
-          "start": 125.86,
-          "end": 126.26,
-          "confidence": 0.997
+          "text": "in",
+          "start": 118.4,
+          "end": 118.42,
+          "confidence": 0.998
         },
         {
-          "text": "here",
-          "start": 126.26,
-          "end": 126.6,
-          "confidence": 0.999
+          "text": "jubilation,",
+          "start": 118.42,
+          "end": 118.78,
+          "confidence": 0.998
         },
         {
-          "text": "today",
-          "start": 126.6,
-          "end": 126.92,
-          "confidence": 0.999
+          "text": "there's",
+          "start": 118.84,
+          "end": 119.28,
+          "confidence": 0.829
+        },
+        {
+          "text": "no",
+          "start": 119.28,
+          "end": 119.3,
+          "confidence": 0.982
+        },
+        {
+          "text": "need",
+          "start": 119.3,
+          "end": 119.32,
+          "confidence": 0.998
+        },
+        {
+          "text": "to",
+          "start": 119.32,
+          "end": 119.34,
+          "confidence": 0.987
+        },
+        {
+          "text": "cry",
+          "start": 119.34,
+          "end": 119.36,
+          "confidence": 0.99
         }
       ]
     },
     {
       "id": 14,
-      "seek": 5300,
-      "start": 128.32,
-      "end": 133.18,
-      "text": " Wipe away those tears child, and put down your shame",
+      "seek": 5200,
+      "start": 119.36,
+      "end": 120.32,
+      "text": " Stand up on your feet now, lift your head up high",
       "tokens": [
-        50914,
-        343,
-        6527,
-        1314,
-        729,
-        10462,
-        1440,
-        11,
-        293,
-        829,
-        760,
+        50565,
+        9133,
+        493,
+        322,
         428,
-        10069,
-        51214
+        3521,
+        586,
+        11,
+        5533,
+        428,
+        1378,
+        493,
+        1090,
+        50615
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.03924805824070761,
-      "compression_ratio": 1.4260355029585798,
-      "no_speech_prob": 0.10267049819231033,
-      "confidence": 0.996,
+      "avg_logprob": -0.06285619099934896,
+      "compression_ratio": 3.5435684647302903,
+      "no_speech_prob": 0.004372411873191595,
+      "confidence": 0.935,
       "words": [
         {
-          "text": "Wipe",
-          "start": 128.32,
-          "end": 128.82,
-          "confidence": 0.998
+          "text": "Stand",
+          "start": 119.36,
+          "end": 119.38,
+          "confidence": 0.485
         },
         {
-          "text": "away",
-          "start": 128.82,
-          "end": 129.32,
+          "text": "up",
+          "start": 119.38,
+          "end": 119.4,
           "confidence": 0.999
         },
         {
-          "text": "those",
-          "start": 129.32,
-          "end": 129.8,
-          "confidence": 0.998
-        },
-        {
-          "text": "tears",
-          "start": 129.8,
-          "end": 130.32,
-          "confidence": 1.0
-        },
-        {
-          "text": "child,",
-          "start": 130.32,
-          "end": 130.88,
-          "confidence": 0.999
-        },
-        {
-          "text": "and",
-          "start": 131.64,
-          "end": 131.74,
-          "confidence": 0.974
-        },
-        {
-          "text": "put",
-          "start": 131.74,
-          "end": 131.96,
-          "confidence": 0.999
-        },
-        {
-          "text": "down",
-          "start": 131.96,
-          "end": 132.36,
-          "confidence": 0.999
+          "text": "on",
+          "start": 119.4,
+          "end": 119.42,
+          "confidence": 0.994
         },
         {
           "text": "your",
-          "start": 132.36,
-          "end": 132.68,
+          "start": 119.42,
+          "end": 119.44,
+          "confidence": 0.999
+        },
+        {
+          "text": "feet",
+          "start": 119.44,
+          "end": 119.46,
+          "confidence": 0.999
+        },
+        {
+          "text": "now,",
+          "start": 119.46,
+          "end": 119.48,
           "confidence": 0.998
         },
         {
-          "text": "shame",
-          "start": 132.68,
-          "end": 133.18,
+          "text": "lift",
+          "start": 119.48,
+          "end": 119.84,
+          "confidence": 0.992
+        },
+        {
+          "text": "your",
+          "start": 119.84,
+          "end": 120.1,
+          "confidence": 0.999
+        },
+        {
+          "text": "head",
+          "start": 120.1,
+          "end": 120.28,
+          "confidence": 0.999
+        },
+        {
+          "text": "up",
+          "start": 120.28,
+          "end": 120.3,
+          "confidence": 1.0
+        },
+        {
+          "text": "high",
+          "start": 120.3,
+          "end": 120.32,
           "confidence": 0.999
         }
       ]
     },
     {
       "id": 15,
-      "seek": 5300,
-      "start": 133.52,
-      "end": 138.66,
-      "text": " Oh, I see L.M.T. Gray",
+      "seek": 5200,
+      "start": 120.32,
+      "end": 120.79,
+      "text": " Wait till tomorrow to lay down your sorrow, freedom is here today",
       "tokens": [
-        51214,
-        876,
+        50615,
+        3802,
+        4288,
+        4153,
+        281,
+        2360,
+        760,
+        428,
+        23027,
         11,
-        286,
-        536,
-        441,
-        13,
-        44,
-        13,
-        51,
-        13,
-        22668,
-        51514
+        5645,
+        307,
+        510,
+        965,
+        50665
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.03924805824070761,
-      "compression_ratio": 1.4260355029585798,
-      "no_speech_prob": 0.10267049819231033,
-      "confidence": 0.991,
+      "avg_logprob": -0.06285619099934896,
+      "compression_ratio": 3.5435684647302903,
+      "no_speech_prob": 0.004372411873191595,
+      "confidence": 0.954,
       "words": [
         {
-          "text": "Oh,",
-          "start": 133.52,
-          "end": 134.14,
-          "confidence": 0.97
+          "text": "Wait",
+          "start": 120.32,
+          "end": 120.34,
+          "confidence": 0.598
         },
         {
-          "text": "I",
-          "start": 134.46,
-          "end": 135.16,
-          "confidence": 0.998
+          "text": "till",
+          "start": 120.34,
+          "end": 120.36,
+          "confidence": 0.975
         },
         {
-          "text": "see",
-          "start": 135.16,
-          "end": 136.06,
+          "text": "tomorrow",
+          "start": 120.36,
+          "end": 120.5,
+          "confidence": 0.999
+        },
+        {
+          "text": "to",
+          "start": 120.5,
+          "end": 120.52,
+          "confidence": 0.987
+        },
+        {
+          "text": "lay",
+          "start": 120.52,
+          "end": 120.54,
+          "confidence": 0.999
+        },
+        {
+          "text": "down",
+          "start": 120.54,
+          "end": 120.56,
+          "confidence": 1.0
+        },
+        {
+          "text": "your",
+          "start": 120.56,
+          "end": 120.58,
+          "confidence": 0.999
+        },
+        {
+          "text": "sorrow,",
+          "start": 120.58,
+          "end": 120.6,
+          "confidence": 0.999
+        },
+        {
+          "text": "freedom",
+          "start": 120.6,
+          "end": 120.62,
           "confidence": 0.997
         },
         {
-          "text": "L.M.T.",
-          "start": 136.06,
-          "end": 137.84,
-          "confidence": 0.994
+          "text": "is",
+          "start": 120.62,
+          "end": 120.64,
+          "confidence": 0.998
         },
         {
-          "text": "Gray",
-          "start": 138.26,
-          "end": 138.66,
-          "confidence": 0.988
+          "text": "here",
+          "start": 120.64,
+          "end": 120.66,
+          "confidence": 1.0
+        },
+        {
+          "text": "today",
+          "start": 120.66,
+          "end": 120.79,
+          "confidence": 0.998
         }
       ]
     },
     {
       "id": 16,
-      "seek": 5300,
-      "start": 140.43,
-      "end": 145.27,
-      "text": " I hear the heavens waking, angels in jubilation",
+      "seek": 5200,
+      "start": 120.79,
+      "end": 121.37,
+      "text": " Wipe away those tears child, put down your shame",
       "tokens": [
-        51514,
-        286,
-        1568,
-        264,
-        26011,
-        20447,
-        11,
-        18175,
-        294,
-        361,
-        836,
-        16067,
-        51764
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.03924805824070761,
-      "compression_ratio": 1.4260355029585798,
-      "no_speech_prob": 0.10267049819231033,
-      "confidence": 0.973,
-      "words": [
-        {
-          "text": "I",
-          "start": 140.43,
-          "end": 140.77,
-          "confidence": 0.816
-        },
-        {
-          "text": "hear",
-          "start": 140.77,
-          "end": 141.13,
-          "confidence": 0.987
-        },
-        {
-          "text": "the",
-          "start": 141.13,
-          "end": 141.39,
-          "confidence": 0.995
-        },
-        {
-          "text": "heavens",
-          "start": 141.39,
-          "end": 142.07,
-          "confidence": 0.994
-        },
-        {
-          "text": "waking,",
-          "start": 142.07,
-          "end": 142.63,
-          "confidence": 0.979
-        },
-        {
-          "text": "angels",
-          "start": 143.25,
-          "end": 143.85,
-          "confidence": 0.992
-        },
-        {
-          "text": "in",
-          "start": 143.85,
-          "end": 144.35,
-          "confidence": 0.996
-        },
-        {
-          "text": "jubilation",
-          "start": 144.35,
-          "end": 145.27,
-          "confidence": 0.995
-        }
-      ]
-    },
-    {
-      "id": 17,
-      "seek": 8100,
-      "start": 145.73,
-      "end": 154.13,
-      "text": " Bad storms beckoning, the darkness breaking",
-      "tokens": [
-        50364,
-        11523,
-        23288,
-        312,
-        547,
-        16638,
-        11,
-        264,
-        11262,
-        7697,
-        50664
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.08016637166341146,
-      "compression_ratio": 1.3708609271523178,
-      "no_speech_prob": 0.044025883078575134,
-      "confidence": 0.963,
-      "words": [
-        {
-          "text": "Bad",
-          "start": 145.73,
-          "end": 146.49,
-          "confidence": 0.971
-        },
-        {
-          "text": "storms",
-          "start": 146.49,
-          "end": 147.69,
-          "confidence": 0.963
-        },
-        {
-          "text": "beckoning,",
-          "start": 147.69,
-          "end": 149.11,
-          "confidence": 0.98
-        },
-        {
-          "text": "the",
-          "start": 152.11,
-          "end": 152.33,
-          "confidence": 0.853
-        },
-        {
-          "text": "darkness",
-          "start": 152.33,
-          "end": 153.51,
-          "confidence": 0.988
-        },
-        {
-          "text": "breaking",
-          "start": 153.51,
-          "end": 154.13,
-          "confidence": 0.998
-        }
-      ]
-    },
-    {
-      "id": 18,
-      "seek": 8100,
-      "start": 154.87,
-      "end": 159.63,
-      "text": " I bet the devil shaking, somebody celebrate",
-      "tokens": [
-        50664,
-        286,
-        778,
-        264,
-        13297,
-        15415,
-        11,
-        2618,
-        8098,
-        50964
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.08016637166341146,
-      "compression_ratio": 1.3708609271523178,
-      "no_speech_prob": 0.044025883078575134,
-      "confidence": 0.996,
-      "words": [
-        {
-          "text": "I",
-          "start": 154.87,
-          "end": 155.15,
-          "confidence": 0.998
-        },
-        {
-          "text": "bet",
-          "start": 155.15,
-          "end": 155.49,
-          "confidence": 0.996
-        },
-        {
-          "text": "the",
-          "start": 155.49,
-          "end": 155.89,
-          "confidence": 0.999
-        },
-        {
-          "text": "devil",
-          "start": 155.89,
-          "end": 156.45,
-          "confidence": 0.997
-        },
-        {
-          "text": "shaking,",
-          "start": 156.45,
-          "end": 157.11,
-          "confidence": 0.995
-        },
-        {
-          "text": "somebody",
-          "start": 157.75,
-          "end": 158.43,
-          "confidence": 0.993
-        },
-        {
-          "text": "celebrate",
-          "start": 158.43,
-          "end": 159.63,
-          "confidence": 0.994
-        }
-      ]
-    },
-    {
-      "id": 19,
-      "seek": 8100,
-      "start": 160.61,
-      "end": 162.8,
-      "text": " I see L.M.T. Gray",
-      "tokens": [
-        50964,
-        286,
-        536,
-        441,
-        13,
-        44,
-        13,
-        51,
-        13,
-        22668,
-        51114
-      ],
-      "temperature": 0.0,
-      "avg_logprob": -0.08016637166341146,
-      "compression_ratio": 1.3708609271523178,
-      "no_speech_prob": 0.044025883078575134,
-      "confidence": 0.914,
-      "words": [
-        {
-          "text": "I",
-          "start": 160.61,
-          "end": 161.13,
-          "confidence": 0.522
-        },
-        {
-          "text": "see",
-          "start": 161.13,
-          "end": 161.65,
-          "confidence": 0.99
-        },
-        {
-          "text": "L.M.T.",
-          "start": 161.65,
-          "end": 162.49,
-          "confidence": 0.99
-        },
-        {
-          "text": "Gray",
-          "start": 162.71,
-          "end": 162.8,
-          "confidence": 0.99
-        }
-      ]
-    },
-    {
-      "id": 20,
-      "seek": 8100,
-      "start": 203.6,
-      "end": 208.25,
-      "text": " Wipe away those tears child, go and tell the news",
-      "tokens": [
-        51114,
+        50665,
         343,
         6527,
         1314,
@@ -1446,458 +1440,5111 @@
         10462,
         1440,
         11,
-        352,
-        293,
-        980,
-        264,
-        2583,
-        51364
+        829,
+        760,
+        428,
+        10069,
+        50715
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.08016637166341146,
-      "compression_ratio": 1.3708609271523178,
-      "no_speech_prob": 0.044025883078575134,
-      "confidence": 0.982,
+      "avg_logprob": -0.06285619099934896,
+      "compression_ratio": 3.5435684647302903,
+      "no_speech_prob": 0.004372411873191595,
+      "confidence": 0.977,
       "words": [
         {
           "text": "Wipe",
-          "start": 203.6,
-          "end": 204.01,
-          "confidence": 0.997
+          "start": 120.79,
+          "end": 120.81,
+          "confidence": 0.924
         },
         {
           "text": "away",
-          "start": 204.01,
-          "end": 204.53,
-          "confidence": 0.998
+          "start": 120.81,
+          "end": 120.83,
+          "confidence": 1.0
         },
         {
           "text": "those",
-          "start": 204.53,
-          "end": 204.97,
-          "confidence": 0.997
-        },
-        {
-          "text": "tears",
-          "start": 204.97,
-          "end": 205.51,
+          "start": 120.83,
+          "end": 120.85,
           "confidence": 0.999
         },
         {
+          "text": "tears",
+          "start": 120.85,
+          "end": 120.87,
+          "confidence": 1.0
+        },
+        {
           "text": "child,",
-          "start": 205.51,
-          "end": 206.09,
+          "start": 120.87,
+          "end": 120.89,
           "confidence": 0.998
         },
         {
-          "text": "go",
-          "start": 206.49,
-          "end": 206.81,
+          "text": "put",
+          "start": 120.89,
+          "end": 120.91,
+          "confidence": 0.934
+        },
+        {
+          "text": "down",
+          "start": 120.91,
+          "end": 120.93,
+          "confidence": 0.999
+        },
+        {
+          "text": "your",
+          "start": 120.93,
+          "end": 120.95,
+          "confidence": 1.0
+        },
+        {
+          "text": "shame",
+          "start": 120.95,
+          "end": 121.37,
+          "confidence": 0.999
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "seek": 5200,
+      "start": 121.37,
+      "end": 123.28,
+      "text": " Oh, I see an empty grave, I hear the heavens waking",
+      "tokens": [
+        50715,
+        876,
+        11,
+        286,
+        536,
+        364,
+        6707,
+        12525,
+        11,
+        286,
+        1568,
+        264,
+        26011,
+        20447,
+        50765
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.06285619099934896,
+      "compression_ratio": 3.5435684647302903,
+      "no_speech_prob": 0.004372411873191595,
+      "confidence": 0.986,
+      "words": [
+        {
+          "text": "Oh,",
+          "start": 121.37,
+          "end": 121.39,
           "confidence": 0.884
         },
         {
-          "text": "and",
-          "start": 206.81,
-          "end": 207.21,
-          "confidence": 0.952
-        },
-        {
-          "text": "tell",
-          "start": 207.21,
-          "end": 207.53,
+          "text": "I",
+          "start": 121.39,
+          "end": 121.41,
           "confidence": 0.998
         },
         {
-          "text": "the",
-          "start": 207.53,
-          "end": 207.83,
+          "text": "see",
+          "start": 121.41,
+          "end": 121.43,
+          "confidence": 0.998
+        },
+        {
+          "text": "an",
+          "start": 121.43,
+          "end": 121.45,
+          "confidence": 0.998
+        },
+        {
+          "text": "empty",
+          "start": 121.45,
+          "end": 121.47,
+          "confidence": 1.0
+        },
+        {
+          "text": "grave,",
+          "start": 121.47,
+          "end": 121.64,
+          "confidence": 1.0
+        },
+        {
+          "text": "I",
+          "start": 121.8,
+          "end": 122.6,
+          "confidence": 0.985
+        },
+        {
+          "text": "hear",
+          "start": 122.6,
+          "end": 122.9,
           "confidence": 0.995
         },
         {
-          "text": "news",
-          "start": 207.83,
-          "end": 208.25,
+          "text": "the",
+          "start": 122.9,
+          "end": 123.18,
+          "confidence": 0.999
+        },
+        {
+          "text": "heavens",
+          "start": 123.18,
+          "end": 123.2,
+          "confidence": 0.998
+        },
+        {
+          "text": "waking",
+          "start": 123.2,
+          "end": 123.28,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "seek": 5200,
+      "start": 123.28,
+      "end": 124.28,
+      "text": " Angels in jubilation, their stones beating",
+      "tokens": [
+        50765,
+        37950,
+        294,
+        361,
+        836,
+        16067,
+        11,
+        641,
+        14083,
+        13497,
+        50815
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.06285619099934896,
+      "compression_ratio": 3.5435684647302903,
+      "no_speech_prob": 0.004372411873191595,
+      "confidence": 0.958,
+      "words": [
+        {
+          "text": "Angels",
+          "start": 123.28,
+          "end": 123.3,
+          "confidence": 0.868
+        },
+        {
+          "text": "in",
+          "start": 123.3,
+          "end": 123.32,
+          "confidence": 0.998
+        },
+        {
+          "text": "jubilation,",
+          "start": 123.32,
+          "end": 123.78,
+          "confidence": 0.999
+        },
+        {
+          "text": "their",
+          "start": 123.9,
+          "end": 124.14,
+          "confidence": 0.83
+        },
+        {
+          "text": "stones",
+          "start": 124.14,
+          "end": 124.2,
+          "confidence": 0.993
+        },
+        {
+          "text": "beating",
+          "start": 124.2,
+          "end": 124.28,
+          "confidence": 0.995
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "seek": 5200,
+      "start": 124.28,
+      "end": 125.02,
+      "text": " The darkness breaking, I bet the devil's shaking",
+      "tokens": [
+        50815,
+        440,
+        11262,
+        7697,
+        11,
+        286,
+        778,
+        264,
+        13297,
+        311,
+        15415,
+        50865
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.06285619099934896,
+      "compression_ratio": 3.5435684647302903,
+      "no_speech_prob": 0.004372411873191595,
+      "confidence": 0.871,
+      "words": [
+        {
+          "text": "The",
+          "start": 124.28,
+          "end": 124.3,
+          "confidence": 0.96
+        },
+        {
+          "text": "darkness",
+          "start": 124.3,
+          "end": 124.32,
+          "confidence": 0.953
+        },
+        {
+          "text": "breaking,",
+          "start": 124.32,
+          "end": 124.34,
+          "confidence": 0.984
+        },
+        {
+          "text": "I",
+          "start": 124.34,
+          "end": 124.36,
+          "confidence": 0.356
+        },
+        {
+          "text": "bet",
+          "start": 124.36,
+          "end": 124.38,
+          "confidence": 0.925
+        },
+        {
+          "text": "the",
+          "start": 124.38,
+          "end": 124.52,
+          "confidence": 0.993
+        },
+        {
+          "text": "devil's",
+          "start": 124.52,
+          "end": 124.7,
+          "confidence": 0.995
+        },
+        {
+          "text": "shaking",
+          "start": 124.7,
+          "end": 125.02,
           "confidence": 0.996
         }
       ]
     },
     {
-      "id": 21,
-      "seek": 8100,
-      "start": 209.1,
-      "end": 213.96,
-      "text": " What started in the garden was finished in the tomb",
+      "id": 20,
+      "seek": 5200,
+      "start": 125.02,
+      "end": 125.16,
+      "text": " Somebody celebrate, I see an empty grave",
       "tokens": [
-        51364,
-        708,
-        1409,
-        294,
-        264,
-        7431,
-        390,
-        4335,
-        294,
-        264,
-        18712,
-        51664
+        50865,
+        13463,
+        8098,
+        11,
+        286,
+        536,
+        364,
+        6707,
+        12525,
+        50915
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.08016637166341146,
-      "compression_ratio": 1.3708609271523178,
-      "no_speech_prob": 0.044025883078575134,
-      "confidence": 0.786,
+      "avg_logprob": -0.06285619099934896,
+      "compression_ratio": 3.5435684647302903,
+      "no_speech_prob": 0.004372411873191595,
+      "confidence": 0.813,
       "words": [
         {
-          "text": "What",
-          "start": 209.1,
-          "end": 209.34,
-          "confidence": 0.359
+          "text": "Somebody",
+          "start": 125.02,
+          "end": 125.04,
+          "confidence": 0.85
         },
         {
-          "text": "started",
-          "start": 209.34,
-          "end": 209.82,
-          "confidence": 0.906
+          "text": "celebrate,",
+          "start": 125.04,
+          "end": 125.06,
+          "confidence": 0.992
         },
         {
-          "text": "in",
-          "start": 209.82,
-          "end": 210.48,
-          "confidence": 0.991
+          "text": "I",
+          "start": 125.06,
+          "end": 125.08,
+          "confidence": 0.658
         },
         {
-          "text": "the",
-          "start": 210.48,
-          "end": 210.86,
-          "confidence": 0.993
+          "text": "see",
+          "start": 125.08,
+          "end": 125.1,
+          "confidence": 0.436
         },
         {
-          "text": "garden",
-          "start": 210.86,
-          "end": 211.6,
-          "confidence": 0.971
+          "text": "an",
+          "start": 125.1,
+          "end": 125.12,
+          "confidence": 0.968
         },
         {
-          "text": "was",
-          "start": 211.6,
-          "end": 212.36,
-          "confidence": 0.419
+          "text": "empty",
+          "start": 125.12,
+          "end": 125.14,
+          "confidence": 0.999
         },
         {
-          "text": "finished",
-          "start": 212.36,
-          "end": 212.78,
-          "confidence": 0.887
+          "text": "grave",
+          "start": 125.14,
+          "end": 125.16,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "seek": 5200,
+      "start": 125.3,
+      "end": 126.54,
+      "text": " Wait till tomorrow to lay down your sorrow, freedom is here today",
+      "tokens": [
+        50915,
+        3802,
+        4288,
+        4153,
+        281,
+        2360,
+        760,
+        428,
+        23027,
+        11,
+        5645,
+        307,
+        510,
+        965,
+        50965
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.06285619099934896,
+      "compression_ratio": 3.5435684647302903,
+      "no_speech_prob": 0.004372411873191595,
+      "confidence": 0.943,
+      "words": [
+        {
+          "text": "Wait",
+          "start": 125.3,
+          "end": 125.32,
+          "confidence": 0.525
         },
         {
-          "text": "in",
-          "start": 212.78,
-          "end": 213.44,
-          "confidence": 0.987
-        },
-        {
-          "text": "the",
-          "start": 213.44,
-          "end": 213.62,
+          "text": "till",
+          "start": 125.32,
+          "end": 125.34,
           "confidence": 0.977
         },
         {
-          "text": "tomb",
-          "start": 213.62,
-          "end": 213.96,
-          "confidence": 0.805
+          "text": "tomorrow",
+          "start": 125.34,
+          "end": 125.36,
+          "confidence": 0.998
+        },
+        {
+          "text": "to",
+          "start": 125.36,
+          "end": 125.38,
+          "confidence": 0.982
+        },
+        {
+          "text": "lay",
+          "start": 125.38,
+          "end": 125.4,
+          "confidence": 0.996
+        },
+        {
+          "text": "down",
+          "start": 125.4,
+          "end": 125.42,
+          "confidence": 1.0
+        },
+        {
+          "text": "your",
+          "start": 125.42,
+          "end": 125.44,
+          "confidence": 0.998
+        },
+        {
+          "text": "sorrow,",
+          "start": 125.44,
+          "end": 125.46,
+          "confidence": 0.997
+        },
+        {
+          "text": "freedom",
+          "start": 125.46,
+          "end": 125.68,
+          "confidence": 0.997
+        },
+        {
+          "text": "is",
+          "start": 125.68,
+          "end": 126.0,
+          "confidence": 0.998
+        },
+        {
+          "text": "here",
+          "start": 126.0,
+          "end": 126.36,
+          "confidence": 1.0
+        },
+        {
+          "text": "today",
+          "start": 126.36,
+          "end": 126.54,
+          "confidence": 0.998
         }
       ]
     },
     {
       "id": 22,
-      "seek": 10700,
-      "start": 215.1,
-      "end": 219.92,
-      "text": " It's all reversed, the apple occurs three days in the ground",
+      "seek": 5200,
+      "start": 126.54,
+      "end": 126.96,
+      "text": " Wipe away those tears child, there's no need to cry",
       "tokens": [
-        50364,
-        467,
-        311,
-        439,
-        30563,
+        50965,
+        343,
+        6527,
+        1314,
+        729,
+        10462,
+        1440,
         11,
-        264,
-        10606,
-        11843,
-        1045,
-        1708,
-        294,
-        264,
-        2727,
-        50664
+        456,
+        311,
+        572,
+        643,
+        281,
+        3305,
+        51015
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.15661330223083497,
-      "compression_ratio": 1.1734693877551021,
-      "no_speech_prob": 0.2961583137512207,
-      "confidence": 0.892,
+      "avg_logprob": -0.06285619099934896,
+      "compression_ratio": 3.5435684647302903,
+      "no_speech_prob": 0.004372411873191595,
+      "confidence": 0.926,
       "words": [
         {
-          "text": "It's",
-          "start": 215.1,
-          "end": 215.58,
-          "confidence": 0.968
+          "text": "Wipe",
+          "start": 126.54,
+          "end": 126.56,
+          "confidence": 0.828
         },
         {
-          "text": "all",
-          "start": 215.58,
-          "end": 215.72,
-          "confidence": 0.895
+          "text": "away",
+          "start": 126.56,
+          "end": 126.58,
+          "confidence": 1.0
         },
         {
-          "text": "reversed,",
-          "start": 215.72,
-          "end": 216.2,
-          "confidence": 0.845
+          "text": "those",
+          "start": 126.58,
+          "end": 126.6,
+          "confidence": 0.998
         },
         {
-          "text": "the",
-          "start": 216.62,
-          "end": 216.72,
-          "confidence": 0.969
+          "text": "tears",
+          "start": 126.6,
+          "end": 126.62,
+          "confidence": 1.0
         },
         {
-          "text": "apple",
-          "start": 216.72,
-          "end": 217.08,
-          "confidence": 0.971
-        },
-        {
-          "text": "occurs",
-          "start": 217.08,
-          "end": 217.7,
-          "confidence": 0.758
-        },
-        {
-          "text": "three",
-          "start": 217.7,
-          "end": 218.26,
-          "confidence": 0.51
-        },
-        {
-          "text": "days",
-          "start": 218.26,
-          "end": 218.64,
+          "text": "child,",
+          "start": 126.62,
+          "end": 126.64,
           "confidence": 0.999
         },
         {
-          "text": "in",
-          "start": 218.64,
-          "end": 219.14,
-          "confidence": 0.988
+          "text": "there's",
+          "start": 126.64,
+          "end": 126.66,
+          "confidence": 0.765
         },
         {
-          "text": "the",
-          "start": 219.14,
-          "end": 219.38,
-          "confidence": 0.995
+          "text": "no",
+          "start": 126.66,
+          "end": 126.68,
+          "confidence": 0.999
         },
         {
-          "text": "ground",
-          "start": 219.38,
-          "end": 219.92,
-          "confidence": 0.995
+          "text": "need",
+          "start": 126.68,
+          "end": 126.7,
+          "confidence": 1.0
+        },
+        {
+          "text": "to",
+          "start": 126.7,
+          "end": 126.72,
+          "confidence": 0.997
+        },
+        {
+          "text": "cry",
+          "start": 126.72,
+          "end": 126.96,
+          "confidence": 0.998
         }
       ]
     },
     {
       "id": 23,
-      "seek": 10700,
-      "start": 220.9,
-      "end": 226.3,
-      "text": " Christ our Lord is risen, death couldn't hold him down",
+      "seek": 5200,
+      "start": 128.01,
+      "end": 129.72,
+      "text": " Stand up on your feet now, lift your head up high",
       "tokens": [
-        50664,
-        2040,
-        527,
-        3257,
-        307,
-        28614,
+        51015,
+        9133,
+        493,
+        322,
+        428,
+        3521,
+        586,
         11,
-        2966,
-        2809,
-        380,
-        1797,
-        796,
-        760,
-        50964
+        5533,
+        428,
+        1378,
+        493,
+        1090,
+        51065
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.15661330223083497,
-      "compression_ratio": 1.1734693877551021,
-      "no_speech_prob": 0.2961583137512207,
-      "confidence": 0.841,
+      "avg_logprob": -0.06285619099934896,
+      "compression_ratio": 3.5435684647302903,
+      "no_speech_prob": 0.004372411873191595,
+      "confidence": 0.984,
       "words": [
         {
-          "text": "Christ",
-          "start": 220.9,
-          "end": 221.28,
-          "confidence": 0.53
+          "text": "Stand",
+          "start": 128.01,
+          "end": 128.62,
+          "confidence": 0.85
         },
         {
-          "text": "our",
-          "start": 221.28,
-          "end": 221.76,
-          "confidence": 0.45
+          "text": "up",
+          "start": 128.62,
+          "end": 128.74,
+          "confidence": 1.0
         },
         {
-          "text": "Lord",
-          "start": 221.76,
-          "end": 222.14,
-          "confidence": 0.896
-        },
-        {
-          "text": "is",
-          "start": 222.14,
-          "end": 222.48,
-          "confidence": 0.955
-        },
-        {
-          "text": "risen,",
-          "start": 222.48,
-          "end": 223.2,
+          "text": "on",
+          "start": 128.74,
+          "end": 129.06,
           "confidence": 0.998
         },
         {
-          "text": "death",
-          "start": 223.76,
-          "end": 224.16,
-          "confidence": 0.84
+          "text": "your",
+          "start": 129.06,
+          "end": 129.32,
+          "confidence": 0.999
         },
         {
-          "text": "couldn't",
-          "start": 224.16,
-          "end": 224.88,
+          "text": "feet",
+          "start": 129.32,
+          "end": 129.6,
+          "confidence": 1.0
+        },
+        {
+          "text": "now,",
+          "start": 129.6,
+          "end": 129.62,
+          "confidence": 0.999
+        },
+        {
+          "text": "lift",
+          "start": 129.62,
+          "end": 129.64,
+          "confidence": 0.987
+        },
+        {
+          "text": "your",
+          "start": 129.64,
+          "end": 129.66,
+          "confidence": 1.0
+        },
+        {
+          "text": "head",
+          "start": 129.66,
+          "end": 129.68,
+          "confidence": 0.999
+        },
+        {
+          "text": "up",
+          "start": 129.68,
+          "end": 129.7,
+          "confidence": 1.0
+        },
+        {
+          "text": "high",
+          "start": 129.7,
+          "end": 129.72,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "seek": 5200,
+      "start": 129.72,
+      "end": 130.6,
+      "text": " Wait till tomorrow to lay down your sorrow, freedom is here today",
+      "tokens": [
+        51065,
+        3802,
+        4288,
+        4153,
+        281,
+        2360,
+        760,
+        428,
+        23027,
+        11,
+        5645,
+        307,
+        510,
+        965,
+        51115
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.06285619099934896,
+      "compression_ratio": 3.5435684647302903,
+      "no_speech_prob": 0.004372411873191595,
+      "confidence": 0.989,
+      "words": [
+        {
+          "text": "Wait",
+          "start": 129.72,
+          "end": 129.74,
+          "confidence": 0.899
+        },
+        {
+          "text": "till",
+          "start": 129.74,
+          "end": 129.76,
+          "confidence": 0.992
+        },
+        {
+          "text": "tomorrow",
+          "start": 129.76,
+          "end": 129.78,
+          "confidence": 1.0
+        },
+        {
+          "text": "to",
+          "start": 129.78,
+          "end": 129.8,
+          "confidence": 0.991
+        },
+        {
+          "text": "lay",
+          "start": 129.8,
+          "end": 129.82,
+          "confidence": 0.999
+        },
+        {
+          "text": "down",
+          "start": 129.82,
+          "end": 129.84,
+          "confidence": 1.0
+        },
+        {
+          "text": "your",
+          "start": 129.84,
+          "end": 129.86,
+          "confidence": 1.0
+        },
+        {
+          "text": "sorrow,",
+          "start": 129.86,
+          "end": 130.12,
+          "confidence": 1.0
+        },
+        {
+          "text": "freedom",
+          "start": 130.12,
+          "end": 130.14,
+          "confidence": 0.999
+        },
+        {
+          "text": "is",
+          "start": 130.14,
+          "end": 130.16,
+          "confidence": 0.999
+        },
+        {
+          "text": "here",
+          "start": 130.16,
+          "end": 130.18,
+          "confidence": 1.0
+        },
+        {
+          "text": "today",
+          "start": 130.18,
+          "end": 130.6,
+          "confidence": 0.999
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "seek": 5200,
+      "start": 130.6,
+      "end": 131.64,
+      "text": " Wipe away those tears child, put down your shame",
+      "tokens": [
+        51115,
+        343,
+        6527,
+        1314,
+        729,
+        10462,
+        1440,
+        11,
+        829,
+        760,
+        428,
+        10069,
+        51165
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.06285619099934896,
+      "compression_ratio": 3.5435684647302903,
+      "no_speech_prob": 0.004372411873191595,
+      "confidence": 0.939,
+      "words": [
+        {
+          "text": "Wipe",
+          "start": 130.6,
+          "end": 130.62,
+          "confidence": 0.733
+        },
+        {
+          "text": "away",
+          "start": 130.62,
+          "end": 130.64,
+          "confidence": 1.0
+        },
+        {
+          "text": "those",
+          "start": 130.64,
+          "end": 130.66,
+          "confidence": 0.998
+        },
+        {
+          "text": "tears",
+          "start": 130.66,
+          "end": 130.68,
+          "confidence": 1.0
+        },
+        {
+          "text": "child,",
+          "start": 130.68,
+          "end": 130.7,
+          "confidence": 1.0
+        },
+        {
+          "text": "put",
+          "start": 131.0,
+          "end": 131.22,
           "confidence": 0.995
         },
         {
-          "text": "hold",
-          "start": 224.88,
+          "text": "down",
+          "start": 131.22,
+          "end": 131.6,
+          "confidence": 1.0
+        },
+        {
+          "text": "your",
+          "start": 131.6,
+          "end": 131.62,
+          "confidence": 1.0
+        },
+        {
+          "text": "shame",
+          "start": 131.62,
+          "end": 131.64,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "seek": 6800,
+      "start": 131.64,
+      "end": 138.7,
+      "text": " Oh, I see an empty grave, I hear the heavens waking",
+      "tokens": [
+        50365,
+        876,
+        11,
+        286,
+        536,
+        364,
+        6707,
+        12525,
+        11,
+        286,
+        1568,
+        264,
+        26011,
+        20447,
+        50715
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.09455475571978787,
+      "compression_ratio": 3.3495934959349594,
+      "no_speech_prob": 0.01824481599032879,
+      "confidence": 0.959,
+      "words": [
+        {
+          "text": "Oh,",
+          "start": 131.64,
+          "end": 133.52,
+          "confidence": 0.65
+        },
+        {
+          "text": "I",
+          "start": 133.8,
+          "end": 134.34,
+          "confidence": 0.997
+        },
+        {
+          "text": "see",
+          "start": 134.34,
+          "end": 135.66,
+          "confidence": 0.997
+        },
+        {
+          "text": "an",
+          "start": 135.66,
+          "end": 136.48,
+          "confidence": 0.999
+        },
+        {
+          "text": "empty",
+          "start": 136.48,
+          "end": 137.38,
+          "confidence": 1.0
+        },
+        {
+          "text": "grave,",
+          "start": 137.38,
+          "end": 138.28,
+          "confidence": 0.999
+        },
+        {
+          "text": "I",
+          "start": 138.6,
+          "end": 138.62,
+          "confidence": 0.992
+        },
+        {
+          "text": "hear",
+          "start": 138.62,
+          "end": 138.64,
+          "confidence": 0.99
+        },
+        {
+          "text": "the",
+          "start": 138.64,
+          "end": 138.66,
+          "confidence": 0.999
+        },
+        {
+          "text": "heavens",
+          "start": 138.66,
+          "end": 138.68,
+          "confidence": 0.996
+        },
+        {
+          "text": "waking",
+          "start": 138.68,
+          "end": 138.7,
+          "confidence": 0.997
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "seek": 6800,
+      "start": 138.7,
+      "end": 138.96,
+      "text": " Angels in jubilation, their stones being rolled up",
+      "tokens": [
+        50715,
+        37950,
+        294,
+        361,
+        836,
+        16067,
+        11,
+        641,
+        14083,
+        885,
+        14306,
+        493,
+        50865
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.09455475571978787,
+      "compression_ratio": 3.3495934959349594,
+      "no_speech_prob": 0.01824481599032879,
+      "confidence": 0.877,
+      "words": [
+        {
+          "text": "Angels",
+          "start": 138.7,
+          "end": 138.72,
+          "confidence": 0.93
+        },
+        {
+          "text": "in",
+          "start": 138.72,
+          "end": 138.74,
+          "confidence": 0.999
+        },
+        {
+          "text": "jubilation,",
+          "start": 138.74,
+          "end": 138.76,
+          "confidence": 0.998
+        },
+        {
+          "text": "their",
+          "start": 138.76,
+          "end": 138.78,
+          "confidence": 0.838
+        },
+        {
+          "text": "stones",
+          "start": 138.78,
+          "end": 138.8,
+          "confidence": 0.995
+        },
+        {
+          "text": "being",
+          "start": 138.8,
+          "end": 138.82,
+          "confidence": 0.635
+        },
+        {
+          "text": "rolled",
+          "start": 138.82,
+          "end": 138.84,
+          "confidence": 0.597
+        },
+        {
+          "text": "up",
+          "start": 138.84,
+          "end": 138.96,
+          "confidence": 0.925
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "seek": 6800,
+      "start": 141.83,
+      "end": 143.85,
+      "text": " I feel the darkness breaking, I bet the devil's shaking",
+      "tokens": [
+        50865,
+        286,
+        841,
+        264,
+        11262,
+        7697,
+        11,
+        286,
+        778,
+        264,
+        13297,
+        311,
+        15415,
+        50915
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.09455475571978787,
+      "compression_ratio": 3.3495934959349594,
+      "no_speech_prob": 0.01824481599032879,
+      "confidence": 0.964,
+      "words": [
+        {
+          "text": "I",
+          "start": 141.83,
+          "end": 141.85,
+          "confidence": 0.858
+        },
+        {
+          "text": "feel",
+          "start": 141.85,
+          "end": 141.87,
+          "confidence": 0.923
+        },
+        {
+          "text": "the",
+          "start": 141.87,
+          "end": 141.89,
+          "confidence": 0.995
+        },
+        {
+          "text": "darkness",
+          "start": 141.89,
+          "end": 142.15,
+          "confidence": 0.994
+        },
+        {
+          "text": "breaking,",
+          "start": 142.15,
+          "end": 142.49,
+          "confidence": 0.995
+        },
+        {
+          "text": "I",
+          "start": 142.85,
+          "end": 143.37,
+          "confidence": 0.991
+        },
+        {
+          "text": "bet",
+          "start": 143.37,
+          "end": 143.71,
+          "confidence": 0.971
+        },
+        {
+          "text": "the",
+          "start": 143.71,
+          "end": 143.81,
+          "confidence": 0.996
+        },
+        {
+          "text": "devil's",
+          "start": 143.81,
+          "end": 143.83,
+          "confidence": 0.949
+        },
+        {
+          "text": "shaking",
+          "start": 143.83,
+          "end": 143.85,
+          "confidence": 0.99
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "seek": 6800,
+      "start": 143.85,
+      "end": 144.81,
+      "text": " Somebody celebrate, I see an empty grave",
+      "tokens": [
+        50915,
+        13463,
+        8098,
+        11,
+        286,
+        536,
+        364,
+        6707,
+        12525,
+        50965
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.09455475571978787,
+      "compression_ratio": 3.3495934959349594,
+      "no_speech_prob": 0.01824481599032879,
+      "confidence": 0.988,
+      "words": [
+        {
+          "text": "Somebody",
+          "start": 143.85,
+          "end": 143.87,
+          "confidence": 0.976
+        },
+        {
+          "text": "celebrate,",
+          "start": 143.87,
+          "end": 143.89,
+          "confidence": 0.981
+        },
+        {
+          "text": "I",
+          "start": 143.89,
+          "end": 143.91,
+          "confidence": 0.971
+        },
+        {
+          "text": "see",
+          "start": 143.91,
+          "end": 143.93,
+          "confidence": 0.996
+        },
+        {
+          "text": "an",
+          "start": 143.93,
+          "end": 144.13,
+          "confidence": 0.996
+        },
+        {
+          "text": "empty",
+          "start": 144.13,
+          "end": 144.51,
+          "confidence": 0.999
+        },
+        {
+          "text": "grave",
+          "start": 144.51,
+          "end": 144.81,
+          "confidence": 0.994
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "seek": 6800,
+      "start": 144.81,
+      "end": 145.17,
+      "text": " Wipe away those tears child, put down your shame",
+      "tokens": [
+        50965,
+        343,
+        6527,
+        1314,
+        729,
+        10462,
+        1440,
+        11,
+        829,
+        760,
+        428,
+        10069,
+        51015
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.09455475571978787,
+      "compression_ratio": 3.3495934959349594,
+      "no_speech_prob": 0.01824481599032879,
+      "confidence": 0.949,
+      "words": [
+        {
+          "text": "Wipe",
+          "start": 144.81,
+          "end": 144.83,
+          "confidence": 0.841
+        },
+        {
+          "text": "away",
+          "start": 144.83,
+          "end": 144.85,
+          "confidence": 0.999
+        },
+        {
+          "text": "those",
+          "start": 144.85,
+          "end": 144.87,
+          "confidence": 0.997
+        },
+        {
+          "text": "tears",
+          "start": 144.87,
+          "end": 144.89,
+          "confidence": 0.998
+        },
+        {
+          "text": "child,",
+          "start": 144.89,
+          "end": 144.91,
+          "confidence": 0.966
+        },
+        {
+          "text": "put",
+          "start": 144.91,
+          "end": 144.93,
+          "confidence": 0.928
+        },
+        {
+          "text": "down",
+          "start": 144.93,
+          "end": 145.01,
+          "confidence": 0.995
+        },
+        {
+          "text": "your",
+          "start": 145.01,
+          "end": 145.03,
+          "confidence": 0.995
+        },
+        {
+          "text": "shame",
+          "start": 145.03,
+          "end": 145.17,
+          "confidence": 0.945
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "seek": 6800,
+      "start": 145.17,
+      "end": 146.83,
+      "text": " Oh, I see an empty grave, I hear the heavens waking",
+      "tokens": [
+        51015,
+        876,
+        11,
+        286,
+        536,
+        364,
+        6707,
+        12525,
+        11,
+        286,
+        1568,
+        264,
+        26011,
+        20447,
+        51065
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.09455475571978787,
+      "compression_ratio": 3.3495934959349594,
+      "no_speech_prob": 0.01824481599032879,
+      "confidence": 0.894,
+      "words": [
+        {
+          "text": "Oh,",
+          "start": 145.17,
+          "end": 145.19,
+          "confidence": 0.305
+        },
+        {
+          "text": "I",
+          "start": 145.19,
+          "end": 145.21,
+          "confidence": 0.994
+        },
+        {
+          "text": "see",
+          "start": 145.21,
+          "end": 145.23,
+          "confidence": 0.994
+        },
+        {
+          "text": "an",
+          "start": 145.23,
+          "end": 145.25,
+          "confidence": 0.996
+        },
+        {
+          "text": "empty",
+          "start": 145.25,
+          "end": 145.27,
+          "confidence": 1.0
+        },
+        {
+          "text": "grave,",
+          "start": 145.27,
+          "end": 145.57,
+          "confidence": 0.999
+        },
+        {
+          "text": "I",
+          "start": 145.57,
+          "end": 146.11,
+          "confidence": 0.989
+        },
+        {
+          "text": "hear",
+          "start": 146.11,
+          "end": 146.13,
+          "confidence": 0.988
+        },
+        {
+          "text": "the",
+          "start": 146.13,
+          "end": 146.57,
+          "confidence": 0.998
+        },
+        {
+          "text": "heavens",
+          "start": 146.57,
+          "end": 146.81,
+          "confidence": 0.997
+        },
+        {
+          "text": "waking",
+          "start": 146.81,
+          "end": 146.83,
+          "confidence": 0.999
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "seek": 6800,
+      "start": 146.83,
+      "end": 147.85,
+      "text": " Angels in jubilation, there's no need to cry",
+      "tokens": [
+        51065,
+        37950,
+        294,
+        361,
+        836,
+        16067,
+        11,
+        456,
+        311,
+        572,
+        643,
+        281,
+        3305,
+        51115
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.09455475571978787,
+      "compression_ratio": 3.3495934959349594,
+      "no_speech_prob": 0.01824481599032879,
+      "confidence": 0.949,
+      "words": [
+        {
+          "text": "Angels",
+          "start": 146.83,
+          "end": 146.85,
+          "confidence": 0.911
+        },
+        {
+          "text": "in",
+          "start": 146.85,
+          "end": 146.87,
+          "confidence": 0.998
+        },
+        {
+          "text": "jubilation,",
+          "start": 146.87,
+          "end": 146.89,
+          "confidence": 0.999
+        },
+        {
+          "text": "there's",
+          "start": 146.89,
+          "end": 146.91,
+          "confidence": 0.802
+        },
+        {
+          "text": "no",
+          "start": 146.91,
+          "end": 147.25,
+          "confidence": 0.984
+        },
+        {
+          "text": "need",
+          "start": 147.25,
+          "end": 147.81,
+          "confidence": 0.994
+        },
+        {
+          "text": "to",
+          "start": 147.81,
+          "end": 147.83,
+          "confidence": 0.99
+        },
+        {
+          "text": "cry",
+          "start": 147.83,
+          "end": 147.85,
+          "confidence": 0.995
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "seek": 6800,
+      "start": 147.85,
+      "end": 148.81,
+      "text": " Stand up on your feet now, lift your head up high",
+      "tokens": [
+        51115,
+        9133,
+        493,
+        322,
+        428,
+        3521,
+        586,
+        11,
+        5533,
+        428,
+        1378,
+        493,
+        1090,
+        51165
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.09455475571978787,
+      "compression_ratio": 3.3495934959349594,
+      "no_speech_prob": 0.01824481599032879,
+      "confidence": 0.986,
+      "words": [
+        {
+          "text": "Stand",
+          "start": 147.85,
+          "end": 147.87,
+          "confidence": 0.951
+        },
+        {
+          "text": "up",
+          "start": 147.87,
+          "end": 147.89,
+          "confidence": 0.997
+        },
+        {
+          "text": "on",
+          "start": 147.89,
+          "end": 147.91,
+          "confidence": 0.966
+        },
+        {
+          "text": "your",
+          "start": 147.91,
+          "end": 147.95,
+          "confidence": 0.998
+        },
+        {
+          "text": "feet",
+          "start": 147.95,
+          "end": 148.07,
+          "confidence": 0.998
+        },
+        {
+          "text": "now,",
+          "start": 148.07,
+          "end": 148.53,
+          "confidence": 0.989
+        },
+        {
+          "text": "lift",
+          "start": 148.53,
+          "end": 148.55,
+          "confidence": 0.996
+        },
+        {
+          "text": "your",
+          "start": 148.55,
+          "end": 148.57,
+          "confidence": 0.999
+        },
+        {
+          "text": "head",
+          "start": 148.57,
+          "end": 148.59,
+          "confidence": 0.99
+        },
+        {
+          "text": "up",
+          "start": 148.59,
+          "end": 148.61,
+          "confidence": 0.993
+        },
+        {
+          "text": "high",
+          "start": 148.61,
+          "end": 148.81,
+          "confidence": 0.971
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "seek": 6800,
+      "start": 148.81,
+      "end": 149.05,
+      "text": " Wait till tomorrow to lay down your sorrow, freedom is here today",
+      "tokens": [
+        51165,
+        3802,
+        4288,
+        4153,
+        281,
+        2360,
+        760,
+        428,
+        23027,
+        11,
+        5645,
+        307,
+        510,
+        965,
+        51215
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.09455475571978787,
+      "compression_ratio": 3.3495934959349594,
+      "no_speech_prob": 0.01824481599032879,
+      "confidence": 0.931,
+      "words": [
+        {
+          "text": "Wait",
+          "start": 148.81,
+          "end": 148.83,
+          "confidence": 0.461
+        },
+        {
+          "text": "till",
+          "start": 148.83,
+          "end": 148.85,
+          "confidence": 0.968
+        },
+        {
+          "text": "tomorrow",
+          "start": 148.85,
+          "end": 148.87,
+          "confidence": 0.998
+        },
+        {
+          "text": "to",
+          "start": 148.87,
+          "end": 148.89,
+          "confidence": 0.995
+        },
+        {
+          "text": "lay",
+          "start": 148.89,
+          "end": 148.91,
+          "confidence": 0.998
+        },
+        {
+          "text": "down",
+          "start": 148.91,
+          "end": 148.93,
+          "confidence": 0.999
+        },
+        {
+          "text": "your",
+          "start": 148.93,
+          "end": 148.95,
+          "confidence": 0.998
+        },
+        {
+          "text": "sorrow,",
+          "start": 148.95,
+          "end": 148.97,
+          "confidence": 0.997
+        },
+        {
+          "text": "freedom",
+          "start": 148.97,
+          "end": 148.99,
+          "confidence": 0.998
+        },
+        {
+          "text": "is",
+          "start": 148.99,
+          "end": 149.01,
+          "confidence": 0.998
+        },
+        {
+          "text": "here",
+          "start": 149.01,
+          "end": 149.03,
+          "confidence": 1.0
+        },
+        {
+          "text": "today",
+          "start": 149.03,
+          "end": 149.05,
+          "confidence": 0.974
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "seek": 6800,
+      "start": 152.01,
+      "end": 153.45,
+      "text": " Wipe away those tears child, put down your shame",
+      "tokens": [
+        51215,
+        343,
+        6527,
+        1314,
+        729,
+        10462,
+        1440,
+        11,
+        829,
+        760,
+        428,
+        10069,
+        51265
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.09455475571978787,
+      "compression_ratio": 3.3495934959349594,
+      "no_speech_prob": 0.01824481599032879,
+      "confidence": 0.935,
+      "words": [
+        {
+          "text": "Wipe",
+          "start": 152.01,
+          "end": 152.19,
+          "confidence": 0.729
+        },
+        {
+          "text": "away",
+          "start": 152.19,
+          "end": 152.57,
+          "confidence": 1.0
+        },
+        {
+          "text": "those",
+          "start": 152.57,
+          "end": 152.97,
+          "confidence": 0.995
+        },
+        {
+          "text": "tears",
+          "start": 152.97,
+          "end": 153.23,
+          "confidence": 0.999
+        },
+        {
+          "text": "child,",
+          "start": 153.23,
+          "end": 153.37,
+          "confidence": 0.995
+        },
+        {
+          "text": "put",
+          "start": 153.37,
+          "end": 153.39,
+          "confidence": 0.986
+        },
+        {
+          "text": "down",
+          "start": 153.39,
+          "end": 153.41,
+          "confidence": 1.0
+        },
+        {
+          "text": "your",
+          "start": 153.41,
+          "end": 153.43,
+          "confidence": 0.999
+        },
+        {
+          "text": "shame",
+          "start": 153.43,
+          "end": 153.45,
+          "confidence": 0.993
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "seek": 6800,
+      "start": 153.45,
+      "end": 153.69,
+      "text": " Oh, I see an empty grave, I hear the heavens waking",
+      "tokens": [
+        51265,
+        876,
+        11,
+        286,
+        536,
+        364,
+        6707,
+        12525,
+        11,
+        286,
+        1568,
+        264,
+        26011,
+        20447,
+        51315
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.09455475571978787,
+      "compression_ratio": 3.3495934959349594,
+      "no_speech_prob": 0.01824481599032879,
+      "confidence": 0.906,
+      "words": [
+        {
+          "text": "Oh,",
+          "start": 153.45,
+          "end": 153.47,
+          "confidence": 0.344
+        },
+        {
+          "text": "I",
+          "start": 153.47,
+          "end": 153.49,
+          "confidence": 0.998
+        },
+        {
+          "text": "see",
+          "start": 153.49,
+          "end": 153.51,
+          "confidence": 0.998
+        },
+        {
+          "text": "an",
+          "start": 153.51,
+          "end": 153.53,
+          "confidence": 0.998
+        },
+        {
+          "text": "empty",
+          "start": 153.53,
+          "end": 153.55,
+          "confidence": 1.0
+        },
+        {
+          "text": "grave,",
+          "start": 153.55,
+          "end": 153.57,
+          "confidence": 1.0
+        },
+        {
+          "text": "I",
+          "start": 153.57,
+          "end": 153.59,
+          "confidence": 0.995
+        },
+        {
+          "text": "hear",
+          "start": 153.59,
+          "end": 153.61,
+          "confidence": 0.996
+        },
+        {
+          "text": "the",
+          "start": 153.61,
+          "end": 153.63,
+          "confidence": 0.999
+        },
+        {
+          "text": "heavens",
+          "start": 153.63,
+          "end": 153.65,
+          "confidence": 0.999
+        },
+        {
+          "text": "waking",
+          "start": 153.65,
+          "end": 153.69,
+          "confidence": 0.999
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "seek": 6800,
+      "start": 153.69,
+      "end": 155.43,
+      "text": " Angels in jubilation, there's no need to cry",
+      "tokens": [
+        51315,
+        37950,
+        294,
+        361,
+        836,
+        16067,
+        11,
+        456,
+        311,
+        572,
+        643,
+        281,
+        3305,
+        51365
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.09455475571978787,
+      "compression_ratio": 3.3495934959349594,
+      "no_speech_prob": 0.01824481599032879,
+      "confidence": 0.966,
+      "words": [
+        {
+          "text": "Angels",
+          "start": 153.69,
+          "end": 153.71,
+          "confidence": 0.913
+        },
+        {
+          "text": "in",
+          "start": 153.71,
+          "end": 153.73,
+          "confidence": 0.999
+        },
+        {
+          "text": "jubilation,",
+          "start": 153.73,
+          "end": 154.23,
+          "confidence": 0.999
+        },
+        {
+          "text": "there's",
+          "start": 154.31,
+          "end": 155.15,
+          "confidence": 0.874
+        },
+        {
+          "text": "no",
+          "start": 155.15,
+          "end": 155.37,
+          "confidence": 0.985
+        },
+        {
+          "text": "need",
+          "start": 155.37,
+          "end": 155.39,
+          "confidence": 0.998
+        },
+        {
+          "text": "to",
+          "start": 155.39,
+          "end": 155.41,
+          "confidence": 0.997
+        },
+        {
+          "text": "cry",
+          "start": 155.41,
+          "end": 155.43,
+          "confidence": 0.999
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "seek": 6800,
+      "start": 155.43,
+      "end": 156.39,
+      "text": " Stand up on your feet now, lift your head up high",
+      "tokens": [
+        51365,
+        9133,
+        493,
+        322,
+        428,
+        3521,
+        586,
+        11,
+        5533,
+        428,
+        1378,
+        493,
+        1090,
+        51415
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.09455475571978787,
+      "compression_ratio": 3.3495934959349594,
+      "no_speech_prob": 0.01824481599032879,
+      "confidence": 0.996,
+      "words": [
+        {
+          "text": "Stand",
+          "start": 155.43,
+          "end": 155.45,
+          "confidence": 0.967
+        },
+        {
+          "text": "up",
+          "start": 155.45,
+          "end": 155.47,
+          "confidence": 0.999
+        },
+        {
+          "text": "on",
+          "start": 155.47,
+          "end": 155.49,
+          "confidence": 0.997
+        },
+        {
+          "text": "your",
+          "start": 155.49,
+          "end": 155.91,
+          "confidence": 0.999
+        },
+        {
+          "text": "feet",
+          "start": 155.91,
+          "end": 156.21,
+          "confidence": 0.999
+        },
+        {
+          "text": "now,",
+          "start": 156.21,
+          "end": 156.23,
+          "confidence": 0.997
+        },
+        {
+          "text": "lift",
+          "start": 156.23,
+          "end": 156.25,
+          "confidence": 0.999
+        },
+        {
+          "text": "your",
+          "start": 156.25,
+          "end": 156.27,
+          "confidence": 1.0
+        },
+        {
+          "text": "head",
+          "start": 156.27,
+          "end": 156.29,
+          "confidence": 0.998
+        },
+        {
+          "text": "up",
+          "start": 156.29,
+          "end": 156.37,
+          "confidence": 1.0
+        },
+        {
+          "text": "high",
+          "start": 156.37,
+          "end": 156.39,
+          "confidence": 0.998
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "seek": 6800,
+      "start": 156.39,
+      "end": 156.88,
+      "text": " Wait till tomorrow to lay down your sorrow, freedom is here today",
+      "tokens": [
+        51415,
+        3802,
+        4288,
+        4153,
+        281,
+        2360,
+        760,
+        428,
+        23027,
+        11,
+        5645,
+        307,
+        510,
+        965,
+        51465
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.09455475571978787,
+      "compression_ratio": 3.3495934959349594,
+      "no_speech_prob": 0.01824481599032879,
+      "confidence": 0.877,
+      "words": [
+        {
+          "text": "Wait",
+          "start": 156.39,
+          "end": 156.41,
+          "confidence": 0.216
+        },
+        {
+          "text": "till",
+          "start": 156.41,
+          "end": 156.43,
+          "confidence": 0.973
+        },
+        {
+          "text": "tomorrow",
+          "start": 156.43,
+          "end": 156.45,
+          "confidence": 0.998
+        },
+        {
+          "text": "to",
+          "start": 156.45,
+          "end": 156.47,
+          "confidence": 0.997
+        },
+        {
+          "text": "lay",
+          "start": 156.47,
+          "end": 156.49,
+          "confidence": 0.999
+        },
+        {
+          "text": "down",
+          "start": 156.49,
+          "end": 156.51,
+          "confidence": 1.0
+        },
+        {
+          "text": "your",
+          "start": 156.51,
+          "end": 156.53,
+          "confidence": 0.999
+        },
+        {
+          "text": "sorrow,",
+          "start": 156.53,
+          "end": 156.55,
+          "confidence": 0.999
+        },
+        {
+          "text": "freedom",
+          "start": 156.55,
+          "end": 156.69,
+          "confidence": 0.997
+        },
+        {
+          "text": "is",
+          "start": 156.69,
+          "end": 156.71,
+          "confidence": 0.998
+        },
+        {
+          "text": "here",
+          "start": 156.71,
+          "end": 156.75,
+          "confidence": 1.0
+        },
+        {
+          "text": "today",
+          "start": 156.75,
+          "end": 156.88,
+          "confidence": 0.994
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "seek": 6800,
+      "start": 156.88,
+      "end": 158.39,
+      "text": " Wipe away those tears child, put down your shame",
+      "tokens": [
+        51465,
+        343,
+        6527,
+        1314,
+        729,
+        10462,
+        1440,
+        11,
+        829,
+        760,
+        428,
+        10069,
+        51515
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.09455475571978787,
+      "compression_ratio": 3.3495934959349594,
+      "no_speech_prob": 0.01824481599032879,
+      "confidence": 0.912,
+      "words": [
+        {
+          "text": "Wipe",
+          "start": 156.88,
+          "end": 156.9,
+          "confidence": 0.642
+        },
+        {
+          "text": "away",
+          "start": 156.9,
+          "end": 156.92,
+          "confidence": 1.0
+        },
+        {
+          "text": "those",
+          "start": 156.92,
+          "end": 156.94,
+          "confidence": 0.996
+        },
+        {
+          "text": "tears",
+          "start": 156.94,
+          "end": 156.96,
+          "confidence": 0.999
+        },
+        {
+          "text": "child,",
+          "start": 156.96,
+          "end": 157.05,
+          "confidence": 0.997
+        },
+        {
+          "text": "put",
+          "start": 157.37,
+          "end": 157.79,
+          "confidence": 0.987
+        },
+        {
+          "text": "down",
+          "start": 157.79,
+          "end": 158.11,
+          "confidence": 1.0
+        },
+        {
+          "text": "your",
+          "start": 158.11,
+          "end": 158.37,
+          "confidence": 0.999
+        },
+        {
+          "text": "shame",
+          "start": 158.37,
+          "end": 158.39,
+          "confidence": 0.992
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "seek": 6800,
+      "start": 158.39,
+      "end": 159.31,
+      "text": " Oh, I see an empty grave, I hear the heavens waking",
+      "tokens": [
+        51515,
+        876,
+        11,
+        286,
+        536,
+        364,
+        6707,
+        12525,
+        11,
+        286,
+        1568,
+        264,
+        26011,
+        20447,
+        51565
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.09455475571978787,
+      "compression_ratio": 3.3495934959349594,
+      "no_speech_prob": 0.01824481599032879,
+      "confidence": 0.965,
+      "words": [
+        {
+          "text": "Oh,",
+          "start": 158.39,
+          "end": 158.41,
+          "confidence": 0.688
+        },
+        {
+          "text": "I",
+          "start": 158.41,
+          "end": 158.43,
+          "confidence": 0.998
+        },
+        {
+          "text": "see",
+          "start": 158.43,
+          "end": 158.45,
+          "confidence": 0.998
+        },
+        {
+          "text": "an",
+          "start": 158.45,
+          "end": 158.47,
+          "confidence": 0.998
+        },
+        {
+          "text": "empty",
+          "start": 158.47,
+          "end": 158.49,
+          "confidence": 1.0
+        },
+        {
+          "text": "grave,",
+          "start": 158.49,
+          "end": 158.51,
+          "confidence": 1.0
+        },
+        {
+          "text": "I",
+          "start": 158.51,
+          "end": 158.53,
+          "confidence": 0.996
+        },
+        {
+          "text": "hear",
+          "start": 158.53,
+          "end": 158.55,
+          "confidence": 0.993
+        },
+        {
+          "text": "the",
+          "start": 158.55,
+          "end": 158.57,
+          "confidence": 0.999
+        },
+        {
+          "text": "heavens",
+          "start": 158.57,
+          "end": 158.81,
+          "confidence": 0.999
+        },
+        {
+          "text": "waking",
+          "start": 158.81,
+          "end": 159.31,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "seek": 9800,
+      "start": 205.49,
+      "end": 207.01,
+      "text": " Angels in jubilation, there's no need to cry",
+      "tokens": [
+        50365,
+        37950,
+        294,
+        361,
+        836,
+        16067,
+        11,
+        456,
+        311,
+        572,
+        643,
+        281,
+        3305,
+        50415
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.04038990345771003,
+      "compression_ratio": 4.153061224489796,
+      "no_speech_prob": 0.005628002807497978,
+      "confidence": 0.928,
+      "words": [
+        {
+          "text": "Angels",
+          "start": 205.49,
+          "end": 205.57,
+          "confidence": 0.765
+        },
+        {
+          "text": "in",
+          "start": 205.57,
+          "end": 205.67,
+          "confidence": 0.995
+        },
+        {
+          "text": "jubilation,",
+          "start": 205.67,
+          "end": 206.21,
+          "confidence": 0.997
+        },
+        {
+          "text": "there's",
+          "start": 206.21,
+          "end": 206.67,
+          "confidence": 0.775
+        },
+        {
+          "text": "no",
+          "start": 206.67,
+          "end": 206.69,
+          "confidence": 0.989
+        },
+        {
+          "text": "need",
+          "start": 206.69,
+          "end": 206.97,
+          "confidence": 0.998
+        },
+        {
+          "text": "to",
+          "start": 206.97,
+          "end": 206.99,
+          "confidence": 0.984
+        },
+        {
+          "text": "cry",
+          "start": 206.99,
+          "end": 207.01,
+          "confidence": 0.995
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "seek": 9800,
+      "start": 207.01,
+      "end": 207.99,
+      "text": " Stand up on your feet now, lift your head up high",
+      "tokens": [
+        50415,
+        9133,
+        493,
+        322,
+        428,
+        3521,
+        586,
+        11,
+        5533,
+        428,
+        1378,
+        493,
+        1090,
+        50465
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.04038990345771003,
+      "compression_ratio": 4.153061224489796,
+      "no_speech_prob": 0.005628002807497978,
+      "confidence": 0.988,
+      "words": [
+        {
+          "text": "Stand",
+          "start": 207.01,
+          "end": 207.03,
+          "confidence": 0.915
+        },
+        {
+          "text": "up",
+          "start": 207.03,
+          "end": 207.05,
+          "confidence": 0.999
+        },
+        {
+          "text": "on",
+          "start": 207.05,
+          "end": 207.07,
+          "confidence": 0.992
+        },
+        {
+          "text": "your",
+          "start": 207.07,
+          "end": 207.23,
+          "confidence": 0.999
+        },
+        {
+          "text": "feet",
+          "start": 207.23,
+          "end": 207.25,
+          "confidence": 0.999
+        },
+        {
+          "text": "now,",
+          "start": 207.25,
+          "end": 207.27,
+          "confidence": 0.997
+        },
+        {
+          "text": "lift",
+          "start": 207.27,
+          "end": 207.29,
+          "confidence": 0.981
+        },
+        {
+          "text": "your",
+          "start": 207.29,
+          "end": 207.35,
+          "confidence": 0.999
+        },
+        {
+          "text": "head",
+          "start": 207.35,
+          "end": 207.63,
+          "confidence": 0.991
+        },
+        {
+          "text": "up",
+          "start": 207.63,
+          "end": 207.97,
+          "confidence": 0.999
+        },
+        {
+          "text": "high",
+          "start": 207.97,
+          "end": 207.99,
+          "confidence": 0.996
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "seek": 9800,
+      "start": 207.99,
+      "end": 208.17,
+      "text": " Wipe away those tears child, put down your shame",
+      "tokens": [
+        50465,
+        343,
+        6527,
+        1314,
+        729,
+        10462,
+        1440,
+        11,
+        829,
+        760,
+        428,
+        10069,
+        50515
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.04038990345771003,
+      "compression_ratio": 4.153061224489796,
+      "no_speech_prob": 0.005628002807497978,
+      "confidence": 0.909,
+      "words": [
+        {
+          "text": "Wipe",
+          "start": 207.99,
+          "end": 208.01,
+          "confidence": 0.652
+        },
+        {
+          "text": "away",
+          "start": 208.01,
+          "end": 208.03,
+          "confidence": 1.0
+        },
+        {
+          "text": "those",
+          "start": 208.03,
+          "end": 208.05,
+          "confidence": 0.986
+        },
+        {
+          "text": "tears",
+          "start": 208.05,
+          "end": 208.07,
+          "confidence": 0.999
+        },
+        {
+          "text": "child,",
+          "start": 208.07,
+          "end": 208.09,
+          "confidence": 0.999
+        },
+        {
+          "text": "put",
+          "start": 208.09,
+          "end": 208.11,
+          "confidence": 0.936
+        },
+        {
+          "text": "down",
+          "start": 208.11,
+          "end": 208.13,
+          "confidence": 0.996
+        },
+        {
+          "text": "your",
+          "start": 208.13,
+          "end": 208.15,
+          "confidence": 0.999
+        },
+        {
+          "text": "shame",
+          "start": 208.15,
+          "end": 208.17,
+          "confidence": 0.991
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "seek": 9800,
+      "start": 209.1,
+      "end": 210.16,
+      "text": " Oh, I see an empty grave, I hear the heavens waking",
+      "tokens": [
+        50515,
+        876,
+        11,
+        286,
+        536,
+        364,
+        6707,
+        12525,
+        11,
+        286,
+        1568,
+        264,
+        26011,
+        20447,
+        50565
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.04038990345771003,
+      "compression_ratio": 4.153061224489796,
+      "no_speech_prob": 0.005628002807497978,
+      "confidence": 0.914,
+      "words": [
+        {
+          "text": "Oh,",
+          "start": 209.1,
+          "end": 209.12,
+          "confidence": 0.472
+        },
+        {
+          "text": "I",
+          "start": 209.22,
+          "end": 209.36,
+          "confidence": 0.952
+        },
+        {
+          "text": "see",
+          "start": 209.36,
+          "end": 209.4,
+          "confidence": 0.935
+        },
+        {
+          "text": "an",
+          "start": 209.4,
+          "end": 209.78,
+          "confidence": 0.96
+        },
+        {
+          "text": "empty",
+          "start": 209.78,
+          "end": 210.0,
+          "confidence": 0.999
+        },
+        {
+          "text": "grave,",
+          "start": 210.0,
+          "end": 210.06,
+          "confidence": 1.0
+        },
+        {
+          "text": "I",
+          "start": 210.06,
+          "end": 210.08,
+          "confidence": 0.985
+        },
+        {
+          "text": "hear",
+          "start": 210.08,
+          "end": 210.1,
+          "confidence": 0.99
+        },
+        {
+          "text": "the",
+          "start": 210.1,
+          "end": 210.12,
+          "confidence": 0.994
+        },
+        {
+          "text": "heavens",
+          "start": 210.12,
+          "end": 210.14,
+          "confidence": 0.988
+        },
+        {
+          "text": "waking",
+          "start": 210.14,
+          "end": 210.16,
+          "confidence": 0.97
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "seek": 9800,
+      "start": 210.16,
+      "end": 211.16,
+      "text": " Angels in jubilation, there's no need to cry",
+      "tokens": [
+        50565,
+        37950,
+        294,
+        361,
+        836,
+        16067,
+        11,
+        456,
+        311,
+        572,
+        643,
+        281,
+        3305,
+        50615
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.04038990345771003,
+      "compression_ratio": 4.153061224489796,
+      "no_speech_prob": 0.005628002807497978,
+      "confidence": 0.974,
+      "words": [
+        {
+          "text": "Angels",
+          "start": 210.16,
+          "end": 210.18,
+          "confidence": 0.932
+        },
+        {
+          "text": "in",
+          "start": 210.18,
+          "end": 210.2,
+          "confidence": 0.995
+        },
+        {
+          "text": "jubilation,",
+          "start": 210.2,
+          "end": 211.06,
+          "confidence": 0.997
+        },
+        {
+          "text": "there's",
+          "start": 211.06,
+          "end": 211.08,
+          "confidence": 0.909
+        },
+        {
+          "text": "no",
+          "start": 211.08,
+          "end": 211.1,
+          "confidence": 0.995
+        },
+        {
+          "text": "need",
+          "start": 211.1,
+          "end": 211.12,
+          "confidence": 0.999
+        },
+        {
+          "text": "to",
+          "start": 211.12,
+          "end": 211.14,
+          "confidence": 0.992
+        },
+        {
+          "text": "cry",
+          "start": 211.14,
+          "end": 211.16,
+          "confidence": 0.997
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "seek": 9800,
+      "start": 211.16,
+      "end": 212.12,
+      "text": " Stand up on your feet now, lift your head up high",
+      "tokens": [
+        50615,
+        9133,
+        493,
+        322,
+        428,
+        3521,
+        586,
+        11,
+        5533,
+        428,
+        1378,
+        493,
+        1090,
+        50665
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.04038990345771003,
+      "compression_ratio": 4.153061224489796,
+      "no_speech_prob": 0.005628002807497978,
+      "confidence": 0.987,
+      "words": [
+        {
+          "text": "Stand",
+          "start": 211.16,
+          "end": 211.18,
+          "confidence": 0.886
+        },
+        {
+          "text": "up",
+          "start": 211.18,
+          "end": 211.2,
+          "confidence": 0.998
+        },
+        {
+          "text": "on",
+          "start": 211.2,
+          "end": 211.22,
+          "confidence": 0.997
+        },
+        {
+          "text": "your",
+          "start": 211.22,
+          "end": 211.24,
+          "confidence": 0.999
+        },
+        {
+          "text": "feet",
+          "start": 211.24,
+          "end": 211.26,
+          "confidence": 1.0
+        },
+        {
+          "text": "now,",
+          "start": 211.26,
+          "end": 211.28,
+          "confidence": 0.998
+        },
+        {
+          "text": "lift",
+          "start": 211.28,
+          "end": 212.04,
+          "confidence": 0.998
+        },
+        {
+          "text": "your",
+          "start": 212.04,
+          "end": 212.06,
+          "confidence": 0.999
+        },
+        {
+          "text": "head",
+          "start": 212.06,
+          "end": 212.08,
+          "confidence": 0.995
+        },
+        {
+          "text": "up",
+          "start": 212.08,
+          "end": 212.1,
+          "confidence": 0.999
+        },
+        {
+          "text": "high",
+          "start": 212.1,
+          "end": 212.12,
+          "confidence": 0.998
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "seek": 9800,
+      "start": 212.12,
+      "end": 213.06,
+      "text": " Wait till tomorrow to lay down your sorrow, freedom is here today",
+      "tokens": [
+        50665,
+        3802,
+        4288,
+        4153,
+        281,
+        2360,
+        760,
+        428,
+        23027,
+        11,
+        5645,
+        307,
+        510,
+        965,
+        50715
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.04038990345771003,
+      "compression_ratio": 4.153061224489796,
+      "no_speech_prob": 0.005628002807497978,
+      "confidence": 0.959,
+      "words": [
+        {
+          "text": "Wait",
+          "start": 212.12,
+          "end": 212.28,
+          "confidence": 0.658
+        },
+        {
+          "text": "till",
+          "start": 212.28,
+          "end": 212.4,
+          "confidence": 0.955
+        },
+        {
+          "text": "tomorrow",
+          "start": 212.4,
+          "end": 212.56,
+          "confidence": 0.998
+        },
+        {
+          "text": "to",
+          "start": 212.56,
+          "end": 212.58,
+          "confidence": 0.996
+        },
+        {
+          "text": "lay",
+          "start": 212.58,
+          "end": 212.6,
+          "confidence": 0.997
+        },
+        {
+          "text": "down",
+          "start": 212.6,
+          "end": 212.62,
+          "confidence": 0.997
+        },
+        {
+          "text": "your",
+          "start": 212.62,
+          "end": 212.64,
+          "confidence": 0.997
+        },
+        {
+          "text": "sorrow,",
+          "start": 212.64,
+          "end": 212.66,
+          "confidence": 0.992
+        },
+        {
+          "text": "freedom",
+          "start": 212.66,
+          "end": 212.68,
+          "confidence": 0.996
+        },
+        {
+          "text": "is",
+          "start": 212.68,
+          "end": 212.7,
+          "confidence": 0.999
+        },
+        {
+          "text": "here",
+          "start": 212.7,
+          "end": 212.98,
+          "confidence": 0.999
+        },
+        {
+          "text": "today",
+          "start": 212.98,
+          "end": 213.06,
+          "confidence": 0.993
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "seek": 9800,
+      "start": 213.06,
+      "end": 214.12,
+      "text": " Wipe away those tears child, put down your shame",
+      "tokens": [
+        50715,
+        343,
+        6527,
+        1314,
+        729,
+        10462,
+        1440,
+        11,
+        829,
+        760,
+        428,
+        10069,
+        50765
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.04038990345771003,
+      "compression_ratio": 4.153061224489796,
+      "no_speech_prob": 0.005628002807497978,
+      "confidence": 0.952,
+      "words": [
+        {
+          "text": "Wipe",
+          "start": 213.06,
+          "end": 213.08,
+          "confidence": 0.807
+        },
+        {
+          "text": "away",
+          "start": 213.08,
+          "end": 213.1,
+          "confidence": 0.999
+        },
+        {
+          "text": "those",
+          "start": 213.1,
+          "end": 213.54,
+          "confidence": 0.982
+        },
+        {
+          "text": "tears",
+          "start": 213.54,
+          "end": 213.68,
+          "confidence": 0.999
+        },
+        {
+          "text": "child,",
+          "start": 213.68,
+          "end": 213.92,
+          "confidence": 0.999
+        },
+        {
+          "text": "put",
+          "start": 213.96,
+          "end": 214.06,
+          "confidence": 0.969
+        },
+        {
+          "text": "down",
+          "start": 214.06,
+          "end": 214.08,
+          "confidence": 0.997
+        },
+        {
+          "text": "your",
+          "start": 214.08,
+          "end": 214.1,
+          "confidence": 0.999
+        },
+        {
+          "text": "shame",
+          "start": 214.1,
+          "end": 214.12,
+          "confidence": 0.996
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "seek": 9800,
+      "start": 214.12,
+      "end": 215.12,
+      "text": " Oh, I see an empty grave, I hear the heavens waking",
+      "tokens": [
+        50765,
+        876,
+        11,
+        286,
+        536,
+        364,
+        6707,
+        12525,
+        11,
+        286,
+        1568,
+        264,
+        26011,
+        20447,
+        50815
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.04038990345771003,
+      "compression_ratio": 4.153061224489796,
+      "no_speech_prob": 0.005628002807497978,
+      "confidence": 0.914,
+      "words": [
+        {
+          "text": "Oh,",
+          "start": 214.12,
+          "end": 214.14,
+          "confidence": 0.462
+        },
+        {
+          "text": "I",
+          "start": 214.14,
+          "end": 214.16,
+          "confidence": 0.962
+        },
+        {
+          "text": "see",
+          "start": 214.16,
+          "end": 214.18,
+          "confidence": 0.929
+        },
+        {
+          "text": "an",
+          "start": 214.18,
+          "end": 214.2,
+          "confidence": 0.957
+        },
+        {
+          "text": "empty",
+          "start": 214.2,
+          "end": 214.22,
+          "confidence": 0.999
+        },
+        {
+          "text": "grave,",
+          "start": 214.22,
+          "end": 214.24,
+          "confidence": 1.0
+        },
+        {
+          "text": "I",
+          "start": 214.24,
+          "end": 214.72,
+          "confidence": 0.986
+        },
+        {
+          "text": "hear",
+          "start": 214.72,
+          "end": 215.06,
+          "confidence": 0.99
+        },
+        {
+          "text": "the",
+          "start": 215.06,
+          "end": 215.08,
+          "confidence": 0.994
+        },
+        {
+          "text": "heavens",
+          "start": 215.08,
+          "end": 215.1,
+          "confidence": 0.991
+        },
+        {
+          "text": "waking",
+          "start": 215.1,
+          "end": 215.12,
+          "confidence": 0.982
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "seek": 9800,
+      "start": 215.12,
+      "end": 216.06,
+      "text": " Angels in jubilation, there's no need to cry",
+      "tokens": [
+        50815,
+        37950,
+        294,
+        361,
+        836,
+        16067,
+        11,
+        456,
+        311,
+        572,
+        643,
+        281,
+        3305,
+        50865
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.04038990345771003,
+      "compression_ratio": 4.153061224489796,
+      "no_speech_prob": 0.005628002807497978,
+      "confidence": 0.986,
+      "words": [
+        {
+          "text": "Angels",
+          "start": 215.12,
+          "end": 215.14,
+          "confidence": 0.955
+        },
+        {
+          "text": "in",
+          "start": 215.14,
+          "end": 215.16,
+          "confidence": 0.997
+        },
+        {
+          "text": "jubilation,",
+          "start": 215.16,
+          "end": 215.18,
+          "confidence": 0.997
+        },
+        {
+          "text": "there's",
+          "start": 215.18,
+          "end": 215.34,
+          "confidence": 0.959
+        },
+        {
+          "text": "no",
+          "start": 215.34,
+          "end": 215.52,
+          "confidence": 0.997
+        },
+        {
+          "text": "need",
+          "start": 215.52,
+          "end": 215.78,
+          "confidence": 0.999
+        },
+        {
+          "text": "to",
+          "start": 215.78,
+          "end": 216.0,
+          "confidence": 0.994
+        },
+        {
+          "text": "cry",
+          "start": 216.0,
+          "end": 216.06,
+          "confidence": 0.998
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "seek": 9800,
+      "start": 216.06,
+      "end": 217.06,
+      "text": " Stand up on your feet now, lift your head up high",
+      "tokens": [
+        50865,
+        9133,
+        493,
+        322,
+        428,
+        3521,
+        586,
+        11,
+        5533,
+        428,
+        1378,
+        493,
+        1090,
+        50915
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.04038990345771003,
+      "compression_ratio": 4.153061224489796,
+      "no_speech_prob": 0.005628002807497978,
+      "confidence": 0.991,
+      "words": [
+        {
+          "text": "Stand",
+          "start": 216.06,
+          "end": 216.08,
+          "confidence": 0.912
+        },
+        {
+          "text": "up",
+          "start": 216.08,
+          "end": 216.1,
+          "confidence": 0.999
+        },
+        {
+          "text": "on",
+          "start": 216.1,
+          "end": 216.12,
+          "confidence": 0.999
+        },
+        {
+          "text": "your",
+          "start": 216.12,
+          "end": 216.14,
+          "confidence": 0.999
+        },
+        {
+          "text": "feet",
+          "start": 216.14,
+          "end": 216.22,
+          "confidence": 1.0
+        },
+        {
+          "text": "now,",
+          "start": 216.22,
+          "end": 216.4,
+          "confidence": 0.999
+        },
+        {
+          "text": "lift",
+          "start": 216.6,
+          "end": 216.62,
+          "confidence": 0.999
+        },
+        {
+          "text": "your",
+          "start": 216.62,
+          "end": 216.68,
+          "confidence": 1.0
+        },
+        {
+          "text": "head",
+          "start": 216.68,
+          "end": 216.76,
+          "confidence": 0.997
+        },
+        {
+          "text": "up",
+          "start": 216.76,
+          "end": 216.8,
+          "confidence": 1.0
+        },
+        {
+          "text": "high",
+          "start": 216.8,
+          "end": 217.06,
+          "confidence": 0.999
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "seek": 9800,
+      "start": 217.06,
+      "end": 218.12,
+      "text": " Wait till tomorrow to lay down your sorrow, freedom is here today",
+      "tokens": [
+        50915,
+        3802,
+        4288,
+        4153,
+        281,
+        2360,
+        760,
+        428,
+        23027,
+        11,
+        5645,
+        307,
+        510,
+        965,
+        50965
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.04038990345771003,
+      "compression_ratio": 4.153061224489796,
+      "no_speech_prob": 0.005628002807497978,
+      "confidence": 0.98,
+      "words": [
+        {
+          "text": "Wait",
+          "start": 217.06,
+          "end": 217.08,
+          "confidence": 0.814
+        },
+        {
+          "text": "till",
+          "start": 217.08,
+          "end": 217.1,
+          "confidence": 0.978
+        },
+        {
+          "text": "tomorrow",
+          "start": 217.1,
+          "end": 217.18,
+          "confidence": 0.998
+        },
+        {
+          "text": "to",
+          "start": 217.18,
+          "end": 217.26,
+          "confidence": 0.998
+        },
+        {
+          "text": "lay",
+          "start": 217.26,
+          "end": 217.3,
+          "confidence": 0.999
+        },
+        {
+          "text": "down",
+          "start": 217.3,
+          "end": 217.42,
+          "confidence": 0.999
+        },
+        {
+          "text": "your",
+          "start": 217.42,
+          "end": 217.48,
+          "confidence": 0.999
+        },
+        {
+          "text": "sorrow,",
+          "start": 217.48,
+          "end": 217.8,
+          "confidence": 0.998
+        },
+        {
+          "text": "freedom",
+          "start": 217.8,
+          "end": 218.06,
+          "confidence": 0.998
+        },
+        {
+          "text": "is",
+          "start": 218.06,
+          "end": 218.08,
+          "confidence": 1.0
+        },
+        {
+          "text": "here",
+          "start": 218.08,
+          "end": 218.1,
+          "confidence": 1.0
+        },
+        {
+          "text": "today",
+          "start": 218.1,
+          "end": 218.12,
+          "confidence": 0.997
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "seek": 9800,
+      "start": 218.12,
+      "end": 219.14,
+      "text": " Wipe away those tears child, put down your shame",
+      "tokens": [
+        50965,
+        343,
+        6527,
+        1314,
+        729,
+        10462,
+        1440,
+        11,
+        829,
+        760,
+        428,
+        10069,
+        51015
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.04038990345771003,
+      "compression_ratio": 4.153061224489796,
+      "no_speech_prob": 0.005628002807497978,
+      "confidence": 0.928,
+      "words": [
+        {
+          "text": "Wipe",
+          "start": 218.12,
+          "end": 218.26,
+          "confidence": 0.698
+        },
+        {
+          "text": "away",
+          "start": 218.26,
+          "end": 218.38,
+          "confidence": 0.999
+        },
+        {
+          "text": "those",
+          "start": 218.38,
+          "end": 218.92,
+          "confidence": 0.988
+        },
+        {
+          "text": "tears",
+          "start": 218.92,
+          "end": 218.94,
+          "confidence": 0.999
+        },
+        {
+          "text": "child,",
+          "start": 218.94,
+          "end": 219.06,
+          "confidence": 0.999
+        },
+        {
+          "text": "put",
+          "start": 219.06,
+          "end": 219.08,
+          "confidence": 0.987
+        },
+        {
+          "text": "down",
+          "start": 219.08,
+          "end": 219.1,
+          "confidence": 0.999
+        },
+        {
+          "text": "your",
+          "start": 219.1,
+          "end": 219.12,
+          "confidence": 1.0
+        },
+        {
+          "text": "shame",
+          "start": 219.12,
+          "end": 219.14,
+          "confidence": 0.996
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "seek": 9800,
+      "start": 219.14,
+      "end": 220.14,
+      "text": " Angels in jubilation, there's no need to cry",
+      "tokens": [
+        51015,
+        37950,
+        294,
+        361,
+        836,
+        16067,
+        11,
+        456,
+        311,
+        572,
+        643,
+        281,
+        3305,
+        51065
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.04038990345771003,
+      "compression_ratio": 4.153061224489796,
+      "no_speech_prob": 0.005628002807497978,
+      "confidence": 0.91,
+      "words": [
+        {
+          "text": "Angels",
+          "start": 219.14,
+          "end": 219.16,
+          "confidence": 0.388
+        },
+        {
+          "text": "in",
+          "start": 219.16,
+          "end": 219.18,
+          "confidence": 0.993
+        },
+        {
+          "text": "jubilation,",
+          "start": 219.18,
+          "end": 219.88,
+          "confidence": 0.996
+        },
+        {
+          "text": "there's",
+          "start": 220.0,
+          "end": 220.06,
+          "confidence": 0.971
+        },
+        {
+          "text": "no",
+          "start": 220.06,
+          "end": 220.08,
+          "confidence": 0.996
+        },
+        {
+          "text": "need",
+          "start": 220.08,
+          "end": 220.1,
+          "confidence": 0.999
+        },
+        {
+          "text": "to",
+          "start": 220.1,
+          "end": 220.12,
+          "confidence": 0.996
+        },
+        {
+          "text": "cry",
+          "start": 220.12,
+          "end": 220.14,
+          "confidence": 0.999
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "seek": 9800,
+      "start": 220.14,
+      "end": 221.12,
+      "text": " Stand up on your feet now, lift your head up high",
+      "tokens": [
+        51065,
+        9133,
+        493,
+        322,
+        428,
+        3521,
+        586,
+        11,
+        5533,
+        428,
+        1378,
+        493,
+        1090,
+        51115
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.04038990345771003,
+      "compression_ratio": 4.153061224489796,
+      "no_speech_prob": 0.005628002807497978,
+      "confidence": 0.979,
+      "words": [
+        {
+          "text": "Stand",
+          "start": 220.14,
+          "end": 220.16,
+          "confidence": 0.795
+        },
+        {
+          "text": "up",
+          "start": 220.16,
+          "end": 220.18,
+          "confidence": 0.998
+        },
+        {
+          "text": "on",
+          "start": 220.18,
+          "end": 220.2,
+          "confidence": 0.999
+        },
+        {
+          "text": "your",
+          "start": 220.2,
+          "end": 220.22,
+          "confidence": 0.999
+        },
+        {
+          "text": "feet",
+          "start": 220.22,
+          "end": 220.24,
+          "confidence": 1.0
+        },
+        {
+          "text": "now,",
+          "start": 220.24,
+          "end": 220.26,
+          "confidence": 0.999
+        },
+        {
+          "text": "lift",
+          "start": 220.26,
+          "end": 220.58,
+          "confidence": 0.999
+        },
+        {
+          "text": "your",
+          "start": 220.58,
+          "end": 221.06,
+          "confidence": 1.0
+        },
+        {
+          "text": "head",
+          "start": 221.06,
+          "end": 221.08,
+          "confidence": 0.997
+        },
+        {
+          "text": "up",
+          "start": 221.08,
+          "end": 221.1,
+          "confidence": 1.0
+        },
+        {
+          "text": "high",
+          "start": 221.1,
+          "end": 221.12,
+          "confidence": 0.999
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "seek": 11300,
+      "start": 221.12,
+      "end": 222.06,
+      "text": " Wipe away those tears child, put down your shame",
+      "tokens": [
+        50365,
+        343,
+        6527,
+        1314,
+        729,
+        10462,
+        1440,
+        11,
+        829,
+        760,
+        428,
+        10069,
+        50415
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.04781808126133119,
+      "compression_ratio": 4.8924050632911396,
+      "no_speech_prob": 0.010511099360883236,
+      "confidence": 0.897,
+      "words": [
+        {
+          "text": "Wipe",
+          "start": 221.12,
+          "end": 221.14,
+          "confidence": 0.606
+        },
+        {
+          "text": "away",
+          "start": 221.14,
+          "end": 221.22,
+          "confidence": 0.999
+        },
+        {
+          "text": "those",
+          "start": 221.22,
+          "end": 221.58,
+          "confidence": 0.968
+        },
+        {
+          "text": "tears",
+          "start": 221.58,
+          "end": 221.6,
+          "confidence": 0.999
+        },
+        {
+          "text": "child,",
+          "start": 221.6,
+          "end": 221.62,
+          "confidence": 0.995
+        },
+        {
+          "text": "put",
+          "start": 221.78,
+          "end": 221.82,
+          "confidence": 0.982
+        },
+        {
+          "text": "down",
+          "start": 221.82,
+          "end": 221.84,
+          "confidence": 0.998
+        },
+        {
+          "text": "your",
+          "start": 221.84,
+          "end": 221.86,
+          "confidence": 0.999
+        },
+        {
+          "text": "shame",
+          "start": 221.86,
+          "end": 222.06,
+          "confidence": 0.976
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "seek": 11300,
+      "start": 222.06,
+      "end": 222.54,
+      "text": " Oh, I see an empty grave, I hear the heavens waking",
+      "tokens": [
+        50415,
+        876,
+        11,
+        286,
+        536,
+        364,
+        6707,
+        12525,
+        11,
+        286,
+        1568,
+        264,
+        26011,
+        20447,
+        50465
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.04781808126133119,
+      "compression_ratio": 4.8924050632911396,
+      "no_speech_prob": 0.010511099360883236,
+      "confidence": 0.917,
+      "words": [
+        {
+          "text": "Oh,",
+          "start": 222.06,
+          "end": 222.08,
+          "confidence": 0.468
+        },
+        {
+          "text": "I",
+          "start": 222.08,
+          "end": 222.1,
+          "confidence": 0.932
+        },
+        {
+          "text": "see",
+          "start": 222.1,
+          "end": 222.12,
+          "confidence": 0.96
+        },
+        {
+          "text": "an",
+          "start": 222.12,
+          "end": 222.14,
+          "confidence": 0.958
+        },
+        {
+          "text": "empty",
+          "start": 222.14,
+          "end": 222.16,
+          "confidence": 0.999
+        },
+        {
+          "text": "grave,",
+          "start": 222.16,
+          "end": 222.22,
+          "confidence": 1.0
+        },
+        {
+          "text": "I",
+          "start": 222.22,
+          "end": 222.34,
+          "confidence": 0.976
+        },
+        {
+          "text": "hear",
+          "start": 222.34,
+          "end": 222.4,
+          "confidence": 0.996
+        },
+        {
+          "text": "the",
+          "start": 222.4,
+          "end": 222.42,
+          "confidence": 0.994
+        },
+        {
+          "text": "heavens",
+          "start": 222.42,
+          "end": 222.44,
+          "confidence": 0.994
+        },
+        {
+          "text": "waking",
+          "start": 222.44,
+          "end": 222.54,
+          "confidence": 0.997
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "seek": 11300,
+      "start": 222.54,
+      "end": 224.14,
+      "text": " Angels in jubilation, there's no need to cry",
+      "tokens": [
+        50465,
+        37950,
+        294,
+        361,
+        836,
+        16067,
+        11,
+        456,
+        311,
+        572,
+        643,
+        281,
+        3305,
+        50515
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.04781808126133119,
+      "compression_ratio": 4.8924050632911396,
+      "no_speech_prob": 0.010511099360883236,
+      "confidence": 0.987,
+      "words": [
+        {
+          "text": "Angels",
+          "start": 222.54,
+          "end": 222.56,
+          "confidence": 0.91
+        },
+        {
+          "text": "in",
+          "start": 222.56,
+          "end": 222.58,
+          "confidence": 0.996
+        },
+        {
+          "text": "jubilation,",
+          "start": 222.58,
+          "end": 223.06,
+          "confidence": 0.996
+        },
+        {
+          "text": "there's",
+          "start": 223.22,
+          "end": 224.06,
+          "confidence": 0.99
+        },
+        {
+          "text": "no",
+          "start": 224.06,
+          "end": 224.08,
+          "confidence": 0.998
+        },
+        {
+          "text": "need",
+          "start": 224.08,
+          "end": 224.1,
+          "confidence": 1.0
+        },
+        {
+          "text": "to",
+          "start": 224.1,
+          "end": 224.12,
+          "confidence": 0.991
+        },
+        {
+          "text": "cry",
+          "start": 224.12,
+          "end": 224.14,
+          "confidence": 0.998
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "seek": 11300,
+      "start": 224.14,
+      "end": 225.06,
+      "text": " Stand up on your feet now, lift your head up high",
+      "tokens": [
+        50515,
+        9133,
+        493,
+        322,
+        428,
+        3521,
+        586,
+        11,
+        5533,
+        428,
+        1378,
+        493,
+        1090,
+        50565
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.04781808126133119,
+      "compression_ratio": 4.8924050632911396,
+      "no_speech_prob": 0.010511099360883236,
+      "confidence": 0.977,
+      "words": [
+        {
+          "text": "Stand",
+          "start": 224.14,
+          "end": 224.16,
+          "confidence": 0.79
+        },
+        {
+          "text": "up",
+          "start": 224.16,
+          "end": 224.18,
+          "confidence": 0.998
+        },
+        {
+          "text": "on",
+          "start": 224.18,
+          "end": 224.2,
+          "confidence": 0.995
+        },
+        {
+          "text": "your",
+          "start": 224.2,
+          "end": 224.22,
+          "confidence": 0.999
+        },
+        {
+          "text": "feet",
+          "start": 224.22,
+          "end": 224.24,
+          "confidence": 0.999
+        },
+        {
+          "text": "now,",
+          "start": 224.24,
+          "end": 224.26,
+          "confidence": 0.998
+        },
+        {
+          "text": "lift",
+          "start": 224.26,
+          "end": 224.28,
+          "confidence": 0.998
+        },
+        {
+          "text": "your",
+          "start": 224.28,
+          "end": 224.3,
+          "confidence": 1.0
+        },
+        {
+          "text": "head",
+          "start": 224.3,
+          "end": 224.62,
+          "confidence": 0.997
+        },
+        {
+          "text": "up",
+          "start": 224.62,
+          "end": 224.72,
+          "confidence": 1.0
+        },
+        {
+          "text": "high",
+          "start": 224.72,
+          "end": 225.06,
+          "confidence": 0.998
+        }
+      ]
+    },
+    {
+      "id": 61,
+      "seek": 11300,
+      "start": 225.06,
+      "end": 225.58,
+      "text": " Wipe away those tears child, put down your shame",
+      "tokens": [
+        50565,
+        343,
+        6527,
+        1314,
+        729,
+        10462,
+        1440,
+        11,
+        829,
+        760,
+        428,
+        10069,
+        50615
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.04781808126133119,
+      "compression_ratio": 4.8924050632911396,
+      "no_speech_prob": 0.010511099360883236,
+      "confidence": 0.961,
+      "words": [
+        {
+          "text": "Wipe",
+          "start": 225.06,
+          "end": 225.08,
+          "confidence": 0.832
+        },
+        {
+          "text": "away",
+          "start": 225.08,
+          "end": 225.1,
+          "confidence": 1.0
+        },
+        {
+          "text": "those",
+          "start": 225.1,
+          "end": 225.12,
+          "confidence": 0.986
+        },
+        {
+          "text": "tears",
+          "start": 225.12,
+          "end": 225.14,
+          "confidence": 0.999
+        },
+        {
+          "text": "child,",
+          "start": 225.14,
           "end": 225.16,
           "confidence": 0.998
         },
         {
-          "text": "him",
+          "text": "put",
           "start": 225.16,
-          "end": 225.7,
-          "confidence": 0.892
+          "end": 225.18,
+          "confidence": 0.997
         },
         {
           "text": "down",
-          "start": 225.7,
-          "end": 226.3,
+          "start": 225.18,
+          "end": 225.2,
+          "confidence": 1.0
+        },
+        {
+          "text": "your",
+          "start": 225.2,
+          "end": 225.52,
+          "confidence": 1.0
+        },
+        {
+          "text": "shame",
+          "start": 225.52,
+          "end": 225.58,
+          "confidence": 0.995
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "seek": 11300,
+      "start": 225.58,
+      "end": 227.12,
+      "text": " Oh, I see an empty grave, I hear the heavens waking",
+      "tokens": [
+        50615,
+        876,
+        11,
+        286,
+        536,
+        364,
+        6707,
+        12525,
+        11,
+        286,
+        1568,
+        264,
+        26011,
+        20447,
+        50665
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.04781808126133119,
+      "compression_ratio": 4.8924050632911396,
+      "no_speech_prob": 0.010511099360883236,
+      "confidence": 0.939,
+      "words": [
+        {
+          "text": "Oh,",
+          "start": 225.58,
+          "end": 225.6,
+          "confidence": 0.538
+        },
+        {
+          "text": "I",
+          "start": 225.6,
+          "end": 225.62,
+          "confidence": 0.983
+        },
+        {
+          "text": "see",
+          "start": 225.62,
+          "end": 225.64,
+          "confidence": 0.98
+        },
+        {
+          "text": "an",
+          "start": 225.64,
+          "end": 225.66,
           "confidence": 0.979
+        },
+        {
+          "text": "empty",
+          "start": 225.66,
+          "end": 226.04,
+          "confidence": 1.0
+        },
+        {
+          "text": "grave,",
+          "start": 226.04,
+          "end": 226.14,
+          "confidence": 1.0
+        },
+        {
+          "text": "I",
+          "start": 226.26,
+          "end": 226.28,
+          "confidence": 0.994
+        },
+        {
+          "text": "hear",
+          "start": 226.28,
+          "end": 226.96,
+          "confidence": 0.998
+        },
+        {
+          "text": "the",
+          "start": 227.06,
+          "end": 227.08,
+          "confidence": 0.998
+        },
+        {
+          "text": "heavens",
+          "start": 227.08,
+          "end": 227.1,
+          "confidence": 0.996
+        },
+        {
+          "text": "waking",
+          "start": 227.1,
+          "end": 227.12,
+          "confidence": 0.998
+        }
+      ]
+    },
+    {
+      "id": 63,
+      "seek": 11300,
+      "start": 227.12,
+      "end": 228.08,
+      "text": " Angels in jubilation, there's no need to cry",
+      "tokens": [
+        50665,
+        37950,
+        294,
+        361,
+        836,
+        16067,
+        11,
+        456,
+        311,
+        572,
+        643,
+        281,
+        3305,
+        50715
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.04781808126133119,
+      "compression_ratio": 4.8924050632911396,
+      "no_speech_prob": 0.010511099360883236,
+      "confidence": 0.989,
+      "words": [
+        {
+          "text": "Angels",
+          "start": 227.12,
+          "end": 227.14,
+          "confidence": 0.919
+        },
+        {
+          "text": "in",
+          "start": 227.14,
+          "end": 227.16,
+          "confidence": 0.996
+        },
+        {
+          "text": "jubilation,",
+          "start": 227.16,
+          "end": 227.18,
+          "confidence": 0.997
+        },
+        {
+          "text": "there's",
+          "start": 227.18,
+          "end": 227.2,
+          "confidence": 0.994
+        },
+        {
+          "text": "no",
+          "start": 227.2,
+          "end": 227.92,
+          "confidence": 0.999
+        },
+        {
+          "text": "need",
+          "start": 227.92,
+          "end": 227.94,
+          "confidence": 1.0
+        },
+        {
+          "text": "to",
+          "start": 227.94,
+          "end": 228.06,
+          "confidence": 0.994
+        },
+        {
+          "text": "cry",
+          "start": 228.06,
+          "end": 228.08,
+          "confidence": 0.999
+        }
+      ]
+    },
+    {
+      "id": 64,
+      "seek": 11300,
+      "start": 228.08,
+      "end": 228.57,
+      "text": " Stand up on your feet now, lift your head up high",
+      "tokens": [
+        50715,
+        9133,
+        493,
+        322,
+        428,
+        3521,
+        586,
+        11,
+        5533,
+        428,
+        1378,
+        493,
+        1090,
+        50765
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.04781808126133119,
+      "compression_ratio": 4.8924050632911396,
+      "no_speech_prob": 0.010511099360883236,
+      "confidence": 0.975,
+      "words": [
+        {
+          "text": "Stand",
+          "start": 228.08,
+          "end": 228.1,
+          "confidence": 0.77
+        },
+        {
+          "text": "up",
+          "start": 228.1,
+          "end": 228.12,
+          "confidence": 0.998
+        },
+        {
+          "text": "on",
+          "start": 228.12,
+          "end": 228.14,
+          "confidence": 0.998
+        },
+        {
+          "text": "your",
+          "start": 228.14,
+          "end": 228.16,
+          "confidence": 0.999
+        },
+        {
+          "text": "feet",
+          "start": 228.16,
+          "end": 228.18,
+          "confidence": 1.0
+        },
+        {
+          "text": "now,",
+          "start": 228.18,
+          "end": 228.2,
+          "confidence": 0.999
+        },
+        {
+          "text": "lift",
+          "start": 228.2,
+          "end": 228.22,
+          "confidence": 0.999
+        },
+        {
+          "text": "your",
+          "start": 228.22,
+          "end": 228.24,
+          "confidence": 1.0
+        },
+        {
+          "text": "head",
+          "start": 228.24,
+          "end": 228.26,
+          "confidence": 0.997
+        },
+        {
+          "text": "up",
+          "start": 228.26,
+          "end": 228.28,
+          "confidence": 1.0
+        },
+        {
+          "text": "high",
+          "start": 228.28,
+          "end": 228.57,
+          "confidence": 0.999
+        }
+      ]
+    },
+    {
+      "id": 65,
+      "seek": 11300,
+      "start": 228.57,
+      "end": 229.98,
+      "text": " Wipe away those tears child, put down your shame",
+      "tokens": [
+        50765,
+        343,
+        6527,
+        1314,
+        729,
+        10462,
+        1440,
+        11,
+        829,
+        760,
+        428,
+        10069,
+        50815
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.04781808126133119,
+      "compression_ratio": 4.8924050632911396,
+      "no_speech_prob": 0.010511099360883236,
+      "confidence": 0.919,
+      "words": [
+        {
+          "text": "Wipe",
+          "start": 228.57,
+          "end": 228.59,
+          "confidence": 0.661
+        },
+        {
+          "text": "away",
+          "start": 228.59,
+          "end": 228.61,
+          "confidence": 1.0
+        },
+        {
+          "text": "those",
+          "start": 228.61,
+          "end": 228.88,
+          "confidence": 0.989
+        },
+        {
+          "text": "tears",
+          "start": 228.88,
+          "end": 229.02,
+          "confidence": 1.0
+        },
+        {
+          "text": "child,",
+          "start": 229.02,
+          "end": 229.24,
+          "confidence": 0.999
+        },
+        {
+          "text": "put",
+          "start": 229.5,
+          "end": 229.64,
+          "confidence": 0.998
+        },
+        {
+          "text": "down",
+          "start": 229.64,
+          "end": 229.9,
+          "confidence": 1.0
+        },
+        {
+          "text": "your",
+          "start": 229.9,
+          "end": 229.92,
+          "confidence": 1.0
+        },
+        {
+          "text": "shame",
+          "start": 229.92,
+          "end": 229.98,
+          "confidence": 0.996
+        }
+      ]
+    },
+    {
+      "id": 66,
+      "seek": 11300,
+      "start": 229.98,
+      "end": 231.1,
+      "text": " Angels in jubilation, there's no need to cry",
+      "tokens": [
+        50815,
+        37950,
+        294,
+        361,
+        836,
+        16067,
+        11,
+        456,
+        311,
+        572,
+        643,
+        281,
+        3305,
+        50865
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.04781808126133119,
+      "compression_ratio": 4.8924050632911396,
+      "no_speech_prob": 0.010511099360883236,
+      "confidence": 0.948,
+      "words": [
+        {
+          "text": "Angels",
+          "start": 229.98,
+          "end": 230.0,
+          "confidence": 0.568
+        },
+        {
+          "text": "in",
+          "start": 230.0,
+          "end": 230.02,
+          "confidence": 0.997
+        },
+        {
+          "text": "jubilation,",
+          "start": 230.02,
+          "end": 230.1,
+          "confidence": 0.997
+        },
+        {
+          "text": "there's",
+          "start": 230.1,
+          "end": 230.12,
+          "confidence": 0.997
+        },
+        {
+          "text": "no",
+          "start": 230.12,
+          "end": 230.58,
+          "confidence": 0.999
+        },
+        {
+          "text": "need",
+          "start": 230.58,
+          "end": 231.06,
+          "confidence": 1.0
+        },
+        {
+          "text": "to",
+          "start": 231.06,
+          "end": 231.08,
+          "confidence": 0.996
+        },
+        {
+          "text": "cry",
+          "start": 231.08,
+          "end": 231.1,
+          "confidence": 0.999
+        }
+      ]
+    },
+    {
+      "id": 67,
+      "seek": 11300,
+      "start": 231.1,
+      "end": 232.14,
+      "text": " Stand up on your feet now, lift your head up high",
+      "tokens": [
+        50865,
+        9133,
+        493,
+        322,
+        428,
+        3521,
+        586,
+        11,
+        5533,
+        428,
+        1378,
+        493,
+        1090,
+        50915
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.04781808126133119,
+      "compression_ratio": 4.8924050632911396,
+      "no_speech_prob": 0.010511099360883236,
+      "confidence": 0.945,
+      "words": [
+        {
+          "text": "Stand",
+          "start": 231.1,
+          "end": 231.12,
+          "confidence": 0.541
+        },
+        {
+          "text": "up",
+          "start": 231.12,
+          "end": 231.14,
+          "confidence": 0.999
+        },
+        {
+          "text": "on",
+          "start": 231.14,
+          "end": 231.16,
+          "confidence": 0.999
+        },
+        {
+          "text": "your",
+          "start": 231.16,
+          "end": 232.0,
+          "confidence": 0.999
+        },
+        {
+          "text": "feet",
+          "start": 232.0,
+          "end": 232.02,
+          "confidence": 1.0
+        },
+        {
+          "text": "now,",
+          "start": 232.02,
+          "end": 232.04,
+          "confidence": 0.999
+        },
+        {
+          "text": "lift",
+          "start": 232.04,
+          "end": 232.06,
+          "confidence": 0.999
+        },
+        {
+          "text": "your",
+          "start": 232.06,
+          "end": 232.08,
+          "confidence": 1.0
+        },
+        {
+          "text": "head",
+          "start": 232.08,
+          "end": 232.1,
+          "confidence": 0.997
+        },
+        {
+          "text": "up",
+          "start": 232.1,
+          "end": 232.12,
+          "confidence": 1.0
+        },
+        {
+          "text": "high",
+          "start": 232.12,
+          "end": 232.14,
+          "confidence": 0.999
+        }
+      ]
+    },
+    {
+      "id": 68,
+      "seek": 11300,
+      "start": 232.14,
+      "end": 233.14,
+      "text": " Wipe away those tears child, put down your shame",
+      "tokens": [
+        50915,
+        343,
+        6527,
+        1314,
+        729,
+        10462,
+        1440,
+        11,
+        829,
+        760,
+        428,
+        10069,
+        50965
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.04781808126133119,
+      "compression_ratio": 4.8924050632911396,
+      "no_speech_prob": 0.010511099360883236,
+      "confidence": 0.934,
+      "words": [
+        {
+          "text": "Wipe",
+          "start": 232.14,
+          "end": 232.38,
+          "confidence": 0.717
+        },
+        {
+          "text": "away",
+          "start": 232.38,
+          "end": 232.4,
+          "confidence": 1.0
+        },
+        {
+          "text": "those",
+          "start": 232.4,
+          "end": 232.96,
+          "confidence": 0.987
+        },
+        {
+          "text": "tears",
+          "start": 232.96,
+          "end": 232.98,
+          "confidence": 1.0
+        },
+        {
+          "text": "child,",
+          "start": 232.98,
+          "end": 233.0,
+          "confidence": 0.999
+        },
+        {
+          "text": "put",
+          "start": 233.06,
+          "end": 233.08,
+          "confidence": 0.999
+        },
+        {
+          "text": "down",
+          "start": 233.08,
+          "end": 233.1,
+          "confidence": 1.0
+        },
+        {
+          "text": "your",
+          "start": 233.1,
+          "end": 233.12,
+          "confidence": 1.0
+        },
+        {
+          "text": "shame",
+          "start": 233.12,
+          "end": 233.14,
+          "confidence": 0.998
+        }
+      ]
+    },
+    {
+      "id": 69,
+      "seek": 11300,
+      "start": 233.14,
+      "end": 234.06,
+      "text": " Angels in jubilation, there's no need to cry",
+      "tokens": [
+        50965,
+        37950,
+        294,
+        361,
+        836,
+        16067,
+        11,
+        456,
+        311,
+        572,
+        643,
+        281,
+        3305,
+        51015
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.04781808126133119,
+      "compression_ratio": 4.8924050632911396,
+      "no_speech_prob": 0.010511099360883236,
+      "confidence": 0.984,
+      "words": [
+        {
+          "text": "Angels",
+          "start": 233.14,
+          "end": 233.16,
+          "confidence": 0.856
+        },
+        {
+          "text": "in",
+          "start": 233.16,
+          "end": 233.18,
+          "confidence": 0.998
+        },
+        {
+          "text": "jubilation,",
+          "start": 233.18,
+          "end": 233.2,
+          "confidence": 0.997
+        },
+        {
+          "text": "there's",
+          "start": 233.2,
+          "end": 233.32,
+          "confidence": 0.998
+        },
+        {
+          "text": "no",
+          "start": 233.32,
+          "end": 233.58,
+          "confidence": 0.999
+        },
+        {
+          "text": "need",
+          "start": 233.58,
+          "end": 233.8,
+          "confidence": 1.0
+        },
+        {
+          "text": "to",
+          "start": 233.8,
+          "end": 233.94,
+          "confidence": 0.998
+        },
+        {
+          "text": "cry",
+          "start": 233.94,
+          "end": 234.06,
+          "confidence": 0.999
+        }
+      ]
+    },
+    {
+      "id": 70,
+      "seek": 11300,
+      "start": 234.06,
+      "end": 235.06,
+      "text": " Stand up on your feet now, lift your head up high",
+      "tokens": [
+        51015,
+        9133,
+        493,
+        322,
+        428,
+        3521,
+        586,
+        11,
+        5533,
+        428,
+        1378,
+        493,
+        1090,
+        51065
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.04781808126133119,
+      "compression_ratio": 4.8924050632911396,
+      "no_speech_prob": 0.010511099360883236,
+      "confidence": 0.86,
+      "words": [
+        {
+          "text": "Stand",
+          "start": 234.06,
+          "end": 234.08,
+          "confidence": 0.192
+        },
+        {
+          "text": "up",
+          "start": 234.08,
+          "end": 234.1,
+          "confidence": 0.999
+        },
+        {
+          "text": "on",
+          "start": 234.1,
+          "end": 234.12,
+          "confidence": 0.999
+        },
+        {
+          "text": "your",
+          "start": 234.12,
+          "end": 234.14,
+          "confidence": 0.999
+        },
+        {
+          "text": "feet",
+          "start": 234.14,
+          "end": 234.16,
+          "confidence": 1.0
+        },
+        {
+          "text": "now,",
+          "start": 234.16,
+          "end": 234.4,
+          "confidence": 0.999
+        },
+        {
+          "text": "lift",
+          "start": 234.76,
+          "end": 234.84,
+          "confidence": 0.999
+        },
+        {
+          "text": "your",
+          "start": 234.84,
+          "end": 234.86,
+          "confidence": 1.0
+        },
+        {
+          "text": "head",
+          "start": 234.86,
+          "end": 234.92,
+          "confidence": 0.997
+        },
+        {
+          "text": "up",
+          "start": 234.92,
+          "end": 234.96,
+          "confidence": 1.0
+        },
+        {
+          "text": "high",
+          "start": 234.96,
+          "end": 235.06,
+          "confidence": 0.999
+        }
+      ]
+    },
+    {
+      "id": 71,
+      "seek": 11300,
+      "start": 235.06,
+      "end": 236.06,
+      "text": " Wipe away those tears child, put down your shame",
+      "tokens": [
+        51065,
+        343,
+        6527,
+        1314,
+        729,
+        10462,
+        1440,
+        11,
+        829,
+        760,
+        428,
+        10069,
+        51115
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.04781808126133119,
+      "compression_ratio": 4.8924050632911396,
+      "no_speech_prob": 0.010511099360883236,
+      "confidence": 0.95,
+      "words": [
+        {
+          "text": "Wipe",
+          "start": 235.06,
+          "end": 235.08,
+          "confidence": 0.777
+        },
+        {
+          "text": "away",
+          "start": 235.08,
+          "end": 235.1,
+          "confidence": 1.0
+        },
+        {
+          "text": "those",
+          "start": 235.1,
+          "end": 235.12,
+          "confidence": 0.991
+        },
+        {
+          "text": "tears",
+          "start": 235.12,
+          "end": 235.14,
+          "confidence": 1.0
+        },
+        {
+          "text": "child,",
+          "start": 235.14,
+          "end": 235.16,
+          "confidence": 0.999
+        },
+        {
+          "text": "put",
+          "start": 235.92,
+          "end": 235.94,
+          "confidence": 0.999
+        },
+        {
+          "text": "down",
+          "start": 235.94,
+          "end": 235.96,
+          "confidence": 1.0
+        },
+        {
+          "text": "your",
+          "start": 235.96,
+          "end": 235.98,
+          "confidence": 1.0
+        },
+        {
+          "text": "shame",
+          "start": 235.98,
+          "end": 236.06,
+          "confidence": 0.998
+        }
+      ]
+    },
+    {
+      "id": 72,
+      "seek": 11300,
+      "start": 236.06,
+      "end": 236.48,
+      "text": " Angels in jubilation, there's no need to cry",
+      "tokens": [
+        51115,
+        37950,
+        294,
+        361,
+        836,
+        16067,
+        11,
+        456,
+        311,
+        572,
+        643,
+        281,
+        3305,
+        51165
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.04781808126133119,
+      "compression_ratio": 4.8924050632911396,
+      "no_speech_prob": 0.010511099360883236,
+      "confidence": 0.988,
+      "words": [
+        {
+          "text": "Angels",
+          "start": 236.06,
+          "end": 236.08,
+          "confidence": 0.895
+        },
+        {
+          "text": "in",
+          "start": 236.08,
+          "end": 236.1,
+          "confidence": 0.998
+        },
+        {
+          "text": "jubilation,",
+          "start": 236.1,
+          "end": 236.12,
+          "confidence": 0.996
+        },
+        {
+          "text": "there's",
+          "start": 236.12,
+          "end": 236.14,
+          "confidence": 0.998
+        },
+        {
+          "text": "no",
+          "start": 236.14,
+          "end": 236.16,
+          "confidence": 0.998
+        },
+        {
+          "text": "need",
+          "start": 236.16,
+          "end": 236.18,
+          "confidence": 1.0
+        },
+        {
+          "text": "to",
+          "start": 236.18,
+          "end": 236.24,
+          "confidence": 0.998
+        },
+        {
+          "text": "cry",
+          "start": 236.24,
+          "end": 236.48,
+          "confidence": 0.999
         }
       ]
     }
   ],
   "language": "en",
   "language_probs": {
-    "en": 0.9708436727523804,
-    "zh": 0.001541649573482573,
-    "de": 0.0009133972343988717,
-    "es": 0.0018023708835244179,
-    "ru": 0.0014369753189384937,
-    "ko": 0.0028134614694863558,
-    "fr": 0.0014036879874765873,
-    "ja": 0.0009723062394186854,
-    "pt": 0.004093562252819538,
-    "tr": 0.0006326917209662497,
-    "pl": 0.0003156616003252566,
-    "ca": 1.4198100870999042e-05,
-    "nl": 0.00023641959705855697,
-    "ar": 0.0008852948667481542,
-    "sv": 0.00030834932113066316,
-    "it": 0.00035214595845900476,
-    "id": 6.264496187213808e-05,
-    "hi": 0.0001612241758266464,
-    "fi": 2.7798534574685618e-05,
-    "vi": 0.0008447542786598206,
-    "he": 7.210391049738973e-05,
-    "uk": 4.5121476432541385e-05,
-    "el": 0.00023457978386431932,
-    "ms": 0.00013898391625843942,
-    "cs": 4.339289807830937e-05,
-    "ro": 0.00012361485278233886,
-    "da": 0.0003156616003252566,
-    "hu": 5.4853760957485065e-05,
-    "ta": 5.442688780021854e-05,
-    "no": 0.00010248032049275935,
-    "th": 0.0001944734831340611,
-    "ur": 6.119379395386204e-05,
-    "hr": 2.3408712877426296e-05,
-    "bg": 2.0983434296795167e-05,
-    "lt": 4.432863534020726e-06,
-    "la": 0.0018741692183539271,
-    "mi": 0.0007282237056642771,
-    "ml": 0.00012954726116731763,
-    "cy": 0.0009953638073056936,
-    "sk": 8.747196261538193e-06,
-    "te": 6.215745816007257e-05,
-    "fa": 2.823629620252177e-05,
-    "lv": 1.1231622920604423e-05,
-    "bn": 3.7115911254659295e-05,
-    "sr": 3.1067495456227334e-06,
-    "az": 9.968632639356656e-07,
-    "sl": 1.2529781088232994e-05,
-    "kn": 5.505201556843531e-07,
-    "et": 5.294300535751972e-07,
-    "mk": 1.06530865195964e-06,
-    "br": 0.00017845889669843018,
-    "eu": 1.2239527677593287e-05,
-    "is": 3.0293125746538863e-05,
-    "hy": 2.6469838303455617e-06,
-    "ne": 6.251339527807431e-06,
-    "mn": 8.679125130583998e-06,
-    "bs": 1.02265094028553e-05,
-    "kk": 1.5082059690030292e-06,
-    "sq": 7.028569598332979e-06,
-    "sw": 4.442192948772572e-05,
-    "gl": 3.682707028929144e-05,
-    "mr": 4.5461789000000863e-07,
-    "pa": 1.8696748611546354e-06,
-    "si": 4.013186844531447e-05,
-    "km": 0.0007003258797340095,
-    "sn": 0.0002497088862583041,
-    "yo": 7.381380419246852e-05,
-    "so": 1.9025466713173955e-07,
-    "af": 6.865753675810993e-06,
-    "oc": 6.50036463412107e-06,
-    "ka": 3.8733929841328063e-07,
-    "be": 3.942670900869416e-06,
-    "tg": 1.4136415593668517e-08,
-    "sd": 8.217230970331002e-06,
-    "gu": 2.017354745476041e-07,
-    "am": 1.2873275068159273e-07,
-    "yi": 7.556424679933116e-05,
-    "lo": 2.6886677915172186e-06,
-    "uz": 3.1079286366697545e-10,
-    "fo": 1.5113801055122167e-05,
-    "ht": 3.5973975172964856e-05,
-    "ps": 7.350408282036369e-07,
-    "tk": 2.0445147796976926e-09,
-    "nn": 0.001026960089802742,
-    "mt": 3.9497888337791665e-07,
-    "sa": 3.379442205186933e-05,
-    "lb": 1.0362643187988851e-08,
-    "my": 8.429801528109238e-05,
-    "bo": 1.7948081222129986e-05,
-    "tl": 0.00013682918506674469,
-    "mg": 1.0183044407696684e-09,
-    "as": 1.8696748611546354e-06,
-    "tt": 4.735106085007601e-09,
-    "haw": 0.0015782087575644255,
-    "ln": 3.3652622732915916e-07,
-    "ha": 5.750806941762221e-09,
-    "ba": 2.165773560491857e-09,
-    "jw": 0.0005123693845234811,
-    "su": 2.0408300827057246e-08
+    "en": 0.9650250673294067,
+    "zh": 0.0035629598423838615,
+    "de": 0.0027532419189810753,
+    "es": 0.003023844677954912,
+    "ru": 0.004794486332684755,
+    "ko": 0.0016699257539585233,
+    "fr": 0.004069027956575155,
+    "ja": 0.0014737042365595698,
+    "pt": 0.002177993766963482,
+    "tr": 0.0003237298515159637,
+    "pl": 0.000801239104475826,
+    "ca": 3.660635411506519e-05,
+    "nl": 0.0006338323000818491,
+    "ar": 0.00028346735052764416,
+    "sv": 0.0005907966988161206,
+    "it": 0.0007645476725883782,
+    "id": 0.0003935554123017937,
+    "hi": 0.00011816677579190582,
+    "fi": 0.00017738931637723,
+    "vi": 0.0005254654097370803,
+    "he": 2.448053055559285e-05,
+    "uk": 3.4793851227732375e-05,
+    "el": 0.00010107339039677754,
+    "ms": 6.130411202320829e-05,
+    "cs": 0.00011275551514700055,
+    "ro": 6.325011054286733e-05,
+    "da": 8.058272942434996e-05,
+    "hu": 0.00010028682299889624,
+    "ta": 2.7957643396803178e-05,
+    "no": 9.720132948132232e-05,
+    "th": 0.00021565056522376835,
+    "ur": 1.0007621312979609e-05,
+    "hr": 1.1609043212956749e-05,
+    "bg": 4.043444278067909e-06,
+    "lt": 1.0487896361155435e-05,
+    "la": 0.0021950758527964354,
+    "mi": 6.892606324981898e-05,
+    "ml": 3.333046333864331e-05,
+    "cy": 0.0008868908043950796,
+    "sk": 1.0086110705742612e-05,
+    "te": 8.559971320210025e-06,
+    "fa": 8.79726303537609e-06,
+    "lv": 8.762965990172233e-06,
+    "bn": 8.10441815701779e-06,
+    "sr": 8.676511242811102e-07,
+    "az": 1.3919291177444393e-06,
+    "sl": 1.2261592928553e-05,
+    "kn": 2.2370336694166326e-07,
+    "et": 1.4874999578751158e-06,
+    "mk": 1.1171879776838978e-07,
+    "br": 7.167176954681054e-05,
+    "eu": 6.640521860390436e-06,
+    "is": 8.427261491306126e-06,
+    "hy": 2.878453415178228e-06,
+    "ne": 1.8368175460636849e-06,
+    "mn": 7.523574367951369e-07,
+    "bs": 2.2505157630803296e-06,
+    "kk": 1.0303612043571775e-06,
+    "sq": 1.0384425195297808e-06,
+    "sw": 8.041349246923346e-06,
+    "gl": 4.858310148847522e-06,
+    "mr": 1.1859384585477528e-06,
+    "pa": 1.1721218697857694e-06,
+    "si": 5.495264849741943e-05,
+    "km": 0.0007585979183204472,
+    "sn": 6.275789928622544e-05,
+    "yo": 4.406295829539886e-06,
+    "so": 1.3804787313276279e-09,
+    "af": 1.0384425195297808e-06,
+    "oc": 1.7054271665983833e-06,
+    "ka": 9.87842483368695e-08,
+    "be": 1.8154178178519942e-06,
+    "tg": 2.4826942723876755e-09,
+    "sd": 3.887961668169737e-07,
+    "gu": 1.5801100516910083e-07,
+    "am": 2.126991383022414e-08,
+    "yi": 1.962934675248107e-06,
+    "lo": 9.164222092294949e-07,
+    "uz": 6.161835486295786e-10,
+    "fo": 6.823585749771155e-07,
+    "ht": 2.9237824037409155e-06,
+    "ps": 1.815146930539413e-07,
+    "tk": 1.2943092153605562e-09,
+    "nn": 0.0003997530438937247,
+    "mt": 9.74428644440195e-08,
+    "sa": 2.1186135199968703e-05,
+    "lb": 4.285523935720903e-09,
+    "my": 4.389117293612799e-06,
+    "bo": 6.360281190609385e-07,
+    "tl": 8.121475548250601e-05,
+    "mg": 1.8110644095514772e-09,
+    "as": 9.640172038416495e-08,
+    "tt": 2.291636436169142e-09,
+    "haw": 0.0004975007032044232,
+    "ln": 5.094918265058368e-08,
+    "ha": 3.6228973154806e-09,
+    "ba": 1.5161590871670683e-09,
+    "jw": 0.0005861989920958877,
+    "su": 9.577743043109876e-09,
+    "yue": 5.191885520616779e-06
   },
   "speech_activity": [
     {

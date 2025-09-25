@@ -1,236 +1,272 @@
 {
-  "text": " I follow the Moscow down to Gonkipok listening to the wind of change An august summer night soldiers passing by listening to the wind of change The world is closing in, did you ever think that we could be so close like brothers The futures in the air can feel it everywhere, blowing with the wind of change To the magic of the moment, an aglory night where the children of tomorrow be my wings in the wind of change Walking down the street, distant memories are buried in the past forever I follow the Moscow down to Gonkipok listening to the wind of change To the magic of the moment, an aglory night where the children of tomorrow be my wings in the wind of change The wind of change blows straight into the face of time like a storm wind that will ring the freedom bell for peace of mind Lady of Alalaka sing what my guitar wants to sing To the magic of the moment, an aglory night where the children of tomorrow be my wings in the wind of change",
+  "text": " I follow the Moskva down to Gonky Park Listening to the wind of change August summer night, soldiers passing by Listening to the wind of change The world is closing in, did you ever think That we could be so close, like brothers The future's in the air, can feel it everywhere I'm blowing with the wind of change To the magic of God The moment on a glory night Where the children of tomorrow beam away In the wind of change Walking down the street, distant memories Are buried in the past forever I follow the Moskva Down to Gonky Park Listening to the wind of change To the magic of the moment on a glory night Where the children of tomorrow In the wind of change The wind of change blows straight Into the face of time Like a storm wind that will ring The freedom of the world will be mine The freedom of the world will be mine The freedom of the world will be mine The freedom of the world will be mine The freedom of the world will be mine The freedom of the world will be mine The freedom of the world will be mine The freedom of the world will be mine The freedom of the world will be mine The freedom of the world will be mine The freedom of the world will be mine The freedom of the world will be mine The freedom of the world will be mine The freedom of the world will be mine The freedom of the world will be mine The freedom of the world will be mine The freedom of the world will be mine The freedom of the world will be mine The freedom of the world will be mine The freedom of the world will be mine The freedom of the world will be mine The freedom of the world will be mine The freedom of the world will be mine The freedom of the world will be mine The freedom of the world will be mine The freedom of the world will be mine The freedom of the world will be mine The freedom of the world will be mine The freedom of the world will be mine The freedom of the world will be mine The freedom of the world will be mine The freedom of the world will be mine The freedom of the world will be mine The freedom of the world will be mine The freedom of the world will be mine The freedom of the world will be mine The freedom of the world will be mine The freedom of the world will be mine The freedom of the world will be mine The freedom of the world will be mine The freedom of the world will be mine The freedom of the world will be mine The freedom of the world will be mine The freedom of the world will be mine The freedom of the world will be mine The freedom of the world will be mine",
   "segments": [
     {
       "id": 0,
       "seek": 0,
-      "start": 22.0,
-      "end": 32.34,
-      "text": " I follow the Moscow down to Gonkipok listening to the wind of change",
+      "start": 21.78,
+      "end": 26.9,
+      "text": " I follow the Moskva down to Gonky Park",
       "tokens": [
-        50364,
+        50365,
         286,
         1524,
         264,
-        18298,
+        19430,
+        74,
+        2757,
         760,
         281,
         47403,
-        74,
-        647,
-        453,
-        4764,
-        281,
-        264,
-        2468,
-        295,
-        1319,
-        51014
+        4133,
+        4964,
+        50670
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.39577926529778373,
-      "compression_ratio": 1.43,
-      "no_speech_prob": 0.36129745841026306,
-      "confidence": 0.631,
+      "avg_logprob": -0.2605751037597656,
+      "compression_ratio": 1.375,
+      "no_speech_prob": 0.17665797472000122,
+      "confidence": 0.744,
       "words": [
         {
           "text": "I",
-          "start": 22.0,
-          "end": 22.16,
-          "confidence": 0.837
+          "start": 21.78,
+          "end": 22.04,
+          "confidence": 0.821
         },
         {
           "text": "follow",
-          "start": 22.16,
-          "end": 22.54,
-          "confidence": 0.857
+          "start": 22.04,
+          "end": 22.4,
+          "confidence": 0.616
         },
         {
           "text": "the",
-          "start": 22.54,
-          "end": 23.2,
-          "confidence": 0.955
+          "start": 22.4,
+          "end": 23.04,
+          "confidence": 0.961
         },
         {
-          "text": "Moscow",
-          "start": 23.2,
-          "end": 23.68,
-          "confidence": 0.247
+          "text": "Moskva",
+          "start": 23.04,
+          "end": 23.8,
+          "confidence": 0.736
         },
         {
           "text": "down",
-          "start": 23.68,
-          "end": 25.52,
-          "confidence": 0.556
+          "start": 23.8,
+          "end": 25.32,
+          "confidence": 0.537
         },
         {
           "text": "to",
-          "start": 25.52,
-          "end": 26.04,
-          "confidence": 0.991
+          "start": 25.32,
+          "end": 25.9,
+          "confidence": 0.996
         },
         {
-          "text": "Gonkipok",
-          "start": 26.04,
-          "end": 27.52,
-          "confidence": 0.396
+          "text": "Gonky",
+          "start": 25.9,
+          "end": 26.5,
+          "confidence": 0.667
         },
         {
-          "text": "listening",
-          "start": 27.52,
-          "end": 28.8,
-          "confidence": 0.308
-        },
-        {
-          "text": "to",
-          "start": 28.8,
-          "end": 29.54,
-          "confidence": 0.987
-        },
-        {
-          "text": "the",
-          "start": 29.54,
-          "end": 29.92,
-          "confidence": 0.993
-        },
-        {
-          "text": "wind",
-          "start": 29.92,
-          "end": 30.48,
-          "confidence": 0.95
-        },
-        {
-          "text": "of",
-          "start": 30.48,
-          "end": 31.54,
-          "confidence": 0.977
-        },
-        {
-          "text": "change",
-          "start": 31.54,
-          "end": 32.34,
-          "confidence": 0.988
+          "text": "Park",
+          "start": 26.5,
+          "end": 26.9,
+          "confidence": 0.836
         }
       ]
     },
     {
       "id": 1,
       "seek": 0,
-      "start": 36.31,
-      "end": 46.85,
-      "text": " An august summer night soldiers passing by listening to the wind of change",
+      "start": 28.34,
+      "end": 31.98,
+      "text": " Listening to the wind of change",
       "tokens": [
-        51064,
-        1107,
-        14501,
-        381,
-        4266,
-        1818,
-        8892,
-        8437,
-        538,
-        4764,
+        50670,
+        49321,
         281,
         264,
         2468,
         295,
         1319,
-        51714
+        51015
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.39577926529778373,
-      "compression_ratio": 1.43,
-      "no_speech_prob": 0.36129745841026306,
-      "confidence": 0.839,
+      "avg_logprob": -0.2605751037597656,
+      "compression_ratio": 1.375,
+      "no_speech_prob": 0.17665797472000122,
+      "confidence": 0.966,
       "words": [
         {
-          "text": "An",
-          "start": 36.31,
-          "end": 36.45,
-          "confidence": 0.449
-        },
-        {
-          "text": "august",
-          "start": 36.45,
-          "end": 37.17,
-          "confidence": 0.786
-        },
-        {
-          "text": "summer",
-          "start": 37.17,
-          "end": 37.63,
-          "confidence": 0.561
-        },
-        {
-          "text": "night",
-          "start": 37.63,
-          "end": 38.25,
-          "confidence": 0.996
-        },
-        {
-          "text": "soldiers",
-          "start": 38.25,
-          "end": 39.12,
-          "confidence": 0.614
-        },
-        {
-          "text": "passing",
-          "start": 39.93,
-          "end": 40.89,
-          "confidence": 0.966
-        },
-        {
-          "text": "by",
-          "start": 40.89,
-          "end": 41.47,
-          "confidence": 0.998
-        },
-        {
-          "text": "listening",
-          "start": 41.47,
-          "end": 43.09,
-          "confidence": 0.955
+          "text": "Listening",
+          "start": 28.34,
+          "end": 28.68,
+          "confidence": 0.88
         },
         {
           "text": "to",
-          "start": 43.09,
-          "end": 43.81,
-          "confidence": 0.997
+          "start": 28.68,
+          "end": 29.3,
+          "confidence": 0.999
         },
         {
           "text": "the",
-          "start": 43.81,
-          "end": 44.19,
-          "confidence": 0.998
+          "start": 29.3,
+          "end": 29.72,
+          "confidence": 0.999
         },
         {
           "text": "wind",
-          "start": 44.19,
-          "end": 44.73,
-          "confidence": 0.985
+          "start": 29.72,
+          "end": 30.36,
+          "confidence": 0.93
         },
         {
           "text": "of",
-          "start": 44.73,
-          "end": 45.81,
+          "start": 30.36,
+          "end": 31.5,
           "confidence": 0.998
         },
         {
           "text": "change",
-          "start": 45.81,
-          "end": 46.85,
-          "confidence": 0.993
+          "start": 31.5,
+          "end": 31.98,
+          "confidence": 0.998
         }
       ]
     },
     {
       "id": 2,
-      "seek": 2700,
-      "start": 71.07,
-      "end": 81.81,
-      "text": " The world is closing in, did you ever think that we could be so close like brothers",
+      "seek": 0,
+      "start": 36.27,
+      "end": 41.37,
+      "text": " August summer night, soldiers passing by",
       "tokens": [
-        50364,
+        51015,
+        6897,
+        4266,
+        1818,
+        11,
+        8892,
+        8437,
+        538,
+        51354
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2605751037597656,
+      "compression_ratio": 1.375,
+      "no_speech_prob": 0.17665797472000122,
+      "confidence": 0.869,
+      "words": [
+        {
+          "text": "August",
+          "start": 36.27,
+          "end": 36.55,
+          "confidence": 0.453
+        },
+        {
+          "text": "summer",
+          "start": 36.55,
+          "end": 37.55,
+          "confidence": 0.978
+        },
+        {
+          "text": "night,",
+          "start": 37.55,
+          "end": 38.17,
+          "confidence": 0.999
+        },
+        {
+          "text": "soldiers",
+          "start": 38.31,
+          "end": 39.12,
+          "confidence": 0.999
+        },
+        {
+          "text": "passing",
+          "start": 39.91,
+          "end": 40.77,
+          "confidence": 0.976
+        },
+        {
+          "text": "by",
+          "start": 40.77,
+          "end": 41.37,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 41.49,
+      "end": 46.21,
+      "text": " Listening to the wind of change",
+      "tokens": [
+        51354,
+        49321,
+        281,
+        264,
+        2468,
+        295,
+        1319,
+        51711
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2605751037597656,
+      "compression_ratio": 1.375,
+      "no_speech_prob": 0.17665797472000122,
+      "confidence": 1.0,
+      "words": [
+        {
+          "text": "Listening",
+          "start": 41.49,
+          "end": 42.97,
+          "confidence": 1.0
+        },
+        {
+          "text": "to",
+          "start": 42.97,
+          "end": 43.59,
+          "confidence": 1.0
+        },
+        {
+          "text": "the",
+          "start": 43.59,
+          "end": 43.99,
+          "confidence": 1.0
+        },
+        {
+          "text": "wind",
+          "start": 43.99,
+          "end": 44.61,
+          "confidence": 1.0
+        },
+        {
+          "text": "of",
+          "start": 44.61,
+          "end": 45.77,
+          "confidence": 1.0
+        },
+        {
+          "text": "change",
+          "start": 45.77,
+          "end": 46.21,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 2692,
+      "start": 49.13,
+      "end": 76.33,
+      "text": " The world is closing in, did you ever think",
+      "tokens": [
+        50365,
         440,
         1002,
         307,
@@ -241,433 +277,537 @@
         291,
         1562,
         519,
-        300,
+        50694
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.24340541274459274,
+      "compression_ratio": 1.3823529411764706,
+      "no_speech_prob": 0.013435706496238708,
+      "confidence": 0.997,
+      "words": [
+        {
+          "text": "The",
+          "start": 49.13,
+          "end": 49.68,
+          "confidence": 0.99
+        },
+        {
+          "text": "world",
+          "start": 71.17,
+          "end": 71.47,
+          "confidence": 0.997
+        },
+        {
+          "text": "is",
+          "start": 71.47,
+          "end": 71.83,
+          "confidence": 0.998
+        },
+        {
+          "text": "closing",
+          "start": 71.83,
+          "end": 72.41,
+          "confidence": 0.999
+        },
+        {
+          "text": "in,",
+          "start": 72.41,
+          "end": 73.07,
+          "confidence": 0.999
+        },
+        {
+          "text": "did",
+          "start": 73.33,
+          "end": 74.53,
+          "confidence": 0.992
+        },
+        {
+          "text": "you",
+          "start": 74.53,
+          "end": 74.97,
+          "confidence": 1.0
+        },
+        {
+          "text": "ever",
+          "start": 74.97,
+          "end": 75.59,
+          "confidence": 0.998
+        },
+        {
+          "text": "think",
+          "start": 75.59,
+          "end": 76.33,
+          "confidence": 0.999
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 2692,
+      "start": 77.45,
+      "end": 81.25,
+      "text": " That we could be so close, like brothers",
+      "tokens": [
+        50694,
+        663,
         321,
         727,
         312,
         370,
         1998,
+        11,
         411,
         8452,
-        51014
+        50977
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.12998611927032472,
-      "compression_ratio": 1.361344537815126,
-      "no_speech_prob": 0.369499534368515,
-      "confidence": 0.961,
+      "avg_logprob": -0.24340541274459274,
+      "compression_ratio": 1.3823529411764706,
+      "no_speech_prob": 0.013435706496238708,
+      "confidence": 0.999,
       "words": [
         {
-          "text": "The",
-          "start": 71.07,
-          "end": 71.29,
-          "confidence": 0.908
-        },
-        {
-          "text": "world",
-          "start": 71.29,
-          "end": 71.55,
-          "confidence": 0.989
-        },
-        {
-          "text": "is",
-          "start": 71.55,
-          "end": 71.97,
-          "confidence": 0.996
-        },
-        {
-          "text": "closing",
-          "start": 71.97,
-          "end": 72.61,
-          "confidence": 0.995
-        },
-        {
-          "text": "in,",
-          "start": 72.61,
-          "end": 73.27,
-          "confidence": 0.994
-        },
-        {
-          "text": "did",
-          "start": 74.33,
-          "end": 74.71,
-          "confidence": 0.901
-        },
-        {
-          "text": "you",
-          "start": 74.71,
-          "end": 75.07,
-          "confidence": 0.996
-        },
-        {
-          "text": "ever",
-          "start": 75.07,
-          "end": 75.67,
-          "confidence": 0.993
-        },
-        {
-          "text": "think",
-          "start": 75.67,
-          "end": 76.61,
-          "confidence": 0.996
-        },
-        {
-          "text": "that",
-          "start": 76.61,
-          "end": 77.65,
-          "confidence": 0.82
+          "text": "That",
+          "start": 77.45,
+          "end": 77.51,
+          "confidence": 0.992
         },
         {
           "text": "we",
-          "start": 77.65,
-          "end": 77.85,
-          "confidence": 0.996
+          "start": 77.51,
+          "end": 77.71,
+          "confidence": 1.0
         },
         {
           "text": "could",
-          "start": 77.85,
-          "end": 78.23,
-          "confidence": 0.995
+          "start": 77.71,
+          "end": 78.15,
+          "confidence": 1.0
         },
         {
           "text": "be",
-          "start": 78.23,
-          "end": 78.67,
-          "confidence": 0.997
+          "start": 78.15,
+          "end": 78.47,
+          "confidence": 1.0
         },
         {
           "text": "so",
-          "start": 78.67,
-          "end": 79.05,
-          "confidence": 0.995
+          "start": 78.47,
+          "end": 78.85,
+          "confidence": 1.0
         },
         {
-          "text": "close",
-          "start": 79.05,
-          "end": 79.61,
-          "confidence": 0.998
+          "text": "close,",
+          "start": 78.85,
+          "end": 79.53,
+          "confidence": 1.0
         },
         {
           "text": "like",
-          "start": 79.61,
-          "end": 80.67,
-          "confidence": 0.81
+          "start": 79.85,
+          "end": 80.65,
+          "confidence": 1.0
         },
         {
           "text": "brothers",
-          "start": 80.67,
-          "end": 81.81,
-          "confidence": 0.988
+          "start": 80.65,
+          "end": 81.25,
+          "confidence": 1.0
         }
       ]
     },
     {
-      "id": 3,
-      "seek": 2700,
-      "start": 85.39,
-      "end": 96.05,
-      "text": " The futures in the air can feel it everywhere, blowing with the wind of change",
+      "id": 6,
+      "seek": 2692,
+      "start": 85.29,
+      "end": 90.07,
+      "text": " The future's in the air, can feel it everywhere",
       "tokens": [
-        51064,
+        50977,
         440,
-        26071,
+        2027,
+        311,
         294,
         264,
         1988,
+        11,
         393,
         841,
         309,
         5315,
-        11,
+        51348
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.24340541274459274,
+      "compression_ratio": 1.3823529411764706,
+      "no_speech_prob": 0.013435706496238708,
+      "confidence": 0.996,
+      "words": [
+        {
+          "text": "The",
+          "start": 85.29,
+          "end": 85.53,
+          "confidence": 0.99
+        },
+        {
+          "text": "future's",
+          "start": 85.53,
+          "end": 86.35,
+          "confidence": 0.994
+        },
+        {
+          "text": "in",
+          "start": 86.35,
+          "end": 86.51,
+          "confidence": 1.0
+        },
+        {
+          "text": "the",
+          "start": 86.51,
+          "end": 86.85,
+          "confidence": 1.0
+        },
+        {
+          "text": "air,",
+          "start": 86.85,
+          "end": 87.31,
+          "confidence": 1.0
+        },
+        {
+          "text": "can",
+          "start": 87.57,
+          "end": 88.61,
+          "confidence": 0.99
+        },
+        {
+          "text": "feel",
+          "start": 88.61,
+          "end": 88.97,
+          "confidence": 0.996
+        },
+        {
+          "text": "it",
+          "start": 88.97,
+          "end": 89.45,
+          "confidence": 1.0
+        },
+        {
+          "text": "everywhere",
+          "start": 89.45,
+          "end": 90.07,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 2692,
+      "start": 91.67,
+      "end": 95.39,
+      "text": " I'm blowing with the wind of change",
+      "tokens": [
+        51348,
+        286,
+        478,
         15068,
         365,
         264,
         2468,
         295,
         1319,
-        51714
+        51722
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.12998611927032472,
-      "compression_ratio": 1.361344537815126,
-      "no_speech_prob": 0.369499534368515,
-      "confidence": 0.914,
+      "avg_logprob": -0.24340541274459274,
+      "compression_ratio": 1.3823529411764706,
+      "no_speech_prob": 0.013435706496238708,
+      "confidence": 0.943,
       "words": [
         {
-          "text": "The",
-          "start": 85.39,
-          "end": 85.57,
-          "confidence": 0.942
-        },
-        {
-          "text": "futures",
-          "start": 85.57,
-          "end": 86.13,
-          "confidence": 0.767
-        },
-        {
-          "text": "in",
-          "start": 86.13,
-          "end": 86.79,
-          "confidence": 0.99
-        },
-        {
-          "text": "the",
-          "start": 86.79,
-          "end": 87.07,
-          "confidence": 0.998
-        },
-        {
-          "text": "air",
-          "start": 87.07,
-          "end": 87.53,
-          "confidence": 0.993
-        },
-        {
-          "text": "can",
-          "start": 87.53,
-          "end": 88.73,
-          "confidence": 0.8
-        },
-        {
-          "text": "feel",
-          "start": 88.73,
-          "end": 89.01,
-          "confidence": 0.977
-        },
-        {
-          "text": "it",
-          "start": 89.01,
-          "end": 89.51,
-          "confidence": 0.985
-        },
-        {
-          "text": "everywhere,",
-          "start": 89.51,
-          "end": 90.37,
-          "confidence": 0.99
+          "text": "I'm",
+          "start": 91.67,
+          "end": 91.87,
+          "confidence": 0.812
         },
         {
           "text": "blowing",
-          "start": 91.15,
-          "end": 92.21,
-          "confidence": 0.511
+          "start": 91.87,
+          "end": 92.17,
+          "confidence": 0.961
         },
         {
           "text": "with",
-          "start": 92.21,
-          "end": 93.03,
-          "confidence": 0.993
+          "start": 92.17,
+          "end": 93.05,
+          "confidence": 0.999
         },
         {
           "text": "the",
-          "start": 93.03,
-          "end": 93.35,
-          "confidence": 0.978
+          "start": 93.05,
+          "end": 93.17,
+          "confidence": 0.999
         },
         {
           "text": "wind",
-          "start": 93.35,
-          "end": 93.89,
-          "confidence": 0.992
+          "start": 93.17,
+          "end": 93.75,
+          "confidence": 1.0
         },
         {
           "text": "of",
-          "start": 93.89,
-          "end": 94.97,
-          "confidence": 0.993
+          "start": 93.75,
+          "end": 94.93,
+          "confidence": 0.991
         },
         {
           "text": "change",
-          "start": 94.97,
-          "end": 96.05,
-          "confidence": 0.988
+          "start": 94.93,
+          "end": 95.39,
+          "confidence": 1.0
         }
       ]
     },
     {
-      "id": 4,
-      "seek": 5400,
+      "id": 8,
+      "seek": 2692,
       "start": 102.03,
-      "end": 116.44,
-      "text": " To the magic of the moment, an aglory night where the children of tomorrow be my wings in the wind of change",
+      "end": 104.15,
+      "text": " To the magic of God",
       "tokens": [
-        50364,
+        51722,
         1407,
         264,
         5585,
         295,
-        264,
-        1623,
-        11,
-        364,
-        623,
-        75,
-        827,
-        1818,
-        689,
-        264,
-        2227,
-        295,
-        4153,
-        312,
-        452,
-        11405,
-        294,
-        264,
-        2468,
-        295,
-        1319,
-        51114
+        1265,
+        51864
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.3565215177314226,
-      "compression_ratio": 1.4251968503937007,
-      "no_speech_prob": 0.22730974853038788,
-      "confidence": 0.626,
+      "avg_logprob": -0.24340541274459274,
+      "compression_ratio": 1.3823529411764706,
+      "no_speech_prob": 0.013435706496238708,
+      "confidence": 0.606,
       "words": [
         {
           "text": "To",
           "start": 102.03,
+          "end": 102.65,
+          "confidence": 0.5
+        },
+        {
+          "text": "the",
+          "start": 102.65,
           "end": 102.83,
-          "confidence": 0.825
-        },
-        {
-          "text": "the",
-          "start": 102.83,
-          "end": 103.03,
-          "confidence": 0.997
-        },
-        {
-          "text": "magic",
-          "start": 103.03,
-          "end": 103.51,
-          "confidence": 0.986
-        },
-        {
-          "text": "of",
-          "start": 103.51,
-          "end": 104.21,
-          "confidence": 0.997
-        },
-        {
-          "text": "the",
-          "start": 104.21,
-          "end": 104.45,
-          "confidence": 0.992
-        },
-        {
-          "text": "moment,",
-          "start": 104.45,
-          "end": 105.03,
-          "confidence": 0.981
-        },
-        {
-          "text": "an",
-          "start": 105.77,
-          "end": 105.87,
-          "confidence": 0.257
-        },
-        {
-          "text": "aglory",
-          "start": 105.87,
-          "end": 107.53,
-          "confidence": 0.283
-        },
-        {
-          "text": "night",
-          "start": 107.53,
-          "end": 108.01,
-          "confidence": 0.998
-        },
-        {
-          "text": "where",
-          "start": 108.01,
-          "end": 109.21,
-          "confidence": 0.283
-        },
-        {
-          "text": "the",
-          "start": 109.21,
-          "end": 109.39,
-          "confidence": 0.988
-        },
-        {
-          "text": "children",
-          "start": 109.39,
-          "end": 109.69,
-          "confidence": 0.77
-        },
-        {
-          "text": "of",
-          "start": 109.69,
-          "end": 110.51,
-          "confidence": 0.979
-        },
-        {
-          "text": "tomorrow",
-          "start": 110.51,
-          "end": 111.27,
-          "confidence": 0.988
-        },
-        {
-          "text": "be",
-          "start": 111.27,
-          "end": 111.63,
-          "confidence": 0.156
-        },
-        {
-          "text": "my",
-          "start": 112.14,
-          "end": 112.38,
-          "confidence": 0.196
-        },
-        {
-          "text": "wings",
-          "start": 112.38,
-          "end": 113.28,
-          "confidence": 0.703
-        },
-        {
-          "text": "in",
-          "start": 114.32,
-          "end": 114.8,
-          "confidence": 0.676
-        },
-        {
-          "text": "the",
-          "start": 114.8,
-          "end": 114.96,
-          "confidence": 0.972
-        },
-        {
-          "text": "wind",
-          "start": 114.96,
-          "end": 115.2,
-          "confidence": 0.991
-        },
-        {
-          "text": "of",
-          "start": 115.2,
-          "end": 115.5,
           "confidence": 0.999
         },
         {
-          "text": "change",
-          "start": 115.5,
-          "end": 116.44,
-          "confidence": 0.994
+          "text": "magic",
+          "start": 102.83,
+          "end": 103.27,
+          "confidence": 0.987
+        },
+        {
+          "text": "of",
+          "start": 103.27,
+          "end": 103.87,
+          "confidence": 0.893
+        },
+        {
+          "text": "God",
+          "start": 103.87,
+          "end": 104.15,
+          "confidence": 0.186
         }
       ]
     },
     {
-      "id": 5,
-      "seek": 5400,
-      "start": 126.65,
-      "end": 136.51,
-      "text": " Walking down the street, distant memories are buried in the past forever",
+      "id": 9,
+      "seek": 5692,
+      "start": 104.27,
+      "end": 107.97,
+      "text": " The moment on a glory night",
       "tokens": [
-        51164,
+        50365,
+        440,
+        1623,
+        322,
+        257,
+        11924,
+        1818,
+        50602
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3636312671736175,
+      "compression_ratio": 1.3357664233576643,
+      "no_speech_prob": 0.01214159931987524,
+      "confidence": 0.841,
+      "words": [
+        {
+          "text": "The",
+          "start": 104.27,
+          "end": 104.35,
+          "confidence": 0.73
+        },
+        {
+          "text": "moment",
+          "start": 104.35,
+          "end": 104.93,
+          "confidence": 0.99
+        },
+        {
+          "text": "on",
+          "start": 104.93,
+          "end": 105.65,
+          "confidence": 0.642
+        },
+        {
+          "text": "a",
+          "start": 105.65,
+          "end": 106.01,
+          "confidence": 0.816
+        },
+        {
+          "text": "glory",
+          "start": 106.01,
+          "end": 106.51,
+          "confidence": 0.936
+        },
+        {
+          "text": "night",
+          "start": 106.51,
+          "end": 107.97,
+          "confidence": 0.998
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "seek": 5692,
+      "start": 108.97,
+      "end": 112.48,
+      "text": " Where the children of tomorrow beam away",
+      "tokens": [
+        50602,
+        2305,
+        264,
+        2227,
+        295,
+        4153,
+        14269,
+        1314,
+        50826
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3636312671736175,
+      "compression_ratio": 1.3357664233576643,
+      "no_speech_prob": 0.01214159931987524,
+      "confidence": 0.817,
+      "words": [
+        {
+          "text": "Where",
+          "start": 108.97,
+          "end": 109.17,
+          "confidence": 0.893
+        },
+        {
+          "text": "the",
+          "start": 109.17,
+          "end": 109.25,
+          "confidence": 0.995
+        },
+        {
+          "text": "children",
+          "start": 109.25,
+          "end": 109.67,
+          "confidence": 0.99
+        },
+        {
+          "text": "of",
+          "start": 109.67,
+          "end": 110.45,
+          "confidence": 0.995
+        },
+        {
+          "text": "tomorrow",
+          "start": 110.45,
+          "end": 110.99,
+          "confidence": 0.982
+        },
+        {
+          "text": "beam",
+          "start": 110.99,
+          "end": 111.63,
+          "confidence": 0.427
+        },
+        {
+          "text": "away",
+          "start": 112.04,
+          "end": 112.48,
+          "confidence": 0.66
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "seek": 5692,
+      "start": 114.62,
+      "end": 115.82,
+      "text": " In the wind of change",
+      "tokens": [
+        50826,
+        682,
+        264,
+        2468,
+        295,
+        1319,
+        51037
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3636312671736175,
+      "compression_ratio": 1.3357664233576643,
+      "no_speech_prob": 0.01214159931987524,
+      "confidence": 0.967,
+      "words": [
+        {
+          "text": "In",
+          "start": 114.62,
+          "end": 114.76,
+          "confidence": 0.902
+        },
+        {
+          "text": "the",
+          "start": 114.76,
+          "end": 114.78,
+          "confidence": 0.946
+        },
+        {
+          "text": "wind",
+          "start": 114.78,
+          "end": 115.14,
+          "confidence": 0.993
+        },
+        {
+          "text": "of",
+          "start": 115.14,
+          "end": 115.48,
+          "confidence": 0.999
+        },
+        {
+          "text": "change",
+          "start": 115.48,
+          "end": 115.82,
+          "confidence": 0.998
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "seek": 5692,
+      "start": 126.67,
+      "end": 131.49,
+      "text": " Walking down the street, distant memories",
+      "tokens": [
+        51037,
         26964,
         760,
         264,
@@ -675,941 +815,4148 @@
         11,
         17275,
         8495,
-        366,
+        51352
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3636312671736175,
+      "compression_ratio": 1.3357664233576643,
+      "no_speech_prob": 0.01214159931987524,
+      "confidence": 0.991,
+      "words": [
+        {
+          "text": "Walking",
+          "start": 126.67,
+          "end": 127.09,
+          "confidence": 0.991
+        },
+        {
+          "text": "down",
+          "start": 127.09,
+          "end": 127.65,
+          "confidence": 0.998
+        },
+        {
+          "text": "the",
+          "start": 127.65,
+          "end": 128.07,
+          "confidence": 0.996
+        },
+        {
+          "text": "street,",
+          "start": 128.07,
+          "end": 128.55,
+          "confidence": 0.982
+        },
+        {
+          "text": "distant",
+          "start": 128.95,
+          "end": 130.25,
+          "confidence": 0.983
+        },
+        {
+          "text": "memories",
+          "start": 130.25,
+          "end": 131.49,
+          "confidence": 0.997
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "seek": 5692,
+      "start": 132.97,
+      "end": 136.23,
+      "text": " Are buried in the past forever",
+      "tokens": [
+        51352,
+        2014,
         14101,
         294,
         264,
         1791,
         5680,
-        51814
+        51697
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.3565215177314226,
-      "compression_ratio": 1.4251968503937007,
-      "no_speech_prob": 0.22730974853038788,
-      "confidence": 0.928,
+      "avg_logprob": -0.3636312671736175,
+      "compression_ratio": 1.3357664233576643,
+      "no_speech_prob": 0.01214159931987524,
+      "confidence": 0.865,
       "words": [
         {
-          "text": "Walking",
-          "start": 126.65,
-          "end": 127.17,
-          "confidence": 0.882
-        },
-        {
-          "text": "down",
-          "start": 127.17,
-          "end": 127.95,
-          "confidence": 0.983
-        },
-        {
-          "text": "the",
-          "start": 127.95,
-          "end": 128.21,
-          "confidence": 0.998
-        },
-        {
-          "text": "street,",
-          "start": 128.21,
-          "end": 128.69,
-          "confidence": 0.893
-        },
-        {
-          "text": "distant",
-          "start": 129.79,
-          "end": 130.39,
-          "confidence": 0.938
-        },
-        {
-          "text": "memories",
-          "start": 130.39,
-          "end": 131.65,
-          "confidence": 0.989
-        },
-        {
-          "text": "are",
-          "start": 131.65,
-          "end": 133.17,
-          "confidence": 0.772
+          "text": "Are",
+          "start": 132.97,
+          "end": 133.15,
+          "confidence": 0.815
         },
         {
           "text": "buried",
-          "start": 133.17,
-          "end": 133.73,
-          "confidence": 0.998
+          "start": 133.15,
+          "end": 133.43,
+          "confidence": 0.999
         },
         {
           "text": "in",
-          "start": 133.73,
-          "end": 134.35,
-          "confidence": 0.996
+          "start": 133.43,
+          "end": 134.25,
+          "confidence": 0.998
         },
         {
           "text": "the",
-          "start": 134.35,
-          "end": 134.57,
-          "confidence": 0.988
+          "start": 134.25,
+          "end": 134.37,
+          "confidence": 0.997
         },
         {
           "text": "past",
-          "start": 134.57,
-          "end": 135.39,
-          "confidence": 0.831
+          "start": 134.37,
+          "end": 135.17,
+          "confidence": 0.995
         },
         {
           "text": "forever",
-          "start": 135.39,
-          "end": 136.51,
-          "confidence": 0.901
+          "start": 135.17,
+          "end": 136.23,
+          "confidence": 0.52
         }
       ]
     },
     {
-      "id": 6,
-      "seek": 8400,
-      "start": 141.39,
-      "end": 151.79,
-      "text": " I follow the Moscow down to Gonkipok listening to the wind of change",
+      "id": 14,
+      "seek": 5692,
+      "start": 140.79,
+      "end": 142.69,
+      "text": " I follow the Moskva",
       "tokens": [
-        50364,
+        51697,
         286,
         1524,
         264,
-        18298,
-        760,
+        19430,
+        74,
+        2757,
+        51856
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3636312671736175,
+      "compression_ratio": 1.3357664233576643,
+      "no_speech_prob": 0.01214159931987524,
+      "confidence": 0.99,
+      "words": [
+        {
+          "text": "I",
+          "start": 140.79,
+          "end": 140.93,
+          "confidence": 0.965
+        },
+        {
+          "text": "follow",
+          "start": 140.93,
+          "end": 141.31,
+          "confidence": 0.994
+        },
+        {
+          "text": "the",
+          "start": 141.31,
+          "end": 141.89,
+          "confidence": 0.997
+        },
+        {
+          "text": "Moskva",
+          "start": 141.89,
+          "end": 142.69,
+          "confidence": 0.994
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "seek": 8674,
+      "start": 144.13,
+      "end": 146.13,
+      "text": " Down to Gonky Park",
+      "tokens": [
+        50365,
+        9506,
         281,
         47403,
-        74,
-        647,
-        453,
-        4764,
+        4133,
+        4964,
+        50522
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.38715095081548584,
+      "compression_ratio": 1.8682634730538923,
+      "no_speech_prob": 0.010263576172292233,
+      "confidence": 0.986,
+      "words": [
+        {
+          "text": "Down",
+          "start": 144.13,
+          "end": 144.31,
+          "confidence": 0.958
+        },
+        {
+          "text": "to",
+          "start": 144.31,
+          "end": 144.67,
+          "confidence": 0.999
+        },
+        {
+          "text": "Gonky",
+          "start": 144.67,
+          "end": 145.43,
+          "confidence": 0.991
+        },
+        {
+          "text": "Park",
+          "start": 145.43,
+          "end": 146.13,
+          "confidence": 0.993
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "seek": 8674,
+      "start": 147.21,
+      "end": 151.07,
+      "text": " Listening to the wind of change",
+      "tokens": [
+        50522,
+        49321,
         281,
         264,
         2468,
         295,
         1319,
-        50964
+        50892
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.05785554013353713,
-      "compression_ratio": 1.4508196721311475,
-      "no_speech_prob": 0.12976661324501038,
-      "confidence": 0.951,
+      "avg_logprob": -0.38715095081548584,
+      "compression_ratio": 1.8682634730538923,
+      "no_speech_prob": 0.010263576172292233,
+      "confidence": 0.992,
       "words": [
         {
-          "text": "I",
-          "start": 141.39,
-          "end": 141.41,
-          "confidence": 0.528
-        },
-        {
-          "text": "follow",
-          "start": 141.41,
-          "end": 141.63,
-          "confidence": 0.959
-        },
-        {
-          "text": "the",
-          "start": 141.63,
-          "end": 142.07,
-          "confidence": 0.986
-        },
-        {
-          "text": "Moscow",
-          "start": 142.07,
-          "end": 142.57,
-          "confidence": 0.995
-        },
-        {
-          "text": "down",
-          "start": 142.57,
-          "end": 144.45,
-          "confidence": 0.972
-        },
-        {
-          "text": "to",
-          "start": 144.45,
-          "end": 144.97,
-          "confidence": 0.998
-        },
-        {
-          "text": "Gonkipok",
-          "start": 144.97,
-          "end": 146.67,
+          "text": "Listening",
+          "start": 147.21,
+          "end": 147.59,
           "confidence": 0.996
         },
         {
-          "text": "listening",
-          "start": 146.67,
-          "end": 147.67,
-          "confidence": 0.969
-        },
-        {
           "text": "to",
-          "start": 147.67,
-          "end": 148.45,
-          "confidence": 0.998
+          "start": 147.59,
+          "end": 148.21,
+          "confidence": 0.999
         },
         {
           "text": "the",
-          "start": 148.45,
-          "end": 148.81,
+          "start": 148.21,
+          "end": 148.63,
           "confidence": 0.999
         },
         {
           "text": "wind",
-          "start": 148.81,
-          "end": 149.47,
-          "confidence": 0.994
+          "start": 148.63,
+          "end": 149.31,
+          "confidence": 0.998
         },
         {
           "text": "of",
-          "start": 149.47,
-          "end": 150.47,
-          "confidence": 0.999
+          "start": 149.31,
+          "end": 150.25,
+          "confidence": 0.962
         },
         {
           "text": "change",
-          "start": 150.47,
-          "end": 151.79,
-          "confidence": 0.992
+          "start": 150.25,
+          "end": 151.07,
+          "confidence": 0.996
         }
       ]
     },
     {
-      "id": 7,
-      "seek": 8400,
-      "start": 157.98,
-      "end": 171.79,
-      "text": " To the magic of the moment, an aglory night where the children of tomorrow be my wings in the wind of change",
+      "id": 17,
+      "seek": 8674,
+      "start": 158.0,
+      "end": 162.64,
+      "text": " To the magic of the moment on a glory night",
       "tokens": [
-        51014,
+        50892,
         1407,
         264,
         5585,
         295,
         264,
         1623,
-        11,
-        364,
-        623,
-        75,
-        827,
+        322,
+        257,
+        11924,
         1818,
-        689,
-        264,
-        2227,
-        295,
-        4153,
-        312,
-        452,
-        11405,
-        294,
-        264,
-        2468,
-        295,
-        1319,
-        51514
+        51125
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.05785554013353713,
-      "compression_ratio": 1.4508196721311475,
-      "no_speech_prob": 0.12976661324501038,
-      "confidence": 0.972,
+      "avg_logprob": -0.38715095081548584,
+      "compression_ratio": 1.8682634730538923,
+      "no_speech_prob": 0.010263576172292233,
+      "confidence": 0.815,
       "words": [
         {
           "text": "To",
-          "start": 157.98,
-          "end": 158.3,
-          "confidence": 0.884
+          "start": 158.0,
+          "end": 158.2,
+          "confidence": 0.979
         },
         {
           "text": "the",
-          "start": 158.3,
-          "end": 158.56,
-          "confidence": 0.999
+          "start": 158.2,
+          "end": 158.36,
+          "confidence": 1.0
         },
         {
           "text": "magic",
-          "start": 158.56,
-          "end": 159.12,
+          "start": 158.36,
+          "end": 158.82,
+          "confidence": 0.996
+        },
+        {
+          "text": "of",
+          "start": 158.82,
+          "end": 159.38,
           "confidence": 0.994
         },
         {
-          "text": "of",
-          "start": 159.12,
-          "end": 159.7,
-          "confidence": 0.998
-        },
-        {
           "text": "the",
-          "start": 159.7,
-          "end": 159.94,
-          "confidence": 0.998
+          "start": 159.38,
+          "end": 159.74,
+          "confidence": 0.896
         },
         {
-          "text": "moment,",
-          "start": 159.94,
-          "end": 160.5,
-          "confidence": 0.998
+          "text": "moment",
+          "start": 159.74,
+          "end": 160.34,
+          "confidence": 0.99
         },
         {
-          "text": "an",
-          "start": 161.13,
-          "end": 161.37,
-          "confidence": 0.944
+          "text": "on",
+          "start": 160.34,
+          "end": 160.69,
+          "confidence": 0.608
         },
         {
-          "text": "aglory",
-          "start": 161.37,
-          "end": 162.59,
-          "confidence": 0.987
+          "text": "a",
+          "start": 161.19,
+          "end": 161.49,
+          "confidence": 0.946
+        },
+        {
+          "text": "glory",
+          "start": 161.49,
+          "end": 161.83,
+          "confidence": 0.298
         },
         {
           "text": "night",
-          "start": 164.01,
-          "end": 164.29,
-          "confidence": 0.961
-        },
-        {
-          "text": "where",
-          "start": 164.29,
-          "end": 164.67,
-          "confidence": 0.965
-        },
-        {
-          "text": "the",
-          "start": 164.67,
-          "end": 164.89,
-          "confidence": 0.996
-        },
-        {
-          "text": "children",
-          "start": 164.89,
-          "end": 165.25,
-          "confidence": 0.998
-        },
-        {
-          "text": "of",
-          "start": 165.25,
-          "end": 166.01,
-          "confidence": 0.995
-        },
-        {
-          "text": "tomorrow",
-          "start": 166.01,
-          "end": 166.81,
-          "confidence": 0.996
-        },
-        {
-          "text": "be",
-          "start": 166.81,
-          "end": 167.12,
-          "confidence": 0.908
-        },
-        {
-          "text": "my",
-          "start": 170.31,
-          "end": 170.43,
-          "confidence": 0.798
-        },
-        {
-          "text": "wings",
-          "start": 170.43,
-          "end": 170.45,
-          "confidence": 0.987
-        },
-        {
-          "text": "in",
-          "start": 170.45,
-          "end": 170.47,
-          "confidence": 0.988
-        },
-        {
-          "text": "the",
-          "start": 170.47,
-          "end": 170.49,
-          "confidence": 0.998
-        },
-        {
-          "text": "wind",
-          "start": 170.49,
-          "end": 170.67,
-          "confidence": 0.997
-        },
-        {
-          "text": "of",
-          "start": 170.67,
-          "end": 170.99,
-          "confidence": 0.999
-        },
-        {
-          "text": "change",
-          "start": 170.99,
-          "end": 171.79,
-          "confidence": 0.991
+          "start": 161.83,
+          "end": 162.64,
+          "confidence": 0.875
         }
       ]
     },
     {
-      "id": 8,
-      "seek": 10700,
-      "start": 175.78,
-      "end": 187.32,
-      "text": " The wind of change blows straight into the face of time like a storm wind that will ring the freedom bell for peace of mind",
+      "id": 18,
+      "seek": 8674,
+      "start": 164.49,
+      "end": 166.41,
+      "text": " Where the children of tomorrow",
       "tokens": [
-        50364,
+        51125,
+        2305,
+        264,
+        2227,
+        295,
+        4153,
+        51257
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.38715095081548584,
+      "compression_ratio": 1.8682634730538923,
+      "no_speech_prob": 0.010263576172292233,
+      "confidence": 0.992,
+      "words": [
+        {
+          "text": "Where",
+          "start": 164.49,
+          "end": 164.59,
+          "confidence": 0.972
+        },
+        {
+          "text": "the",
+          "start": 164.59,
+          "end": 164.75,
+          "confidence": 0.999
+        },
+        {
+          "text": "children",
+          "start": 164.75,
+          "end": 165.11,
+          "confidence": 0.999
+        },
+        {
+          "text": "of",
+          "start": 165.11,
+          "end": 165.77,
+          "confidence": 0.994
+        },
+        {
+          "text": "tomorrow",
+          "start": 165.77,
+          "end": 166.41,
+          "confidence": 0.997
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "seek": 8674,
+      "start": 166.81,
+      "end": 171.63,
+      "text": " In the wind of change",
+      "tokens": [
+        51257,
+        682,
+        264,
+        2468,
+        295,
+        1319,
+        51405
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.38715095081548584,
+      "compression_ratio": 1.8682634730538923,
+      "no_speech_prob": 0.010263576172292233,
+      "confidence": 0.891,
+      "words": [
+        {
+          "text": "In",
+          "start": 166.81,
+          "end": 167.12,
+          "confidence": 0.574
+        },
+        {
+          "text": "the",
+          "start": 170.23,
+          "end": 170.33,
+          "confidence": 0.996
+        },
+        {
+          "text": "wind",
+          "start": 170.33,
+          "end": 170.57,
+          "confidence": 0.988
+        },
+        {
+          "text": "of",
+          "start": 170.57,
+          "end": 170.73,
+          "confidence": 0.999
+        },
+        {
+          "text": "change",
+          "start": 170.73,
+          "end": 171.63,
+          "confidence": 0.997
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "seek": 8674,
+      "start": 175.76,
+      "end": 177.84,
+      "text": " The wind of change blows straight",
+      "tokens": [
+        51405,
         440,
         2468,
         295,
         1319,
         18458,
         2997,
-        666,
+        51562
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.38715095081548584,
+      "compression_ratio": 1.8682634730538923,
+      "no_speech_prob": 0.010263576172292233,
+      "confidence": 0.974,
+      "words": [
+        {
+          "text": "The",
+          "start": 175.76,
+          "end": 175.84,
+          "confidence": 0.986
+        },
+        {
+          "text": "wind",
+          "start": 175.84,
+          "end": 176.14,
+          "confidence": 0.994
+        },
+        {
+          "text": "of",
+          "start": 176.14,
+          "end": 176.3,
+          "confidence": 0.999
+        },
+        {
+          "text": "change",
+          "start": 176.3,
+          "end": 176.82,
+          "confidence": 0.994
+        },
+        {
+          "text": "blows",
+          "start": 176.82,
+          "end": 177.24,
+          "confidence": 0.882
+        },
+        {
+          "text": "straight",
+          "start": 177.24,
+          "end": 177.84,
+          "confidence": 0.994
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "seek": 8674,
+      "start": 178.96,
+      "end": 180.88,
+      "text": " Into the face of time",
+      "tokens": [
+        51562,
+        23373,
         264,
         1851,
         295,
         565,
-        411,
+        51688
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.38715095081548584,
+      "compression_ratio": 1.8682634730538923,
+      "no_speech_prob": 0.010263576172292233,
+      "confidence": 0.864,
+      "words": [
+        {
+          "text": "Into",
+          "start": 178.96,
+          "end": 179.14,
+          "confidence": 0.95
+        },
+        {
+          "text": "the",
+          "start": 179.14,
+          "end": 179.34,
+          "confidence": 0.985
+        },
+        {
+          "text": "face",
+          "start": 179.34,
+          "end": 179.86,
+          "confidence": 0.522
+        },
+        {
+          "text": "of",
+          "start": 179.86,
+          "end": 180.42,
+          "confidence": 0.999
+        },
+        {
+          "text": "time",
+          "start": 180.42,
+          "end": 180.88,
+          "confidence": 0.987
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "seek": 8674,
+      "start": 181.46,
+      "end": 183.59,
+      "text": " Like a storm wind that will ring",
+      "tokens": [
+        51688,
+        1743,
         257,
         7679,
         2468,
         300,
         486,
         4875,
-        264,
-        5645,
-        4549,
-        337,
-        4336,
-        295,
-        1575,
-        50964
+        51802
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.23162675458331441,
-      "compression_ratio": 1.3951612903225807,
-      "no_speech_prob": 0.22238689661026,
-      "confidence": 0.894,
+      "avg_logprob": -0.38715095081548584,
+      "compression_ratio": 1.8682634730538923,
+      "no_speech_prob": 0.010263576172292233,
+      "confidence": 0.796,
       "words": [
         {
-          "text": "The",
-          "start": 175.78,
-          "end": 175.98,
-          "confidence": 0.985
-        },
-        {
-          "text": "wind",
-          "start": 175.98,
-          "end": 176.26,
-          "confidence": 0.979
-        },
-        {
-          "text": "of",
-          "start": 176.26,
-          "end": 176.48,
-          "confidence": 0.999
-        },
-        {
-          "text": "change",
-          "start": 176.48,
-          "end": 176.88,
-          "confidence": 0.986
-        },
-        {
-          "text": "blows",
-          "start": 176.88,
-          "end": 177.28,
-          "confidence": 0.891
-        },
-        {
-          "text": "straight",
-          "start": 177.28,
-          "end": 177.92,
-          "confidence": 0.988
-        },
-        {
-          "text": "into",
-          "start": 177.92,
-          "end": 179.2,
-          "confidence": 0.943
-        },
-        {
-          "text": "the",
-          "start": 179.2,
-          "end": 179.56,
-          "confidence": 0.985
-        },
-        {
-          "text": "face",
-          "start": 179.56,
-          "end": 180.08,
-          "confidence": 0.751
-        },
-        {
-          "text": "of",
-          "start": 180.08,
-          "end": 180.48,
-          "confidence": 0.998
-        },
-        {
-          "text": "time",
-          "start": 180.48,
-          "end": 181.06,
-          "confidence": 0.995
-        },
-        {
-          "text": "like",
-          "start": 181.06,
-          "end": 181.76,
-          "confidence": 0.765
+          "text": "Like",
+          "start": 181.46,
+          "end": 181.7,
+          "confidence": 0.984
         },
         {
           "text": "a",
-          "start": 181.76,
-          "end": 182.04,
-          "confidence": 0.973
+          "start": 181.7,
+          "end": 181.8,
+          "confidence": 0.964
         },
         {
           "text": "storm",
-          "start": 182.04,
-          "end": 182.34,
-          "confidence": 0.93
+          "start": 181.8,
+          "end": 182.28,
+          "confidence": 0.99
         },
         {
           "text": "wind",
-          "start": 182.34,
-          "end": 182.74,
-          "confidence": 0.543
+          "start": 182.28,
+          "end": 182.66,
+          "confidence": 0.907
         },
         {
           "text": "that",
-          "start": 182.74,
-          "end": 183.3,
-          "confidence": 0.473
+          "start": 182.66,
+          "end": 183.18,
+          "confidence": 0.443
         },
         {
           "text": "will",
-          "start": 183.3,
-          "end": 183.62,
-          "confidence": 0.887
+          "start": 183.18,
+          "end": 183.54,
+          "confidence": 0.613
         },
         {
           "text": "ring",
-          "start": 183.62,
-          "end": 184.12,
-          "confidence": 0.948
-        },
-        {
-          "text": "the",
-          "start": 184.12,
-          "end": 184.68,
-          "confidence": 0.969
-        },
-        {
-          "text": "freedom",
-          "start": 184.68,
-          "end": 185.08,
-          "confidence": 0.947
-        },
-        {
-          "text": "bell",
-          "start": 185.08,
-          "end": 185.66,
-          "confidence": 0.992
-        },
-        {
-          "text": "for",
-          "start": 185.66,
-          "end": 186.3,
-          "confidence": 0.81
-        },
-        {
-          "text": "peace",
-          "start": 186.3,
-          "end": 186.54,
-          "confidence": 0.968
-        },
-        {
-          "text": "of",
-          "start": 186.54,
-          "end": 186.88,
-          "confidence": 0.994
-        },
-        {
-          "text": "mind",
-          "start": 186.88,
-          "end": 187.32,
-          "confidence": 0.997
+          "start": 183.54,
+          "end": 183.59,
+          "confidence": 0.878
         }
       ]
     },
     {
-      "id": 9,
-      "seek": 10700,
-      "start": 188.4,
-      "end": 193.92,
-      "text": " Lady of Alalaka sing what my guitar wants to sing",
+      "id": 23,
+      "seek": 8674,
+      "start": 183.59,
+      "end": 184.0,
+      "text": " The freedom of the world will be mine",
       "tokens": [
-        51014,
-        11256,
+        51802,
+        440,
+        5645,
         295,
-        967,
-        304,
-        7849,
-        1522,
-        437,
-        452,
-        7531,
-        2738,
-        281,
-        1522,
-        51364
+        264,
+        1002,
+        486,
+        312,
+        3892,
+        51837
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.23162675458331441,
-      "compression_ratio": 1.3951612903225807,
-      "no_speech_prob": 0.22238689661026,
-      "confidence": 0.607,
+      "avg_logprob": -0.38715095081548584,
+      "compression_ratio": 1.8682634730538923,
+      "no_speech_prob": 0.010263576172292233,
+      "confidence": 0.255,
       "words": [
         {
-          "text": "Lady",
-          "start": 188.4,
+          "text": "The",
+          "start": 183.59,
+          "end": 183.61,
+          "confidence": 0.512
+        },
+        {
+          "text": "freedom",
+          "start": 183.61,
+          "end": 183.63,
+          "confidence": 0.943
+        },
+        {
+          "text": "of",
+          "start": 183.63,
+          "end": 183.65,
+          "confidence": 0.375
+        },
+        {
+          "text": "the",
+          "start": 183.65,
+          "end": 183.67,
+          "confidence": 0.268
+        },
+        {
+          "text": "world",
+          "start": 183.67,
+          "end": 183.69,
+          "confidence": 0.117
+        },
+        {
+          "text": "will",
+          "start": 183.69,
+          "end": 183.71,
+          "confidence": 0.203
+        },
+        {
+          "text": "be",
+          "start": 183.71,
+          "end": 183.73,
+          "confidence": 0.197
+        },
+        {
+          "text": "mine",
+          "start": 183.73,
+          "end": 184.0,
+          "confidence": 0.078
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "seek": 8674,
+      "start": 184.44,
+      "end": 185.08,
+      "text": " The freedom of the world will be mine",
+      "tokens": [
+        51837,
+        440,
+        5645,
+        295,
+        264,
+        1002,
+        486,
+        312,
+        3892,
+        51862
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.38715095081548584,
+      "compression_ratio": 1.8682634730538923,
+      "no_speech_prob": 0.010263576172292233,
+      "confidence": 0.761,
+      "words": [
+        {
+          "text": "The",
+          "start": 184.44,
+          "end": 184.56,
+          "confidence": 0.206
+        },
+        {
+          "text": "freedom",
+          "start": 184.56,
+          "end": 184.78,
+          "confidence": 0.706
+        },
+        {
+          "text": "of",
+          "start": 184.78,
+          "end": 184.94,
+          "confidence": 0.922
+        },
+        {
+          "text": "the",
+          "start": 184.94,
+          "end": 185.0,
+          "confidence": 0.955
+        },
+        {
+          "text": "world",
+          "start": 185.0,
+          "end": 185.02,
+          "confidence": 0.961
+        },
+        {
+          "text": "will",
+          "start": 185.02,
+          "end": 185.04,
+          "confidence": 0.941
+        },
+        {
+          "text": "be",
+          "start": 185.04,
+          "end": 185.06,
+          "confidence": 0.989
+        },
+        {
+          "text": "mine",
+          "start": 185.06,
+          "end": 185.08,
+          "confidence": 0.982
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "seek": 11668,
+      "start": 185.08,
+      "end": 186.44,
+      "text": " The freedom of the world will be mine",
+      "tokens": [
+        50365,
+        440,
+        5645,
+        295,
+        264,
+        1002,
+        486,
+        312,
+        3892,
+        50415
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1250555953637367,
+      "compression_ratio": 15.537037037037036,
+      "no_speech_prob": 0.023700056597590446,
+      "confidence": 0.755,
+      "words": [
+        {
+          "text": "The",
+          "start": 185.08,
+          "end": 185.12,
+          "confidence": 0.401
+        },
+        {
+          "text": "freedom",
+          "start": 185.12,
+          "end": 185.14,
+          "confidence": 0.792
+        },
+        {
+          "text": "of",
+          "start": 185.14,
+          "end": 185.16,
+          "confidence": 0.49
+        },
+        {
+          "text": "the",
+          "start": 185.16,
+          "end": 185.34,
+          "confidence": 0.863
+        },
+        {
+          "text": "world",
+          "start": 185.34,
+          "end": 185.74,
+          "confidence": 0.969
+        },
+        {
+          "text": "will",
+          "start": 185.74,
+          "end": 186.0,
+          "confidence": 0.913
+        },
+        {
+          "text": "be",
+          "start": 186.0,
+          "end": 186.38,
+          "confidence": 0.932
+        },
+        {
+          "text": "mine",
+          "start": 186.38,
+          "end": 186.44,
+          "confidence": 0.953
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "seek": 11668,
+      "start": 186.44,
+      "end": 186.98,
+      "text": " The freedom of the world will be mine",
+      "tokens": [
+        50415,
+        440,
+        5645,
+        295,
+        264,
+        1002,
+        486,
+        312,
+        3892,
+        50465
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1250555953637367,
+      "compression_ratio": 15.537037037037036,
+      "no_speech_prob": 0.023700056597590446,
+      "confidence": 0.789,
+      "words": [
+        {
+          "text": "The",
+          "start": 186.44,
+          "end": 186.46,
+          "confidence": 0.355
+        },
+        {
+          "text": "freedom",
+          "start": 186.46,
+          "end": 186.48,
+          "confidence": 0.818
+        },
+        {
+          "text": "of",
+          "start": 186.48,
+          "end": 186.64,
+          "confidence": 0.67
+        },
+        {
+          "text": "the",
+          "start": 186.64,
+          "end": 186.9,
+          "confidence": 0.898
+        },
+        {
+          "text": "world",
+          "start": 186.9,
+          "end": 186.92,
+          "confidence": 0.986
+        },
+        {
+          "text": "will",
+          "start": 186.92,
+          "end": 186.94,
+          "confidence": 0.937
+        },
+        {
+          "text": "be",
+          "start": 186.94,
+          "end": 186.96,
+          "confidence": 0.955
+        },
+        {
+          "text": "mine",
+          "start": 186.96,
+          "end": 186.98,
+          "confidence": 0.977
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "seek": 11668,
+      "start": 186.98,
+      "end": 187.14,
+      "text": " The freedom of the world will be mine",
+      "tokens": [
+        50465,
+        440,
+        5645,
+        295,
+        264,
+        1002,
+        486,
+        312,
+        3892,
+        50515
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1250555953637367,
+      "compression_ratio": 15.537037037037036,
+      "no_speech_prob": 0.023700056597590446,
+      "confidence": 0.838,
+      "words": [
+        {
+          "text": "The",
+          "start": 186.98,
+          "end": 187.0,
+          "confidence": 0.418
+        },
+        {
+          "text": "freedom",
+          "start": 187.0,
+          "end": 187.02,
+          "confidence": 0.858
+        },
+        {
+          "text": "of",
+          "start": 187.02,
+          "end": 187.04,
+          "confidence": 0.832
+        },
+        {
+          "text": "the",
+          "start": 187.04,
+          "end": 187.06,
+          "confidence": 0.915
+        },
+        {
+          "text": "world",
+          "start": 187.06,
+          "end": 187.08,
+          "confidence": 0.99
+        },
+        {
+          "text": "will",
+          "start": 187.08,
+          "end": 187.1,
+          "confidence": 0.947
+        },
+        {
+          "text": "be",
+          "start": 187.1,
+          "end": 187.12,
+          "confidence": 0.965
+        },
+        {
+          "text": "mine",
+          "start": 187.12,
+          "end": 187.14,
+          "confidence": 0.983
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "seek": 11668,
+      "start": 187.46,
+      "end": 189.5,
+      "text": " The freedom of the world will be mine",
+      "tokens": [
+        50515,
+        440,
+        5645,
+        295,
+        264,
+        1002,
+        486,
+        312,
+        3892,
+        50565
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1250555953637367,
+      "compression_ratio": 15.537037037037036,
+      "no_speech_prob": 0.023700056597590446,
+      "confidence": 0.873,
+      "words": [
+        {
+          "text": "The",
+          "start": 187.46,
+          "end": 188.28,
+          "confidence": 0.495
+        },
+        {
+          "text": "freedom",
+          "start": 188.28,
           "end": 188.82,
-          "confidence": 0.419
+          "confidence": 0.901
         },
         {
           "text": "of",
           "start": 188.82,
-          "end": 189.14,
-          "confidence": 0.411
+          "end": 189.02,
+          "confidence": 0.88
         },
         {
-          "text": "Alalaka",
-          "start": 189.14,
-          "end": 189.82,
-          "confidence": 0.346
+          "text": "the",
+          "start": 189.02,
+          "end": 189.26,
+          "confidence": 0.936
         },
         {
-          "text": "sing",
-          "start": 189.82,
-          "end": 190.44,
-          "confidence": 0.587
+          "text": "world",
+          "start": 189.26,
+          "end": 189.44,
+          "confidence": 0.992
         },
         {
-          "text": "what",
-          "start": 190.44,
-          "end": 191.06,
-          "confidence": 0.877
+          "text": "will",
+          "start": 189.44,
+          "end": 189.46,
+          "confidence": 0.962
         },
         {
-          "text": "my",
-          "start": 191.06,
-          "end": 191.3,
-          "confidence": 0.982
+          "text": "be",
+          "start": 189.46,
+          "end": 189.48,
+          "confidence": 0.974
         },
         {
-          "text": "guitar",
-          "start": 191.3,
-          "end": 191.74,
+          "text": "mine",
+          "start": 189.48,
+          "end": 189.5,
           "confidence": 0.988
-        },
-        {
-          "text": "wants",
-          "start": 191.74,
-          "end": 192.9,
-          "confidence": 0.983
-        },
-        {
-          "text": "to",
-          "start": 192.9,
-          "end": 193.22,
-          "confidence": 0.998
-        },
-        {
-          "text": "sing",
-          "start": 193.22,
-          "end": 193.92,
-          "confidence": 0.724
         }
       ]
     },
     {
-      "id": 10,
-      "seek": 12700,
-      "start": 227.71,
-      "end": 241.6,
-      "text": " To the magic of the moment, an aglory night where the children of tomorrow be my wings in the wind of change",
+      "id": 29,
+      "seek": 11668,
+      "start": 189.5,
+      "end": 190.44,
+      "text": " The freedom of the world will be mine",
       "tokens": [
-        50364,
-        1407,
-        264,
-        5585,
+        50565,
+        440,
+        5645,
         295,
         264,
-        1623,
-        11,
-        364,
-        623,
-        75,
-        827,
-        1818,
-        689,
-        264,
-        2227,
-        295,
-        4153,
+        1002,
+        486,
         312,
-        452,
-        11405,
-        294,
-        264,
-        2468,
-        295,
-        1319,
-        51114
+        3892,
+        50615
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.05942523053714207,
-      "compression_ratio": 1.255813953488372,
-      "no_speech_prob": 0.7614830732345581,
-      "confidence": 0.96,
+      "avg_logprob": -0.1250555953637367,
+      "compression_ratio": 15.537037037037036,
+      "no_speech_prob": 0.023700056597590446,
+      "confidence": 0.896,
       "words": [
         {
-          "text": "To",
-          "start": 227.71,
-          "end": 227.97,
-          "confidence": 0.886
+          "text": "The",
+          "start": 189.5,
+          "end": 189.52,
+          "confidence": 0.564
         },
         {
-          "text": "the",
-          "start": 227.97,
-          "end": 228.25,
-          "confidence": 0.997
-        },
-        {
-          "text": "magic",
-          "start": 228.25,
-          "end": 228.67,
-          "confidence": 0.993
+          "text": "freedom",
+          "start": 189.52,
+          "end": 189.54,
+          "confidence": 0.925
         },
         {
           "text": "of",
-          "start": 228.67,
-          "end": 229.43,
-          "confidence": 0.998
+          "start": 189.54,
+          "end": 189.56,
+          "confidence": 0.902
         },
         {
           "text": "the",
-          "start": 229.43,
-          "end": 229.69,
-          "confidence": 0.998
+          "start": 189.56,
+          "end": 189.58,
+          "confidence": 0.951
         },
         {
-          "text": "moment,",
-          "start": 229.69,
-          "end": 230.27,
-          "confidence": 0.999
+          "text": "world",
+          "start": 189.58,
+          "end": 189.6,
+          "confidence": 0.993
         },
         {
-          "text": "an",
-          "start": 231.03,
-          "end": 231.15,
-          "confidence": 0.872
+          "text": "will",
+          "start": 189.6,
+          "end": 189.62,
+          "confidence": 0.963
         },
         {
-          "text": "aglory",
-          "start": 231.15,
-          "end": 232.79,
-          "confidence": 0.998
+          "text": "be",
+          "start": 189.62,
+          "end": 189.96,
+          "confidence": 0.981
         },
         {
-          "text": "night",
-          "start": 232.79,
-          "end": 233.27,
-          "confidence": 0.998
+          "text": "mine",
+          "start": 189.96,
+          "end": 190.44,
+          "confidence": 0.99
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "seek": 11668,
+      "start": 190.44,
+      "end": 191.54,
+      "text": " The freedom of the world will be mine",
+      "tokens": [
+        50615,
+        440,
+        5645,
+        295,
+        264,
+        1002,
+        486,
+        312,
+        3892,
+        50665
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1250555953637367,
+      "compression_ratio": 15.537037037037036,
+      "no_speech_prob": 0.023700056597590446,
+      "confidence": 0.912,
+      "words": [
+        {
+          "text": "The",
+          "start": 190.44,
+          "end": 190.46,
+          "confidence": 0.607
         },
         {
-          "text": "where",
-          "start": 233.27,
-          "end": 234.43,
+          "text": "freedom",
+          "start": 190.46,
+          "end": 191.02,
+          "confidence": 0.941
+        },
+        {
+          "text": "of",
+          "start": 191.02,
+          "end": 191.44,
+          "confidence": 0.933
+        },
+        {
+          "text": "the",
+          "start": 191.44,
+          "end": 191.46,
+          "confidence": 0.958
+        },
+        {
+          "text": "world",
+          "start": 191.46,
+          "end": 191.48,
+          "confidence": 0.994
+        },
+        {
+          "text": "will",
+          "start": 191.48,
+          "end": 191.5,
+          "confidence": 0.968
+        },
+        {
+          "text": "be",
+          "start": 191.5,
+          "end": 191.52,
+          "confidence": 0.984
+        },
+        {
+          "text": "mine",
+          "start": 191.52,
+          "end": 191.54,
+          "confidence": 0.99
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "seek": 11668,
+      "start": 191.54,
+      "end": 192.48,
+      "text": " The freedom of the world will be mine",
+      "tokens": [
+        50665,
+        440,
+        5645,
+        295,
+        264,
+        1002,
+        486,
+        312,
+        3892,
+        50715
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1250555953637367,
+      "compression_ratio": 15.537037037037036,
+      "no_speech_prob": 0.023700056597590446,
+      "confidence": 0.919,
+      "words": [
+        {
+          "text": "The",
+          "start": 191.54,
+          "end": 191.56,
+          "confidence": 0.625
+        },
+        {
+          "text": "freedom",
+          "start": 191.56,
+          "end": 191.58,
+          "confidence": 0.946
+        },
+        {
+          "text": "of",
+          "start": 191.58,
+          "end": 191.6,
+          "confidence": 0.943
+        },
+        {
+          "text": "the",
+          "start": 191.6,
+          "end": 191.78,
+          "confidence": 0.967
+        },
+        {
+          "text": "world",
+          "start": 191.78,
+          "end": 192.24,
+          "confidence": 0.995
+        },
+        {
+          "text": "will",
+          "start": 192.24,
+          "end": 192.44,
+          "confidence": 0.968
+        },
+        {
+          "text": "be",
+          "start": 192.44,
+          "end": 192.46,
+          "confidence": 0.986
+        },
+        {
+          "text": "mine",
+          "start": 192.46,
+          "end": 192.48,
+          "confidence": 0.992
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "seek": 11668,
+      "start": 192.48,
+      "end": 193.38,
+      "text": " The freedom of the world will be mine",
+      "tokens": [
+        50715,
+        440,
+        5645,
+        295,
+        264,
+        1002,
+        486,
+        312,
+        3892,
+        50765
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1250555953637367,
+      "compression_ratio": 15.537037037037036,
+      "no_speech_prob": 0.023700056597590446,
+      "confidence": 0.935,
+      "words": [
+        {
+          "text": "The",
+          "start": 192.48,
+          "end": 192.5,
+          "confidence": 0.692
+        },
+        {
+          "text": "freedom",
+          "start": 192.5,
+          "end": 192.52,
+          "confidence": 0.949
+        },
+        {
+          "text": "of",
+          "start": 192.52,
+          "end": 192.54,
+          "confidence": 0.956
+        },
+        {
+          "text": "the",
+          "start": 192.54,
+          "end": 192.56,
+          "confidence": 0.973
+        },
+        {
+          "text": "world",
+          "start": 192.56,
+          "end": 192.58,
+          "confidence": 0.995
+        },
+        {
+          "text": "will",
+          "start": 192.58,
+          "end": 192.6,
+          "confidence": 0.976
+        },
+        {
+          "text": "be",
+          "start": 192.6,
+          "end": 193.06,
+          "confidence": 0.989
+        },
+        {
+          "text": "mine",
+          "start": 193.06,
+          "end": 193.38,
+          "confidence": 0.993
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "seek": 11668,
+      "start": 193.38,
+      "end": 193.54,
+      "text": " The freedom of the world will be mine",
+      "tokens": [
+        50765,
+        440,
+        5645,
+        295,
+        264,
+        1002,
+        486,
+        312,
+        3892,
+        50815
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1250555953637367,
+      "compression_ratio": 15.537037037037036,
+      "no_speech_prob": 0.023700056597590446,
+      "confidence": 0.937,
+      "words": [
+        {
+          "text": "The",
+          "start": 193.38,
+          "end": 193.4,
+          "confidence": 0.699
+        },
+        {
+          "text": "freedom",
+          "start": 193.4,
+          "end": 193.42,
+          "confidence": 0.946
+        },
+        {
+          "text": "of",
+          "start": 193.42,
+          "end": 193.44,
+          "confidence": 0.961
+        },
+        {
+          "text": "the",
+          "start": 193.44,
+          "end": 193.46,
+          "confidence": 0.976
+        },
+        {
+          "text": "world",
+          "start": 193.46,
+          "end": 193.48,
+          "confidence": 0.995
+        },
+        {
+          "text": "will",
+          "start": 193.48,
+          "end": 193.5,
+          "confidence": 0.974
+        },
+        {
+          "text": "be",
+          "start": 193.5,
+          "end": 193.52,
+          "confidence": 0.99
+        },
+        {
+          "text": "mine",
+          "start": 193.52,
+          "end": 193.54,
+          "confidence": 0.994
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "seek": 11668,
+      "start": 193.94,
+      "end": 195.16,
+      "text": " The freedom of the world will be mine",
+      "tokens": [
+        50815,
+        440,
+        5645,
+        295,
+        264,
+        1002,
+        486,
+        312,
+        3892,
+        50865
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1250555953637367,
+      "compression_ratio": 15.537037037037036,
+      "no_speech_prob": 0.023700056597590446,
+      "confidence": 0.947,
+      "words": [
+        {
+          "text": "The",
+          "start": 193.94,
+          "end": 193.96,
+          "confidence": 0.753
+        },
+        {
+          "text": "freedom",
+          "start": 193.96,
+          "end": 193.98,
+          "confidence": 0.949
+        },
+        {
+          "text": "of",
+          "start": 193.98,
+          "end": 194.02,
+          "confidence": 0.969
+        },
+        {
+          "text": "the",
+          "start": 194.02,
+          "end": 194.48,
+          "confidence": 0.978
+        },
+        {
+          "text": "world",
+          "start": 194.48,
+          "end": 194.74,
+          "confidence": 0.995
+        },
+        {
+          "text": "will",
+          "start": 194.74,
+          "end": 194.88,
+          "confidence": 0.976
+        },
+        {
+          "text": "be",
+          "start": 194.88,
+          "end": 195.14,
+          "confidence": 0.991
+        },
+        {
+          "text": "mine",
+          "start": 195.14,
+          "end": 195.16,
+          "confidence": 0.994
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "seek": 11668,
+      "start": 227.28,
+      "end": 228.59,
+      "text": " The freedom of the world will be mine",
+      "tokens": [
+        50865,
+        440,
+        5645,
+        295,
+        264,
+        1002,
+        486,
+        312,
+        3892,
+        50915
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1250555953637367,
+      "compression_ratio": 15.537037037037036,
+      "no_speech_prob": 0.023700056597590446,
+      "confidence": 0.95,
+      "words": [
+        {
+          "text": "The",
+          "start": 227.28,
+          "end": 227.63,
+          "confidence": 0.757
+        },
+        {
+          "text": "freedom",
+          "start": 227.63,
+          "end": 227.97,
+          "confidence": 0.957
+        },
+        {
+          "text": "of",
+          "start": 227.97,
+          "end": 228.11,
+          "confidence": 0.974
+        },
+        {
+          "text": "the",
+          "start": 228.11,
+          "end": 228.15,
+          "confidence": 0.982
+        },
+        {
+          "text": "world",
+          "start": 228.15,
+          "end": 228.53,
+          "confidence": 0.995
+        },
+        {
+          "text": "will",
+          "start": 228.53,
+          "end": 228.55,
+          "confidence": 0.977
+        },
+        {
+          "text": "be",
+          "start": 228.55,
+          "end": 228.57,
+          "confidence": 0.992
+        },
+        {
+          "text": "mine",
+          "start": 228.57,
+          "end": 228.59,
+          "confidence": 0.994
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "seek": 11668,
+      "start": 228.59,
+      "end": 229.53,
+      "text": " The freedom of the world will be mine",
+      "tokens": [
+        50915,
+        440,
+        5645,
+        295,
+        264,
+        1002,
+        486,
+        312,
+        3892,
+        50965
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1250555953637367,
+      "compression_ratio": 15.537037037037036,
+      "no_speech_prob": 0.023700056597590446,
+      "confidence": 0.952,
+      "words": [
+        {
+          "text": "The",
+          "start": 228.59,
+          "end": 228.61,
+          "confidence": 0.759
+        },
+        {
+          "text": "freedom",
+          "start": 228.61,
+          "end": 228.63,
+          "confidence": 0.954
+        },
+        {
+          "text": "of",
+          "start": 228.63,
+          "end": 228.65,
           "confidence": 0.976
         },
         {
           "text": "the",
-          "start": 234.43,
+          "start": 228.65,
+          "end": 228.69,
+          "confidence": 0.983
+        },
+        {
+          "text": "world",
+          "start": 228.69,
+          "end": 229.13,
+          "confidence": 0.996
+        },
+        {
+          "text": "will",
+          "start": 229.13,
+          "end": 229.45,
+          "confidence": 0.986
+        },
+        {
+          "text": "be",
+          "start": 229.45,
+          "end": 229.51,
+          "confidence": 0.993
+        },
+        {
+          "text": "mine",
+          "start": 229.51,
+          "end": 229.53,
+          "confidence": 0.995
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "seek": 11668,
+      "start": 229.53,
+      "end": 230.55,
+      "text": " The freedom of the world will be mine",
+      "tokens": [
+        50965,
+        440,
+        5645,
+        295,
+        264,
+        1002,
+        486,
+        312,
+        3892,
+        51015
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1250555953637367,
+      "compression_ratio": 15.537037037037036,
+      "no_speech_prob": 0.023700056597590446,
+      "confidence": 0.96,
+      "words": [
+        {
+          "text": "The",
+          "start": 229.53,
+          "end": 229.55,
+          "confidence": 0.8
+        },
+        {
+          "text": "freedom",
+          "start": 229.55,
+          "end": 229.57,
+          "confidence": 0.96
+        },
+        {
+          "text": "of",
+          "start": 229.57,
+          "end": 229.59,
+          "confidence": 0.978
+        },
+        {
+          "text": "the",
+          "start": 229.59,
+          "end": 229.61,
+          "confidence": 0.984
+        },
+        {
+          "text": "world",
+          "start": 229.61,
+          "end": 229.69,
+          "confidence": 0.995
+        },
+        {
+          "text": "will",
+          "start": 229.69,
+          "end": 230.13,
+          "confidence": 0.988
+        },
+        {
+          "text": "be",
+          "start": 230.13,
+          "end": 230.53,
+          "confidence": 0.994
+        },
+        {
+          "text": "mine",
+          "start": 230.53,
+          "end": 230.55,
+          "confidence": 0.996
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "seek": 11668,
+      "start": 230.55,
+      "end": 231.61,
+      "text": " The freedom of the world will be mine",
+      "tokens": [
+        51015,
+        440,
+        5645,
+        295,
+        264,
+        1002,
+        486,
+        312,
+        3892,
+        51065
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1250555953637367,
+      "compression_ratio": 15.537037037037036,
+      "no_speech_prob": 0.023700056597590446,
+      "confidence": 0.966,
+      "words": [
+        {
+          "text": "The",
+          "start": 230.55,
+          "end": 230.79,
+          "confidence": 0.829
+        },
+        {
+          "text": "freedom",
+          "start": 230.79,
+          "end": 231.31,
+          "confidence": 0.965
+        },
+        {
+          "text": "of",
+          "start": 231.31,
+          "end": 231.47,
+          "confidence": 0.983
+        },
+        {
+          "text": "the",
+          "start": 231.47,
+          "end": 231.53,
+          "confidence": 0.985
+        },
+        {
+          "text": "world",
+          "start": 231.53,
+          "end": 231.55,
+          "confidence": 0.996
+        },
+        {
+          "text": "will",
+          "start": 231.55,
+          "end": 231.57,
+          "confidence": 0.989
+        },
+        {
+          "text": "be",
+          "start": 231.57,
+          "end": 231.59,
+          "confidence": 0.995
+        },
+        {
+          "text": "mine",
+          "start": 231.59,
+          "end": 231.61,
+          "confidence": 0.997
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "seek": 11668,
+      "start": 231.61,
+      "end": 232.61,
+      "text": " The freedom of the world will be mine",
+      "tokens": [
+        51065,
+        440,
+        5645,
+        295,
+        264,
+        1002,
+        486,
+        312,
+        3892,
+        51115
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1250555953637367,
+      "compression_ratio": 15.537037037037036,
+      "no_speech_prob": 0.023700056597590446,
+      "confidence": 0.97,
+      "words": [
+        {
+          "text": "The",
+          "start": 231.61,
+          "end": 231.63,
+          "confidence": 0.854
+        },
+        {
+          "text": "freedom",
+          "start": 231.63,
+          "end": 231.65,
+          "confidence": 0.968
+        },
+        {
+          "text": "of",
+          "start": 231.65,
+          "end": 231.67,
+          "confidence": 0.984
+        },
+        {
+          "text": "the",
+          "start": 231.67,
+          "end": 232.53,
+          "confidence": 0.987
+        },
+        {
+          "text": "world",
+          "start": 232.53,
+          "end": 232.55,
+          "confidence": 0.996
+        },
+        {
+          "text": "will",
+          "start": 232.55,
+          "end": 232.57,
+          "confidence": 0.987
+        },
+        {
+          "text": "be",
+          "start": 232.57,
+          "end": 232.59,
+          "confidence": 0.996
+        },
+        {
+          "text": "mine",
+          "start": 232.59,
+          "end": 232.61,
+          "confidence": 0.997
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "seek": 11668,
+      "start": 232.61,
+      "end": 232.91,
+      "text": " The freedom of the world will be mine",
+      "tokens": [
+        51115,
+        440,
+        5645,
+        295,
+        264,
+        1002,
+        486,
+        312,
+        3892,
+        51165
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1250555953637367,
+      "compression_ratio": 15.537037037037036,
+      "no_speech_prob": 0.023700056597590446,
+      "confidence": 0.975,
+      "words": [
+        {
+          "text": "The",
+          "start": 232.61,
+          "end": 232.63,
+          "confidence": 0.881
+        },
+        {
+          "text": "freedom",
+          "start": 232.63,
+          "end": 232.65,
+          "confidence": 0.969
+        },
+        {
+          "text": "of",
+          "start": 232.65,
+          "end": 232.67,
+          "confidence": 0.988
+        },
+        {
+          "text": "the",
+          "start": 232.67,
+          "end": 232.69,
+          "confidence": 0.989
+        },
+        {
+          "text": "world",
+          "start": 232.69,
+          "end": 232.71,
+          "confidence": 0.996
+        },
+        {
+          "text": "will",
+          "start": 232.71,
+          "end": 232.73,
+          "confidence": 0.992
+        },
+        {
+          "text": "be",
+          "start": 232.73,
+          "end": 232.81,
+          "confidence": 0.996
+        },
+        {
+          "text": "mine",
+          "start": 232.81,
+          "end": 232.91,
+          "confidence": 0.997
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "seek": 11668,
+      "start": 233.15,
+      "end": 234.63,
+      "text": " The freedom of the world will be mine",
+      "tokens": [
+        51165,
+        440,
+        5645,
+        295,
+        264,
+        1002,
+        486,
+        312,
+        3892,
+        51215
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1250555953637367,
+      "compression_ratio": 15.537037037037036,
+      "no_speech_prob": 0.023700056597590446,
+      "confidence": 0.974,
+      "words": [
+        {
+          "text": "The",
+          "start": 233.15,
+          "end": 233.63,
+          "confidence": 0.863
+        },
+        {
+          "text": "freedom",
+          "start": 233.63,
+          "end": 234.49,
+          "confidence": 0.972
+        },
+        {
+          "text": "of",
+          "start": 234.49,
+          "end": 234.53,
+          "confidence": 0.989
+        },
+        {
+          "text": "the",
+          "start": 234.53,
+          "end": 234.55,
+          "confidence": 0.99
+        },
+        {
+          "text": "world",
+          "start": 234.55,
+          "end": 234.57,
+          "confidence": 0.996
+        },
+        {
+          "text": "will",
+          "start": 234.57,
+          "end": 234.59,
+          "confidence": 0.992
+        },
+        {
+          "text": "be",
+          "start": 234.59,
           "end": 234.61,
           "confidence": 0.997
         },
         {
-          "text": "children",
+          "text": "mine",
           "start": 234.61,
-          "end": 234.99,
+          "end": 234.63,
           "confidence": 0.998
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "seek": 11668,
+      "start": 234.63,
+      "end": 235.59,
+      "text": " The freedom of the world will be mine",
+      "tokens": [
+        51215,
+        440,
+        5645,
+        295,
+        264,
+        1002,
+        486,
+        312,
+        3892,
+        51265
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1250555953637367,
+      "compression_ratio": 15.537037037037036,
+      "no_speech_prob": 0.023700056597590446,
+      "confidence": 0.973,
+      "words": [
+        {
+          "text": "The",
+          "start": 234.63,
+          "end": 234.65,
+          "confidence": 0.862
+        },
+        {
+          "text": "freedom",
+          "start": 234.65,
+          "end": 234.67,
+          "confidence": 0.971
         },
         {
           "text": "of",
-          "start": 234.99,
-          "end": 235.77,
-          "confidence": 0.989
+          "start": 234.67,
+          "end": 234.95,
+          "confidence": 0.99
         },
         {
-          "text": "tomorrow",
-          "start": 235.77,
-          "end": 236.53,
-          "confidence": 0.997
+          "text": "the",
+          "start": 234.95,
+          "end": 235.13,
+          "confidence": 0.99
+        },
+        {
+          "text": "world",
+          "start": 235.13,
+          "end": 235.53,
+          "confidence": 0.996
+        },
+        {
+          "text": "will",
+          "start": 235.53,
+          "end": 235.55,
+          "confidence": 0.992
         },
         {
           "text": "be",
-          "start": 236.53,
+          "start": 235.55,
+          "end": 235.57,
+          "confidence": 0.997
+        },
+        {
+          "text": "mine",
+          "start": 235.57,
+          "end": 235.59,
+          "confidence": 0.998
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "seek": 11668,
+      "start": 235.59,
+      "end": 235.93,
+      "text": " The freedom of the world will be mine",
+      "tokens": [
+        51265,
+        440,
+        5645,
+        295,
+        264,
+        1002,
+        486,
+        312,
+        3892,
+        51315
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1250555953637367,
+      "compression_ratio": 15.537037037037036,
+      "no_speech_prob": 0.023700056597590446,
+      "confidence": 0.977,
+      "words": [
+        {
+          "text": "The",
+          "start": 235.59,
+          "end": 235.61,
+          "confidence": 0.876
+        },
+        {
+          "text": "freedom",
+          "start": 235.61,
+          "end": 235.63,
+          "confidence": 0.979
+        },
+        {
+          "text": "of",
+          "start": 235.63,
+          "end": 235.65,
+          "confidence": 0.991
+        },
+        {
+          "text": "the",
+          "start": 235.65,
+          "end": 235.67,
+          "confidence": 0.992
+        },
+        {
+          "text": "world",
+          "start": 235.67,
+          "end": 235.69,
+          "confidence": 0.996
+        },
+        {
+          "text": "will",
+          "start": 235.69,
+          "end": 235.81,
+          "confidence": 0.992
+        },
+        {
+          "text": "be",
+          "start": 235.81,
+          "end": 235.91,
+          "confidence": 0.998
+        },
+        {
+          "text": "mine",
+          "start": 235.91,
+          "end": 235.93,
+          "confidence": 0.998
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "seek": 11668,
+      "start": 235.93,
+      "end": 237.33,
+      "text": " The freedom of the world will be mine",
+      "tokens": [
+        51315,
+        440,
+        5645,
+        295,
+        264,
+        1002,
+        486,
+        312,
+        3892,
+        51365
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1250555953637367,
+      "compression_ratio": 15.537037037037036,
+      "no_speech_prob": 0.023700056597590446,
+      "confidence": 0.979,
+      "words": [
+        {
+          "text": "The",
+          "start": 235.93,
+          "end": 235.95,
+          "confidence": 0.887
+        },
+        {
+          "text": "freedom",
+          "start": 235.95,
+          "end": 235.97,
+          "confidence": 0.978
+        },
+        {
+          "text": "of",
+          "start": 235.97,
+          "end": 235.99,
+          "confidence": 0.993
+        },
+        {
+          "text": "the",
+          "start": 235.99,
+          "end": 236.01,
+          "confidence": 0.993
+        },
+        {
+          "text": "world",
+          "start": 236.01,
+          "end": 236.07,
+          "confidence": 0.996
+        },
+        {
+          "text": "will",
+          "start": 236.07,
+          "end": 236.65,
+          "confidence": 0.995
+        },
+        {
+          "text": "be",
+          "start": 236.65,
           "end": 237.17,
-          "confidence": 0.548
+          "confidence": 0.998
         },
         {
-          "text": "my",
+          "text": "mine",
           "start": 237.17,
-          "end": 237.55,
-          "confidence": 0.98
+          "end": 237.33,
+          "confidence": 0.998
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "seek": 11668,
+      "start": 237.33,
+      "end": 238.04,
+      "text": " The freedom of the world will be mine",
+      "tokens": [
+        51365,
+        440,
+        5645,
+        295,
+        264,
+        1002,
+        486,
+        312,
+        3892,
+        51415
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1250555953637367,
+      "compression_ratio": 15.537037037037036,
+      "no_speech_prob": 0.023700056597590446,
+      "confidence": 0.983,
+      "words": [
+        {
+          "text": "The",
+          "start": 237.33,
+          "end": 237.35,
+          "confidence": 0.913
         },
         {
-          "text": "wings",
-          "start": 237.55,
-          "end": 238.25,
-          "confidence": 0.994
+          "text": "freedom",
+          "start": 237.35,
+          "end": 237.37,
+          "confidence": 0.981
         },
         {
-          "text": "in",
-          "start": 239.34,
-          "end": 239.98,
+          "text": "of",
+          "start": 237.37,
+          "end": 237.47,
           "confidence": 0.994
         },
         {
           "text": "the",
-          "start": 239.98,
-          "end": 240.16,
+          "start": 237.47,
+          "end": 237.77,
+          "confidence": 0.995
+        },
+        {
+          "text": "world",
+          "start": 237.77,
+          "end": 237.81,
+          "confidence": 0.997
+        },
+        {
+          "text": "will",
+          "start": 237.81,
+          "end": 237.83,
+          "confidence": 0.995
+        },
+        {
+          "text": "be",
+          "start": 237.83,
+          "end": 237.85,
           "confidence": 0.998
         },
         {
-          "text": "wind",
-          "start": 240.16,
+          "text": "mine",
+          "start": 237.85,
+          "end": 238.04,
+          "confidence": 0.998
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "seek": 11668,
+      "start": 238.04,
+      "end": 240.5,
+      "text": " The freedom of the world will be mine",
+      "tokens": [
+        51415,
+        440,
+        5645,
+        295,
+        264,
+        1002,
+        486,
+        312,
+        3892,
+        51465
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1250555953637367,
+      "compression_ratio": 15.537037037037036,
+      "no_speech_prob": 0.023700056597590446,
+      "confidence": 0.983,
+      "words": [
+        {
+          "text": "The",
+          "start": 238.04,
+          "end": 238.45,
+          "confidence": 0.907
+        },
+        {
+          "text": "freedom",
+          "start": 239.54,
+          "end": 240.12,
+          "confidence": 0.98
+        },
+        {
+          "text": "of",
+          "start": 240.12,
+          "end": 240.34,
+          "confidence": 0.995
+        },
+        {
+          "text": "the",
+          "start": 240.34,
           "end": 240.42,
           "confidence": 0.995
         },
         {
-          "text": "of",
+          "text": "world",
           "start": 240.42,
-          "end": 240.7,
+          "end": 240.44,
+          "confidence": 0.997
+        },
+        {
+          "text": "will",
+          "start": 240.44,
+          "end": 240.46,
+          "confidence": 0.996
+        },
+        {
+          "text": "be",
+          "start": 240.46,
+          "end": 240.48,
           "confidence": 0.999
         },
         {
-          "text": "change",
-          "start": 240.7,
-          "end": 241.6,
+          "text": "mine",
+          "start": 240.48,
+          "end": 240.5,
+          "confidence": 0.998
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "seek": 13868,
+      "start": 240.5,
+      "end": 241.42,
+      "text": " The freedom of the world will be mine",
+      "tokens": [
+        50365,
+        440,
+        5645,
+        295,
+        264,
+        1002,
+        486,
+        312,
+        3892,
+        50415
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.02254819228510151,
+      "compression_ratio": 15.537037037037036,
+      "no_speech_prob": 0.026435185223817825,
+      "confidence": 0.945,
+      "words": [
+        {
+          "text": "The",
+          "start": 240.5,
+          "end": 240.52,
+          "confidence": 0.667
+        },
+        {
+          "text": "freedom",
+          "start": 240.52,
+          "end": 240.54,
+          "confidence": 0.977
+        },
+        {
+          "text": "of",
+          "start": 240.54,
+          "end": 240.56,
+          "confidence": 0.997
+        },
+        {
+          "text": "the",
+          "start": 240.56,
+          "end": 240.66,
+          "confidence": 0.998
+        },
+        {
+          "text": "world",
+          "start": 240.66,
+          "end": 241.36,
+          "confidence": 0.997
+        },
+        {
+          "text": "will",
+          "start": 241.36,
+          "end": 241.38,
+          "confidence": 0.99
+        },
+        {
+          "text": "be",
+          "start": 241.38,
+          "end": 241.4,
+          "confidence": 0.998
+        },
+        {
+          "text": "mine",
+          "start": 241.4,
+          "end": 241.42,
+          "confidence": 0.995
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "seek": 13868,
+      "start": 241.42,
+      "end": 242.42,
+      "text": " The freedom of the world will be mine",
+      "tokens": [
+        50415,
+        440,
+        5645,
+        295,
+        264,
+        1002,
+        486,
+        312,
+        3892,
+        50465
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.02254819228510151,
+      "compression_ratio": 15.537037037037036,
+      "no_speech_prob": 0.026435185223817825,
+      "confidence": 0.961,
+      "words": [
+        {
+          "text": "The",
+          "start": 241.42,
+          "end": 241.74,
+          "confidence": 0.767
+        },
+        {
+          "text": "freedom",
+          "start": 241.74,
+          "end": 242.02,
+          "confidence": 0.974
+        },
+        {
+          "text": "of",
+          "start": 242.02,
+          "end": 242.26,
+          "confidence": 0.996
+        },
+        {
+          "text": "the",
+          "start": 242.26,
+          "end": 242.28,
+          "confidence": 0.998
+        },
+        {
+          "text": "world",
+          "start": 242.28,
+          "end": 242.3,
+          "confidence": 0.998
+        },
+        {
+          "text": "will",
+          "start": 242.3,
+          "end": 242.36,
+          "confidence": 0.988
+        },
+        {
+          "text": "be",
+          "start": 242.36,
+          "end": 242.38,
+          "confidence": 0.998
+        },
+        {
+          "text": "mine",
+          "start": 242.38,
+          "end": 242.42,
+          "confidence": 0.995
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "seek": 13868,
+      "start": 242.42,
+      "end": 243.22,
+      "text": " The freedom of the world will be mine",
+      "tokens": [
+        50465,
+        440,
+        5645,
+        295,
+        264,
+        1002,
+        486,
+        312,
+        3892,
+        50515
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.02254819228510151,
+      "compression_ratio": 15.537037037037036,
+      "no_speech_prob": 0.026435185223817825,
+      "confidence": 0.965,
+      "words": [
+        {
+          "text": "The",
+          "start": 242.42,
+          "end": 242.44,
+          "confidence": 0.792
+        },
+        {
+          "text": "freedom",
+          "start": 242.44,
+          "end": 242.46,
+          "confidence": 0.976
+        },
+        {
+          "text": "of",
+          "start": 242.46,
+          "end": 242.48,
+          "confidence": 0.995
+        },
+        {
+          "text": "the",
+          "start": 242.48,
+          "end": 242.5,
+          "confidence": 0.998
+        },
+        {
+          "text": "world",
+          "start": 242.5,
+          "end": 242.78,
+          "confidence": 0.998
+        },
+        {
+          "text": "will",
+          "start": 242.78,
+          "end": 242.8,
+          "confidence": 0.989
+        },
+        {
+          "text": "be",
+          "start": 242.8,
+          "end": 242.82,
+          "confidence": 0.998
+        },
+        {
+          "text": "mine",
+          "start": 242.82,
+          "end": 243.22,
+          "confidence": 0.996
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "seek": 13868,
+      "start": 243.22,
+      "end": 265.89,
+      "text": " The freedom of the world will be mine",
+      "tokens": [
+        50515,
+        440,
+        5645,
+        295,
+        264,
+        1002,
+        486,
+        312,
+        3892,
+        50565
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.02254819228510151,
+      "compression_ratio": 15.537037037037036,
+      "no_speech_prob": 0.026435185223817825,
+      "confidence": 0.965,
+      "words": [
+        {
+          "text": "The",
+          "start": 243.22,
+          "end": 243.47,
+          "confidence": 0.788
+        },
+        {
+          "text": "freedom",
+          "start": 264.97,
+          "end": 265.25,
+          "confidence": 0.977
+        },
+        {
+          "text": "of",
+          "start": 265.25,
+          "end": 265.39,
+          "confidence": 0.994
+        },
+        {
+          "text": "the",
+          "start": 265.39,
+          "end": 265.69,
+          "confidence": 0.998
+        },
+        {
+          "text": "world",
+          "start": 265.69,
+          "end": 265.83,
+          "confidence": 0.998
+        },
+        {
+          "text": "will",
+          "start": 265.83,
+          "end": 265.85,
+          "confidence": 0.988
+        },
+        {
+          "text": "be",
+          "start": 265.85,
+          "end": 265.87,
+          "confidence": 0.998
+        },
+        {
+          "text": "mine",
+          "start": 265.87,
+          "end": 265.89,
+          "confidence": 0.997
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "seek": 13868,
+      "start": 265.89,
+      "end": 266.41,
+      "text": " The freedom of the world will be mine",
+      "tokens": [
+        50565,
+        440,
+        5645,
+        295,
+        264,
+        1002,
+        486,
+        312,
+        3892,
+        50615
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.02254819228510151,
+      "compression_ratio": 15.537037037037036,
+      "no_speech_prob": 0.026435185223817825,
+      "confidence": 0.96,
+      "words": [
+        {
+          "text": "The",
+          "start": 265.89,
+          "end": 265.91,
+          "confidence": 0.758
+        },
+        {
+          "text": "freedom",
+          "start": 265.91,
+          "end": 265.93,
+          "confidence": 0.977
+        },
+        {
+          "text": "of",
+          "start": 265.93,
+          "end": 265.95,
+          "confidence": 0.995
+        },
+        {
+          "text": "the",
+          "start": 265.95,
+          "end": 265.97,
+          "confidence": 0.998
+        },
+        {
+          "text": "world",
+          "start": 265.97,
+          "end": 265.99,
+          "confidence": 0.998
+        },
+        {
+          "text": "will",
+          "start": 265.99,
+          "end": 266.01,
+          "confidence": 0.988
+        },
+        {
+          "text": "be",
+          "start": 266.01,
+          "end": 266.03,
+          "confidence": 0.998
+        },
+        {
+          "text": "mine",
+          "start": 266.03,
+          "end": 266.41,
+          "confidence": 0.997
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "seek": 13868,
+      "start": 266.41,
+      "end": 267.91,
+      "text": " The freedom of the world will be mine",
+      "tokens": [
+        50615,
+        440,
+        5645,
+        295,
+        264,
+        1002,
+        486,
+        312,
+        3892,
+        50665
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.02254819228510151,
+      "compression_ratio": 15.537037037037036,
+      "no_speech_prob": 0.026435185223817825,
+      "confidence": 0.97,
+      "words": [
+        {
+          "text": "The",
+          "start": 266.41,
+          "end": 266.63,
+          "confidence": 0.82
+        },
+        {
+          "text": "freedom",
+          "start": 266.63,
+          "end": 267.07,
+          "confidence": 0.981
+        },
+        {
+          "text": "of",
+          "start": 267.07,
+          "end": 267.19,
+          "confidence": 0.994
+        },
+        {
+          "text": "the",
+          "start": 267.19,
+          "end": 267.83,
+          "confidence": 0.998
+        },
+        {
+          "text": "world",
+          "start": 267.83,
+          "end": 267.85,
+          "confidence": 0.998
+        },
+        {
+          "text": "will",
+          "start": 267.85,
+          "end": 267.87,
+          "confidence": 0.986
+        },
+        {
+          "text": "be",
+          "start": 267.87,
+          "end": 267.89,
+          "confidence": 0.998
+        },
+        {
+          "text": "mine",
+          "start": 267.89,
+          "end": 267.91,
+          "confidence": 0.997
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "seek": 13868,
+      "start": 267.91,
+      "end": 268.87,
+      "text": " The freedom of the world will be mine",
+      "tokens": [
+        50665,
+        440,
+        5645,
+        295,
+        264,
+        1002,
+        486,
+        312,
+        3892,
+        50715
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.02254819228510151,
+      "compression_ratio": 15.537037037037036,
+      "no_speech_prob": 0.026435185223817825,
+      "confidence": 0.972,
+      "words": [
+        {
+          "text": "The",
+          "start": 267.91,
+          "end": 267.93,
+          "confidence": 0.832
+        },
+        {
+          "text": "freedom",
+          "start": 267.93,
+          "end": 267.95,
+          "confidence": 0.982
+        },
+        {
+          "text": "of",
+          "start": 267.95,
+          "end": 267.97,
+          "confidence": 0.994
+        },
+        {
+          "text": "the",
+          "start": 267.97,
+          "end": 267.99,
+          "confidence": 0.998
+        },
+        {
+          "text": "world",
+          "start": 267.99,
+          "end": 268.13,
+          "confidence": 0.998
+        },
+        {
+          "text": "will",
+          "start": 268.13,
+          "end": 268.83,
+          "confidence": 0.987
+        },
+        {
+          "text": "be",
+          "start": 268.83,
+          "end": 268.85,
+          "confidence": 0.998
+        },
+        {
+          "text": "mine",
+          "start": 268.85,
+          "end": 268.87,
+          "confidence": 0.998
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "seek": 13868,
+      "start": 268.87,
+      "end": 269.75,
+      "text": " The freedom of the world will be mine",
+      "tokens": [
+        50715,
+        440,
+        5645,
+        295,
+        264,
+        1002,
+        486,
+        312,
+        3892,
+        50765
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.02254819228510151,
+      "compression_ratio": 15.537037037037036,
+      "no_speech_prob": 0.026435185223817825,
+      "confidence": 0.974,
+      "words": [
+        {
+          "text": "The",
+          "start": 268.87,
+          "end": 268.89,
+          "confidence": 0.848
+        },
+        {
+          "text": "freedom",
+          "start": 268.89,
+          "end": 268.91,
+          "confidence": 0.984
+        },
+        {
+          "text": "of",
+          "start": 268.91,
+          "end": 269.43,
+          "confidence": 0.995
+        },
+        {
+          "text": "the",
+          "start": 269.43,
+          "end": 269.49,
+          "confidence": 0.998
+        },
+        {
+          "text": "world",
+          "start": 269.49,
+          "end": 269.63,
+          "confidence": 0.998
+        },
+        {
+          "text": "will",
+          "start": 269.63,
+          "end": 269.65,
+          "confidence": 0.988
+        },
+        {
+          "text": "be",
+          "start": 269.65,
+          "end": 269.73,
+          "confidence": 0.998
+        },
+        {
+          "text": "mine",
+          "start": 269.73,
+          "end": 269.75,
+          "confidence": 0.998
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "seek": 13868,
+      "start": 269.75,
+      "end": 270.89,
+      "text": " The freedom of the world will be mine",
+      "tokens": [
+        50765,
+        440,
+        5645,
+        295,
+        264,
+        1002,
+        486,
+        312,
+        3892,
+        50815
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.02254819228510151,
+      "compression_ratio": 15.537037037037036,
+      "no_speech_prob": 0.026435185223817825,
+      "confidence": 0.978,
+      "words": [
+        {
+          "text": "The",
+          "start": 269.75,
+          "end": 269.95,
+          "confidence": 0.867
+        },
+        {
+          "text": "freedom",
+          "start": 269.95,
+          "end": 270.27,
+          "confidence": 0.986
+        },
+        {
+          "text": "of",
+          "start": 270.27,
+          "end": 270.41,
+          "confidence": 0.995
+        },
+        {
+          "text": "the",
+          "start": 270.41,
+          "end": 270.65,
+          "confidence": 0.998
+        },
+        {
+          "text": "world",
+          "start": 270.65,
+          "end": 270.83,
+          "confidence": 0.998
+        },
+        {
+          "text": "will",
+          "start": 270.83,
+          "end": 270.85,
+          "confidence": 0.989
+        },
+        {
+          "text": "be",
+          "start": 270.85,
+          "end": 270.87,
+          "confidence": 0.998
+        },
+        {
+          "text": "mine",
+          "start": 270.87,
+          "end": 270.89,
+          "confidence": 0.998
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "seek": 13868,
+      "start": 270.89,
+      "end": 271.87,
+      "text": " The freedom of the world will be mine",
+      "tokens": [
+        50815,
+        440,
+        5645,
+        295,
+        264,
+        1002,
+        486,
+        312,
+        3892,
+        50865
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.02254819228510151,
+      "compression_ratio": 15.537037037037036,
+      "no_speech_prob": 0.026435185223817825,
+      "confidence": 0.982,
+      "words": [
+        {
+          "text": "The",
+          "start": 270.89,
+          "end": 270.91,
+          "confidence": 0.895
+        },
+        {
+          "text": "freedom",
+          "start": 270.91,
+          "end": 270.93,
+          "confidence": 0.987
+        },
+        {
+          "text": "of",
+          "start": 270.93,
+          "end": 270.95,
+          "confidence": 0.995
+        },
+        {
+          "text": "the",
+          "start": 270.95,
+          "end": 271.13,
+          "confidence": 0.998
+        },
+        {
+          "text": "world",
+          "start": 271.13,
+          "end": 271.37,
+          "confidence": 0.998
+        },
+        {
+          "text": "will",
+          "start": 271.37,
+          "end": 271.83,
+          "confidence": 0.989
+        },
+        {
+          "text": "be",
+          "start": 271.83,
+          "end": 271.85,
+          "confidence": 0.998
+        },
+        {
+          "text": "mine",
+          "start": 271.85,
+          "end": 271.87,
+          "confidence": 0.998
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "seek": 13868,
+      "start": 271.87,
+      "end": 272.13,
+      "text": " The freedom of the world will be mine",
+      "tokens": [
+        50865,
+        440,
+        5645,
+        295,
+        264,
+        1002,
+        486,
+        312,
+        3892,
+        50915
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.02254819228510151,
+      "compression_ratio": 15.537037037037036,
+      "no_speech_prob": 0.026435185223817825,
+      "confidence": 0.983,
+      "words": [
+        {
+          "text": "The",
+          "start": 271.87,
+          "end": 271.89,
+          "confidence": 0.904
+        },
+        {
+          "text": "freedom",
+          "start": 271.89,
+          "end": 271.91,
+          "confidence": 0.987
+        },
+        {
+          "text": "of",
+          "start": 271.91,
+          "end": 271.93,
+          "confidence": 0.995
+        },
+        {
+          "text": "the",
+          "start": 271.93,
+          "end": 271.95,
+          "confidence": 0.998
+        },
+        {
+          "text": "world",
+          "start": 271.95,
+          "end": 271.97,
+          "confidence": 0.998
+        },
+        {
+          "text": "will",
+          "start": 271.97,
+          "end": 271.99,
+          "confidence": 0.989
+        },
+        {
+          "text": "be",
+          "start": 271.99,
+          "end": 272.08,
+          "confidence": 0.998
+        },
+        {
+          "text": "mine",
+          "start": 272.11,
+          "end": 272.13,
+          "confidence": 0.999
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "seek": 13868,
+      "start": 272.17,
+      "end": 273.87,
+      "text": " The freedom of the world will be mine",
+      "tokens": [
+        50915,
+        440,
+        5645,
+        295,
+        264,
+        1002,
+        486,
+        312,
+        3892,
+        50965
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.02254819228510151,
+      "compression_ratio": 15.537037037037036,
+      "no_speech_prob": 0.026435185223817825,
+      "confidence": 0.982,
+      "words": [
+        {
+          "text": "The",
+          "start": 272.17,
+          "end": 272.19,
+          "confidence": 0.892
+        },
+        {
+          "text": "freedom",
+          "start": 272.19,
+          "end": 272.57,
+          "confidence": 0.986
+        },
+        {
+          "text": "of",
+          "start": 272.57,
+          "end": 273.01,
+          "confidence": 0.995
+        },
+        {
+          "text": "the",
+          "start": 273.01,
+          "end": 273.45,
+          "confidence": 0.998
+        },
+        {
+          "text": "world",
+          "start": 273.45,
+          "end": 273.71,
+          "confidence": 0.998
+        },
+        {
+          "text": "will",
+          "start": 273.71,
+          "end": 273.83,
+          "confidence": 0.992
+        },
+        {
+          "text": "be",
+          "start": 273.83,
+          "end": 273.85,
+          "confidence": 0.998
+        },
+        {
+          "text": "mine",
+          "start": 273.85,
+          "end": 273.87,
+          "confidence": 0.999
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "seek": 13868,
+      "start": 273.87,
+      "end": 274.73,
+      "text": " The freedom of the world will be mine",
+      "tokens": [
+        50965,
+        440,
+        5645,
+        295,
+        264,
+        1002,
+        486,
+        312,
+        3892,
+        51015
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.02254819228510151,
+      "compression_ratio": 15.537037037037036,
+      "no_speech_prob": 0.026435185223817825,
+      "confidence": 0.987,
+      "words": [
+        {
+          "text": "The",
+          "start": 273.87,
+          "end": 273.89,
+          "confidence": 0.924
+        },
+        {
+          "text": "freedom",
+          "start": 273.89,
+          "end": 273.91,
+          "confidence": 0.988
+        },
+        {
+          "text": "of",
+          "start": 273.91,
+          "end": 273.93,
+          "confidence": 0.996
+        },
+        {
+          "text": "the",
+          "start": 273.93,
+          "end": 273.95,
+          "confidence": 0.998
+        },
+        {
+          "text": "world",
+          "start": 273.95,
+          "end": 273.97,
+          "confidence": 0.998
+        },
+        {
+          "text": "will",
+          "start": 273.97,
+          "end": 274.59,
+          "confidence": 0.992
+        },
+        {
+          "text": "be",
+          "start": 274.59,
+          "end": 274.61,
+          "confidence": 0.999
+        },
+        {
+          "text": "mine",
+          "start": 274.61,
+          "end": 274.73,
+          "confidence": 0.999
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "seek": 13868,
+      "start": 274.73,
+      "end": 275.29,
+      "text": " The freedom of the world will be mine",
+      "tokens": [
+        51015,
+        440,
+        5645,
+        295,
+        264,
+        1002,
+        486,
+        312,
+        3892,
+        51065
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.02254819228510151,
+      "compression_ratio": 15.537037037037036,
+      "no_speech_prob": 0.026435185223817825,
+      "confidence": 0.988,
+      "words": [
+        {
+          "text": "The",
+          "start": 274.73,
+          "end": 274.75,
+          "confidence": 0.93
+        },
+        {
+          "text": "freedom",
+          "start": 274.75,
+          "end": 274.77,
+          "confidence": 0.989
+        },
+        {
+          "text": "of",
+          "start": 274.77,
+          "end": 274.93,
+          "confidence": 0.997
+        },
+        {
+          "text": "the",
+          "start": 274.93,
+          "end": 274.95,
+          "confidence": 0.998
+        },
+        {
+          "text": "world",
+          "start": 274.95,
+          "end": 274.97,
+          "confidence": 0.998
+        },
+        {
+          "text": "will",
+          "start": 274.97,
+          "end": 274.99,
+          "confidence": 0.993
+        },
+        {
+          "text": "be",
+          "start": 274.99,
+          "end": 275.27,
+          "confidence": 0.999
+        },
+        {
+          "text": "mine",
+          "start": 275.27,
+          "end": 275.29,
+          "confidence": 0.999
+        }
+      ]
+    },
+    {
+      "id": 61,
+      "seek": 13868,
+      "start": 275.55,
+      "end": 276.85,
+      "text": " The freedom of the world will be mine",
+      "tokens": [
+        51065,
+        440,
+        5645,
+        295,
+        264,
+        1002,
+        486,
+        312,
+        3892,
+        51115
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.02254819228510151,
+      "compression_ratio": 15.537037037037036,
+      "no_speech_prob": 0.026435185223817825,
+      "confidence": 0.989,
+      "words": [
+        {
+          "text": "The",
+          "start": 275.55,
+          "end": 275.65,
+          "confidence": 0.941
+        },
+        {
+          "text": "freedom",
+          "start": 275.65,
+          "end": 275.71,
+          "confidence": 0.989
+        },
+        {
+          "text": "of",
+          "start": 275.71,
+          "end": 276.71,
+          "confidence": 0.997
+        },
+        {
+          "text": "the",
+          "start": 276.71,
+          "end": 276.77,
+          "confidence": 0.998
+        },
+        {
+          "text": "world",
+          "start": 276.77,
+          "end": 276.79,
+          "confidence": 0.998
+        },
+        {
+          "text": "will",
+          "start": 276.79,
+          "end": 276.81,
+          "confidence": 0.993
+        },
+        {
+          "text": "be",
+          "start": 276.81,
+          "end": 276.83,
+          "confidence": 0.999
+        },
+        {
+          "text": "mine",
+          "start": 276.83,
+          "end": 276.85,
+          "confidence": 0.999
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "seek": 13868,
+      "start": 276.85,
+      "end": 277.89,
+      "text": " The freedom of the world will be mine",
+      "tokens": [
+        51115,
+        440,
+        5645,
+        295,
+        264,
+        1002,
+        486,
+        312,
+        3892,
+        51165
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.02254819228510151,
+      "compression_ratio": 15.537037037037036,
+      "no_speech_prob": 0.026435185223817825,
+      "confidence": 0.991,
+      "words": [
+        {
+          "text": "The",
+          "start": 276.85,
+          "end": 276.87,
+          "confidence": 0.947
+        },
+        {
+          "text": "freedom",
+          "start": 276.87,
+          "end": 276.89,
+          "confidence": 0.99
+        },
+        {
+          "text": "of",
+          "start": 276.89,
+          "end": 276.91,
+          "confidence": 0.997
+        },
+        {
+          "text": "the",
+          "start": 276.91,
+          "end": 276.99,
+          "confidence": 0.999
+        },
+        {
+          "text": "world",
+          "start": 276.99,
+          "end": 277.83,
+          "confidence": 0.999
+        },
+        {
+          "text": "will",
+          "start": 277.83,
+          "end": 277.85,
+          "confidence": 0.995
+        },
+        {
+          "text": "be",
+          "start": 277.85,
+          "end": 277.87,
+          "confidence": 0.999
+        },
+        {
+          "text": "mine",
+          "start": 277.87,
+          "end": 277.89,
+          "confidence": 0.999
+        }
+      ]
+    },
+    {
+      "id": 63,
+      "seek": 13868,
+      "start": 278.01,
+      "end": 278.75,
+      "text": " The freedom of the world will be mine",
+      "tokens": [
+        51165,
+        440,
+        5645,
+        295,
+        264,
+        1002,
+        486,
+        312,
+        3892,
+        51215
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.02254819228510151,
+      "compression_ratio": 15.537037037037036,
+      "no_speech_prob": 0.026435185223817825,
+      "confidence": 0.991,
+      "words": [
+        {
+          "text": "The",
+          "start": 278.01,
+          "end": 278.03,
+          "confidence": 0.95
+        },
+        {
+          "text": "freedom",
+          "start": 278.03,
+          "end": 278.57,
           "confidence": 0.991
+        },
+        {
+          "text": "of",
+          "start": 278.57,
+          "end": 278.63,
+          "confidence": 0.998
+        },
+        {
+          "text": "the",
+          "start": 278.63,
+          "end": 278.65,
+          "confidence": 0.999
+        },
+        {
+          "text": "world",
+          "start": 278.65,
+          "end": 278.69,
+          "confidence": 0.999
+        },
+        {
+          "text": "will",
+          "start": 278.69,
+          "end": 278.71,
+          "confidence": 0.996
+        },
+        {
+          "text": "be",
+          "start": 278.71,
+          "end": 278.73,
+          "confidence": 0.999
+        },
+        {
+          "text": "mine",
+          "start": 278.73,
+          "end": 278.75,
+          "confidence": 0.999
+        }
+      ]
+    },
+    {
+      "id": 64,
+      "seek": 13868,
+      "start": 278.75,
+      "end": 279.93,
+      "text": " The freedom of the world will be mine",
+      "tokens": [
+        51215,
+        440,
+        5645,
+        295,
+        264,
+        1002,
+        486,
+        312,
+        3892,
+        51265
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.02254819228510151,
+      "compression_ratio": 15.537037037037036,
+      "no_speech_prob": 0.026435185223817825,
+      "confidence": 0.991,
+      "words": [
+        {
+          "text": "The",
+          "start": 278.75,
+          "end": 278.77,
+          "confidence": 0.952
+        },
+        {
+          "text": "freedom",
+          "start": 278.77,
+          "end": 279.67,
+          "confidence": 0.991
+        },
+        {
+          "text": "of",
+          "start": 279.67,
+          "end": 279.83,
+          "confidence": 0.998
+        },
+        {
+          "text": "the",
+          "start": 279.83,
+          "end": 279.85,
+          "confidence": 0.999
+        },
+        {
+          "text": "world",
+          "start": 279.85,
+          "end": 279.87,
+          "confidence": 0.999
+        },
+        {
+          "text": "will",
+          "start": 279.87,
+          "end": 279.89,
+          "confidence": 0.995
+        },
+        {
+          "text": "be",
+          "start": 279.89,
+          "end": 279.91,
+          "confidence": 0.999
+        },
+        {
+          "text": "mine",
+          "start": 279.91,
+          "end": 279.93,
+          "confidence": 0.999
+        }
+      ]
+    },
+    {
+      "id": 65,
+      "seek": 13868,
+      "start": 279.93,
+      "end": 280.85,
+      "text": " The freedom of the world will be mine",
+      "tokens": [
+        51265,
+        440,
+        5645,
+        295,
+        264,
+        1002,
+        486,
+        312,
+        3892,
+        51315
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.02254819228510151,
+      "compression_ratio": 15.537037037037036,
+      "no_speech_prob": 0.026435185223817825,
+      "confidence": 0.993,
+      "words": [
+        {
+          "text": "The",
+          "start": 279.93,
+          "end": 279.95,
+          "confidence": 0.959
+        },
+        {
+          "text": "freedom",
+          "start": 279.95,
+          "end": 279.97,
+          "confidence": 0.992
+        },
+        {
+          "text": "of",
+          "start": 279.97,
+          "end": 280.37,
+          "confidence": 0.998
+        },
+        {
+          "text": "the",
+          "start": 280.37,
+          "end": 280.41,
+          "confidence": 0.999
+        },
+        {
+          "text": "world",
+          "start": 280.41,
+          "end": 280.61,
+          "confidence": 0.999
+        },
+        {
+          "text": "will",
+          "start": 280.61,
+          "end": 280.81,
+          "confidence": 0.996
+        },
+        {
+          "text": "be",
+          "start": 280.81,
+          "end": 280.83,
+          "confidence": 1.0
+        },
+        {
+          "text": "mine",
+          "start": 280.83,
+          "end": 280.85,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "id": 66,
+      "seek": 13868,
+      "start": 280.85,
+      "end": 281.87,
+      "text": " The freedom of the world will be mine",
+      "tokens": [
+        51315,
+        440,
+        5645,
+        295,
+        264,
+        1002,
+        486,
+        312,
+        3892,
+        51365
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.02254819228510151,
+      "compression_ratio": 15.537037037037036,
+      "no_speech_prob": 0.026435185223817825,
+      "confidence": 0.993,
+      "words": [
+        {
+          "text": "The",
+          "start": 280.85,
+          "end": 280.87,
+          "confidence": 0.961
+        },
+        {
+          "text": "freedom",
+          "start": 280.87,
+          "end": 280.91,
+          "confidence": 0.992
+        },
+        {
+          "text": "of",
+          "start": 280.91,
+          "end": 281.59,
+          "confidence": 0.998
+        },
+        {
+          "text": "the",
+          "start": 281.59,
+          "end": 281.79,
+          "confidence": 0.999
+        },
+        {
+          "text": "world",
+          "start": 281.79,
+          "end": 281.81,
+          "confidence": 0.999
+        },
+        {
+          "text": "will",
+          "start": 281.81,
+          "end": 281.83,
+          "confidence": 0.997
+        },
+        {
+          "text": "be",
+          "start": 281.83,
+          "end": 281.85,
+          "confidence": 1.0
+        },
+        {
+          "text": "mine",
+          "start": 281.85,
+          "end": 281.87,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "id": 67,
+      "seek": 13868,
+      "start": 281.87,
+      "end": 282.83,
+      "text": " The freedom of the world will be mine",
+      "tokens": [
+        51365,
+        440,
+        5645,
+        295,
+        264,
+        1002,
+        486,
+        312,
+        3892,
+        51415
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.02254819228510151,
+      "compression_ratio": 15.537037037037036,
+      "no_speech_prob": 0.026435185223817825,
+      "confidence": 0.994,
+      "words": [
+        {
+          "text": "The",
+          "start": 281.87,
+          "end": 281.93,
+          "confidence": 0.967
+        },
+        {
+          "text": "freedom",
+          "start": 281.93,
+          "end": 281.97,
+          "confidence": 0.993
+        },
+        {
+          "text": "of",
+          "start": 281.97,
+          "end": 281.99,
+          "confidence": 0.999
+        },
+        {
+          "text": "the",
+          "start": 281.99,
+          "end": 282.01,
+          "confidence": 0.999
+        },
+        {
+          "text": "world",
+          "start": 282.01,
+          "end": 282.03,
+          "confidence": 0.999
+        },
+        {
+          "text": "will",
+          "start": 282.03,
+          "end": 282.05,
+          "confidence": 0.997
+        },
+        {
+          "text": "be",
+          "start": 282.05,
+          "end": 282.65,
+          "confidence": 1.0
+        },
+        {
+          "text": "mine",
+          "start": 282.65,
+          "end": 282.83,
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "id": 68,
+      "seek": 13868,
+      "start": 282.83,
+      "end": 283.81,
+      "text": " The freedom of the world will be mine",
+      "tokens": [
+        51415,
+        440,
+        5645,
+        295,
+        264,
+        1002,
+        486,
+        312,
+        3892,
+        51465
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.02254819228510151,
+      "compression_ratio": 15.537037037037036,
+      "no_speech_prob": 0.026435185223817825,
+      "confidence": 0.994,
+      "words": [
+        {
+          "text": "The",
+          "start": 282.83,
+          "end": 282.85,
+          "confidence": 0.967
+        },
+        {
+          "text": "freedom",
+          "start": 282.85,
+          "end": 282.87,
+          "confidence": 0.993
+        },
+        {
+          "text": "of",
+          "start": 282.87,
+          "end": 282.89,
+          "confidence": 0.999
+        },
+        {
+          "text": "the",
+          "start": 282.89,
+          "end": 282.91,
+          "confidence": 0.999
+        },
+        {
+          "text": "world",
+          "start": 282.91,
+          "end": 282.93,
+          "confidence": 0.999
+        },
+        {
+          "text": "will",
+          "start": 282.93,
+          "end": 282.95,
+          "confidence": 0.997
+        },
+        {
+          "text": "be",
+          "start": 282.95,
+          "end": 283.79,
+          "confidence": 1.0
+        },
+        {
+          "text": "mine",
+          "start": 283.79,
+          "end": 283.81,
+          "confidence": 1.0
         }
       ]
     }
   ],
   "language": "en",
   "language_probs": {
-    "en": 0.72101891040802,
-    "zh": 0.0020894804038107395,
-    "de": 0.016180234029889107,
-    "es": 0.012118435464799404,
-    "ru": 0.009890778921544552,
-    "ko": 0.0011271900730207562,
-    "fr": 0.014732270501554012,
-    "ja": 0.005335674621164799,
-    "pt": 0.011473503895103931,
-    "tr": 0.004973395727574825,
-    "pl": 0.00674492446705699,
-    "ca": 8.898079977370799e-05,
-    "nl": 0.0016921126516535878,
-    "ar": 0.011837711557745934,
-    "sv": 0.0046720728278160095,
-    "it": 0.0006422535516321659,
-    "id": 0.00017286019283346832,
-    "hi": 6.260581722017378e-05,
-    "fi": 0.00010987662972183898,
-    "vi": 0.0011720922775566578,
-    "he": 0.0009344732970930636,
-    "uk": 0.0018876881804317236,
-    "el": 0.0018729979638010263,
-    "ms": 0.0015772224869579077,
-    "cs": 0.00027839632821269333,
-    "ro": 0.0004962950479239225,
-    "da": 0.001652914914302528,
-    "hu": 6.929831579327583e-05,
-    "ta": 9.32510884013027e-05,
-    "no": 0.0012872914085164666,
-    "th": 6.115555152064189e-05,
-    "ur": 0.00044487600098364055,
-    "hr": 0.00019587627321016043,
-    "bg": 0.00014108436880633235,
-    "lt": 9.926526399794966e-05,
-    "la": 0.023542100563645363,
-    "mi": 0.016563938930630684,
-    "ml": 1.2089374649804085e-05,
-    "cy": 0.011207721196115017,
-    "sk": 2.888783456000965e-05,
-    "te": 3.827016553259455e-05,
-    "fa": 0.00028499827021732926,
-    "lv": 0.0004662260471377522,
-    "bn": 1.779727972461842e-05,
-    "sr": 3.651764927781187e-05,
-    "az": 1.2521951248345431e-05,
-    "sl": 0.0007334765396080911,
-    "kn": 2.2275908122537658e-06,
-    "et": 5.199574843572918e-06,
-    "mk": 3.351048144395463e-05,
-    "br": 0.010862895287573338,
-    "eu": 0.00017018025391735137,
-    "is": 0.0008246698416769505,
-    "hy": 3.6233464925317094e-05,
-    "ne": 1.0668834875104949e-05,
-    "mn": 0.00011160692520206794,
-    "bs": 0.000213453866308555,
-    "kk": 3.917771755368449e-05,
-    "sq": 0.0002476107911206782,
-    "sw": 0.0004662260471377522,
-    "gl": 0.0007930772262625396,
-    "mr": 8.323899010065361e-07,
-    "pa": 6.198815754032694e-06,
-    "si": 0.0002005213318625465,
-    "km": 0.003965137060731649,
-    "sn": 0.007702945731580257,
-    "yo": 0.0023309835232794285,
-    "so": 5.600162694463506e-06,
-    "af": 0.00039260167977772653,
-    "oc": 0.001002543605864048,
-    "ka": 3.4233105452585733e-06,
-    "be": 0.0001688558841124177,
-    "tg": 2.380538944635191e-06,
-    "sd": 0.00025747448671609163,
-    "gu": 7.57786438043695e-08,
-    "am": 1.3095331041768077e-06,
-    "yi": 0.022817784920334816,
-    "lo": 2.7457503165351227e-05,
-    "uz": 1.5152982868471554e-08,
-    "fo": 0.0015649484703317285,
-    "ht": 0.0005536571843549609,
-    "ps": 2.7781161406892352e-05,
-    "tk": 1.1221252549376004e-07,
-    "nn": 0.008935574442148209,
-    "mt": 4.913986413157545e-05,
-    "sa": 0.0006998882163316011,
-    "lb": 3.1784363727638265e-06,
-    "my": 0.00032547826413065195,
-    "bo": 0.00013253651559352875,
-    "tl": 0.0002236977161373943,
-    "mg": 1.2765111989665456e-07,
-    "as": 1.5611955177519121e-06,
-    "tt": 1.8612217900226824e-06,
-    "haw": 0.04067710414528847,
-    "ln": 2.3212031010189094e-05,
-    "ha": 4.1045637999559403e-07,
-    "ba": 2.2890002071562776e-07,
-    "jw": 0.003903663018718362,
-    "su": 9.580747928339406e-07
+    "en": 0.6953026056289673,
+    "zh": 0.0010291385697200894,
+    "de": 0.0022303524892777205,
+    "es": 0.0032198899425566196,
+    "ru": 0.0030485300812870264,
+    "ko": 0.0018781450344249606,
+    "fr": 0.005607105325907469,
+    "ja": 0.0020952222403138876,
+    "pt": 0.0074282074347138405,
+    "tr": 0.000880268809851259,
+    "pl": 0.0006242041126824915,
+    "ca": 7.782370812492445e-05,
+    "nl": 0.0014066656585782766,
+    "ar": 0.004232465289533138,
+    "sv": 0.00043576466850936413,
+    "it": 0.00043237354839220643,
+    "id": 0.0004093630413990468,
+    "hi": 0.000204238822334446,
+    "fi": 0.0001200658007292077,
+    "vi": 0.0009082116303034127,
+    "he": 0.00015416753012686968,
+    "uk": 0.00036838685628026724,
+    "el": 0.00031881226459518075,
+    "ms": 0.00483362702652812,
+    "cs": 0.00017606484470888972,
+    "ro": 0.00023233868705574423,
+    "da": 0.0007588391890749335,
+    "hu": 8.765752681938466e-06,
+    "ta": 0.00032257032580673695,
+    "no": 8.922532288124785e-05,
+    "th": 0.0001802401093300432,
+    "ur": 0.0011661668540909886,
+    "hr": 1.8849332263926044e-05,
+    "bg": 4.946776243741624e-05,
+    "lt": 2.9765778890578076e-06,
+    "la": 0.04143121466040611,
+    "mi": 0.11001285165548325,
+    "ml": 8.834503205434885e-06,
+    "cy": 0.03355202078819275,
+    "sk": 6.720936198689742e-06,
+    "te": 1.5324398191296495e-05,
+    "fa": 7.36820074962452e-05,
+    "lv": 1.716251063044183e-05,
+    "bn": 3.867631676257588e-05,
+    "sr": 2.017990937019931e-06,
+    "az": 4.148743300902424e-06,
+    "sl": 6.204647070262581e-05,
+    "kn": 7.4685149229480885e-06,
+    "et": 8.486499609716702e-07,
+    "mk": 6.167477295093704e-06,
+    "br": 0.0030485300812870264,
+    "eu": 0.0005054958746768534,
+    "is": 8.648014772916213e-05,
+    "hy": 6.773649147362448e-06,
+    "ne": 4.1331859392812476e-05,
+    "mn": 2.908059468609281e-05,
+    "bs": 0.00032637271215207875,
+    "kk": 2.364235660934355e-05,
+    "sq": 3.47318177773559e-06,
+    "sw": 0.00034471822436898947,
+    "gl": 0.0005215420387685299,
+    "mr": 5.432159923657309e-06,
+    "pa": 0.00016283337026834488,
+    "si": 0.0001634706713957712,
+    "km": 0.0009517976432107389,
+    "sn": 0.010807978920638561,
+    "yo": 0.0012126215733587742,
+    "so": 1.277712271985365e-06,
+    "af": 0.0011480870889499784,
+    "oc": 0.0004748694191221148,
+    "ka": 2.72081251750933e-06,
+    "be": 0.0002359974751016125,
+    "tg": 7.925751219772792e-07,
+    "sd": 0.00026327421073801816,
+    "gu": 1.8340902897762135e-05,
+    "am": 7.380402280432463e-07,
+    "yi": 0.0008666216162964702,
+    "lo": 7.998106593731791e-05,
+    "uz": 1.1822355361346126e-07,
+    "fo": 0.0003556607698556036,
+    "ht": 0.0008734186412766576,
+    "ps": 0.00016411049000453204,
+    "tk": 1.766963606542049e-07,
+    "nn": 0.006453739013522863,
+    "mt": 7.3959345172625035e-06,
+    "sa": 0.000292558572255075,
+    "lb": 9.578972139934194e-07,
+    "my": 0.00045667748781852424,
+    "bo": 0.0001802401093300432,
+    "tl": 0.0005508582107722759,
+    "mg": 3.114395781267376e-07,
+    "as": 5.9660596889443696e-06,
+    "tt": 8.469939984934172e-07,
+    "haw": 0.03984401002526283,
+    "ln": 3.132103302050382e-05,
+    "ha": 9.701356020741514e-07,
+    "ba": 2.1373575975758285e-07,
+    "jw": 0.0038237138651311398,
+    "su": 1.2311661521380302e-06,
+    "yue": 0.0001308402861468494
   },
   "speech_activity": [
     {

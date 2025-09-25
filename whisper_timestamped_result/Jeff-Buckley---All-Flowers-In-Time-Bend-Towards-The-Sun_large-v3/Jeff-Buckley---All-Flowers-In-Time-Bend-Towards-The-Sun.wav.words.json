@@ -1,154 +1,197 @@
 {
-  "text": " I'm singing into my fire Oh, all flowers in time Bend towards the sun I know you say that there's no one for you But here is one Oh, flowers in time Bend towards the sun I know you say that there's no one for you But here is one But here is one I know you say that there's no one for you But here is one Bend towards the sun I know you say that there's no one for you But here is one Keep it going in me We can travel and Fading farther from me With your face in my window glow Wait for me, sweet widow It's okay to be in vain To me, yeah, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes,",
+  "text": " eyes are baptism and singing into my thigh oh all flowers in time bend towards the sun i know you say that there's no one for you but here is one oh flowers in time bend towards the sun i know you say that there's no one for you but here is one but here is one is keep it going in me wicked traveling for you keep it going in me wicked traveling for you keep it going in me wicked traveling for you keep it going in me wicked traveling for you keep it going in me wicked traveling for you keep it going in me wicked traveling for you keep it going in me wicked traveling for you keep it going in me wicked traveling for you keep it going in me wicked traveling for you keep it going in me wicked traveling for you keep it going in me wicked traveling for you keep it going in me wicked traveling for you keep it going in me wicked traveling for you keep it going in me wicked traveling for you keep it going in me wicked traveling for you keep it going in me wicked traveling for you keep it going in me wicked traveling for you keep it going in me wicked traveling for you keep it going in me wicked traveling for you keep it going in me wicked traveling for you keep it going in me wicked traveling for you keep it going in me wicked traveling for you keep it going in me wicked traveling for you keep it going in me wicked traveling for you",
   "segments": [
     {
       "id": 0,
       "seek": 0,
       "start": 26.13,
-      "end": 40.61,
-      "text": " I'm singing into my fire",
+      "end": 40.49,
+      "text": " eyes are baptism and singing into my thigh",
       "tokens": [
-        50364,
-        286,
-        478,
+        50365,
+        2575,
+        366,
+        34352,
+        293,
         6726,
         666,
         452,
-        2610,
-        50734
+        27871,
+        50765
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.5264264297485352,
-      "compression_ratio": 1.5225225225225225,
-      "no_speech_prob": 0.8070057034492493,
-      "confidence": 0.192,
+      "avg_logprob": -0.2997740745544434,
+      "compression_ratio": 2.0,
+      "no_speech_prob": 0.8641972541809082,
+      "confidence": 0.412,
       "words": [
         {
-          "text": "I'm",
+          "text": "eyes",
           "start": 26.13,
-          "end": 27.47,
-          "confidence": 0.083
+          "end": 26.29,
+          "confidence": 0.122
+        },
+        {
+          "text": "are",
+          "start": 26.29,
+          "end": 26.77,
+          "confidence": 0.137
+        },
+        {
+          "text": "baptism",
+          "start": 26.77,
+          "end": 27.63,
+          "confidence": 0.766
+        },
+        {
+          "text": "and",
+          "start": 29.14,
+          "end": 30.29,
+          "confidence": 0.415
         },
         {
           "text": "singing",
-          "start": 28.37,
-          "end": 30.29,
-          "confidence": 0.129
+          "start": 37.19,
+          "end": 37.85,
+          "confidence": 0.941
         },
         {
           "text": "into",
-          "start": 37.87,
+          "start": 37.85,
           "end": 38.9,
-          "confidence": 0.441
+          "confidence": 0.871
         },
         {
           "text": "my",
-          "start": 39.83,
-          "end": 40.19,
-          "confidence": 0.989
+          "start": 39.69,
+          "end": 40.11,
+          "confidence": 0.991
         },
         {
-          "text": "fire",
-          "start": 40.19,
-          "end": 40.61,
-          "confidence": 0.126
+          "text": "thigh",
+          "start": 40.11,
+          "end": 40.49,
+          "confidence": 0.192
         }
       ]
     },
     {
       "id": 1,
       "seek": 0,
-      "start": 48.72,
-      "end": 54.82,
-      "text": " Oh, all flowers in time Bend towards the sun",
+      "start": 48.37,
+      "end": 56.22,
+      "text": " oh all flowers in time bend towards the sun i know you say",
       "tokens": [
-        50734,
-        876,
-        11,
+        50765,
+        1954,
         439,
         8085,
         294,
         565,
-        32451,
+        11229,
         3030,
         264,
         3295,
-        51084
+        741,
+        458,
+        291,
+        584,
+        51153
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.5264264297485352,
-      "compression_ratio": 1.5225225225225225,
-      "no_speech_prob": 0.8070057034492493,
-      "confidence": 0.69,
+      "avg_logprob": -0.2997740745544434,
+      "compression_ratio": 2.0,
+      "no_speech_prob": 0.8641972541809082,
+      "confidence": 0.815,
       "words": [
         {
-          "text": "Oh,",
-          "start": 48.72,
-          "end": 49.34,
-          "confidence": 0.618
+          "text": "oh",
+          "start": 48.37,
+          "end": 49.2,
+          "confidence": 0.638
         },
         {
           "text": "all",
-          "start": 49.74,
-          "end": 50.76,
-          "confidence": 0.509
+          "start": 49.2,
+          "end": 50.6,
+          "confidence": 0.525
         },
         {
           "text": "flowers",
-          "start": 50.76,
-          "end": 51.68,
-          "confidence": 0.964
+          "start": 50.6,
+          "end": 51.36,
+          "confidence": 0.979
         },
         {
           "text": "in",
-          "start": 51.68,
-          "end": 52.02,
-          "confidence": 0.94
+          "start": 51.36,
+          "end": 51.86,
+          "confidence": 0.752
         },
         {
           "text": "time",
-          "start": 52.02,
-          "end": 52.62,
-          "confidence": 0.742
+          "start": 51.86,
+          "end": 52.44,
+          "confidence": 0.981
         },
         {
-          "text": "Bend",
-          "start": 52.62,
-          "end": 53.54,
-          "confidence": 0.195
+          "text": "bend",
+          "start": 52.44,
+          "end": 53.3,
+          "confidence": 0.8
         },
         {
           "text": "towards",
-          "start": 53.54,
-          "end": 54.1,
-          "confidence": 0.94
+          "start": 53.3,
+          "end": 54.04,
+          "confidence": 0.951
         },
         {
           "text": "the",
-          "start": 54.1,
-          "end": 54.46,
-          "confidence": 0.971
+          "start": 54.04,
+          "end": 54.34,
+          "confidence": 0.983
         },
         {
           "text": "sun",
-          "start": 54.46,
-          "end": 54.82,
-          "confidence": 0.936
+          "start": 54.34,
+          "end": 54.76,
+          "confidence": 0.954
+        },
+        {
+          "text": "i",
+          "start": 54.76,
+          "end": 55.38,
+          "confidence": 0.471
+        },
+        {
+          "text": "know",
+          "start": 55.38,
+          "end": 55.68,
+          "confidence": 0.973
+        },
+        {
+          "text": "you",
+          "start": 55.68,
+          "end": 55.94,
+          "confidence": 0.933
+        },
+        {
+          "text": "say",
+          "start": 55.94,
+          "end": 56.22,
+          "confidence": 0.948
         }
       ]
     },
     {
       "id": 2,
       "seek": 0,
-      "start": 55.38,
-      "end": 60.38,
-      "text": " I know you say that there's no one for you But here is one",
+      "start": 56.3,
+      "end": 60.34,
+      "text": " that there's no one for you but here is one",
       "tokens": [
-        51084,
-        286,
-        458,
-        291,
-        584,
+        51153,
         300,
         456,
         311,
@@ -156,1910 +199,2407 @@
         472,
         337,
         291,
-        583,
+        457,
         510,
         307,
         472,
-        51384
+        51417
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.5264264297485352,
-      "compression_ratio": 1.5225225225225225,
-      "no_speech_prob": 0.8070057034492493,
-      "confidence": 0.892,
+      "avg_logprob": -0.2997740745544434,
+      "compression_ratio": 2.0,
+      "no_speech_prob": 0.8641972541809082,
+      "confidence": 0.955,
       "words": [
         {
-          "text": "I",
-          "start": 55.38,
-          "end": 55.58,
-          "confidence": 0.974
-        },
-        {
-          "text": "know",
-          "start": 55.58,
-          "end": 55.8,
-          "confidence": 0.993
-        },
-        {
-          "text": "you",
-          "start": 55.8,
-          "end": 56.04,
-          "confidence": 0.845
-        },
-        {
-          "text": "say",
-          "start": 56.04,
-          "end": 56.36,
-          "confidence": 0.926
-        },
-        {
           "text": "that",
-          "start": 56.36,
-          "end": 56.7,
-          "confidence": 0.713
+          "start": 56.3,
+          "end": 56.6,
+          "confidence": 0.958
         },
         {
           "text": "there's",
-          "start": 56.7,
-          "end": 57.12,
-          "confidence": 0.97
-        },
-        {
-          "text": "no",
-          "start": 57.12,
-          "end": 57.28,
-          "confidence": 0.991
-        },
-        {
-          "text": "one",
-          "start": 57.28,
-          "end": 57.48,
-          "confidence": 0.924
-        },
-        {
-          "text": "for",
-          "start": 57.48,
-          "end": 57.92,
-          "confidence": 0.986
-        },
-        {
-          "text": "you",
-          "start": 57.92,
-          "end": 58.28,
+          "start": 56.6,
+          "end": 57.06,
           "confidence": 0.994
         },
         {
-          "text": "But",
-          "start": 58.28,
-          "end": 59.38,
-          "confidence": 0.464
-        },
-        {
-          "text": "here",
-          "start": 59.38,
-          "end": 59.58,
-          "confidence": 0.988
-        },
-        {
-          "text": "is",
-          "start": 59.58,
-          "end": 59.9,
-          "confidence": 0.894
+          "text": "no",
+          "start": 57.06,
+          "end": 57.1,
+          "confidence": 0.952
         },
         {
           "text": "one",
-          "start": 59.9,
-          "end": 60.38,
-          "confidence": 0.966
+          "start": 57.1,
+          "end": 57.42,
+          "confidence": 0.975
+        },
+        {
+          "text": "for",
+          "start": 57.42,
+          "end": 57.62,
+          "confidence": 0.978
+        },
+        {
+          "text": "you",
+          "start": 57.62,
+          "end": 58.2,
+          "confidence": 0.99
+        },
+        {
+          "text": "but",
+          "start": 58.2,
+          "end": 58.46,
+          "confidence": 0.751
+        },
+        {
+          "text": "here",
+          "start": 58.46,
+          "end": 59.5,
+          "confidence": 0.991
+        },
+        {
+          "text": "is",
+          "start": 59.5,
+          "end": 59.84,
+          "confidence": 0.993
+        },
+        {
+          "text": "one",
+          "start": 59.84,
+          "end": 60.34,
+          "confidence": 0.957
         }
       ]
     },
     {
       "id": 3,
       "seek": 0,
-      "start": 61.75,
-      "end": 66.55,
-      "text": " Oh, flowers in time Bend towards the sun",
+      "start": 61.63,
+      "end": 69.21,
+      "text": " oh flowers in time bend towards the sun i know you say that there's no one for",
       "tokens": [
-        51384,
-        876,
-        11,
+        51417,
+        1954,
         8085,
         294,
         565,
-        32451,
+        11229,
         3030,
         264,
         3295,
-        51684
+        741,
+        458,
+        291,
+        584,
+        300,
+        456,
+        311,
+        572,
+        472,
+        337,
+        51809
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.5264264297485352,
-      "compression_ratio": 1.5225225225225225,
-      "no_speech_prob": 0.8070057034492493,
-      "confidence": 0.924,
+      "avg_logprob": -0.2997740745544434,
+      "compression_ratio": 2.0,
+      "no_speech_prob": 0.8641972541809082,
+      "confidence": 0.9,
       "words": [
         {
-          "text": "Oh,",
-          "start": 61.75,
-          "end": 62.13,
-          "confidence": 0.774
+          "text": "oh",
+          "start": 61.63,
+          "end": 62.03,
+          "confidence": 0.427
         },
         {
           "text": "flowers",
-          "start": 62.29,
-          "end": 63.13,
-          "confidence": 0.708
+          "start": 62.03,
+          "end": 63.01,
+          "confidence": 0.939
         },
         {
           "text": "in",
-          "start": 63.13,
-          "end": 63.71,
-          "confidence": 0.998
+          "start": 63.01,
+          "end": 63.63,
+          "confidence": 0.883
         },
         {
           "text": "time",
-          "start": 63.71,
-          "end": 64.27,
-          "confidence": 0.997
+          "start": 63.63,
+          "end": 64.23,
+          "confidence": 0.988
         },
         {
-          "text": "Bend",
-          "start": 64.27,
-          "end": 65.19,
-          "confidence": 0.995
+          "text": "bend",
+          "start": 64.23,
+          "end": 65.05,
+          "confidence": 0.945
         },
         {
           "text": "towards",
-          "start": 65.19,
-          "end": 65.69,
-          "confidence": 0.986
+          "start": 65.05,
+          "end": 65.65,
+          "confidence": 0.987
         },
         {
           "text": "the",
-          "start": 65.69,
-          "end": 66.09,
+          "start": 65.65,
+          "end": 65.95,
           "confidence": 0.997
         },
         {
           "text": "sun",
-          "start": 66.09,
-          "end": 66.55,
+          "start": 65.95,
+          "end": 66.39,
+          "confidence": 0.995
+        },
+        {
+          "text": "i",
+          "start": 66.39,
+          "end": 67.03,
+          "confidence": 0.891
+        },
+        {
+          "text": "know",
+          "start": 67.03,
+          "end": 67.37,
           "confidence": 0.996
+        },
+        {
+          "text": "you",
+          "start": 67.37,
+          "end": 67.61,
+          "confidence": 0.991
+        },
+        {
+          "text": "say",
+          "start": 67.61,
+          "end": 67.95,
+          "confidence": 0.939
+        },
+        {
+          "text": "that",
+          "start": 67.95,
+          "end": 68.21,
+          "confidence": 0.931
+        },
+        {
+          "text": "there's",
+          "start": 68.21,
+          "end": 68.69,
+          "confidence": 0.865
+        },
+        {
+          "text": "no",
+          "start": 68.69,
+          "end": 68.73,
+          "confidence": 0.957
+        },
+        {
+          "text": "one",
+          "start": 68.73,
+          "end": 69.03,
+          "confidence": 0.92
+        },
+        {
+          "text": "for",
+          "start": 69.03,
+          "end": 69.21,
+          "confidence": 0.905
         }
       ]
     },
     {
       "id": 4,
-      "seek": 2640,
-      "start": 67.13,
-      "end": 72.17,
-      "text": " I know you say that there's no one for you But here is one",
+      "seek": 2888,
+      "start": 69.61,
+      "end": 72.13,
+      "text": " you but here is one",
       "tokens": [
-        50364,
-        286,
-        458,
+        50365,
         291,
-        584,
-        300,
-        456,
-        311,
-        572,
-        472,
-        337,
-        291,
-        583,
+        457,
         510,
         307,
         472,
-        50664
+        50565
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.09595859967745267,
-      "compression_ratio": 2.597560975609756,
-      "no_speech_prob": 0.05922034755349159,
-      "confidence": 0.978,
+      "avg_logprob": -0.6149435679117838,
+      "compression_ratio": 1.2205882352941178,
+      "no_speech_prob": 0.006121432408690453,
+      "confidence": 0.834,
       "words": [
         {
-          "text": "I",
-          "start": 67.13,
-          "end": 67.25,
-          "confidence": 0.967
-        },
-        {
-          "text": "know",
-          "start": 67.25,
-          "end": 67.45,
-          "confidence": 0.999
-        },
-        {
           "text": "you",
-          "start": 67.45,
-          "end": 67.73,
-          "confidence": 0.996
+          "start": 69.61,
+          "end": 69.97,
+          "confidence": 0.911
         },
         {
-          "text": "say",
-          "start": 67.73,
-          "end": 68.01,
-          "confidence": 0.996
-        },
-        {
-          "text": "that",
-          "start": 68.01,
-          "end": 68.35,
-          "confidence": 0.972
-        },
-        {
-          "text": "there's",
-          "start": 68.35,
-          "end": 68.73,
-          "confidence": 0.987
-        },
-        {
-          "text": "no",
-          "start": 68.73,
-          "end": 68.93,
-          "confidence": 0.999
-        },
-        {
-          "text": "one",
-          "start": 68.93,
-          "end": 69.11,
-          "confidence": 0.99
-        },
-        {
-          "text": "for",
-          "start": 69.11,
-          "end": 69.53,
-          "confidence": 0.998
-        },
-        {
-          "text": "you",
-          "start": 69.53,
-          "end": 70.03,
-          "confidence": 0.917
-        },
-        {
-          "text": "But",
-          "start": 70.03,
-          "end": 71.01,
-          "confidence": 0.874
+          "text": "but",
+          "start": 69.97,
+          "end": 70.85,
+          "confidence": 0.52
         },
         {
           "text": "here",
-          "start": 71.01,
-          "end": 71.25,
-          "confidence": 0.996
+          "start": 70.85,
+          "end": 71.09,
+          "confidence": 0.948
         },
         {
           "text": "is",
-          "start": 71.25,
-          "end": 71.55,
-          "confidence": 0.999
+          "start": 71.09,
+          "end": 71.49,
+          "confidence": 0.976
         },
         {
           "text": "one",
-          "start": 71.55,
-          "end": 72.17,
-          "confidence": 0.997
+          "start": 71.49,
+          "end": 72.13,
+          "confidence": 0.92
         }
       ]
     },
     {
       "id": 5,
-      "seek": 2640,
-      "start": 73.79,
-      "end": 75.33,
-      "text": " But here is one",
+      "seek": 2888,
+      "start": 73.47,
+      "end": 74.79,
+      "text": " but here is one",
       "tokens": [
-        50664,
-        583,
+        50565,
+        457,
         510,
         307,
         472,
-        50964
+        50721
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.09595859967745267,
-      "compression_ratio": 2.597560975609756,
-      "no_speech_prob": 0.05922034755349159,
-      "confidence": 0.969,
+      "avg_logprob": -0.6149435679117838,
+      "compression_ratio": 1.2205882352941178,
+      "no_speech_prob": 0.006121432408690453,
+      "confidence": 0.909,
       "words": [
         {
-          "text": "But",
-          "start": 73.79,
-          "end": 73.97,
-          "confidence": 0.901
+          "text": "but",
+          "start": 73.47,
+          "end": 73.79,
+          "confidence": 0.846
         },
         {
           "text": "here",
-          "start": 73.97,
-          "end": 74.17,
-          "confidence": 0.994
+          "start": 73.79,
+          "end": 74.03,
+          "confidence": 0.978
         },
         {
           "text": "is",
-          "start": 74.17,
-          "end": 74.47,
-          "confidence": 0.999
+          "start": 74.03,
+          "end": 74.41,
+          "confidence": 0.977
         },
         {
           "text": "one",
-          "start": 74.47,
-          "end": 75.33,
-          "confidence": 0.987
+          "start": 74.41,
+          "end": 74.79,
+          "confidence": 0.843
         }
       ]
     },
     {
       "id": 6,
-      "seek": 2640,
-      "start": 128.27,
-      "end": 133.15,
-      "text": " I know you say that there's no one for you But here is one",
+      "seek": 2888,
+      "start": 133.59,
+      "end": 133.61,
+      "text": " is",
       "tokens": [
-        50964,
-        286,
-        458,
-        291,
-        584,
-        300,
-        456,
-        311,
-        572,
-        472,
-        337,
-        291,
-        583,
-        510,
+        50781,
         307,
-        472,
-        51164
+        51021
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.09595859967745267,
-      "compression_ratio": 2.597560975609756,
-      "no_speech_prob": 0.05922034755349159,
-      "confidence": 0.938,
+      "avg_logprob": -0.6149435679117838,
+      "compression_ratio": 1.2205882352941178,
+      "no_speech_prob": 0.006121432408690453,
+      "confidence": 0.744,
       "words": [
         {
-          "text": "I",
-          "start": 128.27,
-          "end": 128.37,
-          "confidence": 0.919
-        },
-        {
-          "text": "know",
-          "start": 128.37,
-          "end": 128.49,
-          "confidence": 0.984
-        },
-        {
-          "text": "you",
-          "start": 128.49,
-          "end": 128.75,
-          "confidence": 0.993
-        },
-        {
-          "text": "say",
-          "start": 128.75,
-          "end": 129.25,
-          "confidence": 0.992
-        },
-        {
-          "text": "that",
-          "start": 129.25,
-          "end": 129.55,
-          "confidence": 0.745
-        },
-        {
-          "text": "there's",
-          "start": 129.81,
-          "end": 130.04,
-          "confidence": 0.883
-        },
-        {
-          "text": "no",
-          "start": 130.04,
-          "end": 130.06,
-          "confidence": 0.98
-        },
-        {
-          "text": "one",
-          "start": 130.06,
-          "end": 130.18,
-          "confidence": 0.983
-        },
-        {
-          "text": "for",
-          "start": 130.18,
-          "end": 130.6,
-          "confidence": 0.997
-        },
-        {
-          "text": "you",
-          "start": 130.6,
-          "end": 131.02,
-          "confidence": 0.997
-        },
-        {
-          "text": "But",
-          "start": 131.02,
-          "end": 131.15,
-          "confidence": 0.81
-        },
-        {
-          "text": "here",
-          "start": 132.15,
-          "end": 132.37,
-          "confidence": 0.993
-        },
-        {
           "text": "is",
-          "start": 132.37,
-          "end": 132.65,
-          "confidence": 0.998
-        },
-        {
-          "text": "one",
-          "start": 132.65,
-          "end": 133.15,
-          "confidence": 0.965
+          "start": 133.59,
+          "end": 133.61,
+          "confidence": 0.744
         }
       ]
     },
     {
       "id": 7,
-      "seek": 2640,
-      "start": 137.5,
-      "end": 142.8,
-      "text": " Bend towards the sun I know you say that there's no one for you",
+      "seek": 2888,
+      "start": 172.26,
+      "end": 176.44,
+      "text": " keep it going in me wicked traveling",
       "tokens": [
-        51164,
-        32451,
-        3030,
-        264,
-        3295,
-        286,
-        458,
-        291,
-        584,
-        300,
-        456,
-        311,
-        572,
-        472,
-        337,
-        291,
-        51414
+        51561,
+        1066,
+        309,
+        516,
+        294,
+        385,
+        22663,
+        9712,
+        51849
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.09595859967745267,
-      "compression_ratio": 2.597560975609756,
-      "no_speech_prob": 0.05922034755349159,
+      "avg_logprob": -0.6149435679117838,
+      "compression_ratio": 1.2205882352941178,
+      "no_speech_prob": 0.006121432408690453,
       "confidence": 0.941,
       "words": [
         {
-          "text": "Bend",
-          "start": 137.5,
-          "end": 137.8,
-          "confidence": 0.986
+          "text": "keep",
+          "start": 172.26,
+          "end": 172.5,
+          "confidence": 0.992
         },
         {
-          "text": "towards",
-          "start": 137.8,
-          "end": 138.18,
+          "text": "it",
+          "start": 172.5,
+          "end": 172.94,
+          "confidence": 0.996
+        },
+        {
+          "text": "going",
+          "start": 172.94,
+          "end": 173.46,
           "confidence": 0.994
         },
         {
-          "text": "the",
-          "start": 138.18,
-          "end": 138.6,
-          "confidence": 0.998
+          "text": "in",
+          "start": 173.46,
+          "end": 173.84,
+          "confidence": 0.975
         },
         {
-          "text": "sun",
-          "start": 138.6,
-          "end": 139.1,
-          "confidence": 0.996
+          "text": "me",
+          "start": 173.84,
+          "end": 174.42,
+          "confidence": 0.994
         },
         {
-          "text": "I",
-          "start": 139.1,
-          "end": 139.35,
-          "confidence": 0.692
+          "text": "wicked",
+          "start": 174.42,
+          "end": 175.5,
+          "confidence": 0.83
         },
         {
-          "text": "know",
-          "start": 139.88,
-          "end": 140.1,
-          "confidence": 0.999
-        },
-        {
-          "text": "you",
-          "start": 140.1,
-          "end": 140.38,
-          "confidence": 0.997
-        },
-        {
-          "text": "say",
-          "start": 140.38,
-          "end": 140.78,
-          "confidence": 0.996
-        },
-        {
-          "text": "that",
-          "start": 140.78,
-          "end": 141.12,
-          "confidence": 0.637
-        },
-        {
-          "text": "there's",
-          "start": 141.12,
-          "end": 141.38,
-          "confidence": 0.982
-        },
-        {
-          "text": "no",
-          "start": 141.38,
-          "end": 141.56,
-          "confidence": 0.996
-        },
-        {
-          "text": "one",
-          "start": 141.56,
-          "end": 141.78,
-          "confidence": 0.998
-        },
-        {
-          "text": "for",
-          "start": 141.78,
-          "end": 142.22,
-          "confidence": 0.989
-        },
-        {
-          "text": "you",
-          "start": 142.22,
-          "end": 142.8,
-          "confidence": 0.999
+          "text": "traveling",
+          "start": 175.5,
+          "end": 176.44,
+          "confidence": 0.828
         }
       ]
     },
     {
       "id": 8,
-      "seek": 2640,
-      "start": 143.48,
-      "end": 144.84,
-      "text": " But here is one",
+      "seek": 2888,
+      "start": 178.08,
+      "end": 178.34,
+      "text": " for you",
       "tokens": [
-        51414,
-        583,
-        510,
-        307,
-        472,
-        51664
+        51849,
+        337,
+        291,
+        51861
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.09595859967745267,
-      "compression_ratio": 2.597560975609756,
-      "no_speech_prob": 0.05922034755349159,
-      "confidence": 0.99,
+      "avg_logprob": -0.6149435679117838,
+      "compression_ratio": 1.2205882352941178,
+      "no_speech_prob": 0.006121432408690453,
+      "confidence": 0.277,
       "words": [
         {
-          "text": "But",
-          "start": 143.48,
-          "end": 143.64,
-          "confidence": 0.99
+          "text": "for",
+          "start": 178.08,
+          "end": 178.18,
+          "confidence": 0.145
         },
         {
-          "text": "here",
-          "start": 143.64,
-          "end": 143.94,
-          "confidence": 0.994
-        },
-        {
-          "text": "is",
-          "start": 143.94,
-          "end": 144.26,
-          "confidence": 0.998
-        },
-        {
-          "text": "one",
-          "start": 144.26,
-          "end": 144.84,
-          "confidence": 0.98
+          "text": "you",
+          "start": 178.18,
+          "end": 178.34,
+          "confidence": 0.53
         }
       ]
     },
     {
       "id": 9,
-      "seek": 5240,
-      "start": 172.34,
-      "end": 177.02,
-      "text": " Keep it going in me We can travel and",
+      "seek": 5888,
+      "start": 178.42,
+      "end": 179.86,
+      "text": " keep it going in me wicked traveling for you",
       "tokens": [
-        50364,
-        5527,
+        50365,
+        1066,
         309,
         516,
         294,
         385,
-        492,
-        393,
-        3147,
-        293,
-        50614
+        22663,
+        9712,
+        337,
+        291,
+        50465
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.3410283497401646,
-      "compression_ratio": 1.2456140350877194,
-      "no_speech_prob": 0.277772456407547,
-      "confidence": 0.735,
+      "avg_logprob": -0.12823220907923688,
+      "compression_ratio": 11.620689655172415,
+      "no_speech_prob": 0.017504049465060234,
+      "confidence": 0.693,
       "words": [
         {
-          "text": "Keep",
-          "start": 172.34,
-          "end": 172.62,
-          "confidence": 0.957
+          "text": "keep",
+          "start": 178.42,
+          "end": 178.44,
+          "confidence": 0.112
         },
         {
           "text": "it",
-          "start": 172.62,
-          "end": 173.0,
-          "confidence": 0.991
+          "start": 178.44,
+          "end": 178.6,
+          "confidence": 0.969
         },
         {
           "text": "going",
-          "start": 173.0,
-          "end": 173.52,
-          "confidence": 0.822
+          "start": 178.6,
+          "end": 178.9,
+          "confidence": 0.972
         },
         {
           "text": "in",
-          "start": 173.52,
-          "end": 174.04,
-          "confidence": 0.898
+          "start": 178.9,
+          "end": 178.92,
+          "confidence": 0.912
         },
         {
           "text": "me",
-          "start": 174.04,
-          "end": 174.7,
-          "confidence": 0.987
+          "start": 178.92,
+          "end": 178.94,
+          "confidence": 0.963
         },
         {
-          "text": "We",
-          "start": 174.7,
-          "end": 175.48,
-          "confidence": 0.397
+          "text": "wicked",
+          "start": 178.94,
+          "end": 178.96,
+          "confidence": 0.983
         },
         {
-          "text": "can",
-          "start": 175.48,
-          "end": 175.78,
-          "confidence": 0.414
+          "text": "traveling",
+          "start": 178.96,
+          "end": 178.98,
+          "confidence": 0.955
         },
         {
-          "text": "travel",
-          "start": 175.78,
-          "end": 176.48,
-          "confidence": 0.826
+          "text": "for",
+          "start": 178.98,
+          "end": 179.0,
+          "confidence": 0.786
         },
         {
-          "text": "and",
-          "start": 176.48,
-          "end": 177.02,
-          "confidence": 0.67
+          "text": "you",
+          "start": 179.0,
+          "end": 179.86,
+          "confidence": 0.539
         }
       ]
     },
     {
       "id": 10,
-      "seek": 5240,
-      "start": 178.1,
-      "end": 184.76,
-      "text": " Fading farther from me With your face in my window glow",
+      "seek": 5888,
+      "start": 179.92,
+      "end": 182.92,
+      "text": " keep it going in me wicked traveling for you",
       "tokens": [
-        50614,
-        479,
-        8166,
-        20344,
-        490,
-        385,
-        2022,
-        428,
-        1851,
+        50465,
+        1066,
+        309,
+        516,
         294,
-        452,
-        4910,
-        17513,
-        51064
+        385,
+        22663,
+        9712,
+        337,
+        291,
+        50565
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.3410283497401646,
-      "compression_ratio": 1.2456140350877194,
-      "no_speech_prob": 0.277772456407547,
-      "confidence": 0.739,
+      "avg_logprob": -0.12823220907923688,
+      "compression_ratio": 11.620689655172415,
+      "no_speech_prob": 0.017504049465060234,
+      "confidence": 0.951,
       "words": [
         {
-          "text": "Fading",
-          "start": 178.1,
-          "end": 178.7,
-          "confidence": 0.3
+          "text": "keep",
+          "start": 179.92,
+          "end": 180.92,
+          "confidence": 0.796
         },
         {
-          "text": "farther",
-          "start": 178.7,
-          "end": 179.32,
-          "confidence": 0.945
+          "text": "it",
+          "start": 180.92,
+          "end": 181.3,
+          "confidence": 0.983
         },
         {
-          "text": "from",
-          "start": 179.32,
-          "end": 179.84,
-          "confidence": 0.996
-        },
-        {
-          "text": "me",
-          "start": 179.84,
-          "end": 180.54,
-          "confidence": 0.973
-        },
-        {
-          "text": "With",
-          "start": 180.54,
-          "end": 181.32,
-          "confidence": 0.885
-        },
-        {
-          "text": "your",
-          "start": 181.32,
-          "end": 181.6,
-          "confidence": 0.98
-        },
-        {
-          "text": "face",
-          "start": 181.6,
-          "end": 182.3,
-          "confidence": 0.999
+          "text": "going",
+          "start": 181.3,
+          "end": 181.46,
+          "confidence": 0.988
         },
         {
           "text": "in",
-          "start": 182.3,
-          "end": 182.84,
-          "confidence": 0.876
+          "start": 181.46,
+          "end": 181.74,
+          "confidence": 0.96
         },
         {
-          "text": "my",
-          "start": 182.84,
-          "end": 183.16,
-          "confidence": 0.995
+          "text": "me",
+          "start": 181.74,
+          "end": 181.76,
+          "confidence": 0.983
         },
         {
-          "text": "window",
-          "start": 183.16,
-          "end": 183.94,
-          "confidence": 0.995
+          "text": "wicked",
+          "start": 181.76,
+          "end": 181.78,
+          "confidence": 0.981
         },
         {
-          "text": "glow",
-          "start": 183.94,
-          "end": 184.76,
-          "confidence": 0.431
+          "text": "traveling",
+          "start": 181.78,
+          "end": 182.08,
+          "confidence": 0.948
+        },
+        {
+          "text": "for",
+          "start": 182.08,
+          "end": 182.9,
+          "confidence": 0.951
+        },
+        {
+          "text": "you",
+          "start": 182.9,
+          "end": 182.92,
+          "confidence": 0.988
         }
       ]
     },
     {
       "id": 11,
-      "seek": 5240,
-      "start": 188.59,
-      "end": 211.44,
-      "text": " Wait for me, sweet widow It's okay to be in vain",
+      "seek": 5888,
+      "start": 182.92,
+      "end": 184.44,
+      "text": " keep it going in me wicked traveling for you",
       "tokens": [
-        51064,
-        3802,
-        337,
-        385,
-        11,
-        3844,
-        37207,
-        467,
-        311,
-        1392,
-        281,
-        312,
+        50565,
+        1066,
+        309,
+        516,
         294,
-        22240,
-        51564
+        385,
+        22663,
+        9712,
+        337,
+        291,
+        50665
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.3410283497401646,
-      "compression_ratio": 1.2456140350877194,
-      "no_speech_prob": 0.277772456407547,
-      "confidence": 0.692,
+      "avg_logprob": -0.12823220907923688,
+      "compression_ratio": 11.620689655172415,
+      "no_speech_prob": 0.017504049465060234,
+      "confidence": 0.937,
       "words": [
         {
-          "text": "Wait",
-          "start": 188.59,
-          "end": 189.07,
-          "confidence": 0.518
+          "text": "keep",
+          "start": 182.92,
+          "end": 182.94,
+          "confidence": 0.68
         },
         {
-          "text": "for",
-          "start": 190.51,
-          "end": 191.24,
-          "confidence": 0.687
+          "text": "it",
+          "start": 182.94,
+          "end": 182.96,
+          "confidence": 0.975
         },
         {
-          "text": "me,",
-          "start": 191.24,
-          "end": 191.72,
-          "confidence": 0.999
-        },
-        {
-          "text": "sweet",
-          "start": 192.02,
-          "end": 192.9,
-          "confidence": 0.888
-        },
-        {
-          "text": "widow",
-          "start": 192.9,
-          "end": 193.88,
-          "confidence": 0.387
-        },
-        {
-          "text": "It's",
-          "start": 193.88,
-          "end": 194.87,
-          "confidence": 0.712
-        },
-        {
-          "text": "okay",
-          "start": 207.81,
-          "end": 208.27,
-          "confidence": 0.779
-        },
-        {
-          "text": "to",
-          "start": 208.27,
-          "end": 209.27,
-          "confidence": 0.959
-        },
-        {
-          "text": "be",
-          "start": 210.36,
-          "end": 210.58,
-          "confidence": 0.988
+          "text": "going",
+          "start": 182.96,
+          "end": 182.98,
+          "confidence": 0.989
         },
         {
           "text": "in",
-          "start": 210.58,
-          "end": 210.92,
-          "confidence": 0.83
+          "start": 182.98,
+          "end": 183.0,
+          "confidence": 0.972
         },
         {
-          "text": "vain",
-          "start": 210.92,
-          "end": 211.44,
-          "confidence": 0.316
+          "text": "me",
+          "start": 183.0,
+          "end": 183.02,
+          "confidence": 0.982
+        },
+        {
+          "text": "wicked",
+          "start": 183.02,
+          "end": 183.42,
+          "confidence": 0.985
+        },
+        {
+          "text": "traveling",
+          "start": 183.42,
+          "end": 184.16,
+          "confidence": 0.957
+        },
+        {
+          "text": "for",
+          "start": 184.16,
+          "end": 184.18,
+          "confidence": 0.947
+        },
+        {
+          "text": "you",
+          "start": 184.18,
+          "end": 184.44,
+          "confidence": 0.994
         }
       ]
     },
     {
       "id": 12,
-      "seek": 7640,
-      "start": 212.12,
-      "end": 276.56,
-      "text": " To me, yeah, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes,",
+      "seek": 5888,
+      "start": 184.44,
+      "end": 188.89,
+      "text": " keep it going in me wicked traveling for you",
       "tokens": [
-        50364,
-        1407,
+        50665,
+        1066,
+        309,
+        516,
+        294,
         385,
-        11,
-        1338,
-        11,
-        2086,
-        11,
-        2086,
-        11,
-        2086,
-        11,
-        2086,
-        11,
-        2086,
-        11,
-        2086,
-        11,
-        2086,
-        11,
-        2086,
-        11,
-        2086,
-        11,
-        2086,
-        11,
-        2086,
-        11,
-        2086,
-        11,
-        2086,
-        11,
-        2086,
-        11,
-        2086,
-        11,
-        2086,
-        11,
-        2086,
-        11,
-        2086,
-        11,
-        2086,
-        11,
-        2086,
-        11,
-        2086,
-        11,
-        2086,
-        11,
-        2086,
-        11,
-        2086,
-        11,
-        2086,
-        11,
-        2086,
-        11,
-        2086,
-        11,
-        2086,
-        11,
-        2086,
-        11,
-        2086,
-        11,
-        2086,
-        11,
-        2086,
-        11,
-        2086,
-        11,
-        2086,
-        11,
-        2086,
-        11,
-        2086,
-        11,
-        2086,
-        11,
-        2086,
-        11,
-        2086,
-        11,
-        2086,
-        11,
-        2086,
-        11,
-        2086,
-        11,
-        2086,
-        11,
-        2086,
-        11,
-        2086,
-        11,
-        2086,
-        11,
-        2086,
-        11,
-        2086,
-        11,
-        2086,
-        11,
-        2086,
-        11,
-        2086,
-        11,
-        2086,
-        11,
-        2086,
-        11,
-        2086,
-        11,
-        2086,
-        11,
-        2086,
-        11,
-        2086,
-        11,
-        2086,
-        11,
-        2086,
-        11,
-        2086,
-        11,
-        2086,
-        11,
-        2086,
-        11,
-        2086,
-        11,
-        2086,
-        11,
-        2086,
-        11,
-        2086,
-        11,
-        2086,
-        11,
-        2086,
-        11,
-        2086,
-        11,
-        2086,
-        11,
-        2086,
-        11,
-        2086,
-        11,
-        2086,
-        11,
-        2086,
-        11,
-        2086,
-        11,
-        2086,
-        11,
-        2086,
-        11,
-        2086,
-        11,
-        2086,
-        11,
-        2086,
-        11,
-        2086,
-        11,
-        2086,
-        11,
-        2086,
-        11,
-        2086,
-        11,
-        2086,
-        11,
-        2086,
-        11,
-        2086,
-        11,
-        2086,
-        11,
-        2086,
-        11,
-        2086,
-        11,
-        2086,
-        11,
-        2086,
-        11,
-        2086,
-        11,
-        2086,
-        11,
-        2086,
-        11,
-        2086,
-        11,
-        2086,
-        11,
-        2086,
-        11,
-        2086,
-        11,
-        2086,
-        11,
-        2086,
-        11,
-        2086,
-        11,
-        2086,
-        11,
-        2086,
-        11,
-        2086,
-        11,
-        2086,
-        11,
-        2086,
-        11,
-        2086,
-        11,
-        2086,
-        11
+        22663,
+        9712,
+        337,
+        291,
+        50765
       ],
       "temperature": 0.0,
-      "avg_logprob": -0.09093788146972656,
-      "compression_ratio": 20.62962962962963,
-      "no_speech_prob": 0.3955765664577484,
-      "confidence": 0.931,
+      "avg_logprob": -0.12823220907923688,
+      "compression_ratio": 11.620689655172415,
+      "no_speech_prob": 0.017504049465060234,
+      "confidence": 0.937,
       "words": [
         {
-          "text": "To",
-          "start": 212.12,
-          "end": 212.34,
-          "confidence": 0.107
+          "text": "keep",
+          "start": 184.44,
+          "end": 184.48,
+          "confidence": 0.667
         },
         {
-          "text": "me,",
-          "start": 214.74,
-          "end": 215.06,
-          "confidence": 0.913
+          "text": "it",
+          "start": 184.48,
+          "end": 184.5,
+          "confidence": 0.98
         },
         {
-          "text": "yeah,",
-          "start": 219.07,
-          "end": 219.27,
-          "confidence": 0.545
+          "text": "going",
+          "start": 184.5,
+          "end": 184.52,
+          "confidence": 0.988
         },
         {
-          "text": "yes,",
-          "start": 221.97,
-          "end": 222.35,
-          "confidence": 0.553
+          "text": "in",
+          "start": 184.52,
+          "end": 185.36,
+          "confidence": 0.977
         },
         {
-          "text": "yes,",
-          "start": 222.35,
-          "end": 222.69,
-          "confidence": 0.94
-        },
-        {
-          "text": "yes,",
-          "start": 222.97,
-          "end": 223.39,
-          "confidence": 0.751
-        },
-        {
-          "text": "yes,",
-          "start": 223.47,
-          "end": 223.77,
-          "confidence": 0.381
-        },
-        {
-          "text": "yes,",
-          "start": 223.77,
-          "end": 223.95,
-          "confidence": 0.427
-        },
-        {
-          "text": "yes,",
-          "start": 223.95,
-          "end": 223.97,
-          "confidence": 0.603
-        },
-        {
-          "text": "yes,",
-          "start": 223.97,
-          "end": 223.99,
-          "confidence": 0.763
-        },
-        {
-          "text": "yes,",
-          "start": 223.99,
-          "end": 224.01,
-          "confidence": 0.845
-        },
-        {
-          "text": "yes,",
-          "start": 224.01,
-          "end": 224.03,
-          "confidence": 0.891
-        },
-        {
-          "text": "yes,",
-          "start": 224.03,
-          "end": 224.25,
-          "confidence": 0.917
-        },
-        {
-          "text": "yes,",
-          "start": 224.29,
-          "end": 224.31,
-          "confidence": 0.935
-        },
-        {
-          "text": "yes,",
-          "start": 224.31,
-          "end": 224.39,
-          "confidence": 0.948
-        },
-        {
-          "text": "yes,",
-          "start": 224.39,
-          "end": 224.41,
-          "confidence": 0.958
-        },
-        {
-          "text": "yes,",
-          "start": 224.49,
-          "end": 224.5,
-          "confidence": 0.967
-        },
-        {
-          "text": "yes,",
-          "start": 246.04,
-          "end": 246.06,
-          "confidence": 0.975
-        },
-        {
-          "text": "yes,",
-          "start": 246.06,
-          "end": 246.08,
-          "confidence": 0.979
-        },
-        {
-          "text": "yes,",
-          "start": 246.08,
-          "end": 246.1,
-          "confidence": 0.981
-        },
-        {
-          "text": "yes,",
-          "start": 246.1,
-          "end": 246.12,
-          "confidence": 0.983
-        },
-        {
-          "text": "yes,",
-          "start": 246.12,
-          "end": 246.14,
+          "text": "me",
+          "start": 185.36,
+          "end": 186.2,
           "confidence": 0.984
         },
         {
-          "text": "yes,",
-          "start": 246.14,
-          "end": 246.16,
+          "text": "wicked",
+          "start": 186.2,
+          "end": 186.32,
+          "confidence": 0.978
+        },
+        {
+          "text": "traveling",
+          "start": 188.31,
+          "end": 188.85,
+          "confidence": 0.961
+        },
+        {
+          "text": "for",
+          "start": 188.85,
+          "end": 188.87,
+          "confidence": 0.959
+        },
+        {
+          "text": "you",
+          "start": 188.87,
+          "end": 188.89,
+          "confidence": 0.995
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "seek": 5888,
+      "start": 188.89,
+      "end": 191.19,
+      "text": " keep it going in me wicked traveling for you",
+      "tokens": [
+        50765,
+        1066,
+        309,
+        516,
+        294,
+        385,
+        22663,
+        9712,
+        337,
+        291,
+        50865
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.12823220907923688,
+      "compression_ratio": 11.620689655172415,
+      "no_speech_prob": 0.017504049465060234,
+      "confidence": 0.943,
+      "words": [
+        {
+          "text": "keep",
+          "start": 188.89,
+          "end": 188.99,
+          "confidence": 0.665
+        },
+        {
+          "text": "it",
+          "start": 188.99,
+          "end": 189.01,
           "confidence": 0.986
         },
         {
-          "text": "yes,",
-          "start": 246.16,
-          "end": 246.18,
-          "confidence": 0.986
+          "text": "going",
+          "start": 189.01,
+          "end": 189.52,
+          "confidence": 0.992
         },
         {
-          "text": "yes,",
-          "start": 246.18,
-          "end": 246.2,
-          "confidence": 0.986
+          "text": "in",
+          "start": 190.56,
+          "end": 190.62,
+          "confidence": 0.983
         },
         {
-          "text": "yes,",
-          "start": 246.2,
-          "end": 246.22,
+          "text": "me",
+          "start": 190.62,
+          "end": 190.64,
+          "confidence": 0.99
+        },
+        {
+          "text": "wicked",
+          "start": 190.64,
+          "end": 190.66,
           "confidence": 0.987
         },
         {
-          "text": "yes,",
-          "start": 246.22,
-          "end": 246.24,
+          "text": "traveling",
+          "start": 190.66,
+          "end": 190.96,
+          "confidence": 0.971
+        },
+        {
+          "text": "for",
+          "start": 190.96,
+          "end": 191.12,
+          "confidence": 0.974
+        },
+        {
+          "text": "you",
+          "start": 191.12,
+          "end": 191.19,
+          "confidence": 0.997
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "seek": 5888,
+      "start": 191.19,
+      "end": 193.94,
+      "text": " keep it going in me wicked traveling for you",
+      "tokens": [
+        50865,
+        1066,
+        309,
+        516,
+        294,
+        385,
+        22663,
+        9712,
+        337,
+        291,
+        50965
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.12823220907923688,
+      "compression_ratio": 11.620689655172415,
+      "no_speech_prob": 0.017504049465060234,
+      "confidence": 0.955,
+      "words": [
+        {
+          "text": "keep",
+          "start": 191.19,
+          "end": 192.14,
+          "confidence": 0.723
+        },
+        {
+          "text": "it",
+          "start": 192.14,
+          "end": 192.7,
           "confidence": 0.987
         },
         {
-          "text": "yes,",
-          "start": 246.24,
-          "end": 246.26,
+          "text": "going",
+          "start": 192.7,
+          "end": 193.32,
+          "confidence": 0.994
+        },
+        {
+          "text": "in",
+          "start": 193.32,
+          "end": 193.84,
+          "confidence": 0.985
+        },
+        {
+          "text": "me",
+          "start": 193.84,
+          "end": 193.86,
+          "confidence": 0.993
+        },
+        {
+          "text": "wicked",
+          "start": 193.86,
+          "end": 193.88,
+          "confidence": 0.992
+        },
+        {
+          "text": "traveling",
+          "start": 193.88,
+          "end": 193.9,
+          "confidence": 0.977
+        },
+        {
+          "text": "for",
+          "start": 193.9,
+          "end": 193.92,
+          "confidence": 0.981
+        },
+        {
+          "text": "you",
+          "start": 193.92,
+          "end": 193.94,
+          "confidence": 0.998
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "seek": 5888,
+      "start": 193.94,
+      "end": 208.59,
+      "text": " keep it going in me wicked traveling for you",
+      "tokens": [
+        50965,
+        1066,
+        309,
+        516,
+        294,
+        385,
+        22663,
+        9712,
+        337,
+        291,
+        51065
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.12823220907923688,
+      "compression_ratio": 11.620689655172415,
+      "no_speech_prob": 0.017504049465060234,
+      "confidence": 0.956,
+      "words": [
+        {
+          "text": "keep",
+          "start": 193.94,
+          "end": 193.96,
+          "confidence": 0.726
+        },
+        {
+          "text": "it",
+          "start": 193.96,
+          "end": 193.98,
+          "confidence": 0.989
+        },
+        {
+          "text": "going",
+          "start": 193.98,
+          "end": 194.0,
+          "confidence": 0.995
+        },
+        {
+          "text": "in",
+          "start": 194.0,
+          "end": 194.02,
+          "confidence": 0.987
+        },
+        {
+          "text": "me",
+          "start": 194.02,
+          "end": 194.82,
+          "confidence": 0.994
+        },
+        {
+          "text": "wicked",
+          "start": 207.6,
+          "end": 207.69,
+          "confidence": 0.994
+        },
+        {
+          "text": "traveling",
+          "start": 207.69,
+          "end": 208.15,
+          "confidence": 0.981
+        },
+        {
+          "text": "for",
+          "start": 208.15,
+          "end": 208.57,
+          "confidence": 0.982
+        },
+        {
+          "text": "you",
+          "start": 208.57,
+          "end": 208.59,
+          "confidence": 0.998
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "seek": 5888,
+      "start": 210.18,
+      "end": 211.14,
+      "text": " keep it going in me wicked traveling for you",
+      "tokens": [
+        51065,
+        1066,
+        309,
+        516,
+        294,
+        385,
+        22663,
+        9712,
+        337,
+        291,
+        51165
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.12823220907923688,
+      "compression_ratio": 11.620689655172415,
+      "no_speech_prob": 0.017504049465060234,
+      "confidence": 0.957,
+      "words": [
+        {
+          "text": "keep",
+          "start": 210.18,
+          "end": 210.2,
+          "confidence": 0.73
+        },
+        {
+          "text": "it",
+          "start": 210.2,
+          "end": 210.42,
+          "confidence": 0.987
+        },
+        {
+          "text": "going",
+          "start": 210.42,
+          "end": 210.58,
+          "confidence": 0.994
+        },
+        {
+          "text": "in",
+          "start": 210.58,
+          "end": 210.62,
+          "confidence": 0.987
+        },
+        {
+          "text": "me",
+          "start": 210.62,
+          "end": 210.96,
+          "confidence": 0.994
+        },
+        {
+          "text": "wicked",
+          "start": 210.96,
+          "end": 211.08,
+          "confidence": 0.992
+        },
+        {
+          "text": "traveling",
+          "start": 211.08,
+          "end": 211.1,
+          "confidence": 0.983
+        },
+        {
+          "text": "for",
+          "start": 211.1,
+          "end": 211.12,
+          "confidence": 0.985
+        },
+        {
+          "text": "you",
+          "start": 211.12,
+          "end": 211.14,
+          "confidence": 0.998
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "seek": 5888,
+      "start": 211.14,
+      "end": 215.38,
+      "text": " keep it going in me wicked traveling for you",
+      "tokens": [
+        51165,
+        1066,
+        309,
+        516,
+        294,
+        385,
+        22663,
+        9712,
+        337,
+        291,
+        51265
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.12823220907923688,
+      "compression_ratio": 11.620689655172415,
+      "no_speech_prob": 0.017504049465060234,
+      "confidence": 0.972,
+      "words": [
+        {
+          "text": "keep",
+          "start": 211.14,
+          "end": 211.16,
+          "confidence": 0.836
+        },
+        {
+          "text": "it",
+          "start": 211.16,
+          "end": 211.18,
+          "confidence": 0.99
+        },
+        {
+          "text": "going",
+          "start": 211.18,
+          "end": 211.2,
+          "confidence": 0.997
+        },
+        {
+          "text": "in",
+          "start": 211.2,
+          "end": 211.22,
+          "confidence": 0.991
+        },
+        {
+          "text": "me",
+          "start": 211.22,
+          "end": 211.78,
+          "confidence": 0.994
+        },
+        {
+          "text": "wicked",
+          "start": 211.78,
+          "end": 212.34,
+          "confidence": 0.987
+        },
+        {
+          "text": "traveling",
+          "start": 214.94,
+          "end": 215.3,
+          "confidence": 0.983
+        },
+        {
+          "text": "for",
+          "start": 215.3,
+          "end": 215.32,
           "confidence": 0.988
         },
         {
-          "text": "yes,",
-          "start": 246.26,
-          "end": 246.28,
+          "text": "you",
+          "start": 215.32,
+          "end": 215.38,
+          "confidence": 0.998
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "seek": 5888,
+      "start": 215.38,
+      "end": 219.83,
+      "text": " keep it going in me wicked traveling for you",
+      "tokens": [
+        51265,
+        1066,
+        309,
+        516,
+        294,
+        385,
+        22663,
+        9712,
+        337,
+        291,
+        51365
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.12823220907923688,
+      "compression_ratio": 11.620689655172415,
+      "no_speech_prob": 0.017504049465060234,
+      "confidence": 0.965,
+      "words": [
+        {
+          "text": "keep",
+          "start": 215.38,
+          "end": 215.4,
+          "confidence": 0.781
+        },
+        {
+          "text": "it",
+          "start": 215.4,
+          "end": 215.42,
+          "confidence": 0.989
+        },
+        {
+          "text": "going",
+          "start": 215.42,
+          "end": 215.44,
+          "confidence": 0.997
+        },
+        {
+          "text": "in",
+          "start": 215.44,
+          "end": 215.46,
+          "confidence": 0.991
+        },
+        {
+          "text": "me",
+          "start": 215.46,
+          "end": 215.54,
+          "confidence": 0.994
+        },
+        {
+          "text": "wicked",
+          "start": 215.54,
+          "end": 215.56,
+          "confidence": 0.986
+        },
+        {
+          "text": "traveling",
+          "start": 218.51,
+          "end": 219.55,
+          "confidence": 0.986
+        },
+        {
+          "text": "for",
+          "start": 219.55,
+          "end": 219.81,
+          "confidence": 0.99
+        },
+        {
+          "text": "you",
+          "start": 219.81,
+          "end": 219.83,
+          "confidence": 0.998
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "seek": 5888,
+      "start": 219.83,
+      "end": 223.79,
+      "text": " keep it going in me wicked traveling for you",
+      "tokens": [
+        51365,
+        1066,
+        309,
+        516,
+        294,
+        385,
+        22663,
+        9712,
+        337,
+        291,
+        51465
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.12823220907923688,
+      "compression_ratio": 11.620689655172415,
+      "no_speech_prob": 0.017504049465060234,
+      "confidence": 0.971,
+      "words": [
+        {
+          "text": "keep",
+          "start": 219.83,
+          "end": 219.85,
+          "confidence": 0.81
+        },
+        {
+          "text": "it",
+          "start": 221.84,
+          "end": 222.01,
+          "confidence": 0.992
+        },
+        {
+          "text": "going",
+          "start": 222.01,
+          "end": 222.51,
+          "confidence": 0.997
+        },
+        {
+          "text": "in",
+          "start": 222.51,
+          "end": 222.63,
+          "confidence": 0.992
+        },
+        {
+          "text": "me",
+          "start": 222.63,
+          "end": 222.65,
+          "confidence": 0.994
+        },
+        {
+          "text": "wicked",
+          "start": 222.65,
+          "end": 222.67,
+          "confidence": 0.991
+        },
+        {
+          "text": "traveling",
+          "start": 222.67,
+          "end": 222.69,
+          "confidence": 0.986
+        },
+        {
+          "text": "for",
+          "start": 222.69,
+          "end": 223.43,
+          "confidence": 0.992
+        },
+        {
+          "text": "you",
+          "start": 223.43,
+          "end": 223.79,
+          "confidence": 0.999
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "seek": 5888,
+      "start": 223.79,
+      "end": 246.83,
+      "text": " keep it going in me wicked traveling for you",
+      "tokens": [
+        51465,
+        1066,
+        309,
+        516,
+        294,
+        385,
+        22663,
+        9712,
+        337,
+        291,
+        51565
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.12823220907923688,
+      "compression_ratio": 11.620689655172415,
+      "no_speech_prob": 0.017504049465060234,
+      "confidence": 0.954,
+      "words": [
+        {
+          "text": "keep",
+          "start": 223.79,
+          "end": 223.81,
+          "confidence": 0.699
+        },
+        {
+          "text": "it",
+          "start": 223.81,
+          "end": 223.83,
+          "confidence": 0.989
+        },
+        {
+          "text": "going",
+          "start": 223.83,
+          "end": 223.85,
+          "confidence": 0.997
+        },
+        {
+          "text": "in",
+          "start": 223.85,
+          "end": 223.87,
+          "confidence": 0.992
+        },
+        {
+          "text": "me",
+          "start": 223.87,
+          "end": 223.89,
+          "confidence": 0.994
+        },
+        {
+          "text": "wicked",
+          "start": 223.89,
+          "end": 223.91,
+          "confidence": 0.986
+        },
+        {
+          "text": "traveling",
+          "start": 223.91,
+          "end": 223.93,
           "confidence": 0.988
         },
         {
-          "text": "yes,",
-          "start": 246.28,
-          "end": 246.3,
-          "confidence": 0.989
+          "text": "for",
+          "start": 223.93,
+          "end": 223.95,
+          "confidence": 0.992
         },
         {
-          "text": "yes,",
-          "start": 246.3,
-          "end": 246.32,
-          "confidence": 0.989
+          "text": "you",
+          "start": 246.03,
+          "end": 246.83,
+          "confidence": 0.999
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "seek": 5888,
+      "start": 246.83,
+      "end": 248.38,
+      "text": " keep it going in me wicked traveling for you",
+      "tokens": [
+        51565,
+        1066,
+        309,
+        516,
+        294,
+        385,
+        22663,
+        9712,
+        337,
+        291,
+        51665
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.12823220907923688,
+      "compression_ratio": 11.620689655172415,
+      "no_speech_prob": 0.017504049465060234,
+      "confidence": 0.963,
+      "words": [
+        {
+          "text": "keep",
+          "start": 246.83,
+          "end": 246.85,
+          "confidence": 0.752
         },
         {
-          "text": "yes,",
-          "start": 246.32,
-          "end": 246.34,
-          "confidence": 0.99
+          "text": "it",
+          "start": 246.85,
+          "end": 246.87,
+          "confidence": 0.991
         },
         {
-          "text": "yes,",
-          "start": 246.34,
-          "end": 246.36,
-          "confidence": 0.99
+          "text": "going",
+          "start": 246.87,
+          "end": 247.08,
+          "confidence": 0.998
         },
         {
-          "text": "yes,",
-          "start": 246.36,
-          "end": 246.38,
-          "confidence": 0.99
-        },
-        {
-          "text": "yes,",
-          "start": 246.38,
-          "end": 246.4,
-          "confidence": 0.99
-        },
-        {
-          "text": "yes,",
-          "start": 246.5,
-          "end": 246.52,
-          "confidence": 0.989
-        },
-        {
-          "text": "yes,",
-          "start": 246.54,
-          "end": 246.56,
-          "confidence": 0.989
-        },
-        {
-          "text": "yes,",
-          "start": 246.96,
-          "end": 246.98,
-          "confidence": 0.99
-        },
-        {
-          "text": "yes,",
-          "start": 246.98,
-          "end": 247.0,
-          "confidence": 0.99
-        },
-        {
-          "text": "yes,",
-          "start": 247.0,
-          "end": 247.02,
-          "confidence": 0.99
-        },
-        {
-          "text": "yes,",
-          "start": 247.02,
-          "end": 247.04,
-          "confidence": 0.99
-        },
-        {
-          "text": "yes,",
-          "start": 247.04,
-          "end": 247.06,
-          "confidence": 0.99
-        },
-        {
-          "text": "yes,",
-          "start": 247.12,
-          "end": 247.14,
-          "confidence": 0.989
-        },
-        {
-          "text": "yes,",
-          "start": 247.14,
-          "end": 247.16,
-          "confidence": 0.989
-        },
-        {
-          "text": "yes,",
-          "start": 247.28,
-          "end": 247.3,
-          "confidence": 0.989
-        },
-        {
-          "text": "yes,",
-          "start": 247.3,
-          "end": 247.32,
-          "confidence": 0.989
-        },
-        {
-          "text": "yes,",
-          "start": 247.32,
-          "end": 247.34,
-          "confidence": 0.989
-        },
-        {
-          "text": "yes,",
-          "start": 247.34,
-          "end": 247.36,
-          "confidence": 0.989
-        },
-        {
-          "text": "yes,",
-          "start": 247.36,
-          "end": 247.38,
-          "confidence": 0.989
-        },
-        {
-          "text": "yes,",
-          "start": 247.38,
-          "end": 247.4,
-          "confidence": 0.988
-        },
-        {
-          "text": "yes,",
-          "start": 247.4,
-          "end": 247.42,
-          "confidence": 0.989
-        },
-        {
-          "text": "yes,",
-          "start": 247.42,
-          "end": 247.44,
-          "confidence": 0.988
-        },
-        {
-          "text": "yes,",
-          "start": 247.44,
-          "end": 247.46,
-          "confidence": 0.988
-        },
-        {
-          "text": "yes,",
-          "start": 247.46,
-          "end": 247.48,
-          "confidence": 0.988
-        },
-        {
-          "text": "yes,",
-          "start": 247.48,
-          "end": 247.5,
-          "confidence": 0.988
-        },
-        {
-          "text": "yes,",
-          "start": 247.5,
+          "text": "in",
+          "start": 247.08,
           "end": 247.58,
-          "confidence": 0.988
+          "confidence": 0.992
         },
         {
-          "text": "yes,",
+          "text": "me",
           "start": 247.58,
-          "end": 247.6,
-          "confidence": 0.988
-        },
-        {
-          "text": "yes,",
-          "start": 247.6,
-          "end": 247.62,
-          "confidence": 0.988
-        },
-        {
-          "text": "yes,",
-          "start": 247.62,
-          "end": 247.64,
-          "confidence": 0.988
-        },
-        {
-          "text": "yes,",
-          "start": 247.64,
-          "end": 247.66,
-          "confidence": 0.988
-        },
-        {
-          "text": "yes,",
-          "start": 247.66,
-          "end": 247.68,
-          "confidence": 0.988
-        },
-        {
-          "text": "yes,",
-          "start": 247.68,
-          "end": 247.7,
-          "confidence": 0.989
-        },
-        {
-          "text": "yes,",
-          "start": 247.7,
           "end": 247.72,
-          "confidence": 0.988
+          "confidence": 0.996
         },
         {
-          "text": "yes,",
+          "text": "wicked",
           "start": 247.72,
           "end": 247.74,
-          "confidence": 0.989
+          "confidence": 0.985
         },
         {
-          "text": "yes,",
+          "text": "traveling",
           "start": 247.74,
           "end": 247.76,
           "confidence": 0.989
         },
         {
-          "text": "yes,",
+          "text": "for",
           "start": 247.76,
-          "end": 247.78,
-          "confidence": 0.989
-        },
-        {
-          "text": "yes,",
-          "start": 247.78,
           "end": 247.8,
-          "confidence": 0.989
+          "confidence": 0.994
         },
         {
-          "text": "yes,",
+          "text": "you",
           "start": 247.8,
-          "end": 247.82,
+          "end": 248.38,
+          "confidence": 0.999
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "seek": 5888,
+      "start": 248.38,
+      "end": 251.24,
+      "text": " keep it going in me wicked traveling for you",
+      "tokens": [
+        51665,
+        1066,
+        309,
+        516,
+        294,
+        385,
+        22663,
+        9712,
+        337,
+        291,
+        51765
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.12823220907923688,
+      "compression_ratio": 11.620689655172415,
+      "no_speech_prob": 0.017504049465060234,
+      "confidence": 0.977,
+      "words": [
+        {
+          "text": "keep",
+          "start": 248.38,
+          "end": 249.08,
+          "confidence": 0.859
+        },
+        {
+          "text": "it",
+          "start": 249.08,
+          "end": 249.74,
+          "confidence": 0.994
+        },
+        {
+          "text": "going",
+          "start": 249.74,
+          "end": 250.3,
+          "confidence": 0.998
+        },
+        {
+          "text": "in",
+          "start": 250.3,
+          "end": 250.54,
+          "confidence": 0.993
+        },
+        {
+          "text": "me",
+          "start": 250.54,
+          "end": 250.56,
+          "confidence": 0.996
+        },
+        {
+          "text": "wicked",
+          "start": 250.56,
+          "end": 250.8,
+          "confidence": 0.981
+        },
+        {
+          "text": "traveling",
+          "start": 250.8,
+          "end": 250.82,
+          "confidence": 0.991
+        },
+        {
+          "text": "for",
+          "start": 250.82,
+          "end": 250.84,
+          "confidence": 0.995
+        },
+        {
+          "text": "you",
+          "start": 250.84,
+          "end": 251.24,
+          "confidence": 0.999
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "seek": 5888,
+      "start": 251.24,
+      "end": 251.42,
+      "text": " keep it going in me wicked traveling for you",
+      "tokens": [
+        51765,
+        1066,
+        309,
+        516,
+        294,
+        385,
+        22663,
+        9712,
+        337,
+        291,
+        51865
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.12823220907923688,
+      "compression_ratio": 11.620689655172415,
+      "no_speech_prob": 0.017504049465060234,
+      "confidence": 0.976,
+      "words": [
+        {
+          "text": "keep",
+          "start": 251.24,
+          "end": 251.26,
+          "confidence": 0.845
+        },
+        {
+          "text": "it",
+          "start": 251.26,
+          "end": 251.28,
+          "confidence": 0.995
+        },
+        {
+          "text": "going",
+          "start": 251.28,
+          "end": 251.3,
+          "confidence": 0.998
+        },
+        {
+          "text": "in",
+          "start": 251.3,
+          "end": 251.32,
+          "confidence": 0.995
+        },
+        {
+          "text": "me",
+          "start": 251.32,
+          "end": 251.34,
+          "confidence": 0.995
+        },
+        {
+          "text": "wicked",
+          "start": 251.34,
+          "end": 251.36,
+          "confidence": 0.986
+        },
+        {
+          "text": "traveling",
+          "start": 251.36,
+          "end": 251.38,
           "confidence": 0.99
         },
         {
-          "text": "yes,",
-          "start": 247.82,
-          "end": 247.84,
+          "text": "for",
+          "start": 251.38,
+          "end": 251.4,
+          "confidence": 0.996
+        },
+        {
+          "text": "you",
+          "start": 251.4,
+          "end": 251.42,
+          "confidence": 0.999
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "seek": 8888,
+      "start": 252.84,
+      "end": 259.15,
+      "text": " keep it going in me wicked traveling for you",
+      "tokens": [
+        50365,
+        1066,
+        309,
+        516,
+        294,
+        385,
+        22663,
+        9712,
+        337,
+        291,
+        50465
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.06022958541184329,
+      "compression_ratio": 6.410714285714286,
+      "no_speech_prob": 0.014765928499400616,
+      "confidence": 0.973,
+      "words": [
+        {
+          "text": "keep",
+          "start": 252.84,
+          "end": 253.18,
+          "confidence": 0.872
+        },
+        {
+          "text": "it",
+          "start": 253.18,
+          "end": 253.2,
+          "confidence": 0.978
+        },
+        {
+          "text": "going",
+          "start": 253.2,
+          "end": 253.28,
           "confidence": 0.989
         },
         {
-          "text": "yes,",
-          "start": 247.84,
-          "end": 247.86,
-          "confidence": 0.99
+          "text": "in",
+          "start": 253.28,
+          "end": 254.04,
+          "confidence": 0.986
         },
         {
-          "text": "yes,",
-          "start": 247.86,
-          "end": 247.88,
-          "confidence": 0.99
+          "text": "me",
+          "start": 254.04,
+          "end": 254.3,
+          "confidence": 0.986
         },
         {
-          "text": "yes,",
-          "start": 247.88,
-          "end": 247.9,
-          "confidence": 0.99
+          "text": "wicked",
+          "start": 254.3,
+          "end": 254.32,
+          "confidence": 0.994
         },
         {
-          "text": "yes,",
-          "start": 247.9,
-          "end": 247.92,
-          "confidence": 0.99
+          "text": "traveling",
+          "start": 258.38,
+          "end": 258.73,
+          "confidence": 0.968
         },
         {
-          "text": "yes,",
-          "start": 247.92,
-          "end": 247.94,
-          "confidence": 0.99
-        },
-        {
-          "text": "yes,",
-          "start": 247.94,
-          "end": 247.96,
-          "confidence": 0.99
-        },
-        {
-          "text": "yes,",
-          "start": 247.96,
-          "end": 247.98,
-          "confidence": 0.99
-        },
-        {
-          "text": "yes,",
-          "start": 247.98,
-          "end": 248.0,
-          "confidence": 0.99
-        },
-        {
-          "text": "yes,",
-          "start": 248.0,
-          "end": 248.02,
+          "text": "for",
+          "start": 258.73,
+          "end": 258.75,
           "confidence": 0.991
         },
         {
-          "text": "yes,",
-          "start": 248.02,
-          "end": 248.04,
+          "text": "you",
+          "start": 258.75,
+          "end": 259.15,
+          "confidence": 0.996
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "seek": 8888,
+      "start": 259.15,
+      "end": 260.29,
+      "text": " keep it going in me wicked traveling for you",
+      "tokens": [
+        50465,
+        1066,
+        309,
+        516,
+        294,
+        385,
+        22663,
+        9712,
+        337,
+        291,
+        50565
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.06022958541184329,
+      "compression_ratio": 6.410714285714286,
+      "no_speech_prob": 0.014765928499400616,
+      "confidence": 0.978,
+      "words": [
+        {
+          "text": "keep",
+          "start": 259.15,
+          "end": 259.17,
+          "confidence": 0.93
+        },
+        {
+          "text": "it",
+          "start": 259.17,
+          "end": 259.19,
+          "confidence": 0.966
+        },
+        {
+          "text": "going",
+          "start": 259.19,
+          "end": 259.21,
+          "confidence": 0.987
+        },
+        {
+          "text": "in",
+          "start": 259.21,
+          "end": 259.29,
+          "confidence": 0.986
+        },
+        {
+          "text": "me",
+          "start": 259.29,
+          "end": 259.33,
+          "confidence": 0.987
+        },
+        {
+          "text": "wicked",
+          "start": 259.33,
+          "end": 259.35,
+          "confidence": 0.987
+        },
+        {
+          "text": "traveling",
+          "start": 259.35,
+          "end": 259.41,
+          "confidence": 0.974
+        },
+        {
+          "text": "for",
+          "start": 259.41,
+          "end": 260.27,
+          "confidence": 0.99
+        },
+        {
+          "text": "you",
+          "start": 260.27,
+          "end": 260.29,
+          "confidence": 0.995
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "seek": 8888,
+      "start": 260.47,
+      "end": 262.82,
+      "text": " keep it going in me wicked traveling for you",
+      "tokens": [
+        50565,
+        1066,
+        309,
+        516,
+        294,
+        385,
+        22663,
+        9712,
+        337,
+        291,
+        50665
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.06022958541184329,
+      "compression_ratio": 6.410714285714286,
+      "no_speech_prob": 0.014765928499400616,
+      "confidence": 0.982,
+      "words": [
+        {
+          "text": "keep",
+          "start": 260.47,
+          "end": 260.87,
+          "confidence": 0.944
+        },
+        {
+          "text": "it",
+          "start": 260.87,
+          "end": 261.35,
+          "confidence": 0.972
+        },
+        {
+          "text": "going",
+          "start": 261.35,
+          "end": 262.01,
+          "confidence": 0.992
+        },
+        {
+          "text": "in",
+          "start": 262.01,
+          "end": 262.27,
+          "confidence": 0.987
+        },
+        {
+          "text": "me",
+          "start": 262.27,
+          "end": 262.43,
+          "confidence": 0.99
+        },
+        {
+          "text": "wicked",
+          "start": 262.43,
+          "end": 262.45,
+          "confidence": 0.992
+        },
+        {
+          "text": "traveling",
+          "start": 262.45,
+          "end": 262.47,
+          "confidence": 0.974
+        },
+        {
+          "text": "for",
+          "start": 262.47,
+          "end": 262.49,
+          "confidence": 0.99
+        },
+        {
+          "text": "you",
+          "start": 262.49,
+          "end": 262.82,
+          "confidence": 0.996
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "seek": 8888,
+      "start": 262.82,
+      "end": 265.25,
+      "text": " keep it going in me wicked traveling for you",
+      "tokens": [
+        50665,
+        1066,
+        309,
+        516,
+        294,
+        385,
+        22663,
+        9712,
+        337,
+        291,
+        50765
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.06022958541184329,
+      "compression_ratio": 6.410714285714286,
+      "no_speech_prob": 0.014765928499400616,
+      "confidence": 0.979,
+      "words": [
+        {
+          "text": "keep",
+          "start": 262.82,
+          "end": 263.81,
+          "confidence": 0.913
+        },
+        {
+          "text": "it",
+          "start": 263.81,
+          "end": 264.37,
+          "confidence": 0.977
+        },
+        {
+          "text": "going",
+          "start": 264.37,
+          "end": 264.71,
+          "confidence": 0.992
+        },
+        {
+          "text": "in",
+          "start": 264.71,
+          "end": 265.15,
+          "confidence": 0.989
+        },
+        {
+          "text": "me",
+          "start": 265.15,
+          "end": 265.17,
           "confidence": 0.991
         },
         {
-          "text": "yes,",
-          "start": 248.04,
-          "end": 248.06,
-          "confidence": 0.991
+          "text": "wicked",
+          "start": 265.17,
+          "end": 265.19,
+          "confidence": 0.988
         },
         {
-          "text": "yes,",
-          "start": 248.06,
-          "end": 248.08,
-          "confidence": 0.991
+          "text": "traveling",
+          "start": 265.19,
+          "end": 265.21,
+          "confidence": 0.977
         },
         {
-          "text": "yes,",
-          "start": 248.08,
-          "end": 248.1,
-          "confidence": 0.991
-        },
-        {
-          "text": "yes,",
-          "start": 248.1,
-          "end": 248.12,
+          "text": "for",
+          "start": 265.21,
+          "end": 265.23,
           "confidence": 0.992
         },
         {
-          "text": "yes,",
-          "start": 248.12,
-          "end": 248.14,
-          "confidence": 0.991
+          "text": "you",
+          "start": 265.23,
+          "end": 265.25,
+          "confidence": 0.997
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "seek": 8888,
+      "start": 265.25,
+      "end": 271.59,
+      "text": " keep it going in me wicked traveling for you",
+      "tokens": [
+        50765,
+        1066,
+        309,
+        516,
+        294,
+        385,
+        22663,
+        9712,
+        337,
+        291,
+        50865
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.06022958541184329,
+      "compression_ratio": 6.410714285714286,
+      "no_speech_prob": 0.014765928499400616,
+      "confidence": 0.976,
+      "words": [
+        {
+          "text": "keep",
+          "start": 265.25,
+          "end": 265.27,
+          "confidence": 0.87
         },
         {
-          "text": "yes,",
-          "start": 248.14,
-          "end": 248.16,
+          "text": "it",
+          "start": 265.27,
+          "end": 265.29,
+          "confidence": 0.983
+        },
+        {
+          "text": "going",
+          "start": 265.29,
+          "end": 265.31,
+          "confidence": 0.994
+        },
+        {
+          "text": "in",
+          "start": 265.31,
+          "end": 265.77,
+          "confidence": 0.99
+        },
+        {
+          "text": "me",
+          "start": 265.77,
+          "end": 265.97,
+          "confidence": 0.993
+        },
+        {
+          "text": "wicked",
+          "start": 265.97,
+          "end": 265.99,
+          "confidence": 0.987
+        },
+        {
+          "text": "traveling",
+          "start": 270.48,
+          "end": 270.71,
+          "confidence": 0.98
+        },
+        {
+          "text": "for",
+          "start": 270.71,
+          "end": 271.57,
+          "confidence": 0.993
+        },
+        {
+          "text": "you",
+          "start": 271.57,
+          "end": 271.59,
+          "confidence": 0.997
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "seek": 8888,
+      "start": 271.69,
+      "end": 274.06,
+      "text": " keep it going in me wicked traveling for you",
+      "tokens": [
+        50865,
+        1066,
+        309,
+        516,
+        294,
+        385,
+        22663,
+        9712,
+        337,
+        291,
+        50965
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.06022958541184329,
+      "compression_ratio": 6.410714285714286,
+      "no_speech_prob": 0.014765928499400616,
+      "confidence": 0.979,
+      "words": [
+        {
+          "text": "keep",
+          "start": 271.69,
+          "end": 271.71,
+          "confidence": 0.894
+        },
+        {
+          "text": "it",
+          "start": 272.17,
+          "end": 272.42,
+          "confidence": 0.984
+        },
+        {
+          "text": "going",
+          "start": 272.42,
+          "end": 273.6,
+          "confidence": 0.995
+        },
+        {
+          "text": "in",
+          "start": 273.6,
+          "end": 273.92,
+          "confidence": 0.989
+        },
+        {
+          "text": "me",
+          "start": 273.92,
+          "end": 273.98,
+          "confidence": 0.993
+        },
+        {
+          "text": "wicked",
+          "start": 273.98,
+          "end": 274.0,
+          "confidence": 0.988
+        },
+        {
+          "text": "traveling",
+          "start": 274.0,
+          "end": 274.02,
+          "confidence": 0.982
+        },
+        {
+          "text": "for",
+          "start": 274.02,
+          "end": 274.04,
+          "confidence": 0.996
+        },
+        {
+          "text": "you",
+          "start": 274.04,
+          "end": 274.06,
+          "confidence": 0.998
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "seek": 8888,
+      "start": 274.06,
+      "end": 274.7,
+      "text": " keep it going in me wicked traveling for you",
+      "tokens": [
+        50965,
+        1066,
+        309,
+        516,
+        294,
+        385,
+        22663,
+        9712,
+        337,
+        291,
+        51065
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.06022958541184329,
+      "compression_ratio": 6.410714285714286,
+      "no_speech_prob": 0.014765928499400616,
+      "confidence": 0.981,
+      "words": [
+        {
+          "text": "keep",
+          "start": 274.06,
+          "end": 274.08,
+          "confidence": 0.894
+        },
+        {
+          "text": "it",
+          "start": 274.08,
+          "end": 274.1,
+          "confidence": 0.988
+        },
+        {
+          "text": "going",
+          "start": 274.1,
+          "end": 274.12,
+          "confidence": 0.996
+        },
+        {
+          "text": "in",
+          "start": 274.12,
+          "end": 274.14,
+          "confidence": 0.99
+        },
+        {
+          "text": "me",
+          "start": 274.14,
+          "end": 274.16,
+          "confidence": 0.994
+        },
+        {
+          "text": "wicked",
+          "start": 274.16,
+          "end": 274.18,
           "confidence": 0.992
         },
         {
-          "text": "yes,",
-          "start": 248.16,
-          "end": 248.18,
-          "confidence": 0.992
+          "text": "traveling",
+          "start": 274.18,
+          "end": 274.2,
+          "confidence": 0.984
         },
         {
-          "text": "yes,",
-          "start": 248.18,
-          "end": 248.2,
-          "confidence": 0.992
+          "text": "for",
+          "start": 274.2,
+          "end": 274.22,
+          "confidence": 0.995
         },
         {
-          "text": "yes,",
-          "start": 248.2,
-          "end": 248.22,
-          "confidence": 0.992
+          "text": "you",
+          "start": 274.22,
+          "end": 274.7,
+          "confidence": 0.998
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "seek": 8888,
+      "start": 275.0,
+      "end": 277.98,
+      "text": " keep it going in me wicked traveling for you",
+      "tokens": [
+        51065,
+        1066,
+        309,
+        516,
+        294,
+        385,
+        22663,
+        9712,
+        337,
+        291,
+        51165
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.06022958541184329,
+      "compression_ratio": 6.410714285714286,
+      "no_speech_prob": 0.014765928499400616,
+      "confidence": 0.977,
+      "words": [
+        {
+          "text": "keep",
+          "start": 275.0,
+          "end": 275.8,
+          "confidence": 0.87
         },
         {
-          "text": "yes,",
-          "start": 248.22,
-          "end": 248.24,
-          "confidence": 0.992
+          "text": "it",
+          "start": 275.8,
+          "end": 276.08,
+          "confidence": 0.99
         },
         {
-          "text": "yes,",
-          "start": 248.24,
-          "end": 248.26,
-          "confidence": 0.992
+          "text": "going",
+          "start": 276.08,
+          "end": 276.42,
+          "confidence": 0.995
         },
         {
-          "text": "yes,",
-          "start": 248.26,
-          "end": 248.28,
-          "confidence": 0.992
+          "text": "in",
+          "start": 276.42,
+          "end": 276.7,
+          "confidence": 0.99
         },
         {
-          "text": "yes,",
-          "start": 248.28,
-          "end": 248.3,
-          "confidence": 0.992
+          "text": "me",
+          "start": 276.7,
+          "end": 276.72,
+          "confidence": 0.994
         },
         {
-          "text": "yes,",
-          "start": 248.3,
-          "end": 248.32,
-          "confidence": 0.992
+          "text": "wicked",
+          "start": 276.72,
+          "end": 276.75,
+          "confidence": 0.986
         },
         {
-          "text": "yes,",
-          "start": 248.32,
-          "end": 248.34,
-          "confidence": 0.992
+          "text": "traveling",
+          "start": 276.78,
+          "end": 276.8,
+          "confidence": 0.983
         },
         {
-          "text": "yes,",
-          "start": 248.34,
-          "end": 248.36,
-          "confidence": 0.992
+          "text": "for",
+          "start": 276.8,
+          "end": 277.96,
+          "confidence": 0.996
         },
         {
-          "text": "yes,",
-          "start": 248.36,
-          "end": 248.38,
-          "confidence": 0.992
-        },
-        {
-          "text": "yes,",
-          "start": 248.38,
-          "end": 248.4,
-          "confidence": 0.992
-        },
-        {
-          "text": "yes,",
-          "start": 248.4,
-          "end": 248.42,
-          "confidence": 0.992
-        },
-        {
-          "text": "yes,",
-          "start": 248.42,
-          "end": 248.44,
-          "confidence": 0.992
-        },
-        {
-          "text": "yes,",
-          "start": 248.44,
-          "end": 248.46,
-          "confidence": 0.992
-        },
-        {
-          "text": "yes,",
-          "start": 248.46,
-          "end": 248.48,
-          "confidence": 0.992
-        },
-        {
-          "text": "yes,",
-          "start": 248.48,
-          "end": 248.5,
-          "confidence": 0.992
-        },
-        {
-          "text": "yes,",
-          "start": 248.5,
-          "end": 248.52,
-          "confidence": 0.992
-        },
-        {
-          "text": "yes,",
-          "start": 248.52,
-          "end": 248.54,
-          "confidence": 0.992
-        },
-        {
-          "text": "yes,",
-          "start": 248.54,
-          "end": 248.56,
-          "confidence": 0.992
-        },
-        {
-          "text": "yes,",
-          "start": 248.56,
-          "end": 248.58,
-          "confidence": 0.992
-        },
-        {
-          "text": "yes,",
-          "start": 248.58,
-          "end": 248.6,
-          "confidence": 0.992
-        },
-        {
-          "text": "yes,",
-          "start": 248.6,
-          "end": 254.28,
-          "confidence": 0.992
-        },
-        {
-          "text": "yes,",
-          "start": 260.29,
-          "end": 260.93,
-          "confidence": 0.992
-        },
-        {
-          "text": "yes,",
-          "start": 260.93,
-          "end": 260.95,
-          "confidence": 0.992
-        },
-        {
-          "text": "yes,",
-          "start": 261.37,
-          "end": 261.85,
-          "confidence": 0.992
-        },
-        {
-          "text": "yes,",
-          "start": 276.54,
-          "end": 276.56,
-          "confidence": 0.992
+          "text": "you",
+          "start": 277.96,
+          "end": 277.98,
+          "confidence": 0.998
         }
       ]
     }
   ],
   "language": "en",
   "language_probs": {
-    "en": 0.6116323471069336,
-    "zh": 0.018907694146037102,
-    "de": 0.033970970660448074,
-    "es": 0.007404359523206949,
-    "ru": 0.021425221115350723,
-    "ko": 0.06151348352432251,
-    "fr": 0.015192758291959763,
-    "ja": 0.004855896346271038,
-    "pt": 0.013303223066031933,
-    "tr": 0.006235095206648111,
-    "pl": 0.00545963179320097,
-    "ca": 0.0009340328397229314,
-    "nl": 0.007579948753118515,
-    "ar": 0.01146809570491314,
-    "sv": 0.0028770240023732185,
-    "it": 0.0022937634494155645,
-    "id": 0.0004960611695423722,
-    "hi": 0.00046600631321780384,
-    "fi": 0.0003177886828780174,
-    "vi": 0.006382956635206938,
-    "he": 0.0006030569784343243,
-    "uk": 0.003135202918201685,
-    "el": 0.002171691507101059,
-    "ms": 0.006901621352881193,
-    "cs": 0.0002361605002079159,
-    "ro": 0.0012967762304469943,
-    "da": 0.006534323561936617,
-    "hu": 0.00017826328985393047,
-    "ta": 0.00041124908602796495,
-    "no": 0.0024608487728983164,
-    "th": 0.0004552112950477749,
-    "ur": 0.0019015965517610312,
-    "hr": 0.00017826328985393047,
-    "bg": 0.00019426032667979598,
-    "lt": 9.921845776261762e-05,
-    "la": 0.023166190832853317,
-    "mi": 0.021258492022752762,
-    "ml": 0.0001610474573681131,
-    "cy": 0.03093091957271099,
-    "sk": 4.071917646797374e-05,
-    "te": 0.00015979417366907,
-    "fa": 0.0004048732516821474,
-    "lv": 0.00034630647860467434,
-    "bn": 9.393814980285242e-05,
-    "sr": 3.5377433960093185e-05,
-    "az": 2.809538818837609e-05,
-    "sl": 0.0003253248578403145,
-    "kn": 3.1769384349900065e-06,
-    "et": 3.8854512240504846e-05,
-    "mk": 7.893772817624267e-06,
-    "br": 0.002329884795472026,
-    "eu": 0.00011242925393162295,
-    "is": 0.0013069469714537263,
-    "hy": 3.9466380258090794e-05,
-    "ne": 7.202487904578447e-05,
-    "mn": 0.00016358359425794333,
-    "bs": 0.00011509543401189148,
-    "kk": 0.00010398005542811006,
-    "sq": 9.393814980285242e-05,
-    "sw": 0.000265522365225479,
-    "gl": 0.003135202918201685,
-    "mr": 5.510740720637841e-06,
-    "pa": 5.685670657840092e-06,
-    "si": 0.0002398794749751687,
-    "km": 0.0051690759137272835,
-    "sn": 0.0027239113114774227,
-    "yo": 0.0007804136257618666,
-    "so": 3.3424337289034156e-06,
-    "af": 0.0006941143074072897,
-    "oc": 0.00029161927523091435,
-    "ka": 6.912018307048129e-06,
-    "be": 0.0002513915242161602,
-    "tg": 5.257601287667057e-07,
-    "sd": 0.00015609255933668464,
-    "gu": 5.819634338877222e-07,
-    "am": 2.8477891191869276e-06,
-    "yi": 0.003665423719212413,
-    "lo": 4.040229396196082e-05,
-    "uz": 1.2924122216873002e-08,
-    "fo": 0.0010666990419849753,
-    "ht": 0.000389362801797688,
-    "ps": 2.5882683985400945e-05,
-    "tk": 5.683973824943678e-08,
-    "nn": 0.009214873425662518,
-    "mt": 1.2036565749440342e-05,
-    "sa": 0.0003436115221120417,
-    "lb": 6.659224141003506e-07,
-    "my": 0.0006030569784343243,
-    "bo": 0.0002870981697924435,
-    "tl": 0.0015279758954420686,
-    "mg": 4.0621529251438915e-08,
-    "as": 4.825365977012552e-06,
-    "tt": 6.063293085389887e-07,
-    "haw": 0.014957215636968613,
-    "ln": 1.0705542990763206e-05,
-    "ha": 1.497527648552932e-07,
-    "ba": 7.14323817874174e-08,
-    "jw": 0.013303223066031933,
-    "su": 9.613712563805166e-07
+    "en": 0.5538643002510071,
+    "zh": 0.04511014744639397,
+    "de": 0.009455601684749126,
+    "es": 0.08104825019836426,
+    "ru": 0.03919237479567528,
+    "ko": 0.017256170511245728,
+    "fr": 0.023586388677358627,
+    "ja": 0.005963573232293129,
+    "pt": 0.07322099804878235,
+    "tr": 0.017391512170433998,
+    "pl": 0.0035610117483884096,
+    "ca": 0.000618811056483537,
+    "nl": 0.011767685413360596,
+    "ar": 0.012236456386744976,
+    "sv": 0.0015801893314346671,
+    "it": 0.014084076508879662,
+    "id": 0.0031920706387609243,
+    "hi": 0.0006485084304586053,
+    "fi": 0.0006044763140380383,
+    "vi": 0.014084076508879662,
+    "he": 8.117034303722903e-05,
+    "uk": 0.0018765213899314404,
+    "el": 0.0008392322924919426,
+    "ms": 0.003093860810622573,
+    "cs": 0.0006485084304586053,
+    "ro": 0.0011651585809886456,
+    "da": 0.0014500634279102087,
+    "hu": 0.00022150746372062713,
+    "ta": 0.00039642525371164083,
+    "no": 0.00014813330199103802,
+    "th": 0.0017354986630380154,
+    "ur": 0.002126377308741212,
+    "hr": 9.019903518492356e-05,
+    "bg": 1.098521170206368e-05,
+    "lt": 3.8342157495208085e-05,
+    "la": 0.018658367916941643,
+    "mi": 0.0013306529726833105,
+    "ml": 3.730794196599163e-05,
+    "cy": 0.016988636925816536,
+    "sk": 7.898092007962987e-05,
+    "te": 3.450420990702696e-05,
+    "fa": 0.000478180154459551,
+    "lv": 7.745328912278637e-05,
+    "bn": 7.333129906328395e-05,
+    "sr": 4.517135494097602e-06,
+    "az": 0.00016851398686412722,
+    "sl": 7.745328912278637e-05,
+    "kn": 1.8322310779694817e-06,
+    "et": 1.3618017874250654e-05,
+    "mk": 1.5428933011207846e-06,
+    "br": 0.00043880275916308165,
+    "eu": 0.00013435106666292995,
+    "is": 0.00011996199464192614,
+    "hy": 1.701423025224358e-05,
+    "ne": 9.829334885580465e-05,
+    "mn": 1.3724826203542762e-05,
+    "bs": 0.00010181043035117909,
+    "kk": 3.35735130647663e-05,
+    "sq": 8.422653991146944e-06,
+    "sw": 9.415924432687461e-05,
+    "gl": 0.0015315720811486244,
+    "mr": 5.427463293017354e-06,
+    "pa": 2.307471731910482e-05,
+    "si": 6.65086045046337e-05,
+    "km": 0.0017219927394762635,
+    "sn": 0.001129310461692512,
+    "yo": 0.0002692845882847905,
+    "so": 1.01624792137045e-07,
+    "af": 0.00018363614799454808,
+    "oc": 0.00011718308087438345,
+    "ka": 3.636716883193003e-06,
+    "be": 0.0001595458306837827,
+    "tg": 1.5302840949971142e-07,
+    "sd": 1.604594763193745e-05,
+    "gu": 4.2022179513878655e-06,
+    "am": 2.564621297551639e-07,
+    "yi": 4.923230881104246e-05,
+    "lo": 3.2667929190211e-05,
+    "uz": 3.7273032660323224e-08,
+    "fo": 2.860499262169469e-05,
+    "ht": 0.00011051417095586658,
+    "ps": 2.076499913528096e-05,
+    "tk": 4.709453094164928e-08,
+    "nn": 0.0031672294717282057,
+    "mt": 3.06840956909582e-06,
+    "sa": 0.00010422478953842074,
+    "lb": 5.892573895494024e-08,
+    "my": 0.0002559513959567994,
+    "bo": 4.44776815129444e-05,
+    "tl": 0.001966577721759677,
+    "mg": 6.873995772593844e-08,
+    "as": 1.5219426359180943e-06,
+    "tt": 7.360331011341259e-08,
+    "haw": 0.002485987264662981,
+    "ln": 4.21043341702898e-06,
+    "ha": 1.206718422963604e-07,
+    "ba": 5.0401855133941353e-08,
+    "jw": 0.004905500914901495,
+    "su": 1.7125822182606498e-07,
+    "yue": 0.00011313494178466499
   },
   "speech_activity": [
     {

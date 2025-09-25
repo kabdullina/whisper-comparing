@@ -1,0 +1,2228 @@
+{
+  "text": "Quando o nosso filho crescer eu vou-lhe dizer que te conheci num dia de sol, que o teu olhar me prendeu e eu vi o céu em tudo que estava ao meu redor, que pegaste na minha mão naquel fim de verão e me levaste a jantar, ficaste com o meu coração e como numa canção fizeste-me adorar, que soube que era amor para a vida toda, que era contigo a minha vida toda, que era um amor para a vida toda. Quando ele ficar maior e quiser saber melhor como é que veio ao mundo, eu vou-lhe dizer, com amor, que sonhei ao por menor, que era o meu desejo profundo, que tinhas os olhos em água quando cheguei a casa e te dei a boa nova, e o que já era bom ganhou asas, e eu soube de caras que era para a vida toda, que era amor para a vida toda, que era contigo a minha vida toda, que era um amor para a vida toda. Que os pais tiveram sempre casados e ternos namorados e vieram convair, que ali dissemos que era amor para a vida toda, que foi contigo a minha vida toda, que era um amor para a vida toda. Que os pais tiveram sempre casados e vieram convair, que ali dissemos que era amor para a vida toda, que foi contigo a minha vida toda, que era um amor para a vida toda.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 18.22,
+      "end": 33.2,
+      "text": "Quando o nosso filho crescer eu vou-lhe dizer que te conheci num dia de sol, que o teu olhar me prendeu e eu vi o céu em tudo que estava ao meu redor,",
+      "tokens": [
+        50384,
+        8547,
+        1806,
+        277,
+        297,
+        329,
+        539,
+        36919,
+        20964,
+        1776,
+        2228,
+        6008,
+        12,
+        75,
+        675,
+        17159,
+        631,
+        220,
+        975,
+        15440,
+        537,
+        1031,
+        6801,
+        368,
+        1404,
+        11,
+        631,
+        277,
+        220,
+        975,
+        84,
+        37446,
+        385,
+        9866,
+        23685,
+        308,
+        2228,
+        1932,
+        277,
+        50052,
+        846,
+        220,
+        83,
+        6207,
+        631,
+        15662,
+        8130,
+        9230,
+        2182,
+        284,
+        11,
+        51134
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2325741449991862,
+      "compression_ratio": 1.3017241379310345,
+      "no_speech_prob": 0.008848906494677067,
+      "confidence": 0.868,
+      "words": [
+        {
+          "text": "Quando",
+          "start": 18.22,
+          "end": 19.04,
+          "confidence": 0.923
+        },
+        {
+          "text": "o",
+          "start": 19.04,
+          "end": 19.72,
+          "confidence": 0.987
+        },
+        {
+          "text": "nosso",
+          "start": 19.72,
+          "end": 19.74,
+          "confidence": 0.525
+        },
+        {
+          "text": "filho",
+          "start": 19.74,
+          "end": 20.0,
+          "confidence": 0.557
+        },
+        {
+          "text": "crescer",
+          "start": 20.0,
+          "end": 20.88,
+          "confidence": 0.908
+        },
+        {
+          "text": "eu",
+          "start": 20.88,
+          "end": 21.58,
+          "confidence": 0.681
+        },
+        {
+          "text": "vou-lhe",
+          "start": 21.58,
+          "end": 21.96,
+          "confidence": 0.974
+        },
+        {
+          "text": "dizer",
+          "start": 21.96,
+          "end": 22.88,
+          "confidence": 0.948
+        },
+        {
+          "text": "que",
+          "start": 22.88,
+          "end": 23.08,
+          "confidence": 0.845
+        },
+        {
+          "text": "te",
+          "start": 23.08,
+          "end": 23.52,
+          "confidence": 0.988
+        },
+        {
+          "text": "conheci",
+          "start": 23.52,
+          "end": 24.26,
+          "confidence": 0.899
+        },
+        {
+          "text": "num",
+          "start": 24.26,
+          "end": 24.28,
+          "confidence": 0.892
+        },
+        {
+          "text": "dia",
+          "start": 24.28,
+          "end": 24.78,
+          "confidence": 0.901
+        },
+        {
+          "text": "de",
+          "start": 24.78,
+          "end": 25.44,
+          "confidence": 0.986
+        },
+        {
+          "text": "sol,",
+          "start": 25.44,
+          "end": 25.54,
+          "confidence": 0.976
+        },
+        {
+          "text": "que",
+          "start": 25.54,
+          "end": 26.38,
+          "confidence": 0.567
+        },
+        {
+          "text": "o",
+          "start": 26.38,
+          "end": 26.56,
+          "confidence": 0.992
+        },
+        {
+          "text": "teu",
+          "start": 26.56,
+          "end": 26.96,
+          "confidence": 0.998
+        },
+        {
+          "text": "olhar",
+          "start": 26.96,
+          "end": 27.28,
+          "confidence": 0.979
+        },
+        {
+          "text": "me",
+          "start": 27.28,
+          "end": 27.6,
+          "confidence": 0.996
+        },
+        {
+          "text": "prendeu",
+          "start": 27.6,
+          "end": 28.64,
+          "confidence": 0.708
+        },
+        {
+          "text": "e",
+          "start": 28.64,
+          "end": 29.06,
+          "confidence": 0.617
+        },
+        {
+          "text": "eu",
+          "start": 29.06,
+          "end": 29.32,
+          "confidence": 0.995
+        },
+        {
+          "text": "vi",
+          "start": 29.32,
+          "end": 29.56,
+          "confidence": 0.982
+        },
+        {
+          "text": "o",
+          "start": 29.56,
+          "end": 29.96,
+          "confidence": 0.984
+        },
+        {
+          "text": "céu",
+          "start": 29.96,
+          "end": 30.38,
+          "confidence": 0.981
+        },
+        {
+          "text": "em",
+          "start": 30.38,
+          "end": 31.0,
+          "confidence": 0.894
+        },
+        {
+          "text": "tudo",
+          "start": 31.0,
+          "end": 31.2,
+          "confidence": 0.986
+        },
+        {
+          "text": "que",
+          "start": 31.2,
+          "end": 32.04,
+          "confidence": 0.967
+        },
+        {
+          "text": "estava",
+          "start": 32.04,
+          "end": 32.06,
+          "confidence": 0.52
+        },
+        {
+          "text": "ao",
+          "start": 32.06,
+          "end": 32.28,
+          "confidence": 0.996
+        },
+        {
+          "text": "meu",
+          "start": 32.28,
+          "end": 32.3,
+          "confidence": 0.984
+        },
+        {
+          "text": "redor,",
+          "start": 32.3,
+          "end": 33.2,
+          "confidence": 0.998
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 1540,
+      "start": 33.72,
+      "end": 39.84,
+      "text": " que pegaste na minha mão naquel fim de verão e me levaste a jantar,",
+      "tokens": [
+        50364,
+        631,
+        17199,
+        9079,
+        1667,
+        11720,
+        31639,
+        1667,
+        20593,
+        31603,
+        368,
+        1306,
+        1076,
+        308,
+        385,
+        20445,
+        9079,
+        257,
+        361,
+        394,
+        289,
+        11,
+        50706
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2939501802126567,
+      "compression_ratio": 1.280373831775701,
+      "no_speech_prob": 0.0365278534591198,
+      "confidence": 0.891,
+      "words": [
+        {
+          "text": "que",
+          "start": 33.72,
+          "end": 33.84,
+          "confidence": 0.773
+        },
+        {
+          "text": "pegaste",
+          "start": 33.84,
+          "end": 34.54,
+          "confidence": 0.831
+        },
+        {
+          "text": "na",
+          "start": 34.54,
+          "end": 34.9,
+          "confidence": 0.996
+        },
+        {
+          "text": "minha",
+          "start": 34.9,
+          "end": 35.24,
+          "confidence": 0.906
+        },
+        {
+          "text": "mão",
+          "start": 35.24,
+          "end": 35.76,
+          "confidence": 0.87
+        },
+        {
+          "text": "naquel",
+          "start": 35.76,
+          "end": 36.38,
+          "confidence": 0.687
+        },
+        {
+          "text": "fim",
+          "start": 36.38,
+          "end": 36.78,
+          "confidence": 0.899
+        },
+        {
+          "text": "de",
+          "start": 36.78,
+          "end": 37.12,
+          "confidence": 0.962
+        },
+        {
+          "text": "verão",
+          "start": 37.12,
+          "end": 37.74,
+          "confidence": 0.965
+        },
+        {
+          "text": "e",
+          "start": 37.74,
+          "end": 37.96,
+          "confidence": 0.876
+        },
+        {
+          "text": "me",
+          "start": 37.96,
+          "end": 38.14,
+          "confidence": 0.998
+        },
+        {
+          "text": "levaste",
+          "start": 38.14,
+          "end": 38.74,
+          "confidence": 0.903
+        },
+        {
+          "text": "a",
+          "start": 38.74,
+          "end": 38.96,
+          "confidence": 0.904
+        },
+        {
+          "text": "jantar,",
+          "start": 38.96,
+          "end": 39.84,
+          "confidence": 0.993
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 1540,
+      "start": 40.89,
+      "end": 47.41,
+      "text": " ficaste com o meu coração e como numa canção fizeste-me adorar,",
+      "tokens": [
+        50706,
+        283,
+        9150,
+        975,
+        395,
+        277,
+        9230,
+        41408,
+        308,
+        2617,
+        297,
+        5544,
+        393,
+        127,
+        100,
+        1076,
+        21000,
+        8887,
+        12,
+        1398,
+        614,
+        42967,
+        11,
+        51066
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2939501802126567,
+      "compression_ratio": 1.280373831775701,
+      "no_speech_prob": 0.0365278534591198,
+      "confidence": 0.816,
+      "words": [
+        {
+          "text": "ficaste",
+          "start": 40.89,
+          "end": 41.67,
+          "confidence": 0.649
+        },
+        {
+          "text": "com",
+          "start": 41.67,
+          "end": 42.01,
+          "confidence": 0.903
+        },
+        {
+          "text": "o",
+          "start": 42.01,
+          "end": 42.17,
+          "confidence": 0.99
+        },
+        {
+          "text": "meu",
+          "start": 42.17,
+          "end": 42.39,
+          "confidence": 0.989
+        },
+        {
+          "text": "coração",
+          "start": 42.39,
+          "end": 43.31,
+          "confidence": 0.599
+        },
+        {
+          "text": "e",
+          "start": 43.31,
+          "end": 43.63,
+          "confidence": 0.832
+        },
+        {
+          "text": "como",
+          "start": 43.63,
+          "end": 44.01,
+          "confidence": 0.985
+        },
+        {
+          "text": "numa",
+          "start": 44.01,
+          "end": 44.41,
+          "confidence": 0.662
+        },
+        {
+          "text": "canção",
+          "start": 44.41,
+          "end": 45.23,
+          "confidence": 0.768
+        },
+        {
+          "text": "fizeste-me",
+          "start": 45.23,
+          "end": 46.23,
+          "confidence": 0.957
+        },
+        {
+          "text": "adorar,",
+          "start": 46.23,
+          "end": 47.41,
+          "confidence": 0.96
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 4540,
+      "start": 64.7,
+      "end": 71.94,
+      "text": " que soube que era amor para a vida toda, que era contigo a minha vida toda,",
+      "tokens": [
+        50366,
+        631,
+        6926,
+        650,
+        631,
+        4249,
+        15543,
+        1690,
+        257,
+        7644,
+        220,
+        83,
+        13449,
+        11,
+        631,
+        4249,
+        660,
+        7483,
+        257,
+        11720,
+        7644,
+        220,
+        83,
+        13449,
+        11,
+        50752
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2173427093860715,
+      "compression_ratio": 1.6878980891719746,
+      "no_speech_prob": 0.0502198301255703,
+      "confidence": 0.91,
+      "words": [
+        {
+          "text": "que",
+          "start": 64.7,
+          "end": 64.98,
+          "confidence": 0.699
+        },
+        {
+          "text": "soube",
+          "start": 64.98,
+          "end": 65.12,
+          "confidence": 0.728
+        },
+        {
+          "text": "que",
+          "start": 65.12,
+          "end": 65.24,
+          "confidence": 0.984
+        },
+        {
+          "text": "era",
+          "start": 65.24,
+          "end": 65.48,
+          "confidence": 0.884
+        },
+        {
+          "text": "amor",
+          "start": 65.48,
+          "end": 66.06,
+          "confidence": 0.962
+        },
+        {
+          "text": "para",
+          "start": 66.06,
+          "end": 66.4,
+          "confidence": 0.989
+        },
+        {
+          "text": "a",
+          "start": 66.4,
+          "end": 66.76,
+          "confidence": 0.988
+        },
+        {
+          "text": "vida",
+          "start": 66.76,
+          "end": 66.96,
+          "confidence": 0.795
+        },
+        {
+          "text": "toda,",
+          "start": 66.96,
+          "end": 68.22,
+          "confidence": 0.977
+        },
+        {
+          "text": "que",
+          "start": 68.62,
+          "end": 68.78,
+          "confidence": 0.765
+        },
+        {
+          "text": "era",
+          "start": 68.78,
+          "end": 69.04,
+          "confidence": 0.924
+        },
+        {
+          "text": "contigo",
+          "start": 69.04,
+          "end": 69.74,
+          "confidence": 0.99
+        },
+        {
+          "text": "a",
+          "start": 69.74,
+          "end": 70.0,
+          "confidence": 0.999
+        },
+        {
+          "text": "minha",
+          "start": 70.0,
+          "end": 70.18,
+          "confidence": 0.918
+        },
+        {
+          "text": "vida",
+          "start": 70.18,
+          "end": 70.66,
+          "confidence": 0.91
+        },
+        {
+          "text": "toda,",
+          "start": 70.66,
+          "end": 71.94,
+          "confidence": 0.99
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 4540,
+      "start": 71.98,
+      "end": 76.14,
+      "text": " que era um amor para a vida toda.",
+      "tokens": [
+        50752,
+        631,
+        4249,
+        1105,
+        15543,
+        1690,
+        257,
+        7644,
+        220,
+        83,
+        13449,
+        13,
+        50984
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2173427093860715,
+      "compression_ratio": 1.6878980891719746,
+      "no_speech_prob": 0.0502198301255703,
+      "confidence": 0.964,
+      "words": [
+        {
+          "text": "que",
+          "start": 71.98,
+          "end": 72.68,
+          "confidence": 0.915
+        },
+        {
+          "text": "era",
+          "start": 72.68,
+          "end": 72.82,
+          "confidence": 0.936
+        },
+        {
+          "text": "um",
+          "start": 72.82,
+          "end": 72.9,
+          "confidence": 0.936
+        },
+        {
+          "text": "amor",
+          "start": 72.9,
+          "end": 73.52,
+          "confidence": 0.997
+        },
+        {
+          "text": "para",
+          "start": 73.52,
+          "end": 74.12,
+          "confidence": 0.983
+        },
+        {
+          "text": "a",
+          "start": 74.12,
+          "end": 74.4,
+          "confidence": 0.997
+        },
+        {
+          "text": "vida",
+          "start": 74.4,
+          "end": 74.58,
+          "confidence": 0.899
+        },
+        {
+          "text": "toda.",
+          "start": 74.58,
+          "end": 76.14,
+          "confidence": 0.994
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 4540,
+      "start": 78.71,
+      "end": 93.23,
+      "text": " Quando ele ficar maior e quiser saber melhor como é que veio ao mundo, eu vou-lhe dizer, com amor, que sonhei ao por menor, que era o meu desejo profundo,",
+      "tokens": [
+        50984,
+        18725,
+        1118,
+        13646,
+        12698,
+        284,
+        308,
+        28753,
+        12489,
+        13714,
+        2617,
+        1136,
+        631,
+        41164,
+        8130,
+        7968,
+        11,
+        2228,
+        6008,
+        12,
+        75,
+        675,
+        17159,
+        11,
+        395,
+        15543,
+        11,
+        631,
+        1872,
+        42674,
+        8130,
+        1515,
+        26343,
+        11,
+        631,
+        4249,
+        277,
+        9230,
+        730,
+        68,
+        5134,
+        1740,
+        6043,
+        11,
+        51734
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2173427093860715,
+      "compression_ratio": 1.6878980891719746,
+      "no_speech_prob": 0.0502198301255703,
+      "confidence": 0.865,
+      "words": [
+        {
+          "text": "Quando",
+          "start": 78.71,
+          "end": 79.11,
+          "confidence": 0.94
+        },
+        {
+          "text": "ele",
+          "start": 79.11,
+          "end": 80.07,
+          "confidence": 0.985
+        },
+        {
+          "text": "ficar",
+          "start": 80.07,
+          "end": 80.09,
+          "confidence": 0.913
+        },
+        {
+          "text": "maior",
+          "start": 80.09,
+          "end": 80.85,
+          "confidence": 0.913
+        },
+        {
+          "text": "e",
+          "start": 80.85,
+          "end": 81.21,
+          "confidence": 0.9
+        },
+        {
+          "text": "quiser",
+          "start": 81.21,
+          "end": 81.45,
+          "confidence": 0.598
+        },
+        {
+          "text": "saber",
+          "start": 81.45,
+          "end": 82.03,
+          "confidence": 0.982
+        },
+        {
+          "text": "melhor",
+          "start": 82.03,
+          "end": 82.93,
+          "confidence": 0.422
+        },
+        {
+          "text": "como",
+          "start": 82.93,
+          "end": 83.65,
+          "confidence": 0.826
+        },
+        {
+          "text": "é",
+          "start": 83.65,
+          "end": 84.93,
+          "confidence": 0.899
+        },
+        {
+          "text": "que",
+          "start": 84.93,
+          "end": 84.95,
+          "confidence": 0.979
+        },
+        {
+          "text": "veio",
+          "start": 84.95,
+          "end": 84.97,
+          "confidence": 0.618
+        },
+        {
+          "text": "ao",
+          "start": 84.97,
+          "end": 84.99,
+          "confidence": 0.995
+        },
+        {
+          "text": "mundo,",
+          "start": 84.99,
+          "end": 85.79,
+          "confidence": 0.913
+        },
+        {
+          "text": "eu",
+          "start": 86.03,
+          "end": 86.41,
+          "confidence": 0.605
+        },
+        {
+          "text": "vou-lhe",
+          "start": 86.41,
+          "end": 86.85,
+          "confidence": 0.977
+        },
+        {
+          "text": "dizer,",
+          "start": 86.85,
+          "end": 87.45,
+          "confidence": 0.901
+        },
+        {
+          "text": "com",
+          "start": 87.79,
+          "end": 87.81,
+          "confidence": 0.746
+        },
+        {
+          "text": "amor,",
+          "start": 87.81,
+          "end": 88.25,
+          "confidence": 0.975
+        },
+        {
+          "text": "que",
+          "start": 88.83,
+          "end": 88.87,
+          "confidence": 0.922
+        },
+        {
+          "text": "sonhei",
+          "start": 88.87,
+          "end": 88.97,
+          "confidence": 0.986
+        },
+        {
+          "text": "ao",
+          "start": 88.97,
+          "end": 89.35,
+          "confidence": 0.961
+        },
+        {
+          "text": "por",
+          "start": 89.35,
+          "end": 89.51,
+          "confidence": 0.836
+        },
+        {
+          "text": "menor,",
+          "start": 89.51,
+          "end": 90.29,
+          "confidence": 0.907
+        },
+        {
+          "text": "que",
+          "start": 90.29,
+          "end": 90.97,
+          "confidence": 0.623
+        },
+        {
+          "text": "era",
+          "start": 90.97,
+          "end": 91.59,
+          "confidence": 0.911
+        },
+        {
+          "text": "o",
+          "start": 91.59,
+          "end": 91.61,
+          "confidence": 0.95
+        },
+        {
+          "text": "meu",
+          "start": 91.61,
+          "end": 91.63,
+          "confidence": 0.977
+        },
+        {
+          "text": "desejo",
+          "start": 91.63,
+          "end": 92.31,
+          "confidence": 0.82
+        },
+        {
+          "text": "profundo,",
+          "start": 92.31,
+          "end": 93.23,
+          "confidence": 0.959
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 7280,
+      "start": 94.03,
+      "end": 107.97,
+      "text": " que tinhas os olhos em água quando cheguei a casa e te dei a boa nova, e o que já era bom ganhou asas, e eu soube de caras que era para a vida toda,",
+      "tokens": [
+        50380,
+        631,
+        220,
+        83,
+        10085,
+        296,
+        3003,
+        2545,
+        17631,
+        846,
+        7352,
+        20845,
+        7770,
+        417,
+        1146,
+        622,
+        72,
+        257,
+        9022,
+        308,
+        220,
+        975,
+        13874,
+        257,
+        22422,
+        28265,
+        11,
+        308,
+        277,
+        631,
+        6242,
+        4249,
+        7957,
+        7574,
+        12181,
+        382,
+        296,
+        11,
+        308,
+        2228,
+        6926,
+        650,
+        368,
+        1032,
+        296,
+        631,
+        4249,
+        1690,
+        257,
+        7644,
+        220,
+        83,
+        13449,
+        11,
+        51152
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.236186078616551,
+      "compression_ratio": 1.3513513513513513,
+      "no_speech_prob": 0.06606407463550568,
+      "confidence": 0.871,
+      "words": [
+        {
+          "text": "que",
+          "start": 94.03,
+          "end": 94.15,
+          "confidence": 0.539
+        },
+        {
+          "text": "tinhas",
+          "start": 94.15,
+          "end": 94.59,
+          "confidence": 0.815
+        },
+        {
+          "text": "os",
+          "start": 94.59,
+          "end": 95.05,
+          "confidence": 0.997
+        },
+        {
+          "text": "olhos",
+          "start": 95.05,
+          "end": 95.13,
+          "confidence": 0.901
+        },
+        {
+          "text": "em",
+          "start": 95.13,
+          "end": 95.29,
+          "confidence": 0.946
+        },
+        {
+          "text": "água",
+          "start": 95.29,
+          "end": 96.07,
+          "confidence": 0.902
+        },
+        {
+          "text": "quando",
+          "start": 96.07,
+          "end": 96.41,
+          "confidence": 0.882
+        },
+        {
+          "text": "cheguei",
+          "start": 96.41,
+          "end": 97.09,
+          "confidence": 0.777
+        },
+        {
+          "text": "a",
+          "start": 97.09,
+          "end": 97.13,
+          "confidence": 0.939
+        },
+        {
+          "text": "casa",
+          "start": 97.13,
+          "end": 97.85,
+          "confidence": 0.986
+        },
+        {
+          "text": "e",
+          "start": 97.85,
+          "end": 97.87,
+          "confidence": 0.976
+        },
+        {
+          "text": "te",
+          "start": 97.87,
+          "end": 98.21,
+          "confidence": 0.665
+        },
+        {
+          "text": "dei",
+          "start": 98.21,
+          "end": 98.53,
+          "confidence": 0.944
+        },
+        {
+          "text": "a",
+          "start": 98.53,
+          "end": 98.55,
+          "confidence": 0.979
+        },
+        {
+          "text": "boa",
+          "start": 98.55,
+          "end": 98.95,
+          "confidence": 0.962
+        },
+        {
+          "text": "nova,",
+          "start": 98.95,
+          "end": 99.87,
+          "confidence": 0.995
+        },
+        {
+          "text": "e",
+          "start": 100.95,
+          "end": 101.09,
+          "confidence": 0.483
+        },
+        {
+          "text": "o",
+          "start": 101.09,
+          "end": 101.13,
+          "confidence": 0.948
+        },
+        {
+          "text": "que",
+          "start": 101.13,
+          "end": 101.53,
+          "confidence": 0.964
+        },
+        {
+          "text": "já",
+          "start": 101.53,
+          "end": 101.65,
+          "confidence": 0.738
+        },
+        {
+          "text": "era",
+          "start": 101.65,
+          "end": 102.01,
+          "confidence": 0.859
+        },
+        {
+          "text": "bom",
+          "start": 102.01,
+          "end": 102.35,
+          "confidence": 0.981
+        },
+        {
+          "text": "ganhou",
+          "start": 102.35,
+          "end": 102.85,
+          "confidence": 0.838
+        },
+        {
+          "text": "asas,",
+          "start": 102.85,
+          "end": 103.63,
+          "confidence": 0.935
+        },
+        {
+          "text": "e",
+          "start": 103.77,
+          "end": 103.79,
+          "confidence": 0.872
+        },
+        {
+          "text": "eu",
+          "start": 103.79,
+          "end": 103.89,
+          "confidence": 0.987
+        },
+        {
+          "text": "soube",
+          "start": 103.89,
+          "end": 105.09,
+          "confidence": 0.958
+        },
+        {
+          "text": "de",
+          "start": 105.09,
+          "end": 105.29,
+          "confidence": 0.896
+        },
+        {
+          "text": "caras",
+          "start": 105.29,
+          "end": 105.45,
+          "confidence": 0.907
+        },
+        {
+          "text": "que",
+          "start": 105.45,
+          "end": 105.69,
+          "confidence": 0.944
+        },
+        {
+          "text": "era",
+          "start": 105.69,
+          "end": 105.73,
+          "confidence": 0.932
+        },
+        {
+          "text": "para",
+          "start": 105.73,
+          "end": 106.67,
+          "confidence": 0.927
+        },
+        {
+          "text": "a",
+          "start": 106.67,
+          "end": 106.69,
+          "confidence": 0.989
+        },
+        {
+          "text": "vida",
+          "start": 106.69,
+          "end": 106.71,
+          "confidence": 0.766
+        },
+        {
+          "text": "toda,",
+          "start": 106.71,
+          "end": 107.97,
+          "confidence": 0.994
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 10280,
+      "start": 125.13,
+      "end": 136.19,
+      "text": " que era amor para a vida toda, que era contigo a minha vida toda, que era um amor para a vida toda.",
+      "tokens": [
+        50366,
+        631,
+        4249,
+        15543,
+        1690,
+        257,
+        7644,
+        220,
+        83,
+        13449,
+        11,
+        631,
+        4249,
+        660,
+        7483,
+        257,
+        11720,
+        7644,
+        220,
+        83,
+        13449,
+        11,
+        631,
+        4249,
+        1105,
+        15543,
+        1690,
+        257,
+        7644,
+        220,
+        83,
+        13449,
+        13,
+        50958
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.19434145518711635,
+      "compression_ratio": 1.65,
+      "no_speech_prob": 0.6130472421646118,
+      "confidence": 0.939,
+      "words": [
+        {
+          "text": "que",
+          "start": 125.13,
+          "end": 125.27,
+          "confidence": 0.929
+        },
+        {
+          "text": "era",
+          "start": 125.27,
+          "end": 125.45,
+          "confidence": 0.804
+        },
+        {
+          "text": "amor",
+          "start": 125.45,
+          "end": 125.93,
+          "confidence": 0.987
+        },
+        {
+          "text": "para",
+          "start": 125.93,
+          "end": 126.55,
+          "confidence": 0.984
+        },
+        {
+          "text": "a",
+          "start": 126.55,
+          "end": 126.75,
+          "confidence": 0.999
+        },
+        {
+          "text": "vida",
+          "start": 126.75,
+          "end": 126.91,
+          "confidence": 0.766
+        },
+        {
+          "text": "toda,",
+          "start": 126.91,
+          "end": 128.19,
+          "confidence": 0.999
+        },
+        {
+          "text": "que",
+          "start": 128.93,
+          "end": 128.95,
+          "confidence": 0.942
+        },
+        {
+          "text": "era",
+          "start": 128.95,
+          "end": 129.01,
+          "confidence": 0.924
+        },
+        {
+          "text": "contigo",
+          "start": 129.01,
+          "end": 129.73,
+          "confidence": 0.991
+        },
+        {
+          "text": "a",
+          "start": 129.73,
+          "end": 130.13,
+          "confidence": 0.997
+        },
+        {
+          "text": "minha",
+          "start": 130.13,
+          "end": 130.15,
+          "confidence": 0.874
+        },
+        {
+          "text": "vida",
+          "start": 130.15,
+          "end": 130.61,
+          "confidence": 0.929
+        },
+        {
+          "text": "toda,",
+          "start": 130.61,
+          "end": 131.87,
+          "confidence": 0.998
+        },
+        {
+          "text": "que",
+          "start": 132.45,
+          "end": 132.57,
+          "confidence": 0.518
+        },
+        {
+          "text": "era",
+          "start": 132.57,
+          "end": 132.71,
+          "confidence": 0.94
+        },
+        {
+          "text": "um",
+          "start": 132.71,
+          "end": 132.91,
+          "confidence": 0.989
+        },
+        {
+          "text": "amor",
+          "start": 132.91,
+          "end": 133.45,
+          "confidence": 0.997
+        },
+        {
+          "text": "para",
+          "start": 133.45,
+          "end": 134.07,
+          "confidence": 0.987
+        },
+        {
+          "text": "a",
+          "start": 134.07,
+          "end": 134.27,
+          "confidence": 0.999
+        },
+        {
+          "text": "vida",
+          "start": 134.27,
+          "end": 134.51,
+          "confidence": 0.9
+        },
+        {
+          "text": "toda.",
+          "start": 134.51,
+          "end": 136.19,
+          "confidence": 0.998
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seek": 13280,
+      "start": 157.29,
+      "end": 167.34,
+      "text": " Que os pais tiveram sempre casados e ternos namorados e vieram convair,",
+      "tokens": [
+        50414,
+        4493,
+        3003,
+        34955,
+        220,
+        83,
+        1837,
+        335,
+        9553,
+        3058,
+        4181,
+        308,
+        220,
+        391,
+        16751,
+        8835,
+        284,
+        4181,
+        308,
+        17634,
+        335,
+        3754,
+        1246,
+        11,
+        50864
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.34163252512613934,
+      "compression_ratio": 1.663716814159292,
+      "no_speech_prob": 0.9253641366958618,
+      "confidence": 0.754,
+      "words": [
+        {
+          "text": "Que",
+          "start": 157.29,
+          "end": 160.21,
+          "confidence": 0.309
+        },
+        {
+          "text": "os",
+          "start": 160.94,
+          "end": 161.18,
+          "confidence": 0.6
+        },
+        {
+          "text": "pais",
+          "start": 161.18,
+          "end": 161.46,
+          "confidence": 0.789
+        },
+        {
+          "text": "tiveram",
+          "start": 161.46,
+          "end": 162.06,
+          "confidence": 0.815
+        },
+        {
+          "text": "sempre",
+          "start": 162.06,
+          "end": 162.52,
+          "confidence": 0.972
+        },
+        {
+          "text": "casados",
+          "start": 162.52,
+          "end": 163.48,
+          "confidence": 0.989
+        },
+        {
+          "text": "e",
+          "start": 163.48,
+          "end": 163.74,
+          "confidence": 0.541
+        },
+        {
+          "text": "ternos",
+          "start": 163.74,
+          "end": 164.28,
+          "confidence": 0.828
+        },
+        {
+          "text": "namorados",
+          "start": 164.28,
+          "end": 165.36,
+          "confidence": 0.978
+        },
+        {
+          "text": "e",
+          "start": 165.36,
+          "end": 165.62,
+          "confidence": 0.56
+        },
+        {
+          "text": "vieram",
+          "start": 165.62,
+          "end": 166.34,
+          "confidence": 0.994
+        },
+        {
+          "text": "convair,",
+          "start": 166.34,
+          "end": 167.34,
+          "confidence": 0.454
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "seek": 13280,
+      "start": 167.96,
+      "end": 176.87,
+      "text": " que ali dissemos que era amor para a vida toda, que foi contigo a minha vida toda,",
+      "tokens": [
+        50864,
+        631,
+        10198,
+        17581,
+        3415,
+        631,
+        4249,
+        15543,
+        1690,
+        257,
+        7644,
+        220,
+        83,
+        13449,
+        11,
+        631,
+        6901,
+        660,
+        7483,
+        257,
+        11720,
+        7644,
+        220,
+        83,
+        13449,
+        11,
+        51314
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.34163252512613934,
+      "compression_ratio": 1.663716814159292,
+      "no_speech_prob": 0.9253641366958618,
+      "confidence": 0.843,
+      "words": [
+        {
+          "text": "que",
+          "start": 167.96,
+          "end": 168.1,
+          "confidence": 0.608
+        },
+        {
+          "text": "ali",
+          "start": 168.1,
+          "end": 169.04,
+          "confidence": 0.329
+        },
+        {
+          "text": "dissemos",
+          "start": 169.04,
+          "end": 170.1,
+          "confidence": 0.912
+        },
+        {
+          "text": "que",
+          "start": 170.1,
+          "end": 170.26,
+          "confidence": 0.979
+        },
+        {
+          "text": "era",
+          "start": 170.26,
+          "end": 170.52,
+          "confidence": 0.929
+        },
+        {
+          "text": "amor",
+          "start": 170.52,
+          "end": 170.92,
+          "confidence": 0.978
+        },
+        {
+          "text": "para",
+          "start": 170.92,
+          "end": 171.46,
+          "confidence": 0.982
+        },
+        {
+          "text": "a",
+          "start": 171.46,
+          "end": 171.76,
+          "confidence": 0.995
+        },
+        {
+          "text": "vida",
+          "start": 171.76,
+          "end": 171.92,
+          "confidence": 0.831
+        },
+        {
+          "text": "toda,",
+          "start": 171.92,
+          "end": 173.04,
+          "confidence": 0.998
+        },
+        {
+          "text": "que",
+          "start": 173.65,
+          "end": 173.67,
+          "confidence": 0.441
+        },
+        {
+          "text": "foi",
+          "start": 173.67,
+          "end": 174.09,
+          "confidence": 0.474
+        },
+        {
+          "text": "contigo",
+          "start": 174.09,
+          "end": 174.71,
+          "confidence": 0.991
+        },
+        {
+          "text": "a",
+          "start": 174.71,
+          "end": 174.85,
+          "confidence": 0.998
+        },
+        {
+          "text": "minha",
+          "start": 174.85,
+          "end": 175.09,
+          "confidence": 0.894
+        },
+        {
+          "text": "vida",
+          "start": 175.09,
+          "end": 175.79,
+          "confidence": 0.915
+        },
+        {
+          "text": "toda,",
+          "start": 175.79,
+          "end": 176.87,
+          "confidence": 0.997
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "seek": 13280,
+      "start": 177.41,
+      "end": 181.35,
+      "text": " que era um amor para a vida toda.",
+      "tokens": [
+        51314,
+        631,
+        4249,
+        1105,
+        15543,
+        1690,
+        257,
+        7644,
+        220,
+        83,
+        13449,
+        13,
+        51564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.34163252512613934,
+      "compression_ratio": 1.663716814159292,
+      "no_speech_prob": 0.9253641366958618,
+      "confidence": 0.915,
+      "words": [
+        {
+          "text": "que",
+          "start": 177.41,
+          "end": 177.43,
+          "confidence": 0.53
+        },
+        {
+          "text": "era",
+          "start": 177.43,
+          "end": 177.77,
+          "confidence": 0.943
+        },
+        {
+          "text": "um",
+          "start": 177.77,
+          "end": 177.85,
+          "confidence": 0.99
+        },
+        {
+          "text": "amor",
+          "start": 177.85,
+          "end": 178.43,
+          "confidence": 0.995
+        },
+        {
+          "text": "para",
+          "start": 178.43,
+          "end": 179.23,
+          "confidence": 0.984
+        },
+        {
+          "text": "a",
+          "start": 179.23,
+          "end": 179.35,
+          "confidence": 0.999
+        },
+        {
+          "text": "vida",
+          "start": 179.35,
+          "end": 179.39,
+          "confidence": 0.854
+        },
+        {
+          "text": "toda.",
+          "start": 179.39,
+          "end": 181.35,
+          "confidence": 0.998
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "seek": 16280,
+      "start": 188.81,
+      "end": 195.47,
+      "text": " Que os pais tiveram sempre casados e vieram convair,",
+      "tokens": [
+        50414,
+        4493,
+        3003,
+        34955,
+        220,
+        83,
+        1837,
+        335,
+        9553,
+        3058,
+        4181,
+        308,
+        17634,
+        335,
+        3754,
+        1246,
+        11,
+        50814
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1689353878215208,
+      "compression_ratio": 1.6095238095238096,
+      "no_speech_prob": 0.79963618516922,
+      "confidence": 0.796,
+      "words": [
+        {
+          "text": "Que",
+          "start": 188.81,
+          "end": 188.83,
+          "confidence": 0.271
+        },
+        {
+          "text": "os",
+          "start": 188.83,
+          "end": 188.93,
+          "confidence": 0.512
+        },
+        {
+          "text": "pais",
+          "start": 188.93,
+          "end": 188.95,
+          "confidence": 0.683
+        },
+        {
+          "text": "tiveram",
+          "start": 188.95,
+          "end": 191.19,
+          "confidence": 0.992
+        },
+        {
+          "text": "sempre",
+          "start": 191.19,
+          "end": 191.83,
+          "confidence": 0.959
+        },
+        {
+          "text": "casados",
+          "start": 191.83,
+          "end": 194.65,
+          "confidence": 0.992
+        },
+        {
+          "text": "e",
+          "start": 194.65,
+          "end": 194.67,
+          "confidence": 0.991
+        },
+        {
+          "text": "vieram",
+          "start": 194.67,
+          "end": 194.69,
+          "confidence": 0.995
+        },
+        {
+          "text": "convair,",
+          "start": 194.69,
+          "end": 195.47,
+          "confidence": 0.618
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "seek": 16280,
+      "start": 214.53,
+      "end": 221.95,
+      "text": " que ali dissemos que era amor para a vida toda, que foi contigo a minha vida toda,",
+      "tokens": [
+        50814,
+        631,
+        10198,
+        17581,
+        3415,
+        631,
+        4249,
+        15543,
+        1690,
+        257,
+        7644,
+        220,
+        83,
+        13449,
+        11,
+        631,
+        6901,
+        660,
+        7483,
+        257,
+        11720,
+        7644,
+        220,
+        83,
+        13449,
+        11,
+        51214
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1689353878215208,
+      "compression_ratio": 1.6095238095238096,
+      "no_speech_prob": 0.79963618516922,
+      "confidence": 0.948,
+      "words": [
+        {
+          "text": "que",
+          "start": 214.53,
+          "end": 214.59,
+          "confidence": 0.975
+        },
+        {
+          "text": "ali",
+          "start": 214.59,
+          "end": 215.03,
+          "confidence": 0.944
+        },
+        {
+          "text": "dissemos",
+          "start": 215.03,
+          "end": 215.05,
+          "confidence": 0.986
+        },
+        {
+          "text": "que",
+          "start": 215.05,
+          "end": 215.43,
+          "confidence": 0.989
+        },
+        {
+          "text": "era",
+          "start": 215.43,
+          "end": 215.45,
+          "confidence": 0.953
+        },
+        {
+          "text": "amor",
+          "start": 215.45,
+          "end": 215.85,
+          "confidence": 0.997
+        },
+        {
+          "text": "para",
+          "start": 215.85,
+          "end": 216.41,
+          "confidence": 0.987
+        },
+        {
+          "text": "a",
+          "start": 216.41,
+          "end": 216.63,
+          "confidence": 1.0
+        },
+        {
+          "text": "vida",
+          "start": 216.63,
+          "end": 216.95,
+          "confidence": 0.826
+        },
+        {
+          "text": "toda,",
+          "start": 216.95,
+          "end": 218.03,
+          "confidence": 0.999
+        },
+        {
+          "text": "que",
+          "start": 218.81,
+          "end": 218.83,
+          "confidence": 0.849
+        },
+        {
+          "text": "foi",
+          "start": 218.83,
+          "end": 219.07,
+          "confidence": 0.593
+        },
+        {
+          "text": "contigo",
+          "start": 219.07,
+          "end": 219.67,
+          "confidence": 0.988
+        },
+        {
+          "text": "a",
+          "start": 219.67,
+          "end": 220.09,
+          "confidence": 1.0
+        },
+        {
+          "text": "minha",
+          "start": 220.09,
+          "end": 220.11,
+          "confidence": 0.957
+        },
+        {
+          "text": "vida",
+          "start": 220.11,
+          "end": 220.77,
+          "confidence": 0.906
+        },
+        {
+          "text": "toda,",
+          "start": 220.77,
+          "end": 221.95,
+          "confidence": 0.999
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "seek": 16280,
+      "start": 222.27,
+      "end": 226.27,
+      "text": " que era um amor para a vida toda.",
+      "tokens": [
+        51214,
+        631,
+        4249,
+        1105,
+        15543,
+        1690,
+        257,
+        7644,
+        220,
+        83,
+        13449,
+        13,
+        51464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1689353878215208,
+      "compression_ratio": 1.6095238095238096,
+      "no_speech_prob": 0.79963618516922,
+      "confidence": 0.969,
+      "words": [
+        {
+          "text": "que",
+          "start": 222.27,
+          "end": 222.45,
+          "confidence": 0.953
+        },
+        {
+          "text": "era",
+          "start": 222.45,
+          "end": 222.79,
+          "confidence": 0.947
+        },
+        {
+          "text": "um",
+          "start": 222.79,
+          "end": 222.83,
+          "confidence": 0.998
+        },
+        {
+          "text": "amor",
+          "start": 222.83,
+          "end": 223.41,
+          "confidence": 0.997
+        },
+        {
+          "text": "para",
+          "start": 223.41,
+          "end": 224.35,
+          "confidence": 0.989
+        },
+        {
+          "text": "a",
+          "start": 224.35,
+          "end": 225.39,
+          "confidence": 1.0
+        },
+        {
+          "text": "vida",
+          "start": 225.39,
+          "end": 225.53,
+          "confidence": 0.827
+        },
+        {
+          "text": "toda.",
+          "start": 225.53,
+          "end": 226.27,
+          "confidence": 0.999
+        }
+      ]
+    }
+  ],
+  "language": "no",
+  "language_probs": {
+    "en": 0.00037304082070477307,
+    "zh": 3.993738937424496e-05,
+    "de": 0.00012544207856990397,
+    "es": 0.0007023981306701899,
+    "ru": 0.00012891946244053543,
+    "ko": 1.8718277715379372e-05,
+    "fr": 0.000292803073534742,
+    "ja": 0.00013301179569680244,
+    "pt": 0.12379415333271027,
+    "tr": 6.752879926352762e-06,
+    "pl": 7.788875518599525e-05,
+    "ca": 0.0024708386044949293,
+    "nl": 5.458793748402968e-05,
+    "ar": 9.54312999965623e-05,
+    "sv": 3.0019825203453365e-07,
+    "it": 0.0006445567705668509,
+    "id": 1.2469058674469125e-05,
+    "hi": 8.470010470773559e-06,
+    "fi": 4.4206655729794875e-05,
+    "vi": 2.933317591669038e-05,
+    "he": 2.031849726336077e-05,
+    "uk": 3.524462226778269e-05,
+    "el": 0.0002860203094314784,
+    "ms": 2.9911720048403367e-05,
+    "cs": 3.650572398328222e-05,
+    "ro": 0.0007190550095401704,
+    "da": 3.8476750887639355e-06,
+    "hu": 1.539723416499328e-05,
+    "ta": 2.7989908630843274e-05,
+    "no": 0.8593016862869263,
+    "th": 1.4749645742995199e-05,
+    "ur": 3.722573455888778e-05,
+    "hr": 1.1991377505182754e-05,
+    "bg": 4.7798792365938425e-05,
+    "lt": 0.0001495491887908429,
+    "la": 0.0001981204841285944,
+    "mi": 0.0004499731585383415,
+    "ml": 2.5037302293640096e-06,
+    "cy": 0.0004194210923742503,
+    "sk": 1.3065512121102074e-06,
+    "te": 5.395196421886794e-05,
+    "fa": 1.2469058674469125e-05,
+    "lv": 3.336893496452831e-05,
+    "bn": 2.2055521185393445e-05,
+    "sr": 9.1061185230501e-05,
+    "az": 1.7931010006577708e-05,
+    "sl": 3.510721217026003e-05,
+    "kn": 2.967451564472867e-06,
+    "et": 1.0019170986197423e-05,
+    "mk": 1.369458459521411e-05,
+    "br": 2.1798565285280347e-05,
+    "eu": 2.578551539045293e-05,
+    "is": 1.7861104424810037e-05,
+    "hy": 1.0875706720980816e-05,
+    "ne": 2.712874993449077e-05,
+    "mn": 1.0582353752397466e-05,
+    "bs": 0.00018978781008627266,
+    "kk": 8.670869647176005e-06,
+    "sq": 0.0005098863621242344,
+    "sw": 1.3016517186770216e-05,
+    "gl": 0.006929637864232063,
+    "mr": 2.6187667572230566e-06,
+    "pa": 8.226692443713546e-05,
+    "si": 1.710988908598665e-05,
+    "km": 3.855773320537992e-05,
+    "sn": 5.2702172979479656e-05,
+    "yo": 2.10455236810958e-05,
+    "so": 2.6548159439698793e-06,
+    "af": 0.00019889589748345315,
+    "oc": 0.00010984075197484344,
+    "ka": 3.9153235320554813e-07,
+    "be": 3.469820148893632e-05,
+    "tg": 3.3298849757557036e-06,
+    "sd": 3.134721191599965e-05,
+    "gu": 3.893030225299299e-06,
+    "am": 9.900965096676373e-07,
+    "yi": 0.00013994074834045023,
+    "lo": 6.294376362347975e-06,
+    "uz": 2.440594641939242e-07,
+    "fo": 7.40322211640887e-05,
+    "ht": 1.3588011825049762e-05,
+    "ps": 1.8001190255745314e-05,
+    "tk": 5.487594378905669e-09,
+    "nn": 5.959395821264479e-06,
+    "mt": 4.844954673899338e-06,
+    "sa": 5.544757004827261e-05,
+    "lb": 8.536439963791054e-06,
+    "my": 1.4184595784172416e-05,
+    "bo": 1.369458459521411e-05,
+    "tl": 4.455337693798356e-05,
+    "mg": 1.194689360772827e-07,
+    "as": 2.3020436401566258e-06,
+    "tt": 1.1759443623304833e-05,
+    "haw": 1.2275744666112587e-05,
+    "ln": 5.982720267638797e-06,
+    "ha": 1.6260291886283085e-06,
+    "ba": 2.0428748470635583e-08,
+    "jw": 4.33516179327853e-05,
+    "su": 3.2975253816402983e-06
+  },
+  "speech_activity": [
+    {
+      "start": 18.222,
+      "end": 40.146
+    },
+    {
+      "start": 40.494,
+      "end": 61.81
+    },
+    {
+      "start": 62.542,
+      "end": 76.594
+    },
+    {
+      "start": 78.222,
+      "end": 113.106
+    },
+    {
+      "start": 113.166,
+      "end": 121.682
+    },
+    {
+      "start": 123.022,
+      "end": 136.562
+    },
+    {
+      "start": 138.222,
+      "end": 160.21
+    },
+    {
+      "start": 160.718,
+      "end": 173.042
+    },
+    {
+      "start": 173.23,
+      "end": 181.874
+    },
+    {
+      "start": 182.478,
+      "end": 188.05
+    },
+    {
+      "start": 188.206,
+      "end": 196.786
+    },
+    {
+      "start": 214.03,
+      "end": 218.034
+    },
+    {
+      "start": 218.158,
+      "end": 226.802
+    },
+    {
+      "start": 228.942,
+      "end": 233.042
+    },
+    {
+      "start": 233.166,
+      "end": 241.682
+    }
+  ]
+}
